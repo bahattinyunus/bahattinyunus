@@ -24,12 +24,6 @@ I'm a firm believer in lifelong learning and am continuously exploring new progr
 
 ---
 
-### My Contributions:
-Check out my contributions below:  
-![Snake Gif](https://github.com/bahattinyunus/bahattinyunus/blob/main/assets/github-contribution-grid-snake.svg)
-
----
-
 ### Fun GIFs:
 
 Here’s some more fun to spice up your README!

@@ -26,8 +26,6 @@ I'm a firm believer in lifelong learning and am continuously exploring new progr
 
 ### Fun GIFs:
 
-Here’s some more fun to spice up your README!
-
 1. **Code Mode Activated**  
 ![Code Mode](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)  
 _When you're in the zone and nothing can distract you!_

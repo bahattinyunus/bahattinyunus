@@ -36,10 +36,6 @@ Here's a little fun to break the tech-talk! 😄
 #### 🎯 That satisfying moment when your code finally runs!  
 ![Success](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
 
- **Code Mode Activated**  
-![Code Mode](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)  
-_When you're in the zone and nothing can distract you!_
-
  **Focused Programmer**  
 ![Focused Programmer](https://media.giphy.com/media/3ohs7ZyuJHkJeDoD0s/giphy.gif)  
 _When you’re deep in concentration and working your magic..._

@@ -24,18 +24,4 @@ I'm a firm believer in lifelong learning and am continuously exploring new progr
 
 ---
 
-### Fun GIFs:
-Here's a little fun to break the tech-talk! 😄  
 
-#### 👨‍💻 When you're deep in coding...  
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
-#### 🔄 Debugging like a pro...  
-![Debugging](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
-
-#### 🎯 That satisfying moment when your code finally runs!  
-![Success](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
-
- **Focused Programmer**  
-![Focused Programmer](https://media.giphy.com/media/3ohs7ZyuJHkJeDoD0s/giphy.gif)  
-_When you’re deep in concentration and working your magic..._

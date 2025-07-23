@@ -3,8 +3,6 @@
 
 🎓 I'm a Software Engineering student passionate about building smart and useful software.
 
-💼 Former Correctional Officer turned tech enthusiast.
-
 🔭 Currently exploring Data Science, Artificial Intelligence, and Neural Networks.
 
 📍 Based in Trabzon, Turkey

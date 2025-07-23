@@ -1,30 +1,57 @@
-### Hi there, I'm Bahattin Yunus Çetin 👋
+<h1 align="center">Hi 👋, I'm Bahattin Yunus Çetin</h1>
+<h3 align="center">A passionate software engineering student from Turkey</h3>
 
-🎓 I'm a first-year Software Engineering student passionate about building smart and useful software.
+- 🔭 I’m currently working on **data structures, algorithms, and backend projects**
 
-💼 Former Correctional Officer turned tech enthusiast.
+- 🌱 I’m currently learning **C++, Python, and low-level system programming**
 
-🔭 Currently exploring Data Science, Artificial Intelligence, and Neural Networks.
+- 💬 Ask me about **Git, version control, and efficient code structuring**
 
-📍 Based in Trabzon, Turkey
+- 📫 How to reach me **bahattinyunuscetin@gmail.com**
 
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahattin-yunus-çetin" height="30" width="40" />
+  </a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> 
+</p>
 
-### 🛠️ Languages and Tools:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunuscetin&show_icons=true&locale=en&layout=compact" alt="bahattinyunuscetin" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bahattinyunuscetin&show_icons=true&locale=en" alt="bahattinyunuscetin" />
+</p>
 
----
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunuscetin&" alt="bahattinyunuscetin" />
+</p>
 
-Let's build something awesome together! 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+</picture>

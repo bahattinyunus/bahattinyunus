@@ -5,8 +5,6 @@
 
 🔭 Currently exploring Data Science, Artificial Intelligence, and Neural Networks.
 
-📍 Based in Trabzon, Turkey
-
 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/)
 
 ---
@@ -25,7 +23,5 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
-
-Let's build something awesome together! 🚀
 
 ![snake gif](https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.gif)

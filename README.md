@@ -1,27 +1,39 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQElRO6bnzbE6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728539039661?e=1749081600&v=beta&t=b8J9hh0hwIVBdR-1Y15EFLXLOgZvq-sjO2nMrH0s_Lg)
-Hi 👋, I'm **Bahattin Yunus Çetin**  
-A **Software Engineering** student passionate about coding and technology.  
-🌱 Currently, I'm focusing on improving my skills in **Python**, **Java**, and **C** programming languages. I’m also diving into the exciting fields of **Artificial Intelligence** and **Data Science**, with a growing interest in how these technologies can solve real-world problems.
+<h1 align="center">Hi 👋, I'm Bahattin Yunus Çetin</h1>
+<h3 align="center">A passionate software engineering student from Turkey</h3>
 
-⚡ I love **coding** and enjoy tackling challenges that allow me to learn and grow. I have a keen interest in **Software Engineering** principles, and I’m constantly working on projects that involve both front-end and back-end development, along with artificial intelligence applications.
+- 🔭 I’m currently working on **data structures, algorithms, and backend projects**
 
-💻 **Technologies & Tools** I am currently working with:
-- **Python**: For scripting, data analysis, and AI/ML projects.  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Java**: For object-oriented programming and enterprise-level applications.  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- **C**: For low-level programming and learning about computer architecture.  
-  ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+- 🌱 I’m currently learning **C++, Python, and low-level system programming**
 
-I'm a firm believer in lifelong learning and am continuously exploring new programming languages, tools, and frameworks. My journey in **Software Engineering** is a work in progress, but I’m always excited to collaborate with others who share similar interests.
+- 💬 Ask me about **Git, version control, and efficient code structuring**
 
-📫 **Contact me via email**: [bahattinyunuscetin1@gmail.com]
+- 📫 How to reach me **bahattinyunuscetin@gmail.com**
 
----
+- ⚡ Fun fact **I used to be a correctional officer before diving into the world of software. Now I debug life and code!**
 
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahattin-yunus-çetin" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunuscetin&show_icons=true&locale=en&layout=compact" alt="bahattinyunuscetin" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahattinyunuscetin&show_icons=true&locale=en" alt="bahattinyunuscetin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunuscetin&" alt="bahattinyunuscetin" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+</picture>

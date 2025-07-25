@@ -24,4 +24,5 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bahattinyunuscetin/bahattinyunuscetin/blob/output/github-contribution-grid-snake.gif)
+

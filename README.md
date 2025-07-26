@@ -1,10 +1,18 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQElRO6bnzbE6Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728539039661?e=1756339200&v=beta&t=MCpbIz3QeACd7UciRO6xEC-CQ2rMqmDiW5LpxlKtGZs)
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunuscetin" alt="bahattinyunuscetin" />
+  </a>
+</p>
+
 ### Hi there, I'm Bahattin Yunus Çetin 👋
 
-🎓 I'm a Software Engineering student passionate about building smart and useful software.
+- 🎓 I'm a Software Engineering student passionate about Data Science, Artificial Intelligence, and Cybersecurity.
+- 🔍 I keep up with the latest technologies and work on strengthening my software and math skills essential for AI applications.
+- 🎯 My focus is on specializing in big data analytics, neural networks, and AI-powered cybersecurity systems, aiming to build smarter defense solutions.
+- 📚 I believe in continuous learning and aim to improve steadily to contribute meaningfully to the tech industry.
 
-🔭 Currently exploring Data Science, Artificial Intelligence, and Neural Networks.
 
 📬 Reach me: [LinkedIn](https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/)
 

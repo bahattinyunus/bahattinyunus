@@ -94,7 +94,14 @@ Here are some certifications I’ve earned that support my journey in software e
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+ <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg" 
+    alt="github contribution grid snake animation"
+    width="100%"
+    style="max-width: 600px; height: auto;" />
+</p>
+
 </picture>
 
 

@@ -88,18 +88,18 @@ Here are some certifications I’ve earned that support my journey in software e
 - **Operating Systems - Giriş**, BTK Akademi – Credential ID: 7rptZxqGKp
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunuscetin&show_icons=true&locale=en&layout=compact" alt="bahattinyunuscetin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunus&show_icons=true&locale=en&layout=compact" alt="bahattinyunus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahattinyunuscetin&show_icons=true&locale=en" alt="bahattinyunuscetin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&locale=en" alt="bahattinyunus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunuscetin&" alt="bahattinyunuscetin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&" alt="bahattinyunus" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahattinyunus/bahattinyunuscetin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahattinyunus/bahattinyunuscetin/output/github-contribution-grid-snake.svg">
  <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/bahattinyunuscetin/bahattinyunuscetin/output/github-contribution-grid-snake.svg" 
+    src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunuscetin/output/github-contribution-grid-snake.svg" 
     alt="github contribution grid snake animation"
     width="100%"
     style="max-width: 600px; height: auto;" />

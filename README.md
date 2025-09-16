@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onestar&margin-w=15&margin-h=15" alt="bahattinyunus" />
-  </a>
+
 </p>
 
 <h1 align="center">👋 Hi there, I'm Bahattin Yunus Çetin</h1>

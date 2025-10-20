@@ -7,7 +7,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I'm an Engineering student passionate about **Data Science, Artificial Intelligence, and Cybersecurity**.  
+- 🎓 I'm a Management Information Systems student passionate about Data Science, Artificial Intelligence, and Cybersecurity.  
 - 🔍 I keep up with the latest technologies and strengthen my **software & math skills** essential for AI applications.  
 - 🎯 My focus is on **big data analytics, neural networks, and AI-powered cybersecurity systems**, aiming to build smarter defense solutions.  
 - 📚 I believe in **continuous learning** and aim to contribute meaningfully to the tech industry.  

@@ -2,12 +2,12 @@
 </p>
 
 <h1 align="center">👋 Hi there, I'm Bahattin Yunus Çetin</h1>
-<h3 align="center">🎓 Software Engineering Student | Data Science | AI | Cybersecurity</h3>
+<h3 align="center"> Data Science | AI | Cybersecurity</h3>
 
 ---
 
 ### 🌟 About Me
-- 🎓 I'm a Software Engineering student passionate about **Data Science, Artificial Intelligence, and Cybersecurity**.  
+- 🎓 I'm an Engineering student passionate about **Data Science, Artificial Intelligence, and Cybersecurity**.  
 - 🔍 I keep up with the latest technologies and strengthen my **software & math skills** essential for AI applications.  
 - 🎯 My focus is on **big data analytics, neural networks, and AI-powered cybersecurity systems**, aiming to build smarter defense solutions.  
 - 📚 I believe in **continuous learning** and aim to contribute meaningfully to the tech industry.  

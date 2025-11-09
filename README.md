@@ -4,16 +4,23 @@
 <h3 align="center"> 🎯 Data Science | AI | Cybersecurity | Defense Systems</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-ACTIVE-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🎖️ About Me
-- 🎓 **Software Engineering Operative** specializing in Data Science, Artificial Intelligence, and Cybersecurity  
-- 🔍 Continuously advancing **tactical software & mathematical capabilities** for AI defense applications  
-- 🎯 **Mission Focus**: Big data analytics, neural networks, and AI-powered cybersecurity defense systems  
-- 📚 **Training Status**: Continuous learning and skill development for tech industry operations  
+### 🎖️ Operative Briefing
+- 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
+- 🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
+- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
+- 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
+- ⚡ **Deployment**: Active in tech industry operations  
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -181,13 +188,6 @@
 
 ---
 
-### 💻 Coding Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bahattinyunus&theme=dark&hide_border=true" alt="Coding Stats" />
-</p>
-
----
-
 ### 📝 GitHub Metrics
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=2077" alt="GitHub Metrics" />
@@ -215,6 +215,26 @@
 ### 🎨 Tech Stack Icons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi" alt="Tech Stack Icons" />
+</p>
+
+---
+
+### 🎖️ Tactical Skills & Specializations
+<p align="center">
+  <img src="https://img.shields.io/badge/COMBAT%20READY-Data%20Science-556B2F?style=flat-square&logo=chart-line&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/OPERATIONAL-AI%20%26%20ML-6B8E23?style=flat-square&logo=brain&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/DEFENSE%20ACTIVE-Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/DEPLOYED-Web%20Development-8B7355?style=flat-square&logo=code&logoColor=white" alt="Web Dev"/>
+  <img src="https://img.shields.io/badge/TACTICAL-IoT%20%26%20Hardware-556B2F?style=flat-square&logo=chip&logoColor=white" alt="IoT"/>
+</p>
+
+---
+
+### 📡 Operational Command Center
+<p align="center">
+  <img src="https://img.shields.io/badge/MISSION%20CONTROL-GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/COMMUNICATIONS-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/INTEL%20NETWORK-Active-6B8E23?style=for-the-badge&logo=network&logoColor=white" alt="Network"/>
 </p>
 
 ---

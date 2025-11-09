@@ -63,30 +63,79 @@
 
 ---
 
-### 📜 Certifications
-Here are some certifications I've earned that support my journey in software engineering and AI:
+### 🎖️ Training Records & Qualifications
+<p align="center">Certifications earned through specialized training programs</p>
 
-| Certification | Provider | Credential ID |
-|---------------|-----------|---------------|
-| Python 1 | BTK Akademi | Yx1hPL1mGY |
-| Python 2 | BTK Akademi | dx1hAG0d1z |
-| C++ | BTK Akademi | 6mqFNqLYdA |
-| Go | BTK Akademi | xr4t0Jeolm |
-| JavaScript Basics | BTK Akademi | gK2hoVBwj9 |
-| Version Control: Git and GitHub | BTK Akademi | NowfnNpDAz |
-| CSS Fundamentals | BTK Akademi | 7rptZAreZ1 |
-| Web Development with HTML5 | BTK Akademi | rKjhGyp8LJ |
-| Arduino Programming with Tinkercad | BTK Akademi | BozfGwDZbx |
-| MicroBit Programming with MicroPython | BTK Akademi | 1kZCoxNdMM |
-| Introduction to Artificial Intelligence | BTK Akademi | zXztak2EeO |
-| Custom GPTs | BTK Akademi | ax1hDzvgrE |
-| Introduction to Cybersecurity | BTK Akademi | XV1hWEow9j |
-| Fundamentals of Cryptography | BTK Akademi | kK1hVD09dy |
-| Circuit Design with Proteus | BTK Akademi | ax1hDAjV9N |
-| C Programming Language | BTK Akademi | GoDfn444BW |
-| Small Basic | BTK Akademi | 9Xrtq18yXl |
-| Introduction to Information Technology | BTK Akademi | gK2hoD7Lqj |
-| Operating Systems - Giriş | BTK Akademi | 7rptZxqGKp |
+#### 🐍 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%201-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1"/>
+  <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+#### 🌐 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web Dev"/>
+</p>
+
+#### 🤖 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Introduction-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Intro"/>
+  <img src="https://img.shields.io/badge/Custom%20GPTs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Custom GPTs"/>
+</p>
+
+#### 🔒 Cybersecurity & Cryptography
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Cryptography-556B2F?style=flat-square&logo=key&logoColor=white" alt="Cryptography"/>
+</p>
+
+#### 🔧 Development Tools & Version Control
+<p align="center">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IT%20Fundamentals-007ACC?style=flat-square&logo=microsoft&logoColor=white" alt="IT"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=flat-square&logo=windows&logoColor=white" alt="OS"/>
+</p>
+
+#### ⚡ Hardware & IoT
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=flat-square&logo=python&logoColor=white" alt="MicroPython"/>
+  <img src="https://img.shields.io/badge/Proteus-00A8E8?style=flat-square&logo=circuit&logoColor=white" alt="Proteus"/>
+  <img src="https://img.shields.io/badge/Small%20Basic-68217A?style=flat-square&logo=microsoft&logoColor=white" alt="Small Basic"/>
+</p>
+
+<details>
+<summary><b>📋 Detailed Certification Records</b></summary>
+
+| 🎖️ Certification | 🏢 Provider | 🆔 Credential ID | 📊 Status |
+|:---|:---|:---|:---|
+| Python 1 | BTK Akademi | `Yx1hPL1mGY` | ✅ Verified |
+| Python 2 | BTK Akademi | `dx1hAG0d1z` | ✅ Verified |
+| C++ | BTK Akademi | `6mqFNqLYdA` | ✅ Verified |
+| Go | BTK Akademi | `xr4t0Jeolm` | ✅ Verified |
+| JavaScript Basics | BTK Akademi | `gK2hoVBwj9` | ✅ Verified |
+| Version Control: Git and GitHub | BTK Akademi | `NowfnNpDAz` | ✅ Verified |
+| CSS Fundamentals | BTK Akademi | `7rptZAreZ1` | ✅ Verified |
+| Web Development with HTML5 | BTK Akademi | `rKjhGyp8LJ` | ✅ Verified |
+| Arduino Programming with Tinkercad | BTK Akademi | `BozfGwDZbx` | ✅ Verified |
+| MicroBit Programming with MicroPython | BTK Akademi | `1kZCoxNdMM` | ✅ Verified |
+| Introduction to Artificial Intelligence | BTK Akademi | `zXztak2EeO` | ✅ Verified |
+| Custom GPTs | BTK Akademi | `ax1hDzvgrE` | ✅ Verified |
+| Introduction to Cybersecurity | BTK Akademi | `XV1hWEow9j` | ✅ Verified |
+| Fundamentals of Cryptography | BTK Akademi | `kK1hVD09dy` | ✅ Verified |
+| Circuit Design with Proteus | BTK Akademi | `ax1hDAjV9N` | ✅ Verified |
+| C Programming Language | BTK Akademi | `GoDfn444BW` | ✅ Verified |
+| Small Basic | BTK Akademi | `9Xrtq18yXl` | ✅ Verified |
+| Introduction to Information Technology | BTK Akademi | `gK2hoD7Lqj` | ✅ Verified |
+| Operating Systems - Giriş | BTK Akademi | `7rptZxqGKp` | ✅ Verified |
+
+</details>
 
 ---
 

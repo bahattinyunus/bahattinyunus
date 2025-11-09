@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Bahattin Yunus Çetin</h1>
 <h3 align="center"> Data Science | AI | Cybersecurity</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🌟 About Me
@@ -9,7 +13,15 @@
 - 🎯 My focus is on **big data analytics, neural networks, and AI-powered cybersecurity systems**, aiming to build smarter defense solutions.  
 - 📚 I believe in **continuous learning** and aim to contribute meaningfully to the tech industry.  
 
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/)
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/bahattinyunus" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -22,21 +34,29 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <!-- Web Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <!-- AI/ML Tools -->
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <!-- DevOps & Tools -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <!-- Hardware & IoT -->
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
   <a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=for-the-badge&logo=micropython&logoColor=white"/></a>
+  <!-- Other Tools -->
   <a href="https://smallbasic.github.io/"><img src="https://img.shields.io/badge/Small%20Basic-68217A?style=for-the-badge&logo=small-basic&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
   <a href="https://mblock.makeblock.com/"><img src="https://img.shields.io/badge/mBlock-0096D6?style=for-the-badge&logo=makeblock&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-</a>
 </p>
 
 ---
@@ -90,4 +110,20 @@ Here are some certifications I’ve earned that support my journey in software e
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 📈 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-1DB954?style=for-the-badge&logo=security&logoColor=white"/>
 </p>

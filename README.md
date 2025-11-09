@@ -13,6 +13,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -30,7 +37,6 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </a>
-
 </p>
 
 ---
@@ -70,6 +76,13 @@ Here are some certifications I’ve earned that support my journey in software e
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---

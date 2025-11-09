@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi there, I'm Bahattin Yunus Çetin</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bahattin+Yunus+Çetin!;" />
+</h1>
 <h3 align="center"> Data Science | AI | Cybersecurity</h3>
 
 <p align="center">
@@ -127,3 +129,55 @@ Here are some certifications I’ve earned that support my journey in software e
   <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-1DB954?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
+
+---
+
+### 💻 Coding Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bahattinyunus&theme=tokyonight&hide_border=true" alt="Coding Stats" />
+</p>
+
+---
+
+### 📝 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=tokyonight" alt="GitHub Metrics" />
+</p>
+
+---
+
+### 📊 Detailed GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahattinyunus&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahattinyunus&theme=tokyonight" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahattinyunus&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+</p>
+
+---
+
+### ⚡ Fun Facts
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Love+to+code+and+create;Passionate+about+AI+%26+ML;Open+to+collaboration" alt="Typing SVG" />
+</p>
+
+---
+
+### 🎨 Tech Stack Icons
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,js,html,css,git,docker,linux,tensorflow,pytorch,arduino,raspberrypi" alt="Tech Stack Icons" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
+</div>

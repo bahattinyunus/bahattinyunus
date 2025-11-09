@@ -1,19 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bahattin+Yunus+Çetin!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
-<h3 align="center"> Data Science | AI | Cybersecurity</h3>
+<h3 align="center"> 🎯 Data Science | AI | Cybersecurity | Defense Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🎓 I'm a Software Engineering student passionate about Data Science, Artificial Intelligence, and Cybersecurity.  
-- 🔍 I keep up with the latest technologies and strengthen my **software & math skills** essential for AI applications.  
-- 🎯 My focus is on **big data analytics, neural networks, and AI-powered cybersecurity systems**, aiming to build smarter defense solutions.  
-- 📚 I believe in **continuous learning** and aim to contribute meaningfully to the tech industry.  
+### 🎖️ About Me
+- 🎓 **Software Engineering Operative** specializing in Data Science, Artificial Intelligence, and Cybersecurity  
+- 🔍 Continuously advancing **tactical software & mathematical capabilities** for AI defense applications  
+- 🎯 **Mission Focus**: Big data analytics, neural networks, and AI-powered cybersecurity defense systems  
+- 📚 **Training Status**: Continuous learning and skill development for tech industry operations  
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/bahattinyunus" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ---
 
 ### 📜 Certifications
-Here are some certifications I’ve earned that support my journey in software engineering and AI:
+Here are some certifications I've earned that support my journey in software engineering and AI:
 
 | Certification | Provider | Credential ID |
 |---------------|-----------|---------------|
@@ -92,19 +92,19 @@ Here are some certifications I’ve earned that support my journey in software e
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunus&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunus&layout=compact&theme=dark" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark" height="180"/>
 </p>
 
 ---
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -118,49 +118,47 @@ Here are some certifications I’ve earned that support my journey in software e
 
 ### 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ---
 
 ### 📈 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-1DB954?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-6B8E23?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 ---
 
 ### 💻 Coding Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bahattinyunus&theme=tokyonight&hide_border=true" alt="Coding Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bahattinyunus&theme=dark&hide_border=true" alt="Coding Stats" />
 </p>
 
 ---
 
 ### 📝 GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=tokyonight" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=2077" alt="GitHub Metrics" />
 </p>
-
----
 
 ### 📊 Detailed GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahattinyunus&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahattinyunus&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahattinyunus&theme=2077" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahattinyunus&theme=2077" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahattinyunus&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=2077" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahattinyunus&theme=2077&utcOffset=3" alt="Productive Time" />
 </p>
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Mission Status
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Love+to+code+and+create;Passionate+about+AI+%26+ML;Open+to+collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/api?font=Orbitron&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=OPERATIONAL+STATUS+ACTIVE;Continuous+learning+in+progress;AI+%26+ML+defense+systems;Open+to+strategic+collaboration" alt="Typing SVG" />
 </p>
 
 ---
@@ -173,11 +171,11 @@ Here are some certifications I’ve earned that support my journey in software e
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
 </div>

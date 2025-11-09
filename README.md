@@ -153,7 +153,7 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=6B8E23&line=556B2F&point=8B7355&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---

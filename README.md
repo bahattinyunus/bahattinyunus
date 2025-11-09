@@ -1,6 +1,3 @@
-
-</p>
-
 <h1 align="center">👋 Hi there, I'm Bahattin Yunus Çetin</h1>
 <h3 align="center"> Data Science | AI | Cybersecurity</h3>
 

@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
@@ -8,11 +10,7 @@
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/CLEARANCE-ACTIVE-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-8B0000?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VALUES-Faith%20%26%20Principle-1E4D2B?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STANCE-Independent-2F4F2F?style=for-the-badge&logo=libreoffice&logoColor=white"/>
-</p>
+
 
 
 <p align="center">
@@ -215,8 +213,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/api?font=Orbitron&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=OPERATIONAL+STATUS+ACTIVE;Continuous+learning+in+progress;AI+%26+ML+defense+systems;Open+to+strategic+collaboration" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-8B0000?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VALUES-Faith%20Driven-1E4D2B?style=for-the-badge&logo=mosque&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STANCE-Independent-2F4F2F?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+</p>
 
----
 
 ### 🎨 Tech Stack Icons
 <p align="center">

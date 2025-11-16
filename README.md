@@ -257,3 +257,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
 </div>
+
+### 💡 Rastgele Türkçe Alıntı
+<p align="center">
+  <img src="https://quickchart.io/graphviz?format=svg&graph=digraph%20G%20{node[shape=box,style=filled,color=%22333333%22,fontcolor=white,fontsize=18,width=10];quote[label=%22Dünle%20beraber%20gitti%20cancağzım%2C%20bugün%20yeni%20şeyler%20söylemek%20lazım.%20-%20Mevlânâ%22];}" />
+</p>

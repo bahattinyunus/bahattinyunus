@@ -24,6 +24,12 @@
 </p>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&center=true&vCenter=true&width=900&duration=2000&lines=Yalnız%20iman%20ve%20fikir,%20ne%20sevgili%20ne%20kardeş.;Bir%20akıl%20gelecek%20ki,%20akıllar%20delirecek.;Ve%20bir%20devrim,%20evvela%20devrimi%20devirecek.;Her%20şey%20birbirine%20denk,%20her%20şey%20birbirine%20eş." />
+</h1>
+
+
+
 
 ### 🎖️ Operative Briefing
 - 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  

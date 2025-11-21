@@ -48,7 +48,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---

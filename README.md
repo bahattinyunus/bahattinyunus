@@ -6,9 +6,9 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
-<h3 align="center"> 🎯 Data Science | AI | Cybersecurity | Defense Systems</h3>
+<h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
@@ -16,11 +16,21 @@
   <img src="https://img.shields.io/badge/CLEARANCE-ACTIVE-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
 </p>
 
+ <p align="center">
+  <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-8B4513?style=for-the-badge&logo=target&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VALUES-Faith%20Driven-6B8E23?style=for-the-badge&logo=mosque&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STANCE-Independent-2F4F2F?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+ </p>
+
+<!---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
 </p>
-
----
+--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&center=true&vCenter=true&width=850&duration=3500&lines=Yalnız%20iman%20ve%20fikir,%20ne%20sevgili%20ne%20kardeş.;Bir%20akıl%20gelecek%20ki,%20akıllar%20delirecek.;Ve%20bir%20devrim,%20evvela%20devrimi%20devirecek.;Her%20şey%20birbirine%20denk,%20her%20şey%20birbirine%20eş." />
+</h1>
 
 ### 🎖️ Operative Briefing
 - 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
@@ -43,7 +53,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -152,18 +162,17 @@
 </details>
 
 ---
-
+<!---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunus&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight" height="180"/>
 </p>
-
----
+---->
 
 ### 📈 GitHub Activity Graph
 <p align="center">
@@ -205,19 +214,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahattinyunus&theme=2077" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahattinyunus&theme=2077" alt="Most Commit Language" />
 </p>
+<!---
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=2077" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahattinyunus&theme=2077&utcOffset=3" alt="Productive Time" />
 </p>
+--->
 
----
 
 ### ⚡ Mission Status
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/api?font=Orbitron&pause=1000&color=6B8E23&center=true&vCenter=true&width=435&lines=OPERATIONAL+STATUS+ACTIVE;Continuous+learning+in+progress;AI+%26+ML+defense+systems;Open+to+strategic+collaboration" alt="Typing SVG" />
-</p>
 
----
+
 
 ### 🎨 Tech Stack Icons
 <p align="center">
@@ -244,14 +253,15 @@
   <img src="https://img.shields.io/badge/INTEL%20NETWORK-Active-6B8E23?style=for-the-badge&logo=network&logoColor=white" alt="Network"/>
 </p>
 
----
+<!---
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
+<---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
 </div>
+

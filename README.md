@@ -12,6 +12,7 @@
 
 
 --->
+<div align="center">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=556B2F&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
@@ -40,7 +41,7 @@
 </h1>
 
 ### 🎖️ Operative Briefing
-🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
+ 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
  🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
  🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
  📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  

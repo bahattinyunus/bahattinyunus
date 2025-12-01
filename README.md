@@ -1,14 +1,9 @@
 
 
 
-
-
-
-
-
  
 
-</div>
+
 <div align="center">
   <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />
     <h1 align="center">
@@ -45,11 +40,11 @@
 </h1>
 
 ### 🎖️ Operative Briefing
-- 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
-- 🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
-- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
-- 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
-- ⚡ **Deployment**: Active in tech industry operations  
+🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
+ 🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
+ 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
+ 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
+ ⚡ **Deployment**: Active in tech industry operations  
 
 ### 🔗 Connect with Me
 <p align="center">

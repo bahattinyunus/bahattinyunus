@@ -2,7 +2,7 @@
 
 
  
-
+<!---
 
 <div align="center">
   <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />
@@ -11,12 +11,12 @@
   </h1>
 
 
-<!---
+--->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=556B2F&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
---->
+
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>

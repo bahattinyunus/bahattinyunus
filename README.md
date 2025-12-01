@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />
+  <br/><br/>
+  <h1>⚔️ 🇹🇷 ÜLKEM BAYRAĞIM ONURUM 🇹🇷 ⚔️</h1>
+  <p><b>---</b></p>
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>

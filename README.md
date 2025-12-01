@@ -1,8 +1,18 @@
+
+
+
+
+
+
+
 <div align="center">
   <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />
-  <br/><br/>
-  <h1>⚔️ 🇹🇷 ÜLKEM BAYRAĞIM ONURUM 🇹🇷 ⚔️</h1>
-  <p><b>---</b></p>
+    <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=650&lines=COMMAND+PROTOCOL+INITIATED...;+ÜLKEM+BAYRAĞIM+ONURUM+" />
+  </h1>
+ 
+ 
+
 </div>
 
 <h1 align="center">

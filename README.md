@@ -36,7 +36,7 @@
   <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
 </p>
 --->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20views&color=0e75b6&style=flat" alt="asomania" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20views&color=556B2F&style=flat" alt="asomania" /> </p>
 
 
 <h1 align="center">

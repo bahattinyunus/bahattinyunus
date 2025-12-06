@@ -202,9 +202,8 @@
 
 ### 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Basitlik,%20karmaşıklığın%20üstünde%20bir%20erdemdir.&author=Anonim" alt="Kod Felsefesi" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
 
 
 

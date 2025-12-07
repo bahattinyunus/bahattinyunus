@@ -1,10 +1,14 @@
 
 
-
- 
-
+ </img>
+ <div align="center">
+  <a href="https://www.youtube.com/watch?v=LHSqugPjeFg">
+    <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg" alt="Ölmez Bekçileriz - (Sat-Sas Komandoları)">
+  </a>
+</div>
 
 <div align="center">
+ 
   <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />
     <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=650&lines=COMMAND+PROTOCOL+INITIATED...;+ÜLKEM+BAYRAĞIM+ONURUM+" />

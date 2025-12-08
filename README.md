@@ -275,6 +275,12 @@
   <img src="https://img.shields.io/badge/INTEL%20NETWORK-Active-6B8E23?style=for-the-badge&logo=network&logoColor=white" alt="Network"/>
 </p>
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=-xTTsYCPzoM">
+    <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg" width="100%" alt="Motivasyon - Enemy - Turkish Armed Forces(TSK)">
+  </a>
+</div>
+
 <!---
 
 <div align="center">
@@ -286,4 +292,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
 </div>
+
 

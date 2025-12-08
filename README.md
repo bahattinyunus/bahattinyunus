@@ -277,9 +277,11 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=-xTTsYCPzoM">
-    <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg" width="100%" alt="Motivasyon - Enemy - Turkish Armed Forces(TSK)">
+    <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg"  alt="Motivasyon - Enemy - Turkish Armed Forces(TSK)">
   </a>
 </div>
+
+
 
 <!---
 

@@ -1,12 +1,16 @@
-
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=MJucB1sf4mE">
+    <img src="https://img.youtube.com/vi/MJucB1sf4mE/0.jpg" alt="Karşılaşınca Türküsü">
+  </a>
+</div>
+<!---
  </img>
  <div align="center">
   <a href="https://www.youtube.com/watch?v=LHSqugPjeFg">
     <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg" alt="Ölmez Bekçileriz - (Sat-Sas Komandoları)">
   </a>
 </div>
-
+---->
 <div align="center">
  
   <img src="./ozel-kuvvetler.png" alt="Özel Kuvvetler Komutanlığı" width="160" />

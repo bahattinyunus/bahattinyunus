@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://m.youtube.com/watch?v=nCDJj-MsaX4">
-    <img src="https://img.youtube.com/vi/nCDJj-MsaX4/0.jpg" alt="Davetiye şiir x sonne Rammstein / long version | By editen Turkistbeg ft @kagancapar">
+    <img src="/1.jpg" alt="Davetiye şiir x sonne Rammstein / long version | By editen Turkistbeg ft @kagancapar">
   </a>
 </div>
 <!---

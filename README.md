@@ -1,6 +1,7 @@
+
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=DdChmxqb92c">
-    <img src="https://img.youtube.com/vi/MJucB1sf4mE/0.jpg" alt="Karşılaşınca Türküsü">
+  <a href="https://m.youtube.com/watch?v=nCDJj-MsaX4">
+    <img src="https://img.youtube.com/vi/nCDJj-MsaX4/0.jpg" alt="Davetiye şiir x sonne Rammstein / long version | By editen Turkistbeg ft @kagancapar">
   </a>
 </div>
 <!---

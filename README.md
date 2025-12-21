@@ -277,12 +277,7 @@
   <img src="https://img.shields.io/badge/INTEL%20NETWORK-Active-6B8E23?style=for-the-badge&logo=network&logoColor=white" alt="Network"/>
 </p>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=-xTTsYCPzoM">
-    <img src="https://img.youtube.com/vi/LHSqugPjeFg/0.jpg"  alt="Motivasyon - Enemy - Turkish Armed Forces(TSK)">
-  </a>
-</div>
-
+<div align="center"> <a href="https://www.youtube.com/watch?v=9xADNPEu4eY"> <img src="https://img.youtube.com/vi/9xADNPEu4eY/0.jpg" alt="ayılar asla 𝐏𝐄𝐒 𝐄𝐓𝐌𝐄𝐙! - SAT Motivasyon"> </a> </div>
 
 
 <!---

@@ -48,7 +48,7 @@
       src="https://img.youtube.com/vi/xIXi1iY01ss/maxresdefault.jpg" 
       alt="Unutulmayanlar - YouTube Video"
       
-    />
+    
   </a>
 </div>
 <!---

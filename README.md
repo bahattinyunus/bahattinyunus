@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
  
   
@@ -13,10 +16,11 @@
 </h1>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/RANK-Cyber%20Lieutenant%20(3rd%20Year)-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/CLEARANCE-ACTIVE-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
+  <img src="https://img.shields.io/badge/CLEARANCE-TOP%20SECRET-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
 </p>
 
  <p align="center">
@@ -54,11 +58,12 @@
 
 <!---
 ### 🎖️ Operative Briefing
- 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
- 🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
- 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
- ⚡ **Deployment**: Active in tech industry operations  
+ 🎓 **Rank**: Cyber Lieutenant (Senior Grade) | **Service**: 3+ Years in Software Operations  
+ 🔍 **Tactical Capabilities**: Advanced AI-ML Defense, Cyber Warfare Systems, Embedded Intelligence  
+ 🎯 **Primary Mission**: Developing robust neural networks and sovereign cybersecurity defense solutions  
+ ⚡ **Deployment**: Active in Large-Scale Data Analytics & Intelligence Operations
+
+
 --->
 
 ### 🔗 Connect with Me

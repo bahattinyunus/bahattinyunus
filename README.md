@@ -1,6 +1,7 @@
 
 
 
+
 <div align="center">
  
   
@@ -42,8 +43,12 @@
   <img  src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=23&center=true&vCenter=true&width=850&color=556B2F&duration=3500&lines=Yalnız%20iman%20ve%20fikir,%20ne%20sevgili%20ne%20kardeş.;Bir%20akıl%20gelecek%20ki,%20akıllar%20delirecek.;Ve%20bir%20devrim,%20evvela%20devrimi%20devirecek.;Her%20şey%20birbirine%20denk,%20her%20şey%20birbirine%20eş." />
 </h1>
 <div align="center">
-  <a href="https://m.youtube.com/watch?v=nCDJj-MsaX4">
-    <img src="/1.jpg" alt="Davetiye şiir x sonne Rammstein / long version | By editen Turkistbeg ft @kagancapar">
+  <a href="https://www.youtube.com/watch?v=xIXi1iY01ss" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/xIXi1iY01ss/maxresdefault.jpg" 
+      alt="Unutulmayanlar - YouTube Video"
+      
+    />
   </a>
 </div>
 <!---

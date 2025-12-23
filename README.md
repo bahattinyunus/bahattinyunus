@@ -13,7 +13,7 @@
 
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=556B2F&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+ÇETİN;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=556B2F&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
 </h1>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 

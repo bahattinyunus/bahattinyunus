@@ -301,7 +301,25 @@
 
 <div align="center"> <a href="https://www.youtube.com/watch?v=9xADNPEu4eY"> <img src="https://img.youtube.com/vi/9xADNPEu4eY/0.jpg" alt="ayılar asla 𝐏𝐄𝐒 𝐄𝐓𝐌𝐄𝐙! - SAT Motivasyon"> </a> </div>
 
+---
 
+<h3 align="center">📡 Secondary Operational Unit</h3>
+<p align="center">
+  <a href="https://github.com/the-guardian-tr" target="_blank">
+    <img src="https://img.shields.io/badge/AFFILIATED_WITH-THE_GUARDIAN--TR-8B0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="The Guardian-TR"/>
+  </a>
+  <a href="https://github.com/the-guardian-tr" target="_blank">
+    <img src="https://img.shields.io/badge/UNIT_STATUS-RESERVE-556B2F?style=for-the-badge&logo=github&logoColor=white" alt="Unit Status"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=CONNECTING+TO+THE-GUARDIAN-TR+BACKUP...;SYNCHRONIZING+OPERATIONAL+DATA;ESTABLISHING+SECONDARY+ENCRYPTION" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
+</div>
 <!---
 
 <div align="center">

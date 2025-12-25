@@ -317,19 +317,20 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=CONNECTING+TO+THE-GUARDIAN-TR+BACKUP...;SYNCHRONIZING+OPERATIONAL+DATA;ESTABLISHING+SECONDARY+ENCRYPTION" />
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
-</div>
-<!---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=38&duration=4000&pause=1500&color=6B8E23&center=true&vCenter=true&width=1000&lines=STAY+CALM...+TRUST+THE+PLAN.;SAKİN+OL...+PLANA+GÜVEN.;SYSTEM+STABILIZATION+IN+PROGRESS...;STRES+YOK,+ALGORİTMA+VAR." />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PULSE-STABLE-success?style=for-the-badge&logo=heartbeat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MINDSET-STRATEGIC-blue?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXECUTION-COLD_BLOODED-8B0000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
-<---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3&section=footer&width=600" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=65&section=footer"/>
-</div>
+
 
 

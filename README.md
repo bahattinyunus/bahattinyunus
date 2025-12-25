@@ -3,8 +3,16 @@
 
 
 <div align="center">
- 
-  
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=42&duration=3500&pause=1000&color=F6BE00&center=true&vCenter=true&width=1000&lines=إِنَّا+فَتَحْنَا+لَكَ+فَتْحًا+مُبِينًا;Şüphesiz+Biz+sana+apaçık+bir+fetih+verdik." />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SURAH-AL--FATH-8B0000?style=for-the-badge&logo=fortinet&logoColor=white" />
+</p>
+
+
+
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=750&lines=COMMAND+PROTOCOL+INITIATED...;+Disiplin+Şiarımız+Görev+Aşkımız+Feda+Canımız+" />
   </h1>

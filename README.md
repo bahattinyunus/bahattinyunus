@@ -303,7 +303,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=9xADNPEu4eY" target="_blank">
-    <img src="https://img.youtube.com/vi/9xADNPEu4eY/maxresdefault.jpg"  style="border: 4px solid #8B0000; border-radius: 20px; box-shadow: 0px 0px 20px #FF0000;" alt="SAT Motivasyon" />
+    <img src="https://img.youtube.com/vi/9xADNPEu4eY/maxresdefault.jpg" width="700" style="border: 4px solid #8B0000; border-radius: 20px; box-shadow: 0px 0px 20px #FF0000;" alt="SAT Motivasyon" />
   </a>
   <h2 style="color: #FF0000;">"Ayılar asla PES ETMEZ!"</h2>
 </div>

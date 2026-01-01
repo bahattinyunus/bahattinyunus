@@ -1,15 +1,17 @@
 
 
-
+<div align="center">
 <p align="center">
-  <img src="https://img.shields.io/badge/SURAH-AL--FATH-1a1a1a?style=for-the-badge&logo=fortinet&logoColor=FFD700&labelColor=000000" />
-  <img src="https://img.shields.io/badge/MISSION-ACCOMPLISHED-success?style=for-the-badge&logo=checkmarx&logoColor=FFD700&color=556B2F" />
-  <img src="https://img.shields.io/badge/ENGINEERING-GOALS-FFD700?style=for-the-badge&logo=target&logoColor=black&color=2F4F2F" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease.;Şüphesiz+her+zorlukla+beraber+bir+kolaylık+vardır." />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/SURAH-AL--INSHIRAH-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=E74C3C" />
+  <img src="https://img.shields.io/badge/PROBLEM-SOLVING-E74C3C?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=footer&width=500&color=B8860B" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=2&section=footer&width=400" />
 </p>
 
   <h1 align="center">

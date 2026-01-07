@@ -1,4 +1,4 @@
-
+<!----
 
 <div align="center">
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=2&section=footer&width=400" />
 </p>
-
+---->
   <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=750&lines=COMMAND+PROTOCOL+INITIATED...;+Disiplin+Şiarımız+Görev+Aşkımız+Feda+Canımız+" />
   </h1>

@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RANK-Cyber%20Lieutenant%20(3rd%20Year)-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/RANK-%20Lieutenant%20(3rd%20Year)-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/CLEARANCE-TOP%20SECRET-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
 </p>

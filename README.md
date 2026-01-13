@@ -1,4 +1,4 @@
-<!----
+ç<!----
 
 <div align="center">
 <p align="center">
@@ -307,15 +307,7 @@
 
 ---
 
-<h3 align="center">📡 Secondary Operational Unit</h3>
-<p align="center">
-  <a href="https://github.com/dijitalseyyah" target="_blank">
-    <img src="https://img.shields.io/badge/AFFILIATED_WITH-THE_GUARDIAN-8B0000?style=for-the-badge&logo=fortinet&logoColor=white" alt="The Guardian"/>
-  </a>
-  <a href="https://github.com/dijitalseyyah" target="_blank">
-    <img src="https://img.shields.io/badge/UNIT_STATUS-RESERVE-556B2F?style=for-the-badge&logo=github&logoColor=white" alt="Unit Status"/>
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=CONNECTING+TO+THE+GUARDIAN+BACKUP...;SYNCHRONIZING+OPERATIONAL+DATA;ESTABLISHING+SECONDARY+ENCRYPTION" />

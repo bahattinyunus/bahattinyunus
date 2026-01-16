@@ -1,0 +1,22 @@
+name: Günlük Motivasyon Sözü
+on:
+  schedule:
+    - cron: '0 0 * * *' # Her gece 00:00'da çalışır
+  workflow_dispatch: # Manuel çalıştırma butonu ekler
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sözü Seç ve Güncelle
+        run: |
+          QUOTE=$(jq -r '.[]' sozler.json | shuf -n 1)
+          sed -i '/<!-- START_QUOTE -->/,/<!-- END_QUOTE -->/c\<!-- START_QUOTE -->\n### 💡 Günün Sözü\n> "'"$QUOTE"'"\n<!-- END_QUOTE -->' README.md
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Günün sözü güncellendi" || exit 0
+          git push

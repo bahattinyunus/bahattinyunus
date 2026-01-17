@@ -300,7 +300,7 @@
 
 <!-- START_QUOTE -->
 ### 💡 Günün Sözü
-> "Yarın yaparım deme! Bugün de dünün yarınıydı. Ne yapabildin? - Mevlana"
+> ""
 <!-- END_QUOTE -->
 
 <!---

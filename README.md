@@ -300,7 +300,7 @@
 
 <!-- START_QUOTE -->
 ### 💡 Günün Sözü
-> ""
+> "Dün dünde kaldı cancağızım, artık yeni şeyler söylemek lazım…"
 <!-- END_QUOTE -->
 
 <!---

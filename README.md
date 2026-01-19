@@ -110,7 +110,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/556B2F/link.png" width="25"/> 
+  🔗 
   <span style="color: #6B8E23;">CONNECT WITH COMMAND</span>
 </h3>
 
@@ -137,7 +137,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/556B2F/trophy.png" width="25"/> 
+  🏆 
   <span style="color: #6B8E23;">OPERATIONAL TROPHIES</span>
 </h3>
 
@@ -150,7 +150,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/556B2F/wrench.png" width="25"/> 
+  🛠️ 
   <span style="color: #6B8E23;">TECHNICAL ARSENAL</span>
 </h3>
 
@@ -382,7 +382,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/556B2F/shield.png" width="25"/> 
+  🛡️ 
   <span style="color: #6B8E23;">TACTICAL SKILLS & SPECIALIZATIONS</span>
 </h3>
 
@@ -399,7 +399,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/556B2F/scroll.png" width="25"/> 
+  📜 
   <span style="color: #6B8E23;">DAILY OPERATIONAL DIRECTIVES</span>
 </h3>
 

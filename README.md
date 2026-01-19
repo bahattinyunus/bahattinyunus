@@ -88,6 +88,9 @@
   <a href="https://github.com/bahattinyunus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="BIOGRAPHY.md">
+    <img src="https://img.shields.io/badge/Service_Record-CLASSIFIED-8B4513?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Biography"/>
+  </a>
 </p>
 
 ---

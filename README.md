@@ -373,8 +373,10 @@
 
 
 <!-- START_QUOTE -->
-### ⚡ Daily Operational Directive
-> **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil!"**
+### ⚡ Daily Operational Directives
+- > **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil! - Mevlana"**
+- > **"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendin bilmezsin, ya nice okumaktır? - Yunus Emre"**
+- > **"Eline, beline, diline sahip ol. - Hacı Bektaş Veli"**
 <!-- END_QUOTE -->
 
 ---

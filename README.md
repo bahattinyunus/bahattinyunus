@@ -375,8 +375,8 @@
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
 - > **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil! - Mevlana"**
+- > **"Başkalarını bilen bilgili, kendini bilen ise bilgedir. - Lao Tzu"**
 - > **"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendin bilmezsin, ya nice okumaktır? - Yunus Emre"**
-- > **"Eline, beline, diline sahip ol. - Hacı Bektaş Veli"**
 <!-- END_QUOTE -->
 
 ---

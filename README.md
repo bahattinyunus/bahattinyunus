@@ -157,6 +157,15 @@
   <img src="https://img.shields.io/badge/Custom%20GPTs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Custom GPTs"/>
 </p>
 
+#### 🧠 Generative AI & LLMs
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
+</p>
+
 #### 🔒 Cybersecurity & Cryptography
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
@@ -179,29 +188,91 @@
 </p>
 
 <details>
-<summary><b>📋 Detailed Certification Records</b></summary>
+<summary><b>📋 Detailed Certification Records (Operational Database)</b></summary>
 
-| 🎖️ Certification | 🏢 Provider | 🆔 Credential ID | 📊 Status |
+| 📅 Date | 🎖️ Certification | 🏢 Provider | 🆔 Credential ID |
 |:---|:---|:---|:---|
-| Python 1 | BTK Akademi | `Yx1hPL1mGY` | ✅ Verified |
-| Python 2 | BTK Akademi | `dx1hAG0d1z` | ✅ Verified |
-| C++ | BTK Akademi | `6mqFNqLYdA` | ✅ Verified |
-| Go | BTK Akademi | `xr4t0Jeolm` | ✅ Verified |
-| JavaScript Basics | BTK Akademi | `gK2hoVBwj9` | ✅ Verified |
-| Version Control: Git and GitHub | BTK Akademi | `NowfnNpDAz` | ✅ Verified |
-| CSS Fundamentals | BTK Akademi | `7rptZAreZ1` | ✅ Verified |
-| Web Development with HTML5 | BTK Akademi | `rKjhGyp8LJ` | ✅ Verified |
-| Arduino Programming with Tinkercad | BTK Akademi | `BozfGwDZbx` | ✅ Verified |
-| MicroBit Programming with MicroPython | BTK Akademi | `1kZCoxNdMM` | ✅ Verified |
-| Introduction to Artificial Intelligence | BTK Akademi | `zXztak2EeO` | ✅ Verified |
-| Custom GPTs | BTK Akademi | `ax1hDzvgrE` | ✅ Verified |
-| Introduction to Cybersecurity | BTK Akademi | `XV1hWEow9j` | ✅ Verified |
-| Fundamentals of Cryptography | BTK Akademi | `kK1hVD09dy` | ✅ Verified |
-| Circuit Design with Proteus | BTK Akademi | `ax1hDAjV9N` | ✅ Verified |
-| C Programming Language | BTK Akademi | `GoDfn444BW` | ✅ Verified |
-| Small Basic | BTK Akademi | `9Xrtq18yXl` | ✅ Verified |
-| Introduction to Information Technology | BTK Akademi | `gK2hoD7Lqj` | ✅ Verified |
-| Operating Systems - Giriş | BTK Akademi | `7rptZxqGKp` | ✅ Verified |
+| **Jan 2026** | **Anthropic Claude** | BTK Akademi | `bx1hLxXZOo` |
+| **Jan 2026** | **ChatGPT** | BTK Akademi | `OKMhwBXgqW` |
+| **Jan 2026** | **DeepSeek** | BTK Akademi | `lK1hwey4xw` |
+| **Jan 2026** | **Gemini Veo** | BTK Akademi | `oJpSgnayWO` |
+| **Jan 2026** | **ElevenLabs** | BTK Akademi | `8jmhNjXbP2` |
+| **Jan 2026** | **HeyGen** | BTK Akademi | `WJ1SkN2p9n` |
+| **Jan 2026** | **Manus AI** | BTK Akademi | `ZA1UrdE2Bj` |
+| **Jan 2026** | **NotebookLM** | BTK Akademi | `8jmhNZeyk6` |
+| **Jan 2026** | **Perplexity** | BTK Akademi | `Ko9fE4NpKx` |
+| **Jan 2026** | **Hailuo AI** | BTK Akademi | `4qguek4NB9` |
+| **Jan 2026** | **Canva Magic Design** | BTK Akademi | `ZA1UrdEkWO` |
+| **Jan 2026** | **Gamma** | BTK Akademi | `GoDfm1rwNr` |
+| **Jan 2026** | **Intro to AI World** | BTK Akademi | `7rptPBld1p` |
+| **Jan 2026** | **Translaton w/ GenAI** | BTK Akademi | `OKMhwopAnN` |
+| **Jan 2026** | **AI in Int. Relations** | BTK Akademi | `pKmhqp2DYG` |
+| **Jan 2026** | **Stats for Data Science** | BTK Akademi | `lK1h7n9And` |
+| **Jan 2026** | **Financial Markets** | BTK Akademi | `Ko9fEG7WZG` |
+| **Jan 2026** | **Brand Protection** | BTK Akademi | `WJ1SMLlqMZ` |
+| **Jan 2026** | **Math 101** | BTK Akademi | `yjahJpZVEB` |
+| **Jan 2026** | **Human Rights Intro** | BTK Akademi | `JoNf2pbD6z` |
+| **Jan 2026** | **Finansal Okuryazarlık** | 23 | `3c44f88d...` |
+| **Jan 2026** | **Digital Parenting** | Google | `4qgueLmn07` |
+| **Dec 2025** | **AI in Multimedia Security** | BTK Akademi | `WzBbI9py` |
+| **Dec 2025** | **DoS / DDoS Attacks** | BTK Akademi | `XV1hBdNpMv` |
+| **Dec 2025** | **Social Engineering** | BTK Akademi | `WJ1SkZbe4d` |
+| **Dec 2025** | **Underwater Systems** | T3 Vakfı | `Verified` |
+| **Dec 2025** | **Correctional Training** | Adalet Bakanlığı | `Verified` |
+| **Dec 2025** | **FMCG Summit** | KTÜ | `Verified` |
+| **Dec 2025** | **Rotamız Ufkun Ötesi** | KTUGEMDTEK | `Verified` |
+| **Nov 2025** | **Aviation & Space Camp** | TÜBİTAK | `Verified` |
+| **Nov 2025** | **Project Mgmt Basics** | BTK Akademi | `wmlFmJkB29` |
+| **Oct 2025** | **AI Ethics** | BTK Akademi | `MAZUE7xX2D` |
+| **Oct 2025** | **Intro to AI & Algos** | BTK Akademi | `6mqFNkwJxA` |
+| **Oct 2025** | **Intro to GenAI** | BTK Akademi | `eK1hOjmKgG` |
+| **Oct 2025** | **GenAI in Research** | BTK Akademi | `D2xhEEKoYN` |
+| **Sep 2025** | **Datathon 2025** | BTK Akademi | `bzAaiLLYxmy` |
+| **Aug 2025** | **Hüyük Youth Camp** | GSB | `Verified` |
+| **Jul 2025** | **Python 2** | BTK Akademi | `dx1hAG0d1z` |
+| **Jul 2025** | **Digital Literacy** | BTK Akademi | `OKMhqeyObw` |
+| **Jun 2025** | **Go Programming** | BTK Akademi | `xr4t0Jeolm` |
+| **Jun 2025** | **C++ Programming** | BTK Akademi | `6mqFNqLYdA` |
+| **Jun 2025** | **JavaScript Basics** | BTK Akademi | `gK2hoVBwj9` |
+| **Jun 2025** | **Project & Risk Mgmt** | BTK Akademi | `8jmhLX7yMG` |
+| **May 2025** | **Python 1** | BTK Akademi | `Yx1hPL1mGY` |
+| **May 2025** | **Git & GitHub** | BTK Akademi | `NowfnNpDAz` |
+| **May 2025** | **Intro to Cybersecurity** | BTK Akademi | `XV1hWEow9j` |
+| **May 2025** | **Cryptography** | BTK Akademi | `kK1hVD09dy` |
+| **May 2025** | **Arduino w/ Tinkercad** | BTK Akademi | `BozfGwDZbx` |
+| **May 2025** | **MicroBit w/ MicroPy** | BTK Akademi | `1kZCoxNdMM` |
+| **May 2025** | **Android Workshop** | GDG Trabzon | `Verified` |
+| **May 2025** | **8. Software Day** | KTÜ Yazılım | `Verified` |
+| **Apr 2025** | **CSS Fundamentals** | BTK Akademi | `7rptZAreZ1` |
+| **Apr 2025** | **HTML5 Web Dev** | BTK Akademi | `rKjhGyp8LJ` |
+| **Mar 2025** | **Custom GPTs** | BTK Akademi | `ax1hDzvgrE` |
+| **Feb 2025** | **Clarify Your Future** | KTÜ Endüstri | `Verified` |
+| **Dec 2024** | **Data & AI Summit** | KTU AI Society | `Verified` |
+| **Dec 2024** | **Financial Literacy** | BTK Akademi | `AJaSdLzWW1` |
+| **Dec 2024** | **AI Summit 2024** | T. Girişimcilik | `G9LlUnWlq4X` |
+| **Dec 2024** | **Youth Vision Workshop** | GSB | `Verified` |
+| **Dec 2024** | **Devfest Trabzon** | GDG Trabzon | `Verified` |
+| **Nov 2024** | **Small Basic** | BTK Akademi | `9Xrtq18yXl` |
+| **Oct 2024** | **C Programming** | BTK Akademi | `GoDfn444BW` |
+| **Oct 2024** | **Communications Mgmt** | BTK Akademi | `yjahJpaPNz` |
+| **Oct 2024** | **Entrepreneurship** | BTK Akademi | `XV1hWEv6VY` |
+| **Oct 2024** | **Persuasion Skills** | BTK Akademi | `pKmhKr9Xxj` |
+| **Oct 2024** | **Problem Solving** | BTK Akademi | `zXztak7gdZ` |
+| **Oct 2024** | **Public Speaking** | BTK Akademi | `GoDfn0V2xB` |
+| **Oct 2024** | **Team Management** | BTK Akademi | `7rptZxqG9P` |
+| **Oct 2024** | **Intro to Electronics** | BTK Akademi | `1kZCozGVO7` |
+| **Oct 2024** | **Intro to OS** | BTK Akademi | `7rptZxqGKp` |
+| **Oct 2024** | **Intro to IT** | BTK Akademi | `gK2hoD7Lqj` |
+| **Oct 2024** | **Intro to AI** | BTK Akademi | `zXztak2EeO` |
+| **Oct 2024** | **Circuit Design** | BTK Akademi | `ax1hDAjV9N` |
+| **Mar 2023** | **IHA-1 Sportif/Amatör** | SHGM | `TR-IHA1H...` |
+| **Legacy** | **IT Law** | BTK Akademi | `2NwcJJnl84` |
+| **Legacy** | **Patent Protection** | BTK Akademi | `jK1hKrZEYN` |
+| **Legacy** | **Design Protection** | BTK Akademi | `7rptZgnMXy` |
+| **Legacy** | **Market Research** | BTK Akademi | `6mqFN8zGOM` |
+| **Legacy** | **Sales & Marketing** | BTK Akademi | `WJ1SMLlqOO` |
+| **Legacy** | **Company Valuation** | BTK Akademi | `OKMhqpzgrp` |
+| **Legacy** | **Strategic Planning** | BTK Akademi | `Various` |
 
 </details>
 

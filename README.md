@@ -79,7 +79,15 @@
 
 --->
 
-### 🔗 Connect with Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=header&width=1000&fontSize=0" />
+</p>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/556B2F/link.png" width="25"/> 
+  <span style="color: #6B8E23;">CONNECT WITH COMMAND</span>
+</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -92,45 +100,31 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=footer&width=1000&fontSize=0" />
+</p>
 
-### 🏆 GitHub Trophies
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/556B2F/trophy.png" width="25"/> 
+  <span style="color: #6B8E23;">OPERATIONAL TROPHIES</span>
+</h3>
+
 <p align="center">
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
----
-
-### 🛠️ Languages & Tools
 <p align="center">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
-  <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
-  <!-- Web Technologies -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <!-- AI/ML Tools -->
-  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-  <!-- DevOps & Tools -->
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <!-- Hardware & IoT -->
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
-  <a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=for-the-badge&logo=micropython&logoColor=white"/></a>
-  <!-- Other Tools -->
-  <a href="https://smallbasic.github.io/"><img src="https://img.shields.io/badge/Small%20Basic-68217A?style=for-the-badge&logo=small-basic&logoColor=white"/></a>
-  <a href="https://mblock.makeblock.com/"><img src="https://img.shields.io/badge/mBlock-0096D6?style=for-the-badge&logo=makeblock&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=footer&width=1000&fontSize=0" />
 </p>
 
----
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/556B2F/wrench.png" width="25"/> 
+  <span style="color: #6B8E23;">TECHNICAL ARSENAL</span>
+</h3>
 
-### 🎖️ Training Records & Qualifications
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=header&width=1000&fontSize=0" />
+</p>
 <p align="center">Certifications earned through specialized training programs</p>
 
 #### 🐍 Programming Languages
@@ -351,29 +345,33 @@
 
 ---
 
-### 🎖️ Tactical Skills & Specializations
 <p align="center">
-  <img src="https://img.shields.io/badge/COMBAT%20READY-Data%20Science-556B2F?style=flat-square&logo=chart-line&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/OPERATIONAL-AI%20%26%20ML-6B8E23?style=flat-square&logo=brain&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/DEFENSE%20ACTIVE-Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/DEPLOYED-Web%20Development-8B7355?style=flat-square&logo=code&logoColor=white" alt="Web Dev"/>
-  <img src="https://img.shields.io/badge/TACTICAL-IoT%20%26%20Hardware-556B2F?style=flat-square&logo=chip&logoColor=white" alt="IoT"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=footer&width=1000&fontSize=0" />
 </p>
 
----
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/556B2F/shield.png" width="25"/> 
+  <span style="color: #6B8E23;">TACTICAL SKILLS & SPECIALIZATIONS</span>
+</h3>
 
-### 📡 Operational Command Center
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION%20CONTROL-GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/COMMUNICATIONS-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/INTEL%20NETWORK-Active-6B8E23?style=for-the-badge&logo=network&logoColor=white" alt="Network"/>
+  <img src="https://img.shields.io/badge/COMBAT%20READY-Data%20Science-556B2F?style=for-the-badge&logo=chart-line&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/OPERATIONAL-AI%20%26%20ML-6B8E23?style=for-the-badge&logo=brain&logoColor=white" alt="AI/ML"/>
+  <img src="https://img.shields.io/badge/DEFENSE%20ACTIVE-Cybersecurity-2F4F2F?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/DEPLOYED-Web%20Development-8B7355?style=for-the-badge&logo=code&logoColor=white" alt="Web Dev"/>
+  <img src="https://img.shields.io/badge/TACTICAL-IoT%20%26%20Hardware-556B2F?style=for-the-badge&logo=chip&logoColor=white" alt="IoT"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=556B2F&height=2&section=footer&width=1000&fontSize=0" />
+</p>
 
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/556B2F/scroll.png" width="25"/> 
+  <span style="color: #6B8E23;">DAILY OPERATIONAL DIRECTIVES</span>
+</h3>
 
 <!-- START_QUOTE -->
-### ⚡ Daily Operational Directives
 - > **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil! - Mevlana"**
 - > **"Başkalarını bilen bilgili, kendini bilen ise bilgedir. - Lao Tzu"**
 - > **"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendin bilmezsin, ya nice okumaktır? - Yunus Emre"**

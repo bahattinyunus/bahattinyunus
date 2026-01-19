@@ -65,7 +65,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://img.icons8.com/isometric/50/8B4513/web.png" width="25"/> 
+  🌐 
   <span style="color: #8B4513;">DEPLOYED OPERATIONAL INTERFACES</span>
 </h3>
 

@@ -59,6 +59,32 @@
     
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=header&width=1000&fontSize=0" />
+</p>
+
+<h3 align="center">
+  <img src="https://img.icons8.com/isometric/50/8B4513/web.png" width="25"/> 
+  <span style="color: #8B4513;">DEPLOYED OPERATIONAL INTERFACES</span>
+</h3>
+
+<p align="center">
+  <a href="https://bahattinyunus.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/MAIN%20COMMAND%20CENTER-GitHub%20Pages-556B2F?style=for-the-badge&logo=github&logoColor=white" alt="Main Portfolio"/>
+  </a>
+  <a href="https://bahattinyunus.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/CYBER%20INTELLIGENCE%20HUB-Manus%20Space-8B4513?style=for-the-badge&logo=cyber-defenses&logoColor=white" alt="Cyber Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Virtual architectures for the sovereign architect."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B4513&height=2&section=footer&width=1000&fontSize=0" />
+</p>
 <!---
  </img>
  <div align="center">
@@ -94,6 +120,12 @@
   </a>
   <a href="https://github.com/bahattinyunus" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://bahattinyunus.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Main-556B2F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Main Portfolio"/>
+  </a>
+  <a href="https://bahattinyunus.manus.space/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Cyber-8B4513?style=for-the-badge&logo=cyber-defenses&logoColor=white" alt="Cyber Portfolio"/>
   </a>
   <a href="BIOGRAPHY.md">
     <img src="https://img.shields.io/badge/Service_Record-CLASSIFIED-8B4513?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Biography"/>

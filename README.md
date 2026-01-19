@@ -298,12 +298,12 @@
 
 ---
 
-<!-- START_QUOTE -->
+
 ### 💡 Günün Sözü
 > "Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil!"
-<!-- END_QUOTE -->
 
-<!---
+---
+
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=9xADNPEu4eY" target="_blank">
@@ -312,7 +312,7 @@
   <h2 style="color: #FF0000;">Ayılar asla PES ETMEZ!</h2>
 </div>
 
----
+
 
 
 

@@ -1,0 +1,59 @@
+name: Daily Operational Directive
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-directive:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Select Random Directive
+        id: select_quote
+        run: |
+          # Read random quote from sozler.json using jq
+          QUOTE=$(jq -r '.[]' sozler.json | shuf -n 1)
+          # Escape double quotes for shell safety
+          CLEAN_QUOTE=$(echo "$QUOTE" | sed 's/"/\\"/g')
+          echo "SELECTED_QUOTE=$CLEAN_QUOTE" >> $GITHUB_ENV
+
+      - name: Inject Directive into README
+        run: |
+          # Use awk/sed to replace content between markers
+          # We construct the new block with the selected quote
+          
+          NEW_CONTENT="<!-- START_QUOTE -->\n### ⚡ Daily Operational Directive\n> **\"$SELECTED_QUOTE\"**\n<!-- END_QUOTE -->"
+          
+          # Replace block in README.md (handling multi-line is tricky with simple sed, so we use a robust perl one-liner or simple sed with range)
+          # We will use a temp file strategy for safety
+          
+          # Create the replacement block content in a temporary file
+          echo -e "$NEW_CONTENT" > replacement.txt
+          
+          # Use sed to replace the range. 
+          # Note: We use -e to handle the reading of the file
+          sed -i -e '/<!-- START_QUOTE -->/,/<!-- END_QUOTE -->/!b' -e '/<!-- END_QUOTE -->/r replacement.txt' -e '/<!-- START_QUOTE -->/,/<!-- END_QUOTE -->/d' README.md
+          
+          # Use perl for cleaner replacement if sed fails (fallback logic not needed if sed is standard gnu sed on ubuntu)
+          # Actually, the simplest reliable way for block replacement:
+          perl -0777 -i -pe "s/<!-- START_QUOTE -->.*?<!-- END_QUOTE -->/<!-- START_QUOTE -->\n### ⚡ Daily Operational Directive\n> **\\\"$SELECTED_QUOTE\\\"**\n<!-- END_QUOTE -->/s" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Directive Bot"
+          git config --global user.email "bot@bahattinyunus.com"
+          
+          if [[ -n $(git status -s) ]]; then
+            git add README.md
+            git commit -m "docs: update daily operational directive"
+            git push
+          else
+            echo "No changes to commit."
+          fi

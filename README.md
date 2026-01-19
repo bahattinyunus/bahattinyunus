@@ -372,8 +372,10 @@
 ---
 
 
-### 💡 Günün Sözü
-> "Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil!"
+<!-- START_QUOTE -->
+### ⚡ Daily Operational Directive
+> **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil!"**
+<!-- END_QUOTE -->
 
 ---
 

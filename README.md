@@ -21,9 +21,8 @@
 
 
 <div align="center">
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=556B2F&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
-</h1>
+  <img src="assets/header.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);" alt="Bahattin Yunus Çetin - Cyber Architect" />
+</div>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 
 
@@ -136,62 +135,62 @@
 
 #### 🐍 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python%201-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1"/>
-  <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python%201-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 1"/>
+  <img src="https://img.shields.io/badge/Python%202-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 2"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 #### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web Dev"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev"/>
 </p>
 
 #### 🤖 Artificial Intelligence & Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Introduction-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Intro"/>
-  <img src="https://img.shields.io/badge/Custom%20GPTs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Custom GPTs"/>
+  <img src="https://img.shields.io/badge/AI%20Introduction-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Intro"/>
+  <img src="https://img.shields.io/badge/Custom%20GPTs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Custom GPTs"/>
 </p>
 
 #### 🧠 Generative AI & LLMs
 <p align="center">
-  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs"/>
 </p>
 
 #### 🔒 Cybersecurity & Cryptography
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Cryptography-556B2F?style=flat-square&logo=key&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Cryptography-556B2F?style=for-the-badge&logo=key&logoColor=white" alt="Cryptography"/>
 </p>
 
 #### 🔧 Development Tools & Version Control
 <p align="center">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/IT%20Fundamentals-007ACC?style=flat-square&logo=microsoft&logoColor=white" alt="IT"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=flat-square&logo=windows&logoColor=white" alt="OS"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IT%20Fundamentals-007ACC?style=for-the-badge&logo=microsoft&logoColor=white" alt="IT"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="OS"/>
 </p>
 
 #### ⚡ Hardware & IoT
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=flat-square&logo=python&logoColor=white" alt="MicroPython"/>
-  <img src="https://img.shields.io/badge/Proteus-00A8E8?style=flat-square&logo=circuit&logoColor=white" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/Small%20Basic-68217A?style=flat-square&logo=microsoft&logoColor=white" alt="Small Basic"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython"/>
+  <img src="https://img.shields.io/badge/Proteus-00A8E8?style=for-the-badge&logo=circuit&logoColor=white" alt="Proteus"/>
+  <img src="https://img.shields.io/badge/Small%20Basic-68217A?style=for-the-badge&logo=microsoft&logoColor=white" alt="Small Basic"/>
 </p>
 
 <details>
 <summary><b>📋 Detailed Certification Records (Operational Database)</b></summary>
 
 | 📅 Date | 🎖️ Certification | 🏢 Provider | 🆔 Credential ID |
-|:---|:---|:---|:---|
+|:---:|:---:|:---:|:---:|
 | **Jan 2026** | **Anthropic Claude** | BTK Akademi | `bx1hLxXZOo` |
 | **Jan 2026** | **ChatGPT** | BTK Akademi | `OKMhwBXgqW` |
 | **Jan 2026** | **DeepSeek** | BTK Akademi | `lK1hwey4xw` |

@@ -300,7 +300,7 @@
 
 <!-- START_QUOTE -->
 ### 💡 Günün Sözü
-> ""
+> "Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil!"
 <!-- END_QUOTE -->
 
 <!---

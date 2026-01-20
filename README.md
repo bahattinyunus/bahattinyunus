@@ -429,9 +429,9 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=j3yMahbMMeQ" target="_blank">
+  <a href="https://www.youtube.com/watch?v=Nn84O_h9riU" target="_blank">
     <img 
-      src="https://img.youtube.com/vi/j3yMahbMMeQ/maxresdefault.jpg" 
+      src="https://img.youtube.com/vi/Nn84O_h9riU/maxresdefault.jpg" 
       alt="Unutulmayanlar - YouTube Video"
       
     

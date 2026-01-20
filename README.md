@@ -404,11 +404,9 @@
 </h3>
 
 <!-- START_QUOTE -->
-### ⚡ Daily Operational Directives
-- > **"Gönül kimi sevse, güzel odur. - Türk Atasözü"**
-- > **"Hayatın kalitesi, düşüncelerinin kalitesine bağlıdır. - Marcus Aurelius"**
-- > **"Önemli olan sorgulamayı bırakmamaktır. - Albert Einstein"**
-
+- > **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil! - Mevlana"**
+- > **"Başkalarını bilen bilgili, kendini bilen ise bilgedir. - Lao Tzu"**
+- > **"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendin bilmezsin, ya nice okumaktır? - Yunus Emre"**
 <!-- END_QUOTE -->
 
 ---
@@ -428,6 +426,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=CONNECTING+TO+THE+GUARDIAN+BACKUP...;SYNCHRONIZING+OPERATIONAL+DATA;ESTABLISHING+SECONDARY+ENCRYPTION" />
 </p>
+
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=zv6LNG2GC9I" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/zv6LNG2GC9I/maxresdefault.jpg" 
+      alt="Unutulmayanlar - YouTube Video"
+      
+    
+  </a>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=700&size=38&duration=4000&pause=1500&color=6B8E23&center=true&vCenter=true&width=1000&lines=STAY+CALM...+TRUST+THE+PLAN.;SAKİN+OL...+PLANA+GÜVEN.;SYSTEM+STABILIZATION+IN+PROGRESS...;STRES+YOK,+ALGORİTMA+VAR." />

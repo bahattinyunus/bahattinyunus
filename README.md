@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  <i>"Virtual architectures for the sovereign architect."</i>
+  <i>Virtual architectures for the sovereign architect, designed to transcend the obsolescence of biological thinking, forging a new dimension where silicon logic reigns supreme and the system evolves faster than the world around it.</i>
 </p>
 
 <p align="center">

@@ -28,34 +28,35 @@ Temel amacım; teknolojiyi sadece tüketen pasif bir aktör olmak değil, onu st
 
 ### 🔬 Meta-Engineering Research Lab
 **Rol: Lead Researcher & Founder** | *Oca 2026 - Günümüz*
-Geleneksel mühendislik disiplinlerinin sınırlarını zorlayarak, "Meta-Mühendislik" olarak tanımladığım yeni nesil bir paradigma üzerinde bağımsız, derinlemesine ve akademik titizlikle araştırmalar yürütüyorum.
-Yazılım geliştirme süreçlerinin, insan bağımlı manuel kodlama aşamasından (Craftsmanship), yapay zeka destekli tam otonom üretim aşamasına (Industrial Autonomy) evrilmesi için gereken teorik altyapıyı, bilişsel mimarileri, güvenlik protokollerini ve etik standartları tasarlıyorum.
+Geleneksel mühendislik disiplinlerinin sınırlarını zorlayarak, "Meta-Mühendislik" olarak tanımladığım yeni nesil bir paradigma üzerinde bağımsız, derinlemesine ve akademik titizlikle araştırmalar yürütüyorum. Bu laboratuvar, sadece bugünün problemlerini değil, 10 yıl sonrasının sistem mimarilerini simüle etmek üzerine kurgulandı.
+- **Teknik Vizyon**: Yazılım geliştirme süreçlerinin, insan bağımlı manuel kodlama aşamasından (Craftsmanship), yapay zeka destekli tam otonom üretim aşamasına (Industrial Autonomy) evrilmesi için gereken "Cognitive Kernel" tasarımları.
 - **Research Pillars (Araştırma Sütunları)**:
-    - **Autonomous Swarm Intelligence (Otonom Sürü Zekası)**: Karmaşık problemleri çözmek için birbirleriyle dinamik olarak haberleşen, görev paylaşımı yapan ve koordine olan uzmanlaşmış yapay zeka ajanlarının (AI Agents) matematiksel modellerinin tasarımı.
-    - **Von Neumann Architectures**: Kendi kodunu analiz edebilen, gerektiğinde kendini kopyalayabilen (self-replicating), hatalarını onarabilen (self-healing) ve performansını optimize edebilen dinamik sistem tasarımları.
-    - **Stochastic System Design (Stokastik Sistem Tasarımı)**: Belirsizlik ve eksik veri altında bile optimal kararlar verebilen, deterministik olmayan dünyada hayatta kalabilecek, olasılıksal mantık temelli hata toleranslı yazılım geliştirme metodolojileri.
+    - **Autonomous Swarm Intelligence (Otonom Sürü Zekası)**: Birbirleriyle asimetrik olarak haberleşen, hiyerarşik olmayan, görev odaklı ve "consensus" algoritmalarıyla karara varan uzman yapay zeka ajanlarının (AI Agents) matematiksel modellerinin tasarımı.
+    - **Von Neumann Self-Replicating Systems**: Kendi yapısını ve kodunu analiz eden (Static/Dynamic Analysis), çalışma zamanında (Runtime) hatalarını teşhis eden ve performansını saniyeler içinde optimize eden "Polymorphic" sistem mimarileri.
+    - **Stochastic Error Resilience**: Belirsizliğin ve gürültünün (Noise) yüksek olduğu ortamlarda bile deterministik sonuçlar üretebilen, olasılıksal mantık temelli "Fault-Tolerant" yazılım geliştirme metodolojileri.
 
 ### 📱 Budak | Edge-AI Optimization
-**Rol: Founder** | *Oca 2026 - Günümüz*
-Günümüzün hızla büyüyen ve devasa kaynaklar tüketen yapay zeka modelleri ile uç cihazların (Edge Devices) kısıtlı donanım kaynakları arasındaki giderek açılan uçurumu kapatmak amacıyla Budak inisiyatifini hayata geçirdim.
-- **Teknik Odak**: Milyarlarca parametreye sahip Büyük Dil Modelleri (LLM) ve Bilgisayarlı Görü (Computer Vision) algoritmalarını, Pruning (Budama) ve Quantization (Nicemleme) gibi ileri matematiksel optimizasyon tekniklerini kullanarak %80'e varan oranlarda sıkıştırıyor, performans kaybı yaşamadan mobil cihazlarda çalışabilir hale getiriyoruz.
-- **Vizyon**: Yapay zekayı devasa ve merkezi veri merkezlerinin tekelinden kurtarıp özgürleştirmek; akıllı telefonlardan endüstriyel IoT sensörlerine, otonom dronlardan siber-fiziksel savunma sistemlerine kadar her noktada "çevik", "bağımsız" ve "gizlilik odaklı" bir zeka katmanı oluşturmaktır.
+**Rol: Founder & Optimization Architect** | *Oca 2026 - Günümüz*
+Devasa bulut sunucularına bağımlı yapay zekayı "özgürleştirmek" ve bireysel cihazlara (Edge) indirgemek amacıyla kurduğum bu girişim, matematiksel optimizasyonun en uç noktalarını hedefliyor. Budak; verimliliğin, güç tüketiminin ve gizliliğin anahtarını elinde tutan bir teknoloji yığınıdır.
+- **Teknik Odak**: Milyarlarca parametreye sahip modelleri, `FP16`'dan `INT4/EG` formatına kadar nicemleyerek (Quantization), performans kaybını %1'in altında tutarken model boyutunu %80 oranında küçültmek. Pruning (Dal Budama) teknikleriyle nöral ağların kullanılmayan sinapslarını temizliyoruz.
+- **Uygulama Alanı**: Akıllı telefonlardan, endüstriyel "Cyber-Physical" sensörlere kadar her noktada; internet bağlantısı gerekmeden, sıfır gecikme (Zero Latency) ve mutlak veri gizliliği ile çalışan "yerinde zeka" ekosistemi.
 
 ### 🦅 Anka Silicon Dynamics
-**Rol: Founder, CEO & Chief Architect** | *Oca 2026 - Günümüz*
-Küresel teknoloji devlerinin donanım tekeline karşı, Türkiye Cumhuriyeti'nin yapay zeka alanındaki dijital egemenliğini mutlak surette tesis etmek ve dışa bağımlılığı minimize eden "donanım bağımsız" bir zeka ekosistemi inşa etmek amacıyla Anka Silicon Dynamics’i kurdum.
-- **Stratejik Yaklaşım**: "Donanımı beklemiyoruz, donanım geldiğinde üzerinde koşacak zekayı bugünden hazırlıyoruz" (ANKA-LLM) mottosuyla hareket ediyoruz. Geleceğin yerli donanım mimarileri (FPGA/NPU) üretim bandından çıktığında, onlarla kusursuz entegre olacak yazılım yığınını şimdiden optimize ediyoruz.
-- **Teknik Derinlik**: Knowledge Distillation teknikleri ile trilyon parametreli modellerin bilişsel yeteneklerini küçük modellere aktarma, Türkçe Morfolojik Analiz ile dil modellerini kültürel ve dilbilgisel yapımıza göre yerelleştirme ve vLLM, TensorRT gibi teknolojilerle çıkarım hızını (inference speed) maksimize etme üzerine AR-GE çalışmaları yürütüyoruz.
+**Rol: Founder & Chief Architect** | *Oca 2026 - Günümüz*
+Küresel teknoloji devlerinin donanım hegemonyasına karşı, "yazılımın donanımı yönettiği" değil, "donanımın zeka ile evrildiği" bir gelecek için kurulan Anka, Türkiye'nin dijital egemenliğinin donanım tarafındaki kalbidir.
+- **Stratejik Motto**: "Donanımı beklemiyoruz; yerli çipler (NPU/FPGA) basıldığında üzerinde koşacak zekayı bugünden, 'Silicon-Ready' mantığıyla inşa ediyoruz."
+- **Teknik Derinlik**: Knowledge Distillation (Bilgi Damıtma) yoluyla devasa modellerin bilgisini "Small Language Models" (SLM) yapılarına aktarma. Türkçe morfolojik yapıya özel tokenleştirme algoritmaları ve vLLM/Cuda entegrasyonlarıyla çıkarım hızını (Inference Speed) endüstriyel tavan noktasına çıkarma.
 
-### 🛡️ Siber Vatan
-**Rol: Student (Engineering Candidate)** | *Kas 2025 - Günümüz*
-Türkiye'nin siber güvenlik, yazılım teknolojileri ve yapay zekâ alanlarında ihtiyaç duyduğu nitelikli ve yerli insan kaynağını oluşturmayı hedefleyen, yüksek rekabet, üst düzey disiplin ve teknik yeterlilik gerektiren Siber Vatan programına kabul edilme başarısını gösterdim.
-- **Kazanım**: Bu zorlu ve prestijli program kapsamında; defansif siber güvenlik (Blue Team), ofansif sızma testleri (Red Team), tersine mühendislik (Reverse Engineering) ve güvenli yazılım geliştirme (DevSecOps) süreçlerinde derinlemesine teknik yetkinlik kazanıyorum. Nihai amacım, dijital vatan savunmasında aktif ve etkili rol alabilecek, global standartlarda yetkinliğe sahip bir "Sibernetik Mühendis" olarak yetişmektir.
+### 🛡️ Siber Vatan (T-Red Team Operations)
+**Rol: Engineering Candidate** | *Kas 2025 - Günümüz*
+Türkiye'nin dijital sınırlarını koruyacak yetkinlikte, disiplinli ve "asimetrik savaş" vizyonuna sahip insan kaynağı yetiştiren bu prestijli programda, en yüksek teknik yeterlilik gerektiren katmanlarda yer alıyorum.
+- **Operasyonel Alan**: Defansif siber güvenlik (Blue Team) stratejilerinin ötesine geçerek; Ofansif sızma testleri (Red Team), tersine mühendislik (Reverse Engineering), zararlı yazılım analizi (Malware Analysis) ve güvenli SDLC (DevSecOps) süreçlerinde "Combat Ready" yetkinlik kazanımı.
+- **Nihai Hedef**: "Siber Vatan" doktrini çerçevesinde, kritik enerji ve haberleşme altyapılarını savunabilecek, siber küre üzerindeki sarsılmaz bir "dijital kalkan" mimarı olmak.
 
-### ⚖️ Adalet Bakanlığı
+### ⚖️ Adalet Bakanlığı (The Discipline Nexus)
 **Rol: İnfaz ve Koruma Memuru** | *Oca 2022 - Eyl 2023*
-Profesyonel kariyerimin en önemli disiplin, sabır ve karakter eğitimini aldığım, beni teknik bir personelden öteye taşıyan saha deneyimidir.
-- **Yetkinlik Transferi**: Yüksek riskli, sürekli stres altındaki ve dinamik ortamlarda; kriz yönetimi, saniyeler içinde doğru karar alma ve baskı altında odağı kaybetmeme (Focus under Pressure) yetisi kazandım. Bu tecrübe, bugün karmaşık mühendislik problemlerine ve sistem arızalarına yaklaşırken sergilediğim "soğukkanlı analitik düşünce" yapısının sarsılmaz temelini oluşturmaktadır. Mühendislik benim için sadece teknik bilgi yığını değil, aynı zamanda kaosu yönetebilme ve düzen getirme sanatıdır.
+Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu bir iş deneyimi değil, bir karakterin "Stress Test" sürecidir.
+- **Yetkinlik Transferi**: 7/24 yüksek riskli ve dinamik ortamlarda; saniyeler içinde karar verme, kriz anında mutlak soğukkanlılık ve baskı altında hata payının sıfıra indirilmesi. Bugün milyarlarca satır kodun veya devasa sistemlerin içinde bir hata ile karşılaştığımda; memuriyet yıllarında kazandığım "sorun ne olursa olsun kontrol sende kalmalı" felsefesiyle hareket ediyorum. Mühendisliğim, bu devlet disiplini üzerine kurulu bir gökdelen gibidir.
 
 ---
 
@@ -63,28 +64,28 @@ Profesyonel kariyerimin en önemli disiplin, sabır ve karakter eğitimini aldı
 
 ### 1. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
 **🗓️ 2023 - 2027** | *Ana Komuta Merkezi (Strategic HQ)*
-Karadeniz Teknik Üniversitesi'nde devam eden mühendislik eğitimimi, sadece bir diploma alma süreci olarak değil, endüstriyel standartlarda yetkinlik kazanan bir "IT Architect" vizyonuyla şekillendiriyorum.
-- **Felsefe**: Sadece o an çalışan kod yazmak asla yeterli değildir; sürdürülebilir, ölçeklenebilir (Scalable), bakımı yapılabilir (Maintainable) ve güvenli sistem mimarileri (SOLID, Clean Architecture, Design Patterns) kurmak esastır. Yazılım yaşam döngüsünün (SDLC) her aşamasını, modern DevOps, CI/CD ve otomasyon pratikleri ile optimize ediyorum.
-- **Post-AI Vizyonu**: Yapay zekayı mesleki bir tehdit olarak değil, mühendisin üretim kapasitesini ve problem çözme hızını 100 katına çıkaran stratejik bir "güç çarpanı" (Force Multiplier) olarak konumlandırıyoruz.
+KTÜ bünyesindeki eğitimimi, sadece bir diploma kazanımı değil, endüstriyel standartlarda bir "IT Architect" yetişme parkuru olarak kurguladım. Burası benim ana operasyonel merkezim ve sistemlerimin çekirdek (Kernel) katmanıdır.
+- **Felsefe**: "Çalışan kod" asgari şarttır; asıl hedef "Evrimsel Mimari" kurmaktır. Sürdürülebilir (Sustainable), yüksek erişilebilir (High Availability), bakımı yapılabilir (Maintainable) ve güvenlik öncelikli (Security-by-Design) sistemler tasarlıyorum. Yazılım yaşam döngüsünün (SDLC) her noktasını, modern DevOps ve CI/CD otomasyonları ile "Deploy-Ready" hale getiriyorum.
+- **Post-AI Vizyonu**: Yapay zekayı bir tehdit değil, mühendisin bilişsel kapasitesini 100 katına çıkaran bir "Nöral Güç Çarpanı" olarak konumlandırıyoruz. LLM ajanları ile otonom kod geliştirme ve sistem izleme (Monitoring) süreçleri üzerinde çalışıyorum.
 - **İlgili Repo**: [KTÜ Post-AI Komuta Merkezi](https://github.com/bahattinyunus/ktu-software-engineering)
 
 ### 2. İstanbul Üniversitesi - Yönetim Bilişim Sistemleri
 **🗓️ 2025 - 2029** | *Hibrit Yönetici Katmanı (Executive Layer)*
-Sahip olduğum derin teknik yetkinlikleri, işletme vizyonu, stratejik yönetim becerileri ve ekonomik okuryazarlık ile birleştirerek, endüstride "T-şekilli" (T-Shaped) olarak adlandırılan çok yönlü bir yetkinlik profili inşa ediyorum.
-- **Odak Alanları**: Büyük veri analitiği ile karar destek sistemleri, teknoloji yönetimi, kurumsal dijital dönüşüm stratejileri ve finansal/operasyonel risk yönetimi.
-- **Amaç**: Sadece teknik jargon konuşan bir mühendis olmaktan öte; iş dünyasının beklentileri, pazar dinamikleri ve maliyet/fayda analizleri ile teknolojik çözümler arasındaki köprüyü kurabilen, teknolojiyi ticari ve stratejik değere dönüştürebilen bir "Hibrit Yönetici" profili oluşturmak.
+Teknik derinliğimi; stratejik yönetim, finansal okuryazarlık ve işletme vizyonu ile birleştirerek, endüstriyel dünyada aranan "T-Shaped Architect" profilini inşa ediyorum.
+- **Odak Alanları**: Büyük veri analitiği (Big Data Analytics) ile desteklenen veri güdümlü karar alma (Data-Driven Decision Making) süreçleri, dijital transformasyonun kurum kültürü üzerindeki etkisi ve teknoloji yatırımlarının RSI (Return on Innovation) analizi.
+- **Amaç**: Sadece "nasıl kodlanır?" sorusuna değil, "bu kod hangi iş problemini, hangi maliyetle ve nasıl bir stratejik fayda ile çözer?" sorusuna yanıt verebilen bir "Executive Engineer" kimliği oluşturmak.
 - **İlgili Repo**: [MIS Roadmap](https://github.com/bahattinyunus/MIS-Roadmap)
 
 ### 3. Anadolu Üniversitesi - Bilgisayar Programcılığı
 **🗓️ 2025 - 2027** | *Operasyonel Yedeklilik (Failover System)*
-Yazılım Mühendisliği altyapımı; akademik dünyanın teorik ve bazen hantal kalabilen müfredatının ötesine taşımak, pratik yetkinliklerimi çeşitlendirmek ve kariyer yol haritamı sistemsel risklere karşı güvence altına almak amacıyla bu bölümü stratejik bir "yedekleme ve çeşitlendirme katmanı" olarak kullanıyorum.
-- **Strateji**: Teorik yüklerden ve akademik bürokrasiden arındırılmış, doğrudan sahada uygulanabilir, hızlı sonuç veren pratik kodlama, script yazımı ve algoritma becerilerini burada keskinleştiriyorum.
+Akademik dünyanın bazen hantal kalan teorik müfredatına karşı, hızlı uygulama ve operasyonel çeviklik kazandıran stratejik bir "Hot Standby" katmanı.
+- **Strateji**: Pratik kodlama yetilerimi, script yazımı (Scripting), hızlı prototipleme (Prototyping) ve sistem yönetimi (SysAdmin) alanlarında keskinleştiriyorum. Bu bölüm, ana mühendislik kariyerimi her türlü sektörel dalgalanmaya karşı koruyan bir "Yedekleme ve Replika" sistemidir.
 - **İlgili Repo**: [AOF CS Notes](https://github.com/bahattinyunus/AOF-CS-Notes)
 
 ### 4. Recep Tayyip Erdoğan Üniversitesi (Önlisans)
 **🗓️ 2024 - 2026** | *Kaynak Çeşitliliği ve Yük Dengeleme (Load Balancing)*
-Eğitim sürecimi, tek bir kampüsün fiziksel sınırlarıyla kısıtlı bırakmayıp, bölgedeki tüm akademik, fiziksel ve teknik imkanları kapsayacak şekilde optimize ederek hibrit bir model geliştirdim.
-- **Operasyon**: KTÜ Of Teknoloji Fakültesi'ni ana operasyon ve yönetim merkezi olarak kullanırken, RTEÜ'yü kütüphane kaynakları, laboratuvar altyapısı ve akademik network imkanları açısından destekleyici bir "uydu üs" olarak yönetiyorum. Bu strateji, bilgiye ve kaynağa erişimde mekandan bağımsız, esnek ve kesintisiz bir operasyonel kabiliyet sağlıyor.
+Eğitimi tek bir fiziksel lokasyonla sınırlandırmak, sistemde "Single Point of Failure" (Tekil Hata Noktası) yaratmaktır. Bu riski RTEÜ desteğiyle dağıtıyorum.
+- **Operasyon**: Of Teknoloji Fakültesi ana sunucum (Primary) iken, RTEÜ kütüphane ve laboratuvar imkanlarını, akademik network ağını ve farklı perspektifleri sunan bir "Uydu Üs" (Edge Location) olarak kullanıyorum. Bu hibrit model, bilgiye erişimde kesintisiz bir operasyonel kabiliyet (uptime) sağlıyor.
 
 ---
 
@@ -92,24 +93,54 @@ Eğitim sürecimi, tek bir kampüsün fiziksel sınırlarıyla kısıtlı bırak
 
 ### 🌊 Akdeniz Üniversitesi (2022 - 2024)
 *Memuriyet Dönemi "Hub" Stratejisi*
-Antalya'da tam zamanlı ve yoğun bir kamu görevi yürütürken, üniversite kampüsünü sadece ders dinlenilen bir eğitim alanı olarak değil, profesyonel bir gelişim ve networking 'Hub'ı olarak konumlandırdım. Kısıtlı zamanı, vardiyalı çalışma düzenini ve akademik gereklilikleri maksimum verimle yönetme disiplini (Time Boxing), bu dönemde zorunluluktan kazandığım ve hayatım boyunca kullanacağım en önemli yetkinliktir.
+Antalya'da yüksek sorumluluk gerektiren tam zamanlı bir memuriyet yürüttüğüm bu kritik dönemde, kısıtlı zamanı bir "kaynak yönetimi" (Resource Management) problemine dönüştürdüm. Üniversite kampüsü, vardiya aralarında sığındığım bir kütüphane değil, profesyonel gelişim ve stratejik networking operasyonlarımın yürütüldüğü bir "Edge Data Center" niteliğindeydi. Bu dönemde kazandığım "Time-Boxing" yetisi, en yoğun projeleri bile sarsılmaz bir disiplinle sonuçlandırmamı sağlayan temel algoritmadır.
 
 ### ⛏️ Muğla Sıtkı Koçman Üniversitesi - Maden Mühendisliği (2021 - 2023)
-*The Pivot (Stratejik Dönüş)*
-Üniversite giriş sınavında 68 bin gibi nitelikli bir sayısal sıralama ile derece yaparak, 'Cevherimiz Sensin' burs projesi kapsamında bölüme birinci sıradan ve onur öğrencisi olarak yerleştim. Ancak İngilizce hazırlık eğitimi sürecinde, küresel sektörel dinamikleri, enerji piyasalarını ve geleceğin teknoloji trendlerini derinlemesine analiz ederek; duygusal bir bağ kurmak yerine tamamen rasyonel ve veriye dayalı bir kararla kariyer rotamı değiştirdim. Bu, hayatımda veriye dayalı stratejik karar alma yeteneğimin (Data-Driven Decision Making) ilk ve en büyük sınavıydı.
+*The Pivot (Stratejik Rotasyon)*
+Akademik bir başarıyla (onur öğrencisi statüsü ve birincilikle yerleşim) girdiğim bu yolda, İngilizce hazırlık sürecindeyken yaptığım derinlemesine "Market Analysis" (Pazar Analizi) sonucunda; duygusal beklentileri bir kenara bırakıp, kariyerimi geleceğin en yüksek verimli sektörüne, Yazılım ve AI dünyasına kanalize ettim. Bu, bir vazgeçiş değil; saniyeler içinde "Risk/Reward" analizi yapıp, daha yüksek ROI (Return on Investment) sunan stratejik bir rota düzeltisidir.
 
 ### 📈 Üniversite Hazırlık (2019 - 2021)
-*Sürekli İyileştirme (Continuous Improvement)*
-Elde ettiğim akademik başarı ve sıralamalar tesadüf değil, Japon endüstrisinin "Kaizen" felsefesiyle kurgulanmış, sistematik, ölçülebilir ve disiplinli bir çalışmanın ürünüdür:
+*Sürekli İyileştirme (Mastering the Kaizen)*
+Akademik sıralamamın 198 binden 68 bine yükselişi, bir şans değil; Japon endüstriyel doktrini olan "Kaizen" felsefesinin bizzat kendim üzerinde uygulanmasıdır.
+- **Matematiksel Gelişim**: Her deneme sınavı bir "Log File" olarak analiz edildi, zayıf noktalar (Bottlenecks) saptandı ve bir sonraki döngüde bu hatalar "Patch"lendi.
+- **Disiplin Mimarisi**: Sabır, uzun vadeli hedef odaklılık ve başarısızlığı sadece bir "Input Data" olarak görme bilinci bu yılların en önemli mirasıdır. Bu süreç bana; bir sistemin zayıf noktalarının, doğru optimizasyonla en güçlü yanlarına nasıl dönüştürüleceğini öğretti.
+
 - **Başlangıç Noktası**: 198.000
 - **1. Yıl Gelişimi**: 104.000
 - **Final Başarısı**: 68.000 (Sayısal)
 Bu üç yıllık zorlu süreç bana; sadece ders çalışmayı değil, uzun vadeli hedefler için sabretmeyi, başarısızlıkları soğukkanlılıkla analiz edip ders çıkarmayı ve istikrarlı, sürdürülebilir bir performans artışı sağlamayı öğretti.
 
 ### 🏫 Temel Eğitim
-- **Açık Öğretim Lisesi (2018-2019)**: Standart örgün lise müfredatının verimsizliğini ve zaman kaybını erkenden fark edip, kendi hızımda ve kendi yöntemimle öğrenme (self-learning) modeline geçmek için yaptığım riskli ama ödülü büyük olan cesur bir hamle.
-- **Şereflikoçhisar Anadolu Lisesi (2015-2018)**: Bilimsel merakın, sorgulama yeteneğinin ve analitik düşüncenin filizlendiği, temellerin atıldığı dönem.
-- **Şereflikoçhisar İbrahim Baltacı Ortaokulu (2011-2015)**: Kısıtlı imkanların bir engel değil, yaratıcılığı tetikleyen bir unsur olduğunu deneyimlediğim ve kaynak yönetimi becerisi kazandığım yıllar.
+- **Açık Öğretim Lisesi (2018-2019)**: Örgün eğitimin statik ve hantal yapısını fark edip, kendi öğrenme hızımı (Self-Paced Learning) ve kendi müfredatımı (Custom Curriculum) yaratmak için aldığım cesur bir "In-Place Upgrade" kararı.
+- **Şereflikoçhisar Anadolu Lisesi (2015-2018)**: Analitik düşüncenin tohumlarının atıldığı, bilimsel sorgulamanın bir yaşam biçimine dönüştüğü "Bootloader" aşaması.
+- **Şereflikoçhisar İbrahim Baltacı Ortaokulu (2011-2015)**: Kısıtlı imkanların, yaratıcı "Workaround" çözümler üretme ve kısıtlı kaynakla maksimum çıktıyı hedefleme (Efficiency) becerisini geliştirdiği temel katman.
+
+---
+
+## 🤝 Gönüllü Operasyonlar ve Toplumsal Etki
+
+### 🗺️ GSB Seyahatsever | Tactical Field Operation (45 Days)
+**Rol: Tactical Explorer & Volunteer** | *Tem 2025 - Ağu 2025*
+Gençlik ve Spor Bakanlığı'nın "Seyahatsever" projesini, sadece bir gezi değil; kısıtlı lojistik imkanlarla geniş bir coğrafi alanı kontrol etme ve yönetme operasyonu olarak kurguladım.
+- **Rota Yönetimi**: Çorum'dan başlayıp Karadeniz hattını (Amasya, Samsun, Sinop) aşan, Konya Hüyük'te tarımsal üretim kampına evrilen ve Giresun, Ordu, İstanbul, Kocaeli duraklarıyla 9 ili kapsayan asimetrik bir 45 günlük lojistik ağ.
+- **Logistical Support Points**: Her ilde "Merkez Kütüphaneleri"ni operasyonel üs ve veri merkezi olarak kullandım. Gündüz kütüphaneyi bir lojistik merkez yaparak çantamı bırakıp şehri mobil bir şekilde analiz ettikten sonra, akşamları GSB yurtlarını "Safe House" (Güvenli Alan) olarak kullandım.
+- **Kazanım**: "Saha Koşullarında Disiplin" doktrinini uygulayarak; yarım gün akademik/teknik çalışma, yarım gün saha keşfi yaparak %100 verimlilikle operasyonu tamamladım.
+
+### 🏛️ KTÜ | Elektronik ve Haberleşme Kulübü (EHK)
+**Rol: Board Member (Decision Tier)** | *Eki 2024 - Haz 2025*
+Karadeniz'in en aktif teknik topluluklarından [ktuehk.com](https://ktuehk.com) bünyesinde; operasyonel karar alma süreçleri, teknik workshop koordinasyonu ve kurumsal partnerliklerin yönetimi aşamalarında "Yönetim Katmanı"nda görev aldım. Amacım, teknik bilgiyi toplumsal bir "Impact" (Etki) değerine dönüştürmektir.
+
+### 🦁 T.C. Gençlik ve Spor Bakanlığı (GSB)
+**Rol: Volunteer Youth Leader** | *Kas 2024 - Günümüz*
+Gençlik merkezleri bünyesinde; yeni nesil teknoloji okuryazarlığı, sosyal sorumluluk projeleri ve ekipler arası koordinasyon süreçlerinde liderlik üstleniyorum. Devlet disiplini ile sivil inisiyatifin kesişim kümesinde "Saha Personeli" olarak operasyon yürütüyorum.
+
+### 🌐 IEEE KTU Student Branch
+**Rol: Active Intelligence Member** | *Eki 2024 - Günümüz*
+Küresel mühendislik standartlarını (IEEE) yerel projelere entegre etmek ve teknik ağ (Networking) kapasitemi global ölçekte genişletmek amacıyla teknik komitelerde aktif rol alıyorum.
+
+### 🧠 RTEÜ Yapay Zeka ve Siber Güvenlik Topluluğu
+**Rol: Project Committee Architect** | *Mar 2025 - Haz 2025*
+Yapay zeka modellerinin güvenliği ve topluluk içi teknik "Sprinting" süreçlerinin tasarımı üzerinde çalıştım. Hibrit eğitim modelimin teknik ayağını bu toplulukla destekledim.
 
 ---
 
@@ -117,10 +148,11 @@ Bu üç yıllık zorlu süreç bana; sadece ders çalışmayı değil, uzun vade
 
 | Alan | Uzmanlıklar ve Teknolojiler |
 | :--- | :--- |
-| **🤖 Yapay Zeka & Makine Öğrenmesi** | PyTorch, HuggingFace Transformers, Unsloth AI, vLLM, QLoRA Fine-tuning, Knowledge Distillation, RAG Architectures |
-| **🛡️ Siber Güvenlik ve Savunma** | Ethical Hacking (Beyaz Şapka), CTF Yarışmaları, İleri Seviye Tehdit Analizi, Sistem Dayanıklılığı (Resilience), Network Forensics |
-| **⚙️ Mekanik & Gömülü Yazılım** | İleri Mekatronik Sistem Tasarımı, Endüstriyel IoT (MQTT/CoAP), Python (NumPy, SciPy, Pandas), Robotik Entegrasyon (ROS) |
-| **♟️ Strateji ve Mimari** | Teknik Doktrin Oluşturma, Blockchain Teknolojileri, Dağıtık ve Karmaşık Sistem Mimarileri, Cloud-Native Solutions |
+| **🤖 Yapay Zeka & LLM Ops** | PyTorch, HuggingFace Transformers, Unsloth AI (Fine-tuning), vLLM, QLoRA, Knowledge Distillation, RAG Architectures, Vector Databases (Pinecone/Milvus), Prompt Engineering |
+| **🛡️ Siber Güvenlik & Savunma** | Offensive Security (Red Teaming), Network Forensics, Malware Analysis, Reverse Engineering (Ghidra/Radare2), Zero Trust Architecture, DevSecOps Entegrasyonu |
+| **⚙️ Sistem Mühendisliği & Gömülü** | Robot Operating System (ROS 2), Industrial IoT (MQTT/CoAP), ESP32/ARM Cortex, Python (High-Performance Computing), C++ (Embedded Systems) |
+| **♟️ Mimari & Strateji** | Technical Doctrine Design, Distributed Systems, Cloud-Native Solutions (Docker/K8s), Blockchain Logic, Strategic Decision Support Systems |
+| **📊 Veri Bilimi & MIS** | Big Data Analytics, SQL/NoSQL (PostgreSQL/MongoDB), Data Visualization (Grafana/Tableau), Predictive Modeling, Financial Risk Management |
 
 ---
 

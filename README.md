@@ -443,6 +443,23 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3&section=footer&width=600" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2F4F2F&height=120&section=footer&text=END%20OF%20OPERATIONAL%20LOG&fontSize=40&fontAlignY=50&fontColor=6B8E23&animation=fadeIn" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=20&duration=3000&pause=1000&color=556B2F&center=true&vCenter=true&width=800&lines=TERMINATING+ENCRYPTED+SESSION...;CLEARING+CACHED+INTEL;COMMAND+CENTER+STANDING+BY;AWAITING+NEXT+OBJECTIVE..." />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOGOUT-SUCCESS-556B2F?style=for-the-badge&logo=power-off&logoColor=white" />
+  <img src="https://img.shields.io/badge/CONNECTION-SECURE-2F4F2F?style=for-the-badge&logo=security-scorecard&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=60&section=footer" />
+</p>
+
 
 
 

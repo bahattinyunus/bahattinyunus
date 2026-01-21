@@ -396,7 +396,7 @@
 </h3>
 
 <!-- START_QUOTE -->
-### ⚡ Daily Operational Directives
+
 - > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlana"**
 - > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
 - > **"Hamdım, piştim, yandım. - Mevlana"**

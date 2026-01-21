@@ -404,9 +404,11 @@
 </h3>
 
 <!-- START_QUOTE -->
-- > **"Kapı açılır, sen yeter ki vurmayı bil! Ne zaman, bilmem! Yeter ki o kapıda durmayı bil! - Mevlana"**
-- > **"Başkalarını bilen bilgili, kendini bilen ise bilgedir. - Lao Tzu"**
-- > **"İlim ilim bilmektir, ilim kendin bilmektir. Sen kendin bilmezsin, ya nice okumaktır? - Yunus Emre"**
+### ⚡ Daily Operational Directives
+- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlana"**
+- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
+- > **"Hamdım, piştim, yandım. - Mevlana"**
+
 <!-- END_QUOTE -->
 
 ---

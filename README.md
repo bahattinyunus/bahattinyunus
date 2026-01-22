@@ -396,10 +396,10 @@
 </h3>
 
 <!-- START_QUOTE -->
-
-- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlana"**
-- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
-- > **"Hamdım, piştim, yandım. - Mevlana"**
+### ⚡ Daily Operational Directives
+- > **"Kendini tanı. - Sokrates"**
+- > **"Zeka, değişime uyum sağlama yeteneğidir. - Stephen Hawking"**
+- > **"Her şey gelip geçer, ancak Hak baki kalır. - Aziz Mahmud Hüdayi"**
 
 <!-- END_QUOTE -->
 

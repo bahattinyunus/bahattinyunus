@@ -62,7 +62,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://bahattinyunus.github.io/" target="_blank">
+  <a href="https://bahattinyunus.manus.space/" target="_blank">
     <img src="https://img.shields.io/badge/MAIN%20COMMAND%20CENTER-GitHub%20Pages-556B2F?style=for-the-badge&logo=github&logoColor=white" alt="Main Portfolio"/>
   </a>
   <a href="https://bahattinyunus.manus.space/" target="_blank">

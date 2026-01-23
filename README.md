@@ -35,7 +35,7 @@
 
  <p align="center">
  
-   <img src="https://img.shields.io/badge/VALUES-Faith%20Driven-6B8E23?style=for-the-badge&logo=mosque&logoColor=white"/>
+
   
  </p>
 

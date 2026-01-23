@@ -397,9 +397,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Kendini tanı. - Sokrates"**
-- > **"Zeka, değişime uyum sağlama yeteneğidir. - Stephen Hawking"**
-- > **"Her şey gelip geçer, ancak Hak baki kalır. - Aziz Mahmud Hüdayi"**
+- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
+- > **"Mantık sizi A'dan B'ye götürür. Hayal gücü ise her yere. - Albert Einstein"**
+- > **"Nasıl yukarıdaysa, öyle de aşağıdadır. - Hermetik İlke"**
 
 <!-- END_QUOTE -->
 

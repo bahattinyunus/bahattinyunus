@@ -34,9 +34,9 @@
 </p>
 
  <p align="center">
-  <img src="https://img.shields.io/badge/CHARACTER-Revolutionary-8B4513?style=for-the-badge&logo=target&logoColor=white"/>
+ 
    <img src="https://img.shields.io/badge/VALUES-Faith%20Driven-6B8E23?style=for-the-badge&logo=mosque&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STANCE-Independent-2F4F2F?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+  
  </p>
 
 <!---

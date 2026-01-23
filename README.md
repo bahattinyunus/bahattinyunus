@@ -49,7 +49,7 @@
 
 
 <h1 align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=850&height=60&color=8B4513&duration=3500&lines=Yalnız%20iman%20ve%20fikir,%20ne%20sevgili%20ne%20kardeş.;Bir%20akıl%20gelecek%20ki,%20akıllar%20delirecek.;Ve%20bir%20devrim,%20evvela%20devrimi%20devirecek.;Her%20şey%20birbirine%20denk,%20her%20şey%20birbirine%20eş." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=850&height=60&color=2E8B57&duration=3500&lines=Yaşamak%20bir%20ağaç%20gibi%20tek%20ve%20hür;Ve%20bir%20orman%20gibi%20kardeşçesine;Bu%20hasret%20bizim..." />
 </h1>
 
 

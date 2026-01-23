@@ -1,3 +1,4 @@
+
 <!----
 
 <div align="center">
@@ -445,6 +446,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6B8E23&height=3&section=footer&width=600" />
 </p>
+<div align="center">
+  <a href="https://www.youtube.com/shorts/yEOa4VH1QPw" target="_blank">
+    <img 
+      src="https://img.youtube.com/vi/yEOa4VH1QPw/maxresdefault.jpg" 
+      alt="Unutulmayanlar - YouTube Video"
+      
+    
+  </a>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=2F4F2F&height=120&section=footer&text=END%20OF%20OPERATIONAL%20LOG&fontSize=40&fontAlignY=50&fontColor=6B8E23&animation=fadeIn" />

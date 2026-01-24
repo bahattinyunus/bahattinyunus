@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
-- > **"Mantık sizi A'dan B'ye götürür. Hayal gücü ise her yere. - Albert Einstein"**
-- > **"Nasıl yukarıdaysa, öyle de aşağıdadır. - Hermetik İlke"**
+- > **"Bin kilometrelik yolculuk, tek bir adımla başlar. - Lao Tzu"**
+- > **"Dünya bir sahnedir, biz sadece oyuncularız. - Shakespeare"**
+- > **"Gözden ırak olan gönülden de ırak olur derler; halbuki gönle giren gözden ırak olsa ne yazar? - Mevlana"**
 
 <!-- END_QUOTE -->
 

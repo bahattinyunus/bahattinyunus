@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Bin kilometrelik yolculuk, tek bir adımla başlar. - Lao Tzu"**
-- > **"Dünya bir sahnedir, biz sadece oyuncularız. - Shakespeare"**
-- > **"Gözden ırak olan gönülden de ırak olur derler; halbuki gönle giren gözden ırak olsa ne yazar? - Mevlana"**
+- > **"Aşk şeriatı, bütün dinlerden ayrıdır. Âşıkların şeriatı da, mezhebi de Allah'tır. - Mevlana"**
+- > **"Kendi ışığın ol. - Buddha"**
+- > **"Ruhun rengi, düşüncelerinin rengidir. - Marcus Aurelius"**
 
 <!-- END_QUOTE -->
 

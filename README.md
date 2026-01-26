@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Aşk şeriatı, bütün dinlerden ayrıdır. Âşıkların şeriatı da, mezhebi de Allah'tır. - Mevlana"**
-- > **"Kendi ışığın ol. - Buddha"**
-- > **"Ruhun rengi, düşüncelerinin rengidir. - Marcus Aurelius"**
+- > **"Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir. - Mevlana"**
+- > **"Hayal kurmak, bilginin başlangıcıdır. - Albert Einstein"**
+- > **"Bütün kâinat birbirine sevgi ile bağlanmış. Sevgini vermesini öğren. Çünkü senin sevgin seni kurtaracaktır. - Mevlana"**
 
 <!-- END_QUOTE -->
 

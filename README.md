@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Güzeli güzel yapan edeptir, edep ise güzeli sevmeye sebeptir. - Mevlana"**
-- > **"Hayal kurmak, bilginin başlangıcıdır. - Albert Einstein"**
-- > **"Bütün kâinat birbirine sevgi ile bağlanmış. Sevgini vermesini öğren. Çünkü senin sevgin seni kurtaracaktır. - Mevlana"**
+- > **"Sabır, kurtuluşun anahtarıdır. - Mevlana"**
+- > **"Dünyada bir garip gibi, yahut bir yolcu gibi ol. - Hadis-i Şerif (Tasavvufi düstur)"**
+- > **"Dünya bir sahnedir, biz sadece oyuncularız. - Shakespeare"**
 
 <!-- END_QUOTE -->
 

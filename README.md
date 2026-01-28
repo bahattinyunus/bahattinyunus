@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Sabır, kurtuluşun anahtarıdır. - Mevlana"**
-- > **"Dünyada bir garip gibi, yahut bir yolcu gibi ol. - Hadis-i Şerif (Tasavvufi düstur)"**
-- > **"Dünya bir sahnedir, biz sadece oyuncularız. - Shakespeare"**
+- > **"Can konağını aramadaysan cansın; bir lokma ekmek aramadaysan ekmeksin; bir damla su aramadaysan susun. Şu nükteyi biliyorsan işi biliyorsun demektir: Neyi arıyorsan osun sen. - Mevlana"**
+- > **"Nice insanlar gördüm, üzerinde elbisesi yok. Nice elbiseler gördüm, içinde insan yok. - Mevlana"**
+- > **"Mutluluk bir duraktır değil, bir yolculuk biçimidir. - Buddha"**
 
 <!-- END_QUOTE -->
 

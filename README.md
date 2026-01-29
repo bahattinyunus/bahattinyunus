@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Can konağını aramadaysan cansın; bir lokma ekmek aramadaysan ekmeksin; bir damla su aramadaysan susun. Şu nükteyi biliyorsan işi biliyorsun demektir: Neyi arıyorsan osun sen. - Mevlana"**
-- > **"Nice insanlar gördüm, üzerinde elbisesi yok. Nice elbiseler gördüm, içinde insan yok. - Mevlana"**
-- > **"Mutluluk bir duraktır değil, bir yolculuk biçimidir. - Buddha"**
+- > **"Benim bir karıncaya ulu nazarım vardır. - Yunus Emre"**
+- > **"Dün dünde kaldı cancağızım, bugün yeni şeyler söylemek lazım. - Mevlana"**
+- > **"Edep, aklın tercümanıdır. İnsan edebi kadar akıllı, aklı kadar şereflidir. - Şems-i Tebrizi"**
 
 <!-- END_QUOTE -->
 

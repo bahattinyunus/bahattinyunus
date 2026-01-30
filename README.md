@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Benim bir karıncaya ulu nazarım vardır. - Yunus Emre"**
-- > **"Dün dünde kaldı cancağızım, bugün yeni şeyler söylemek lazım. - Mevlana"**
-- > **"Edep, aklın tercümanıdır. İnsan edebi kadar akıllı, aklı kadar şereflidir. - Şems-i Tebrizi"**
+- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
+- > **"İncinsen de, incitme. - Hacı Bektaş Veli"**
+- > **"Dünyada bir garip gibi, yahut bir yolcu gibi ol. - Hadis-i Şerif (Tasavvufi düstur)"**
 
 <!-- END_QUOTE -->
 

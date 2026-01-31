@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Her şey bir döngüdür; ne ekersen onu biçersin. - Evrensel Yasa"**
-- > **"İncinsen de, incitme. - Hacı Bektaş Veli"**
-- > **"Dünyada bir garip gibi, yahut bir yolcu gibi ol. - Hadis-i Şerif (Tasavvufi düstur)"**
+- > **"İyiyi ara, güzeli ara, doğruyu ara ama kusur arama. - Mevlana"**
+- > **"Geçmişte yaşama, geleceği hayal etme, zihnini şu ana odakla. - Buddha"**
+- > **"Sabır acıdır ama meyvesi tatlıdır. - Aristo"**
 
 <!-- END_QUOTE -->
 

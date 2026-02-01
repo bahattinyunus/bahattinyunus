@@ -69,10 +69,12 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 <div align="center">
   <h3>🏆 Başarılar & Kupalar</h3>
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 <a id="tech"></a>
 ## 🛠️ Teknik Yetkinlikler (Tech Stack)
@@ -166,8 +168,8 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 ## 📊 Analitik Veriler & Katkı
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=radical&hide_border=true&locale=tr" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true&locale=tr" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&locale=tr" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="160" alt="Top Languages" />
 </div>
 
 <br />

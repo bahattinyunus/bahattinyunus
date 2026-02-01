@@ -159,10 +159,7 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
+
 
 <br />
 
@@ -197,23 +194,20 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ---
 
-## 🕯️ Entelektüel Derinlik & İlham
+## 🕯️ Entelektüel Veritabanı (Canlı Akış)
 
-> **"Sakarya Saf Çocuğu"**
->
-> *"İnsan üç beş damla kan, ırmak üç beş damla su;*
-> *Bir hayata çattık ki, hayata kurmuş pusu."*
->
-> — **Necip Fazıl Kısakürek**
-
-<br />
-
-> *"Düşünüyorum, öyleyse varım."* — **Descartes**
->
-> *"Lafı bırak, kodu göster."* — **Linus Torvalds**
+> **"Zihin, doldurulacak bir kap değil, tutuşturulacak bir ateştedir."**
 
 <div align="center">
   <br />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&duration=4000&pause=2000&color=2196F3&center=true&vCenter=true&width=750&lines=%22%C4%B0nsan+%C3%BC%C3%A7+be%C5%9F+damla+kan%2C+%C4%B1rmak+%C3%BC%C3%A7+be%C5%9F+damla+su%3B+Bir+hayata+%C3%A7att%C4%B1k+ki%2C+hayata+kurmu%C5%9F+pusu.%22+--+NFK;%22D%C3%BC%C5%9F%C3%BCn%C3%BCyorum%2C+%C3%B6yleyse+var%C4%B1m.%22+--+Descartes;%22En+b%C3%BCy%C3%BCk+sava%C5%9F%2C+cahilli%C4%9Fe+kar%C5%9F%C4%B1+yap%C4%B1lan+sava%C5%9Ft%C4%B1r.%22+--+M.+K.+Atat%C3%BCrk;%22Kendi+alevinle+yanmadan+nas%C4%B1l+yenilenebilirsin%3F%22+--+Nietzsche;%22Laf%C4%B1+b%C4%B1rak%2C+kodu+g%C3%B6ster.%22+--+Linus+Torvalds;%22Gelece%C4%9Fi+tahmin+etmenin+en+iyi+yolu%2C+onu+in%C5%9Fa+etmektir.%22+--+Alan+Kay;%22%C4%B0lim+ilim+bilmektir%2C+ilim+kendin+bilmektir.%22+--+Yunus+Emre;%22Sadece+%C3%B6l%C3%BCler+sava%C5%9F%C4%B1n+sonunu+g%C3%B6rm%C3%BC%C5%9Ft%C3%BCr.%22+--+Plato;%22Bili%C5%9Fim+%C3%A7a%C4%9F%C4%B1nda+cahillik%2C+bir+tercih+meselesidir.%22" alt="Intellectual Database" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <p><i>"Veri Kutusundan Çıkan Anlam, Geleceği Kodlayan Mühendis."</i></p>
   <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Ziyaret%C3%A7iler&color=2196F3&style=for-the-badge" alt="Profil Ziyaretçileri" />
 </div>

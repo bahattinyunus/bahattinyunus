@@ -66,13 +66,89 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 <br />
 
-### 🚀 Geliştirdiğim Projeler
+### 🌌 Vizyon Projeleri (Flagships)
 
-| Proje İsmi | Açıklama | Teknoloji | Tür |
-| :--- | :--- | :--- | :--- |
-| **🛡️ AI Defense Shield** | Ağ trafiğini analiz edip siber saldırıları anlık tespit eden otonom IDS sistemi. | `Python` `Snort` `TensorFlow` | **Güvenlik** |
-| **🧠 Neural Architect** | Veri setinin yapısına göre en uygun derin öğrenme modelini otomatik tasarlayan araç. | `PyTorch` `Scikit-Learn` | **Yapay Zeka** |
-| **🔐 Quantum Key Gen** | Geleceğin şifreleme standartlarına uygun, kuantum dirençli anahtar üreticisi. | `C++` `Qiskit` | **Kriptografi** |
+> **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)**
+>
+> *Mars gibi ekstrem koşullarda, milyarlarca km öteden yönetilebilen, ROS2 tabanlı tam otonom keşif ekosistemi.*
+> - **Neural Perception Engine:** Stereo kamera ve LiDAR füzyonu ile 360° durumsal farkındalık.
+> - **Derin Uzay Telemetrisi:** Gecikmeli haberleşme (DTN) ve hata izolasyonlu mikroservis mimarisi.
+> - **Navigasyon:** Bilinmeyen arazilerde VSLAM (ORB-SLAM3) ve Hibrit A* planlama.
+> - **Stack:** `ROS2` `C++17` `Python` `OpenCV` `Gazebo` `DDS`
+
+> **🧠 [ANKA-LLM: Milli AI İşletim Sistemi](https://github.com/bahattinyunus/ANKA-LLM)**
+>
+> *Türkiye'nin dijital egemenliği için geliştirilen, donanımdan bağımsız "Asimetrik Üstünlük" LLM mimarisi.*
+> - **Strateji:** 500 Milyar tokenlık TR-Corpus, morfolojik tokenizer ve kültürel hizalama.
+> - **Güvenlik:** Post-Kuantum Kriptografi ve yerli NPU simülasyon iskeleti.
+> - **Stack:** `Python` `PyTorch` `Transformers` `Unsloth` `NPU Ops`
+
+> **⚓ [Mavi Vatan 2053: Alpha-X Komuta Merkezi](https://github.com/bahattinyunus/denizalti-akademisi)**
+>
+> *Denizaltı harbi ve sualtı hakimiyeti için geliştirilen stratejik dijital doktrin ve komuta sistemi.*
+> - **Sessiz Güç:** Akustik iz yönetimi, termoklin katman analizi ve AIP enerji optimizasyonu.
+> - **Arsenal:** AKYA ve ATMACA entegrasyonlu, AI destekli sualtı balistik hesaplama.
+> - **Stack:** `Hydrodynamics` `Acoustic Fusion` `Python` `Strategy`
+
+> **💾 [Mekatronik Zanaat Rehberi](https://github.com/bahattinyunus/Mekatronik-Zanaat-Rehberi)**
+>
+> *Endüstri 4.0 ve "Metal Yaka" devrimi için geliştirilen, IT/OT entegrasyonlu "Siber Tamirci" el kitabı.*
+> - **Cognitive Maintenance 2.0:** Yapay zeka destekli arıza teşhisi ve kestirimci bakım metodolojisi.
+> - **Stack:** `PLC/SCADA` `Embedded C` `ROS` `Python` `System Arch`
+
+<br />
+
+### 📂 Proje Envanteri & Uzmanlık Alanları
+
+#### 🤖 Otonom Sistemler & Robotik
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack)** | Yarış araçları için yüksek hızlı otonom sürüş yığını. MPC & LiDAR SLAM. | `ROS2` `YOLOv8` `MPC` |
+| **[ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control)** | İnsan-Makine işbirliği odaklı Omega Edition Yer Kontrol İstasyonu. | `Digital Twin` `Edge AI` |
+| **[Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core)** | Rekabetçi robotik için milisaniye hassasiyetli SPDA kontrol çekirdeği. | `C++20` `EKF` `DDS` |
+| **[LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV)** | İstilacı türlerle mücadele eden, derin öğrenme destekli sualtı robotu. | `Jetson Orin` `PyTorch` |
+| **[Project-AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System)** | USV ve AUV birimlerini senkronize eden çok alanlı (Multi-Domain) sürü sistemi. | `Swarm` `Nav2` `MAVLink` |
+| **[Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi)** | Şehir içi tam otonom sürüş mimarisi. | `Stanley` `Pure Pursuit` |
+
+#### 🧠 Yapay Zeka & Veri Stratejisi
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[Akademik Radar](https://github.com/bahattinyunus/AkademikRadar)** | Küresel bilimsel trendleri analiz eden nöral semantik istihbarat motoru. | `SciBERT` `Graph Theory` |
+| **[Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM)** | LLM modellerini TRL metodolojisiyle analiz eden stratejik istihbarat platformu. | `Data Analysis` `TRL` |
+| **[NexusBroker](https://github.com/bahattinyunus/NexusBroker)** | AI destekli, güven gerektirmeyen (trustless) hibrit ticaret ekosistemi. | `Vector DB` `Solidity` |
+| **[DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design)** | Mikroşerit anten tasarımı için Yapay Sinir Ağı (ANN) tabanlı analiz platformu. | `TensorFlow` `Maxwell` |
+
+#### 🛡️ Savunma, Uzay & Siber Güvenlik
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti)** | Afet durumları için dijital HAM istasyonu ve acil durum haberleşme protokolü. | `SDR` `DMR/FT8` `SatCom` |
+| **[SIGINT HUB](https://github.com/bahattinyunus/SIGINT)** | Modern elektronik harp için sinyal istihbaratı ve spektrum analizi merkezi. | `DSP` `FFT` `ELINT` |
+| **[Radiosonde Hunting](https://github.com/bahattinyunus/Radiosonde-Hunting)** | Meteorolojik balon takibi ve gerçek zamanlı telemetri analiz portalı. | `SDR` `SondeHub` `Python` |
+| **[NOAA Station](https://github.com/bahattinyunus/NOAA)** | Uydu sinyal yakalama (APT) ve meteorolojik görüntü işleme birimi. | `Orbital` `Signal Proc.` |
+| **[Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri)** | Savunma ve yüksek teknoloji ekosistemi için stratejik TRL haritalama. | `Strategy` `Inventory` |
+| **[Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault)** | Veri kurtarma ve ileri steganografi (gizli iletişim) mahzeni. | `Forensics` `Steganography` |
+
+#### 🏗️ Endüstriyel Mimari & Sistemler
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON)** | Küresel silikon hegemonyasına karşı RISC-V tabanlı donanım manifestosu. | `RISC-V` `Deep Tech` |
+| **[Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler)** | Endüstri 4.0 Dijital İkiz ve Kestirimci Bakım platformu. | `IIoT` `Predictive Maint.` |
+| **[Agri-Arch-TR](https://github.com/bahattinyunus/teknofest_tarim_teknolojileri)** | Hassas tarım sistemleri için IoT ve Otonom Araç mimarisi. | `LoRaWAN` `Fuzzy Logic` |
+| **[CivTech-Core](https://github.com/bahattinyunus/CivTech-Core)** | İnşaat mühendisliğini AI ve IoT ile birleştiren açık kaynak framework. | `FEM` `Generative Design` |
+| **[PoseidonEye](https://github.com/bahattinyunus/PoseidonEye)** | Gemi makineleri için IoT tabanlı kestirimci bakım ve anomali tespiti. | `IoT` `Isolation Forest` |
+| **[Open Textile Intelligence](https://github.com/bahattinyunus/Open-Textile-Intelligence)** | Tekstilde otonom kalite kontrol ve bilgisayarlı görü platformu. | `Computer Vision` `Qt` |
+| **[Energy Grid Pulse](https://github.com/bahattinyunus/Energy-Grid-Pulse)** | Enerji teknolojileri için TRL analizi ve şebeke simülasyonu. | `Microgrid` `Simulation` |
+| **[E-VİZÖR](https://github.com/bahattinyunus/E-VIZOR)** | Otonom vergi ve evrak yönetim sistemi (FinTech). | `OCR` `Blockchain` |
+| **[Fin-Arch-TR](https://github.com/bahattinyunus/teknofest_finansal_teknolojiler)** | Kurumsal finansal sistemler ve çekirdek defter (Ledger) mimarisi. | `Event Sourcing` `ACID` |
+
+#### 💻 Yazılım Araçları & Frameworkler
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[Computer Efficiency](https://github.com/bahattinyunus/Computer-Efficiency-Mastery)** | "Supreme Master" verimlilik manifestosu. NixOS, Neovim ve optimizasyon. | `NixOS` `Neovim` `Linux` |
+| **[CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer)** | AST tabanlı kod mimarisi görselleştirme motoru. | `AST` `React` `FastAPI` |
+| **[PhysicEngine](https://github.com/bahattinyunus/PhysicEngine)** | Python tabanlı yüksek performanslı 2D fizik simülasyon motoru. | `Physics` `Vector Math` |
+| **[NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App)** | Gerçek zamanlı mesajlaşma ve sistem mimarisi iskeleti. | `Socket.IO` `Redis` |
+| **[BeeRoute](https://github.com/bahattinyunus/BeeRoute)** | Endüstriyel rotalama için stokastik sürü zekası (ABC) çerçevesi. | `Swarm Intel` `Optimization` |
 
 ---
 
@@ -95,14 +171,7 @@ Yazılım sadece kodlardan ibaret değildir; bir felsefesi ve ruhu vardır.
 
 ---
 
-## 📊 İstatistikler ve Analizler
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-</div>
-
-<br />
 
 ### 🐍 Katkı Geçmişim
 

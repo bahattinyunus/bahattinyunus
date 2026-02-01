@@ -10,12 +10,22 @@
     <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://kaggle.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-Profil-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+    </a>
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://img.shields.io/badge/HuggingFace-Modeller-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    </a>
     <a href="https://bahattinyunus.github.io/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolyo-Ziyaret_Et-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="https://bahattinyunus.manus.space/" target="_blank">
       <img src="https://img.shields.io/badge/Siber_Merkez-Erişim-24292e?style=for-the-badge&logo=cyber-defenses&logoColor=white" />
     </a>
+  </p>
+
+  <p>
+     <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
   </p>
 </div>
 
@@ -28,6 +38,16 @@
 - 🔭 **Gelişmiş Yapay Zeka Savunma Sistemleri** üzerine projeler geliştiriyorum.
 - 🌱 **Derin Pekiştirmeli Öğrenme** ve **Kuantum Kriptografi** konularında araştırmalar yapıyorum.
 - 💬 **Siber Güvenlik**, **Makine Öğrenmesi** ve **Python** hakkında deneyimlerimi paylaşmaktan mutluluk duyarım.
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **🛡️ AI Defense Shield** | Otonom siber savunma sistemi. Siber saldırıları gerçek zamanlı tespit eder. | `Python` `TensorFlow` `Snort` |
+| **🧠 Neural Architect** | Karmaşık veri setleri için otomatik model mimarisi öneren bir YZ aracı. | `PyTorch` `Scikit-Learn` |
+| **🔐 Quantum Key Gen** | Yeni nesil kuantum dirençli şifreleme algoritması prototipi. | `C++` `Qiskit` |
 
 ---
 
@@ -161,6 +181,10 @@
 ### 🧠 İlham Veren Söz
 
 > "Lafı bırak, kodu göster." - Linus Torvalds
+<br />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profil+Ziyaretçileri&color=0077B5&style=flat" alt="Profil Ziyaretçileri" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=60&section=footer" />

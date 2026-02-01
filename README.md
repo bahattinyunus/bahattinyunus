@@ -4,11 +4,12 @@
 
 <div align="center">
   <h1>Bahattin Yunus Çetin</h1>
-  <h3>Veri Bilimcisi | Siber Güvenlik Mimarı | Yapay Zeka Mühendisi</h3>
+  <h3>Otodidakt Araştırmacı | YZ Bilimcisi & BT Mimarı</h3>
+  <h4><i>Otonom Sistemler & Siber Güvenlik Uzmanı</i></h4>
   
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=G%C3%BCvenli%2C+Ak%C4%B1ll%C4%B1+ve+%C3%96l%C3%A7eklenebilir+Sistemler;Veri+Kutusundan+%C3%87%C4%B1kan+Anlam;Gelece%C4%9Fi+Kodlayan+M%C3%BChendis" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Otodidakt+Ara%C5%9Ft%C4%B1rmac%C4%B1+%7C+YZ+Bilimcisi;Otonom+Sistemler+%26+Siber+G%C3%BCvenlik;Ak%C4%B1ll%C4%B1+Bili%C5%9Fimin+S%C4%B1n%C4%B1rlar%C4%B1n%C4%B1+Ke%C5%9Ffediyor" alt="Typing SVG" />
     </a>
   </p>
 
@@ -35,11 +36,11 @@
 
 ## 👨‍💻 Hakkımda
 
-Ben **Bahattin Yunus**, teknolojinin sınırlarında gezinmeyi seven bir **Veri Bilimcisi ve Siber Güvenlik Mimarıyım**. 2.5 yılı aşkın süredir, yapay zekayı savunma sistemleriyle birleştirerek daha güvenli bir dijital gelecek inşa etmek için çalışıyorum. Karmaşık veri setlerinden anlam çıkarmak ve siber tehditleri otonom sistemlerle avlamak benim tutkum.
+Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi** ve **BT Mimarıyım**. Otonom sistemler ve siber güvenlik üzerine uzmanlaşarak, **Akıllı Bilişimin Sınırlarını Keşfetmek** misyonumdur.
 
 > *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."*
 
-- 🔭 **Odak Alanım:** Otonom Siber Savunma Sistemleri & Derin Pekiştirmeli Öğrenme.
+- 🔭 **Odak Alanım:** Otonom Sistemler, Siber Güvenlik & **Akıllı Bilişimin Sınırları**.
 - 🌱 **Araştırma:** Kuantum Kriptografi ve Post-Quantum Güvenlik Algoritmaları.
 - 💬 **İletişim:** Teknoloji, yapay zeka ve güvenlik üzerine her zaman konuşabiliriz.
 

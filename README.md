@@ -166,8 +166,8 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 ## 📊 Analitik Veriler & Katkı
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=radical&hide_border=true&locale=tr" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true&locale=tr&count_private=true" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=radical&hide_border=true&locale=tr" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true&locale=tr" height="160" alt="Top Languages" />
 </div>
 
 <br />

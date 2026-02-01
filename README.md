@@ -59,11 +59,13 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ## 🧠 Mühendislik Doktrini
 
-Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kalan (survivable)** ve **öğrenen** sistemler inşa etmektir.
+> *"Basitlik, karmaşıklığın bittiği yerdeki en üstün gelişmişliktir."*
 
-*   **⚡ Deterministik ve Otonom:** Sistemler insan müdahalesi olmadan karar verebilmeli, kendi hatalarını izole edebilmeli (Fault Tolerance).
-*   **🛡️ "Security by Design":** Güvenlik, sonradan eklenen bir yama değil, mimarinin temel taşıdır.
-*   **🦅 Entelektüel Bağımsızlık:** Teknolojiyi tüketmek yetmez; onu "İlk Prensipler" (First Principles) ile yeniden üretmek gerekir.
+Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sarsılmaz bir düzen** inşa etme sanatıdır.
+
+*   **⚡ Anti-Kırılganlık (Anti-Fragility):** Sistemler baskı altında çökmek yerine, bu kaostan öğrenip güçlenmelidir. "Survivability" bir tercih değil, zorunluluktur.
+*   **🛡️ Sıfır Güven (Zero Trust) Mimarisi:** "Güven, ama doğrula" dönemi bitti. **"Asla güvenme, her an doğrula."** Güvenlik, mimarinin DNA'sındadır.
+*   **🦅 İlk Prensipler (First Principles):** Yaygın kabulleri reddederim. Bir sorunu çözmek için onu atomlarına ayırır, fiziğin ve matematiğin temel gerçekleriyle yeniden inşa ederim.
 
 ---
 

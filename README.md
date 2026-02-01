@@ -166,7 +166,7 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 ## 📊 Analitik Veriler & Katkı
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
@@ -212,7 +212,7 @@ Teknoloji, paylaşıldıkça büyüyen tek kaynaktır. **Otonom Sistemler**, **S
 
 <div align="center">
   <br />
-  <a href="mailto:iletisim@bahattinyunus.com">
+  <a href="mailto:bahattinyunuscetin@hotmail.com">
     <img src="https://img.shields.io/badge/E--Posta-G%C3%B6nder-2196F3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/">

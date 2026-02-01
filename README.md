@@ -152,26 +152,19 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ---
 
-## 📜 İlham Kaynaklarım
+## � Analitik Veriler & Katkı
 
-Yazılım sadece kodlardan ibaret değildir; bir felsefesi ve ruhu vardır.
+<div align="center">
+  <h3>🏆 Başarılar & Kupalar</h3>
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
-> **"Sakarya Saf Çocuğu"**
->
-> *"İnsan üç beş damla kan, ırmak üç beş damla su;*
-> *Bir hayata çattık ki, hayata kurmuş pusu."*
->
-> — **Necip Fazıl Kısakürek**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+</div>
 
 <br />
-
-> *"Düşünüyorum, öyleyse varım."* — **Descartes**
->
-> *"Lafı bırak, kodu göster."* — **Linus Torvalds**
-
----
-
-
 
 ### 🐍 Katkı Geçmişim
 
@@ -185,7 +178,7 @@ Yazılım sadece kodlardan ibaret değildir; bir felsefesi ve ruhu vardır.
 
 ---
 
-## 🎓 Sertifikalar ve Yetkinlikler
+## 🎓 Sertifikalar & Yetkinlikler
 
 <details>
 <summary><b>📜 Detaylı Sertifika Listesini Görüntüle (50+)</b></summary>
@@ -202,10 +195,25 @@ Yazılım sadece kodlardan ibaret değildir; bir felsefesi ve ruhu vardır.
 
 </details>
 
+---
+
+## 🕯️ Entelektüel Derinlik & İlham
+
+> **"Sakarya Saf Çocuğu"**
+>
+> *"İnsan üç beş damla kan, ırmak üç beş damla su;*
+> *Bir hayata çattık ki, hayata kurmuş pusu."*
+>
+> — **Necip Fazıl Kısakürek**
+
 <br />
 
+> *"Düşünüyorum, öyleyse varım."* — **Descartes**
+>
+> *"Lafı bırak, kodu göster."* — **Linus Torvalds**
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=60&section=footer" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profil+Ziyaretçileri&color=2196F3&style=flat-square" alt="Profil Ziyaretçileri" />
+  <p><i>"Veri Kutusundan Çıkan Anlam, Geleceği Kodlayan Mühendis."</i></p>
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Ziyaret%C3%A7iler&color=2196F3&style=for-the-badge" alt="Profil Ziyaretçileri" />
 </div>

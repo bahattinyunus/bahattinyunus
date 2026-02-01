@@ -398,9 +398,9 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İyiyi ara, güzeli ara, doğruyu ara ama kusur arama. - Mevlana"**
+- > **"Düşünüyorum, öyleyse varım. - Descartes"**
 - > **"Geçmişte yaşama, geleceği hayal etme, zihnini şu ana odakla. - Buddha"**
-- > **"Sabır acıdır ama meyvesi tatlıdır. - Aristo"**
+- > **"Küsmek ve darılmak için bahaneler arayacağına, sevmek ve sevilmek için çareler ara. - Mevlana"**
 
 <!-- END_QUOTE -->
 

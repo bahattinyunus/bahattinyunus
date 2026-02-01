@@ -34,15 +34,36 @@
 
 <br />
 
-## 👨‍💻 Hakkımda
+<div align="center">
+  <a href="#vision">🎯 Vizyon</a> &nbsp;•&nbsp;
+  <a href="#tech">🛠️ Teknoloji</a> &nbsp;•&nbsp;
+  <a href="#projects">� Projeler</a> &nbsp;•&nbsp;
+  <a href="#stats">� Analiz</a> &nbsp;•&nbsp;
+  <a href="#contact">🤝 İletişim</a>
+</div>
+
+<br />
+
+<a id="vision"></a>
+## 🎯 Vizyon & Profesyonel Özet
 
 Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi** ve **BT Mimarıyım**. Otonom sistemler ve siber güvenlik üzerine uzmanlaşarak, **Akıllı Bilişimin Sınırlarını Keşfetmek** misyonumdur.
 
-> *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."*
+> *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."* - Einstein
 
 - 🔭 **Odak Alanım:** Otonom Sistemler, Siber Güvenlik & **Akıllı Bilişimin Sınırları**.
 - 🌱 **Araştırma:** Kuantum Kriptografi ve Post-Quantum Güvenlik Algoritmaları.
 - 💬 **İletişim:** Teknoloji, yapay zeka ve güvenlik üzerine her zaman konuşabiliriz.
+
+---
+
+## 🧠 Mühendislik Doktrini
+
+Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kalan (survivable)** ve **öğrenen** sistemler inşa etmektir.
+
+*   **⚡ Deterministik ve Otonom:** Sistemler insan müdahalesi olmadan karar verebilmeli, kendi hatalarını izole edebilmeli (Fault Tolerance).
+*   **🛡️ "Security by Design":** Güvenlik, sonradan eklenen bir yama değil, mimarinin temel taşıdır.
+*   **🦅 Entelektüel Bağımsızlık:** Teknolojiyi tüketmek yetmez; onu "İlk Prensipler" (First Principles) ile yeniden üretmek gerekir.
 
 ---
 
@@ -53,6 +74,7 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ---
 
+<a id="tech"></a>
 ## 🛠️ Teknik Yetkinlikler (Tech Stack)
 
 <div align="center">
@@ -66,6 +88,7 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 <br />
 
+<a id="projects"></a>
 ### 🌌 Vizyon Projeleri (Flagships)
 
 > **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)**
@@ -139,18 +162,17 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ---
 
-## � Analitik Veriler & Katkı
+<a id="stats"></a>
+## 📊 Analitik Veriler & Katkı
 
 <div align="center">
-  <h3>🏆 Başarılar & Kupalar</h3>
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
-
-
 
 <br />
 
-### 🐍 Katkı Geçmişim
+### 🐍 Aktivite & Katkı Döngüsü
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
@@ -183,6 +205,7 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 
 
+<a id="contact"></a>
 ## 🤝 İşbirliği & Temas (Connect)
 
 Teknoloji, paylaşıldıkça büyüyen tek kaynaktır. **Otonom Sistemler**, **Siber Savunma** veya **Yapay Zeka Mimarileri** üzerine stratejik işbirlikleri ve Ar-Ge tartışmaları için iletişime geçebilirsiniz.

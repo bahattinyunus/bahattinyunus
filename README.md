@@ -55,7 +55,9 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 - 🌱 **Araştırma:** Kuantum Kriptografi ve Post-Quantum Güvenlik Algoritmaları.
 - 💬 **İletişim:** Teknoloji, yapay zeka ve güvenlik üzerine her zaman konuşabiliriz.
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 ## 🧠 Mühendislik Doktrini
 
@@ -65,14 +67,18 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 *   **🛡️ "Security by Design":** Güvenlik, sonradan eklenen bir yama değil, mimarinin temel taşıdır.
 *   **🦅 Entelektüel Bağımsızlık:** Teknolojiyi tüketmek yetmez; onu "İlk Prensipler" (First Principles) ile yeniden üretmek gerekir.
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 <div align="center">
   <h3>🏆 Başarılar & Kupalar</h3>
   <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 <a id="tech"></a>
 ## 🛠️ Teknik Yetkinlikler (Tech Stack)
@@ -80,7 +86,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 <div align="center">
 
 | **Yapay Zeka & Veri** | **Siber Güvenlik & Araçlar** | **Geliştirme & Altyapı** |
-|:---:|:---:|:---:|
+|:<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>:|:<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>:|:<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>:|
 | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,sklearn" /> | <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,tor,bash" /> | <img src="https://skillicons.dev/icons?i=python,cpp,go,js,docker,git" /> |
 | **TensorFlow**, **PyTorch**, **OpenCV** | **Kali Linux**, **Wireshark**, **Metasploit** | **Python**, **C++**, **Go**, **Docker** |
 
@@ -112,7 +124,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 #### 🤖 Otonom Sistemler & Robotik
 | Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **[Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack)** | Yarış araçları için yüksek hızlı otonom sürüş yığını. MPC & LiDAR SLAM. | `ROS2` `YOLOv8` `MPC` |
 | **[ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control)** | İnsan-Makine işbirliği odaklı Omega Edition Yer Kontrol İstasyonu. | `Digital Twin` `Edge AI` |
 | **[Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core)** | Rekabetçi robotik için milisaniye hassasiyetli SPDA kontrol çekirdeği. | `C++20` `EKF` `DDS` |
@@ -122,7 +140,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 #### 🧠 Yapay Zeka & Veri Stratejisi
 | Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **[Akademik Radar](https://github.com/bahattinyunus/AkademikRadar)** | Küresel bilimsel trendleri analiz eden nöral semantik istihbarat motoru. | `SciBERT` `Graph Theory` |
 | **[Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM)** | LLM modellerini TRL metodolojisiyle analiz eden stratejik istihbarat platformu. | `Data Analysis` `TRL` |
 | **[NexusBroker](https://github.com/bahattinyunus/NexusBroker)** | AI destekli, güven gerektirmeyen (trustless) hibrit ticaret ekosistemi. | `Vector DB` `Solidity` |
@@ -130,7 +154,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 #### 🛡️ Savunma, Uzay & Siber Güvenlik
 | Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **[Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti)** | Afet durumları için dijital HAM istasyonu ve acil durum haberleşme protokolü. | `SDR` `DMR/FT8` `SatCom` |
 | **[SIGINT HUB](https://github.com/bahattinyunus/SIGINT)** | Modern elektronik harp için sinyal istihbaratı ve spektrum analizi merkezi. | `DSP` `FFT` `ELINT` |
 | **[Radiosonde Hunting](https://github.com/bahattinyunus/Radiosonde-Hunting)** | Meteorolojik balon takibi ve gerçek zamanlı telemetri analiz portalı. | `SDR` `SondeHub` `Python` |
@@ -140,7 +170,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 #### 🏗️ Endüstriyel Mimari & Sistemler
 | Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **[ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON)** | Küresel silikon hegemonyasına karşı RISC-V tabanlı donanım manifestosu. | `RISC-V` `Deep Tech` |
 | **[Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler)** | Endüstri 4.0 Dijital İkiz ve Kestirimci Bakım platformu. | `IIoT` `Predictive Maint.` |
 | **[Agri-Arch-TR](https://github.com/bahattinyunus/teknofest_tarim_teknolojileri)** | Hassas tarım sistemleri için IoT ve Otonom Araç mimarisi. | `LoRaWAN` `Fuzzy Logic` |
@@ -153,14 +189,22 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 #### 💻 Yazılım Araçları & Frameworkler
 | Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **[Computer Efficiency](https://github.com/bahattinyunus/Computer-Efficiency-Mastery)** | "Supreme Master" verimlilik manifestosu. NixOS, Neovim ve optimizasyon. | `NixOS` `Neovim` `Linux` |
 | **[CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer)** | AST tabanlı kod mimarisi görselleştirme motoru. | `AST` `React` `FastAPI` |
 | **[PhysicEngine](https://github.com/bahattinyunus/PhysicEngine)** | Python tabanlı yüksek performanslı 2D fizik simülasyon motoru. | `Physics` `Vector Math` |
 | **[NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App)** | Gerçek zamanlı mesajlaşma ve sistem mimarisi iskeleti. | `Socket.IO` `Redis` |
 | **[BeeRoute](https://github.com/bahattinyunus/BeeRoute)** | Endüstriyel rotalama için stokastik sürü zekası (ABC) çerçevesi. | `Swarm Intel` `Optimization` |
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 <a id="stats"></a>
 ## 📊 Analitik Veriler & Katkı
@@ -182,7 +226,9 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
   <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 ## 🎓 Sertifikalar & Yetkinlikler
 
@@ -191,7 +237,13 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 <br />
 
 | Tarih | Sertifika Adı | Sağlayıcı |
-| :--- | :--- | :--- |
+| :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> | :<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div> |
 | **Ocak 2026** | **Intro to AI & LLM Architectures** | BTK Akademi |
 | **Aralık 2025** | **Advanced Cyber Security Ops** | BTK Akademi |
 | **Aralık 2025** | **Data Science Specialization** | Google |
@@ -201,7 +253,9 @@ Mühendislik yaklaşımım, sadece "çalışan" kod yazmak değil, **hayatta kal
 
 </details>
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 
 
@@ -220,7 +274,9 @@ Teknoloji, paylaşıldıkça büyüyen tek kaynaktır. **Otonom Sistemler**, **S
   </a>
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.png" width="100%" height="20" />
+</div>
 
 <div align="center">
   <br />

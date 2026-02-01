@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header_v3.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(100, 50, 255, 0.5);" alt="Bahattin Yunus Çetin - Visionary AI Architect" />
+  <img src="assets/header_v4.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 50px rgba(0, 180, 255, 0.4);" alt="Bahattin Yunus Çetin - AI Architect" />
 </div>
 
 <div align="center">

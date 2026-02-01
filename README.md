@@ -1,28 +1,8 @@
 
-<!----
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Cairo&weight=700&size=40&duration=4000&pause=1500&color=E74C3C&center=true&vCenter=true&width=1000&lines=فَإِنَّ+مَعَ+الْعُسْرِ+يُسْرًا;With+hardship+comes+ease.;Şüphesiz+her+zorlukla+beraber+bir+kolaylık+vardır." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SURAH-AL--INSHIRAH-1a1a1a?style=for-the-badge&logo=codeforces&logoColor=E74C3C" />
-  <img src="https://img.shields.io/badge/PROBLEM-SOLVING-E74C3C?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E74C3C&height=2&section=footer&width=400" />
-</p>
----->
-  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&duration=3500&pause=1000&color=556B2F&center=true&vCenter=true&width=750&lines=COMMAND+PROTOCOL+INITIATED...;+Disiplin+Şiarımız+Görev+Aşkımız+Feda+Canımız+" />
-  </h1>
-
 
 
 <div align="center">
-  <img src="assets/header.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);" alt="Bahattin Yunus Çetin - Cyber Architect" />
+  <img src="assets/header_v2.png" width="100%" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 150, 255, 0.4);" alt="Bahattin Yunus Çetin - AI & Cyber Architect" />
 </div>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 

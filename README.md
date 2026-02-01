@@ -25,7 +25,7 @@
   </p>
 
   <p>
-     <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+     <!-- <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" /> -->
   </p>
 </div>
 
@@ -74,13 +74,13 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=0077B5&line=0077B5&point=0077B5&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=0077B5&line=0077B5&point=0077B5&area=true&hide_border=true" width="100%" alt="Activity Graph" /> -->
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <!-- <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/> -->
 </div>
 
 ---

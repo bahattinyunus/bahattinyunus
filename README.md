@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
   <img src="assets/header_v4.png" width="100%" style="border-radius: 12px; box-shadow: 0 0 50px rgba(0, 180, 255, 0.4);" alt="Bahattin Yunus Çetin - AI Architect" />
 </div>
@@ -37,8 +38,8 @@
 <div align="center">
   <a href="#vision">🎯 Vizyon</a> &nbsp;•&nbsp;
   <a href="#tech">🛠️ Teknoloji</a> &nbsp;•&nbsp;
-  <a href="#projects">� Projeler</a> &nbsp;•&nbsp;
-  <a href="#stats">� Analiz</a> &nbsp;•&nbsp;
+  <a href="#projects">📂 Projeler</a> &nbsp;•&nbsp;
+  <a href="#stats">📊 Analiz</a> &nbsp;•&nbsp;
   <a href="#contact">🤝 İletişim</a>
 </div>
 
@@ -54,6 +55,8 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 - 🔭 **Odak Alanım:** Otonom Sistemler, Siber Güvenlik & **Akıllı Bilişimin Sınırları**.
 - 🌱 **Araştırma:** Kuantum Kriptografi ve Post-Quantum Güvenlik Algoritmaları.
 - 💬 **İletişim:** Teknoloji, yapay zeka ve güvenlik üzerine her zaman konuşabiliriz.
+
+<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 ---
 
@@ -89,6 +92,8 @@ Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sars�
 | **TensorFlow**, **PyTorch**, **OpenCV** | **Kali Linux**, **Wireshark**, **Metasploit** | **Python**, **C++**, **Go**, **Docker** |
 
 </div>
+
+<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 <br />
 
@@ -164,6 +169,8 @@ Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sars�
 | **[NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App)** | Gerçek zamanlı mesajlaşma ve sistem mimarisi iskeleti. | `Socket.IO` `Redis` |
 | **[BeeRoute](https://github.com/bahattinyunus/BeeRoute)** | Endüstriyel rotalama için stokastik sürü zekası (ABC) çerçevesi. | `Swarm Intel` `Optimization` |
 
+<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
+
 ---
 
 <a id="stats"></a>
@@ -185,6 +192,8 @@ Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sars�
 <div align="center">
   <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
+
+<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 ---
 
@@ -268,6 +277,8 @@ Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sars�
 | **...** | **(ve diğer 30+ kişisel gelişim sertifikası)** | **Çeşitli Platformlar** | *Soft Skills & Law* |
 
 </details>
+
+<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 ---
 

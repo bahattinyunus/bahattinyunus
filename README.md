@@ -3,7 +3,9 @@
   <h3>Veri Bilimcisi | Siber Güvenlik Mimarı | Yapay Zeka Mühendisi</h3>
   
   <p>
-    <i>Güvenli, akıllı ve ölçeklenebilir sistemler inşa ediyorum.</i>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=G%C3%BCvenli%2C+Ak%C4%B1ll%C4%B1+ve+%C3%96l%C3%A7eklenebilir+Sistemler;Veri+ve+Yapay+Zeka+Odakll%C4%B1+%C3%87%C3%B6z%C3%BCmler;Gelece%C4%9Fi+Kodlayan+M%C3%BChendis" alt="Typing SVG" />
+    </a>
   </p>
 
   <p>
@@ -23,7 +25,7 @@
       <img src="https://img.shields.io/badge/Siber_Merkez-Erişim-24292e?style=for-the-badge&logo=cyber-defenses&logoColor=white" />
     </a>
   </p>
-
+  
   <p>
      <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
   </p>
@@ -38,6 +40,15 @@
 - 🔭 **Gelişmiş Yapay Zeka Savunma Sistemleri** üzerine projeler geliştiriyorum.
 - 🌱 **Derin Pekiştirmeli Öğrenme** ve **Kuantum Kriptografi** konularında araştırmalar yapıyorum.
 - 💬 **Siber Güvenlik**, **Makine Öğrenmesi** ve **Python** hakkında deneyimlerimi paylaşmaktan mutluluk duyarım.
+
+---
+
+<div align="center">
+  <h3>🌍 Konuştuğum Diller</h3>
+  <img src="https://img.shields.io/badge/Türkçe-Ana_Dil-tr?style=flat-square&color=E30A17" />
+  <img src="https://img.shields.io/badge/İngilizce-Profesyonel-en?style=flat-square&color=00247D" />
+  <img src="https://img.shields.io/badge/Kod-Akıcı-code?style=flat-square&color=black" />
+</div>
 
 ---
 
@@ -60,6 +71,17 @@
 | <img src="https://skillicons.dev/icons?i=python,cpp,go,js,c" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,sklearn" /> | <img src="https://skillicons.dev/icons?i=git,docker,linux,arduino,vscode" /> |
 | **Python**, **C++**, **Go**, **JavaScript** | **TensorFlow**, **PyTorch**, **OpenCV** | **Linux**, **Git**, **Docker** |
 
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🛡️ Siber Güvenlik & Pentest Araçları</h3>
+  <img src="https://img.shields.io/badge/Kali_Linux-Saldırı_Platformu-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Ağ_Analizi-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-Web_Güvenliği-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-Anonimlik-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" />
 </div>
 
 ---

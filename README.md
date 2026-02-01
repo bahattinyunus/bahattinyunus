@@ -47,8 +47,8 @@
 ## 📊 İstatistikler ve Analizler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=999" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=buefy" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=buefy" height="150" alt="Top Languages" />
 </div>
 
 <br />

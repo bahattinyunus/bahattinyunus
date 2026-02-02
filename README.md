@@ -48,13 +48,21 @@
 <a id="vision"></a>
 ## 🎯 Vizyon & Profesyonel Özet
 
-Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi** ve **BT Mimarıyım**. Otonom sistemler ve siber güvenlik üzerine uzmanlaşarak, **Akıllı Bilişimin Sınırlarını Keşfetmek** misyonumdur.
+Teknoloji, sadece kod yazmak değil; **geleceği inşa etmektir**.
 
-> *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."* - Einstein
+Ben **Bahattin Yunus**; disiplinlerarası bir yaklaşımla **Yapay Zeka**, **Otonom Sistemler** ve **Siber Güvenlik** ekseninde çalışan; sadece teknolojiyi kullanan değil, temel prensiplerini yeniden tanımlayan bir **Otodidakt Araştırmacı** ve **Sistem Mimarıyım**. 
 
-- 🔭 **Odak Alanım:** Otonom Sistemler, Siber Güvenlik & **Akıllı Bilişimin Sınırları**.
-- 🌱 **Araştırma:** Kuantum Kriptografi ve Post-Quantum Güvenlik Algoritmaları.
-- 💬 **İletişim:** Teknoloji, yapay zeka ve güvenlik üzerine her zaman konuşabiliriz.
+Dijital dünyanın kaotik yapısı içinde, deterministik ve öngörülebilir sistemler kurmak benim temel yetkinliğimdir. Çalışmalarım, klasik yazılım mühendisliğinin ötesine geçerek; **Savunma Sanayii**'nin kritik güvenlik gereksinimlerinden, **Finansal Teknolojilerin** yüksek işlem hacimli mimarilerine kadar geniş bir spektrumu kapsar.
+
+Amacım net: **Karmaşık, çok boyutlu ve belirsizlik içeren endüstriyel problemleri; ölçeklenebilir, kendi kendini yönetebilen ve matematiksel olarak kanıtlanabilir 'Güvenli Zeka' sistemlerine dönüştürmek.**
+
+Klasik mühendislik sınırlarının ötesinde, **teorik matematiği** pratik **saha uygulamalarıyla** birleştirerek; dijital egemenlik, kuantum sonrası güvenlik ve dağıtık zeka ağları üzerine stratejik mimariler geliştiriyorum.
+
+> *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."* - **Albert Einstein**
+
+- 🔭 **Misyon:** Akıllı Bilişimin Sınırlarını Keşfetmek & Otonom Geleceği Tasarlamak.
+- 🧬 **Metodoloji:** First Principles Thinking (İlk Prensipler) & Anti-Fragile Architecture.
+- 🎯 **Odak:** Savunma Sanayii, Finansal Teknolojiler ve Büyük Dil Modelleri (LLM).
 
 <div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
@@ -62,13 +70,28 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ## 🧠 Mühendislik Doktrini
 
-> **"Basitlik, karmaşıklığın bittiği yerdeki en üstün gelişmişliktir."**
->
-> Mühendislik, benim için sadece sistem kurmak değil; **kaosun ortasında sarsılmaz bir düzen** inşa etme sanatıdır.
->
-> *   **⚡ Anti-Kırılganlık (Anti-Fragility):** Sistemler baskı altında çökmek yerine, bu kaostan öğrenip güçlenmelidir. "Survivability" bir tercih değil, zorunluluktur.
-> *   **🛡️ Sıfır Güven (Zero Trust):** "Güven, ama doğrula" dönemi bitti. **"Asla güvenme, her an doğrula."** Güvenlik, mimarinin DNA'sındadır.
-> *   **🦅 İlk Prensipler (First Principles):** Yaygın kabulleri reddederim. Bir sorunu çözmek için onu atomlarına ayırır, fiziğin ve matematiğin temel gerçekleriyle yeniden inşa ederim.
+> **"Basitlik, karmaşıklığın nihai çözümüdür."**
+
+Mühendislik yaklaşımım; sadece kod yazmak değil, **kaosun içinde deterministik ve sürdürülebilir düzen** inşa etmektir.
+
+*   **⚡ Anti-Fragility (Anti-Kırılganlık):**  
+    Klasik dayanıklılık (resilience) kavramı, darbeye dayanıp eski haline dönmeyi hedefler. Anti-kırılganlık ise **kaostan beslenir**. Tasarladığım sistemler, yüksek stres, siber saldırı veya beklenmedik yük durumlarında sadece ayakta kalmaz; bu anomalileri birer **"öğrenme verisi"** olarak işleyerek mimari bağışıklığını güçlendirir.
+    
+*   **🛡️ Zero Trust Architecture (Sıfır Güven):**  
+    Güvenlik, bir güvenlik duvarı (firewall) veya antivirüs yazılımı değildir; sistemin en küçük yapı taşına kadar işlenmiş bir **genetik koddur**. Ağ içindeki her mikro-servis, her veri paketi ve her kullanıcı kimliği; "dışarıdan gelmiş bir tehdit" muamelesi görür ve her adımda kriptografik olarak doğrulanır. **"Asla güvenme, her zaman doğrula."**
+    
+*   **🦅 First Principles (İlk Prensipler):**  
+    Mevcut çözümleri kopyalamak (analoji) yerine, problemleri fiziksel ve mantıksal atomlarına ayırarak **kökten çözümler** üretirim. Bir sistemin "nasıl" yapıldığını değil, "neden" o şekilde çalışması gerektiğini sorgular; optimum çözümü sıfırdan, temel doğrular üzerine inşa ederim.
+
+---
+
+## 🔬 Araştırma & Geliştirme Odakları (R&D Pillars)
+
+**Meta-Mühendislik & Kognitif Çekirdek Tasarımı**
+"Software 2.0" paradigmasının ötesine geçerek; yazılımın üretim sürecini insan bağımlı bir "zanaat" (craftsmanship) olmaktan çıkarıp, deterministik ve endüstriyel bir otonomi seviyesine taşıyorum. Kendi kendini analiz eden (Self-Introspection), çalışma zamanında hatalarını yamayan (Runtime Patching) ve sürekli optimize eden **"Polymorphic Codebases"** (Polimorfik Kod Tabanları) üzerine mimari araştırmalar yürütüyorum.
+
+**Edge AI & Silikon Bağımsızlığı (Silicon Sovereignty)**
+Merkezi bulut sağlayıcılarının (Cloud Oligarchy) veri üzerindeki hakimiyetini kırmak için; yapay zekayı veri merkezlerinden çıkarıp uç cihazlara (Edge) indirgiyorum. **`INT4` Quantization**, **Knowledge Distillation** ve **Pruning** tekniklerini birleştirerek; milyarlarca parametreli modelleri, internet bağlantısına ihtiyaç duymayan, enerji verimli ve gizlilik odaklı **"Gömülü Zeka"** (Embedded Intelligence) birimlerine dönüştürüyorum.
 
 ---
 
@@ -82,6 +105,8 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 </div>
 
 <a id="tech"></a>
+
+
 ## 🛠️ Teknik Yetkinlikler (Tech Stack)
 
 <div align="center">
@@ -103,17 +128,17 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 > **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)**
 >
 > **`ROS2` `C++17` `Deep Space`**
-> *Mars gibi ekstrem koşullarda, milyarlarca km öteden yönetilebilen tam otonom keşif işletim sistemi.*
+> *Yüksek radyasyon, termal dalgalanmalar ve ekstrem iletişim gecikmeleri (High-Latency) altında çalışabilen; görev kritik (Mission-Critical) sistemler için özel olarak optimize edilmiş, gerçek zamanlı (RTOS) ve hataya dayanıklı (Fault-Tolerant) bir otonom keşif mimarisi.*
 
 > **🧠 [ANKA-LLM: Milli AI İşletim Sistemi](https://github.com/bahattinyunus/ANKA-LLM)**
 >
 > **`LLM Architecture` `NPU Design` `Digital Sovereignty`**
-> *Türkiye'nin dijital egemenliği için geliştirilen, donanımdan bağımsız "Asimetrik Üstünlük" yapay zeka mimarisi.*
+> *Ulusal veri güvenliği standartlarına (GDPR/KVKK) tam uyumlu, hassas verilerin ülke sınırları dışına çıkmasını engelleyen; donanım agnostik yapısıyla hem yerel sunucularda hem de bulut kümelerinde yüksek performansla çalışabilen ölçeklenebilir Büyük Dil Modeli (LLM) altyapısı.*
 
 > **⚓ [Mavi Vatan 2053: Alpha-X Komuta Merkezi](https://github.com/bahattinyunus/denizalti-akademisi)**
 >
 > **`Defense Tech` `Acoustic Stealth` `Strategy`**
-> *Denizaltı harbi ve akustik hakimiyet için geliştirilen stratejik dijital doktrin ve komuta sistemi.*
+> *Modern denizaltı harbi (ASW) doktrinleri için geliştirilmiş; sualtı akustik sinyal işleme, hedef tespiti ve otonom karar destek mekanizmalarını tek bir merkezde birleştiren, ağ merkezli (Network-Centric) ve modüler bir dijital komuta kontrol çerçevesi.*
 
 <br />
 
@@ -293,17 +318,19 @@ Ben **Bahattin Yunus**, **"Otodidakt Araştırmacı"**, **Yapay Zeka Bilimcisi**
 
 ---
 
-
-
 <a id="contact"></a>
-## 🤝 İşbirliği & Temas (Connect)
+### 🤝 İşbirliği & Temas (Connect)
 
-Teknoloji, paylaşıldıkça büyüyen tek kaynaktır. **Otonom Sistemler**, **Siber Savunma** veya **Yapay Zeka Mimarileri** üzerine stratejik işbirlikleri ve Ar-Ge tartışmaları için iletişime geçebilirsiniz.
+**Teknik İşbirliği & Stratejik Partnerlik**
+
+Dijital dünyanın sınırlarını zorlayan projelerde, **"yol arkadaşlığı"** yapacak vizyoner zihinlere kapım her zaman açıktır.
+
+Özellikle **Otonom Sürü Sistemleri (Swarm Intelligence)**, **Kuantum-Dirençli Kriptografi (PQC)** ve **Dağıtık Yapay Zeka Mimarileri** alanlarında; derin teknik uzmanlık gerektiren Ar-Ge süreçleri, akademik araştırmalar veya endüstriyel ölçekli sistem tasarımları için benimle iletişime geçebilirsiniz. Fikir alışverişinden öte, **uygulanabilir ve ölçeklenebilir çözümler** üretmek için buradayım.
 
 <div align="center">
   <br />
   <a href="mailto:bahattinyunuscetin@hotmail.com">
-    <img src="https://img.shields.io/badge/E--Posta-G%C3%B6nder-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/E--Posta-G%C3%BCnder-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/">
     <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

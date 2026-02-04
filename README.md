@@ -5,12 +5,12 @@
 
 <div align="center">
   <h1>Bahattin Yunus Çetin</h1>
-  <h3>Otodidakt Araştırmacı | YZ Bilimcisi & BT Mimarı</h3>
-  <h4><i>Otonom Sistemler & Siber Güvenlik Uzmanı</i></h4>
+  <h3>AI Engineer | Aspiring Systems Architect</h3>
+  <h4><i>Specialized in Autonomous Systems & Cybersecurity</i></h4>
   
   <p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Otodidakt+Ara%C5%9Ft%C4%B1rmac%C4%B1+%7C+YZ+Bilimcisi;Otonom+Sistemler+%26+Siber+G%C3%BCvenlik;Ak%C4%B1ll%C4%B1+Bili%C5%9Fimin+S%C4%B1n%C4%B1rlar%C4%B1n%C4%B1+Ke%C5%9Ffediyor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Aspiring+Systems+Architect;Specialized+in+Autonomous+Systems+%26+Cybersecurity;Building+Scalable+%26+Secure+Future+Systems" alt="Typing SVG" />
     </a>
   </p>
 

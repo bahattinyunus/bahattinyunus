@@ -15,7 +15,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
+    <a href="https://www.linkedin.com/in/yunusceti%CC%87n/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://kaggle.com/" target="_blank">
@@ -310,7 +310,7 @@ Sistem tasarımı, otonom yapılar veya yapay zeka üzerine her türlü profesyo
   <a href="mailto:bahattinyunuscetin@hotmail.com">
     <img src="https://img.shields.io/badge/E--Posta-G%C3%BCnder-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/">
+  <a href="https://www.linkedin.com/in/yunusceti%CC%87n/">
     <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <br /><br />

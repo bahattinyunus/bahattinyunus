@@ -75,10 +75,7 @@ Teknolojinin hızla değiştiği bu çağda, sistemlerin nasıl daha akıllı ve
 
 ---
 
-<div align="center">
-  <h3>🏆 Başarılar & Kupalar</h3>
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+
 
 <div align="center">
   <img src="assets/divider.png" width="100%" height="20" />
@@ -182,21 +179,10 @@ Teknolojinin hızla değiştiği bu çağda, sistemlerin nasıl daha akıllı ve
 ## 📊 Analitik Veriler & Katkı
 
 <div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&locale=tr&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" width="80%" alt="GitHub Streak" />
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&locale=tr&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight&hide_border=true&locale=tr&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
 
-### 🐍 Aktivite & Katkı Döngüsü
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 <br>
   

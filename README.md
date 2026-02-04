@@ -50,48 +50,28 @@
 
 Teknoloji, sadece kod yazmak değil; **geleceği inşa etmektir**.
 
-Ben **Bahattin Yunus**; disiplinlerarası bir yaklaşımla **Yapay Zeka**, **Otonom Sistemler** ve **Siber Güvenlik** ekseninde çalışan; sadece teknolojiyi kullanan değil, temel prensiplerini yeniden tanımlayan bir **Otodidakt Araştırmacı** ve **Sistem Mimarıyım**. 
-
-Dijital dünyanın kaotik yapısı içinde, deterministik ve öngörülebilir sistemler kurmak benim temel yetkinliğimdir. Çalışmalarım, klasik yazılım mühendisliğinin ötesine geçerek; **Savunma Sanayii**'nin kritik güvenlik gereksinimlerinden, **Finansal Teknolojilerin** yüksek işlem hacimli mimarilerine kadar geniş bir spektrumu kapsar.
-
-Amacım net: **Karmaşık, çok boyutlu ve belirsizlik içeren endüstriyel problemleri; ölçeklenebilir, kendi kendini yönetebilen ve matematiksel olarak kanıtlanabilir 'Güvenli Zeka' sistemlerine dönüştürmek.**
-
-Klasik mühendislik sınırlarının ötesinde, **teorik matematiği** pratik **saha uygulamalarıyla** birleştirerek; dijital egemenlik, kuantum sonrası güvenlik ve dağıtık zeka ağları üzerine stratejik mimariler geliştiriyorum.
-
-> *"Bir sorunu çözmek için, o sorunu yaratan zihin yapısından çıkmalısınız."* - **Albert Einstein**
-
-- 🔭 **Misyon:** Akıllı Bilişimin Sınırlarını Keşfetmek & Otonom Geleceği Tasarlamak.
-- 🧬 **Metodoloji:** First Principles Thinking (İlk Prensipler) & Anti-Fragile Architecture.
-- 🎯 **Odak:** Savunma Sanayii, Finansal Teknolojiler ve Büyük Dil Modelleri (LLM).
+Yazılım serüvenime başladığım Ağustos 2023'ten beri, sadece teknik uygulama süreçlerine değil, teknolojinin çalışma mantığını kavramaya odaklandım. Sertifika programları ve teknik eğitimlerle desteklediğim altyapımı; AI destekli proje geliştirme ve geliştirdiğim çözümleri yapay zeka ile analiz etme yetkinliğiyle birleştiriyorum. Geleceğin ölçeklenebilir sistemlerini tasarlamak üzere teknik derinliğimi her gün bir adım ileriye taşıyorum.
 
 <div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 ---
 
-## 🧠 Mühendislik Doktrini
+## 🧠 Öğrenme Metodolojim ve Yapay Zeka Ortaklığı
 
-> **"Basitlik, karmaşıklığın nihai çözümüdür."**
+Öğrenme sürecini sadece bilgi tüketimi olarak değil, bir "optimizasyon süreci" olarak görüyorum. Geliştirme döngümde yapay zekayı bir analiz partneri olarak konumlandırarak şu iki aşamalı stratejiyi uyguluyorum:
 
-Mühendislik yaklaşımım; sadece kod yazmak değil, **kaosun içinde deterministik ve sürdürülebilir düzen** inşa etmektir.
-
-*   **⚡ Anti-Fragility (Anti-Kırılganlık):**  
-    Klasik dayanıklılık (resilience) kavramı, darbeye dayanıp eski haline dönmeyi hedefler. Anti-kırılganlık ise **kaostan beslenir**. Tasarladığım sistemler, yüksek stres, siber saldırı veya beklenmedik yük durumlarında sadece ayakta kalmaz; bu anomalileri birer **"öğrenme verisi"** olarak işleyerek mimari bağışıklığını güçlendirir.
-    
-*   **🛡️ Zero Trust Architecture (Sıfır Güven):**  
-    Güvenlik, bir güvenlik duvarı (firewall) veya antivirüs yazılımı değildir; sistemin en küçük yapı taşına kadar işlenmiş bir **genetik koddur**. Ağ içindeki her mikro-servis, her veri paketi ve her kullanıcı kimliği; "dışarıdan gelmiş bir tehdit" muamelesi görür ve her adımda kriptografik olarak doğrulanır. **"Asla güvenme, her zaman doğrula."**
-    
-*   **🦅 First Principles (İlk Prensipler):**  
-    Mevcut çözümleri kopyalamak (analoji) yerine, problemleri fiziksel ve mantıksal atomlarına ayırarak **kökten çözümler** üretirim. Bir sistemin "nasıl" yapıldığını değil, "neden" o şekilde çalışması gerektiğini sorgular; optimum çözümü sıfırdan, temel doğrular üzerine inşa ederim.
+*   **Mimari İnşa:** Yapay zeka desteğiyle karmaşık sistemleri, otonom yapıları ve ölçeklenebilir algoritmaları kurguluyorum.
+*   **Derinlemesine Analiz (Reverse-Engineering):** Ortaya çıkan projeyi yapay zeka modelleriyle deşifre ederek; veri akışını, mimari zafiyetleri ve verimlilik noktalarını profesyonel bir bakış açısıyla inceliyorum.
 
 ---
 
-## 🔬 Araştırma & Geliştirme Odakları (R&D Pillars)
+## 🔬 Odak Alanları ve Gelecek Vizyonu
 
-**Meta-Mühendislik & Kognitif Çekirdek Tasarımı**
-"Software 2.0" paradigmasının ötesine geçerek; yazılımın üretim sürecini insan bağımlı bir "zanaat" (craftsmanship) olmaktan çıkarıp, deterministik ve endüstriyel bir otonomi seviyesine taşıyorum. Kendi kendini analiz eden (Self-Introspection), çalışma zamanında hatalarını yamayan (Runtime Patching) ve sürekli optimize eden **"Polymorphic Codebases"** (Polimorfik Kod Tabanları) üzerine mimari araştırmalar yürütüyorum.
+*   **Yapay Zeka & Otonom Sistemler:** Akıllı karar mekanizmaları ve sistem entegrasyonu üzerine projeler geliştiriyorum.
+*   **Siber Güvenlik:** Sistemlerin sadece çalışmasına değil, mimari seviyede güvenli ve dayanıklı olmasına odaklanıyorum.
+*   **Sistem Mimarlığı:** Bugünü bir yazılım geliştirici olarak inşa ederken; her satır kodda ve her sistem tasarımında yarının Sistem Mimarı olmak için gerekli olan yapısal disiplini ve ölçeklenebilirlik prensiplerini biriktiriyorum.
 
-**Edge AI & Silikon Bağımsızlığı (Silicon Sovereignty)**
-Merkezi bulut sağlayıcılarının (Cloud Oligarchy) veri üzerindeki hakimiyetini kırmak için; yapay zekayı veri merkezlerinden çıkarıp uç cihazlara (Edge) indirgiyorum. **`INT4` Quantization**, **Knowledge Distillation** ve **Pruning** tekniklerini birleştirerek; milyarlarca parametreli modelleri, internet bağlantısına ihtiyaç duymayan, enerji verimli ve gizlilik odaklı **"Gömülü Zeka"** (Embedded Intelligence) birimlerine dönüştürüyorum.
+Teknolojinin hızla değiştiği bu çağda, sistemlerin nasıl daha akıllı ve güvenli tasarlanabileceğini keşfetmeye meraklı, sürekli öğrenen bir teknoloji tutkunuyum.
 
 ---
 
@@ -323,9 +303,7 @@ Merkezi bulut sağlayıcılarının (Cloud Oligarchy) veri üzerindeki hakimiyet
 
 **Teknik İşbirliği & Stratejik Partnerlik**
 
-Dijital dünyanın sınırlarını zorlayan projelerde, **"yol arkadaşlığı"** yapacak vizyoner zihinlere kapım her zaman açıktır.
-
-Özellikle **Otonom Sürü Sistemleri (Swarm Intelligence)**, **Kuantum-Dirençli Kriptografi (PQC)** ve **Dağıtık Yapay Zeka Mimarileri** alanlarında; derin teknik uzmanlık gerektiren Ar-Ge süreçleri, akademik araştırmalar veya endüstriyel ölçekli sistem tasarımları için benimle iletişime geçebilirsiniz. Fikir alışverişinden öte, **uygulanabilir ve ölçeklenebilir çözümler** üretmek için buradayım.
+Sistem tasarımı, otonom yapılar veya yapay zeka üzerine her türlü profesyonel iş birliği ve networking için bağlantı kurmaktan memnuniyet duyarım.
 
 <div align="center">
   <br />

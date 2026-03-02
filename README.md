@@ -275,9 +275,9 @@ Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Bir şehri fethetmek için önce zihni fethetmek gerekir."**
-- > **"Kod yaz, sistem kur, dünya değiştir."**
-- > **"Solopreneur: Tek başına bir ordu."**
+- > **"Ya ben Konstantiniyye'yi alırım, ya Konstantiniyye beni! — Fatih Sultan Mehmet"**
+- > **"İmkânın sınırını görmek için imkânsızı denemek lazım. — Fatih Sultan Mehmet"**
+- > **"Adaletsizlik medeniyeti mahveder. — İbn Haldun"**
 <!-- END_QUOTE -->
 
 ---

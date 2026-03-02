@@ -1,320 +1,282 @@
 <a id="top"></a>
 <div align="center">
-  <img src="assets/header_v4.png" width="100%" style="border-radius: 15px; box-shadow: 0 0 40px rgba(0, 180, 255, 0.6); border: 2px solid rgba(255, 255, 255, 0.1);" alt="Bahattin Yunus Çetin - AI Architect" />
-</div>
+  <img src="assets/header_v5.png" width="100%" style="border-radius: 12px;" alt="Bahattin Yunus Çetin" />
 
-<div align="center">
   <h1>Bahattin Yunus Çetin</h1>
-  <h3>AI Engineer | Aspiring Systems Architect</h3>
-  <h4><i>Specialized in Autonomous Systems & Cybersecurity</i></h4>
-  
+  <h3>AI Engineer · Aspiring Systems Architect</h3>
+  <p><i>Autonomous Systems & Cybersecurity</i></p>
+
   <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Aspiring+Systems+Architect;Specialized+in+Autonomous+Systems+%26+Cybersecurity;Building+Scalable+%26+Secure+Future+Systems" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.demolab.com">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Autonomous+%26+Secure+Future+Systems;AI+%7C+Robotics+%7C+Cybersecurity+%7C+Architecture" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/yunusceti%CC%87n/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://kaggle.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-      <img src="https://img.shields.io/badge/HuggingFace-Researcher-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-    </a>
-    <a href="https://github.com/bahattinyunus" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Kodlar-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://bahattinyunus.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Web-Portfolyo-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
+    <a href="https://www.linkedin.com/in/yunuscetin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
-<br />
+---
 
-<div align="center">
-  <b><a href="#vision">🎯 Vizyon</a></b> &nbsp;•&nbsp;
-  <b><a href="#tech">🛠️ Teknoloji</a></b> &nbsp;•&nbsp;
-  <b><a href="#projects">📂 Projeler</a></b> &nbsp;•&nbsp;
-  <b><a href="#stats">📊 Analiz</a></b> &nbsp;•&nbsp;
-  <b><a href="#contact">🤝 İletişim</a></b>
-</div>
+## 🎯 Hakkımda
 
-<br />
+Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine çalışıyorum. Teknolojiyi sadece kullanmak değil, **mimari düzeyde anlamak ve inşa etmek** odak noktam.
 
-<a id="vision"></a>
-## 🎯 Vizyon & Profesyonel Özet
-
-Teknoloji, sadece kod yazmak değil; **geleceği inşa etmektir**.
-
-Yazılım serüvenime başladığım Ağustos 2023'ten beri, sadece teknik uygulama süreçlerine değil, teknolojinin çalışma mantığını kavramaya odaklandım. Sertifika programları ve teknik eğitimlerle desteklediğim altyapımı; AI destekli proje geliştirme ve geliştirdiğim çözümleri yapay zeka ile analiz etme yetkinliğiyle birleştiriyorum. Geleceğin ölçeklenebilir sistemlerini tasarlamak üzere teknik derinliğimi her gün bir adım ileriye taşıyorum.
-
-<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
+- 🤖 **Otonom Sistemler** — Akıllı karar mekanizmaları, robotik, ROS2
+- 🛡️ **Siber Güvenlik** — Mimari güvenlik, SIGINT, kriptografi
+- 🧠 **Yapay Zeka** — LLM, deep learning, otonom yapılar
+- 🏗️ **Sistem Mimarisi** — Ölçeklenebilir, fault-tolerant tasarım
 
 ---
 
-## 🧠 Öğrenme Metodolojim ve Yapay Zeka Ortaklığı
-
-Öğrenme sürecini sadece bilgi tüketimi olarak değil, bir "optimizasyon süreci" olarak görüyorum. Geliştirme döngümde yapay zekayı bir analiz partneri olarak konumlandırarak şu iki aşamalı stratejiyi uyguluyorum:
-
-*   **Mimari İnşa:** Yapay zeka desteğiyle karmaşık sistemleri, otonom yapıları ve ölçeklenebilir algoritmaları kurguluyorum.
-*   **Derinlemesine Analiz (Reverse-Engineering):** Ortaya çıkan projeyi yapay zeka modelleriyle deşifre ederek; veri akışını, mimari zafiyetleri ve verimlilik noktalarını profesyonel bir bakış açısıyla inceliyorum.
-
----
-
-## 🔬 Odak Alanları ve Gelecek Vizyonu
-
-*   **Yapay Zeka & Otonom Sistemler:** Akıllı karar mekanizmaları ve sistem entegrasyonu üzerine projeler geliştiriyorum.
-*   **Siber Güvenlik:** Sistemlerin sadece çalışmasına değil, mimari seviyede güvenli ve dayanıklı olmasına odaklanıyorum.
-*   **Sistem Mimarlığı:** Bugünü bir yazılım geliştirici olarak inşa ederken; her satır kodda ve her sistem tasarımında yarının Sistem Mimarı olmak için gerekli olan yapısal disiplini ve ölçeklenebilirlik prensiplerini biriktiriyorum.
-
-Teknolojinin hızla değiştiği bu çağda, sistemlerin nasıl daha akıllı ve güvenli tasarlanabileceğini keşfetmeye meraklı, sürekli öğrenen bir teknoloji tutkunuyum.
-
----
-
-<div align="center">
-  <h3>🏆 Başarılar & Kupalar</h3>
-  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<div align="center">
-  <img src="assets/divider.png" width="100%" height="20" />
-</div>
-
-<a id="tech"></a>
-
-
-## 🛠️ Teknik Yetkinlikler (Tech Stack)
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Yapay Zeka & Veri** | **Siber Güvenlik & Araçlar** | **Geliştirme & Altyapı** |
+| Yapay Zeka & Veri | Siber Güvenlik | Geliştirme & Altyapı |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,sklearn" /> | <img src="https://skillicons.dev/icons?i=kali,wireshark,linux,tor,bash" /> | <img src="https://skillicons.dev/icons?i=python,cpp,go,js,docker,git" /> |
-| **TensorFlow**, **PyTorch**, **OpenCV** | **Kali Linux**, **Wireshark**, **Metasploit** | **Python**, **C++**, **Go**, **Docker** |
+| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=kali,linux,bash" /> | <img src="https://skillicons.dev/icons?i=python,cpp,go,js,docker,git" /> |
 
 </div>
 
-<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
+---
 
-<br />
+## 🌌 Flagship Projeler
 
-<a id="projects"></a>
-### 🌌 Vizyon Projeleri (Flagships)
+> **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)** — `ROS2` `C++17`  
+> Yüksek gecikmeli uzay ortamında çalışan, fault-tolerant otonom keşif mimarisi.
 
-> **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)**
->
-> **`ROS2` `C++17` `Deep Space`**
-> *Yüksek radyasyon, termal dalgalanmalar ve ekstrem iletişim gecikmeleri (High-Latency) altında çalışabilen; görev kritik (Mission-Critical) sistemler için özel olarak optimize edilmiş, gerçek zamanlı (RTOS) ve hataya dayanıklı (Fault-Tolerant) bir otonom keşif mimarisi.*
+> **🧠 [ANKA-LLM](https://github.com/bahattinyunus/ANKA-LLM)** — `LLM` `NPU` `KVKK`  
+> Veri egemenliği odaklı, donanım agnostik milli Büyük Dil Modeli altyapısı.
 
-> **🧠 [ANKA-LLM: Milli AI İşletim Sistemi](https://github.com/bahattinyunus/ANKA-LLM)**
->
-> **`LLM Architecture` `NPU Design` `Digital Sovereignty`**
-> *Ulusal veri güvenliği standartlarına (GDPR/KVKK) tam uyumlu, hassas verilerin ülke sınırları dışına çıkmasını engelleyen; donanım agnostik yapısıyla hem yerel sunucularda hem de bulut kümelerinde yüksek performansla çalışabilen ölçeklenebilir Büyük Dil Modeli (LLM) altyapısı.*
-
-> **⚓ [Mavi Vatan 2053: Alpha-X Komuta Merkezi](https://github.com/bahattinyunus/denizalti-akademisi)**
->
-> **`Defense Tech` `Acoustic Stealth` `Strategy`**
-> *Modern denizaltı harbi (ASW) doktrinleri için geliştirilmiş; sualtı akustik sinyal işleme, hedef tespiti ve otonom karar destek mekanizmalarını tek bir merkezde birleştiren, ağ merkezli (Network-Centric) ve modüler bir dijital komuta kontrol çerçevesi.*
-
-<br />
-
-### 📂 Proje Envanteri & Uzmanlık Alanları
-
-#### 🤖 Otonom Sistemler & Robotik
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack)** | Yarış araçları için yüksek hızlı otonom sürüş yığını. MPC & LiDAR SLAM. | `ROS2` `YOLOv8` `MPC` |
-| **[ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control)** | İnsan-Makine işbirliği odaklı Omega Edition Yer Kontrol İstasyonu. | `Digital Twin` `Edge AI` |
-| **[Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core)** | Rekabetçi robotik için milisaniye hassasiyetli SPDA kontrol çekirdeği. | `C++20` `EKF` `DDS` |
-| **[LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV)** | İstilacı türlerle mücadele eden, derin öğrenme destekli sualtı robotu. | `Jetson Orin` `PyTorch` |
-| **[Project-AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System)** | USV ve AUV birimlerini senkronize eden çok alanlı (Multi-Domain) sürü sistemi. | `Swarm` `Nav2` `MAVLink` |
-| **[Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi)** | Şehir içi tam otonom sürüş mimarisi. | `Stanley` `Pure Pursuit` |
-
-#### 🧠 Yapay Zeka & Veri Stratejisi
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[Akademik Radar](https://github.com/bahattinyunus/AkademikRadar)** | Küresel bilimsel trendleri analiz eden nöral semantik istihbarat motoru. | `SciBERT` `Graph Theory` |
-| **[Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM)** | LLM modellerini TRL metodolojisiyle analiz eden stratejik istihbarat platformu. | `Data Analysis` `TRL` |
-| **[NexusBroker](https://github.com/bahattinyunus/NexusBroker)** | AI destekli, güven gerektirmeyen (trustless) hibrit ticaret ekosistemi. | `Vector DB` `Solidity` |
-| **[DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design)** | Mikroşerit anten tasarımı için Yapay Sinir Ağı (ANN) tabanlı analiz platformu. | `TensorFlow` `Maxwell` |
-
-#### 🛡️ Savunma, Uzay & Siber Güvenlik
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti)** | Afet durumları için dijital HAM istasyonu ve acil durum haberleşme protokolü. | `SDR` `DMR/FT8` `SatCom` |
-| **[SIGINT HUB](https://github.com/bahattinyunus/SIGINT)** | Modern elektronik harp için sinyal istihbaratı ve spektrum analizi merkezi. | `DSP` `FFT` `ELINT` |
-| **[Radiosonde Hunting](https://github.com/bahattinyunus/Radiosonde-Hunting)** | Meteorolojik balon takibi ve gerçek zamanlı telemetri analiz portalı. | `SDR` `SondeHub` `Python` |
-| **[NOAA Station](https://github.com/bahattinyunus/NOAA)** | Uydu sinyal yakalama (APT) ve meteorolojik görüntü işleme birimi. | `Orbital` `Signal Proc.` |
-| **[Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri)** | Savunma ve yüksek teknoloji ekosistemi için stratejik TRL haritalama. | `Strategy` `Inventory` |
-| **[Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault)** | Veri kurtarma ve ileri steganografi (gizli iletişim) mahzeni. | `Forensics` `Steganography` |
-
-#### 🏗️ Endüstriyel Mimari & Sistemler
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON)** | Küresel silikon hegemonyasına karşı RISC-V tabanlı donanım manifestosu. | `RISC-V` `Deep Tech` |
-| **[Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler)** | Endüstri 4.0 Dijital İkiz ve Kestirimci Bakım platformu. | `IIoT` `Predictive Maint.` |
-| **[Agri-Arch-TR](https://github.com/bahattinyunus/teknofest_tarim_teknolojileri)** | Hassas tarım sistemleri için IoT ve Otonom Araç mimarisi. | `LoRaWAN` `Fuzzy Logic` |
-| **[CivTech-Core](https://github.com/bahattinyunus/CivTech-Core)** | İnşaat mühendisliğini AI ve IoT ile birleştiren açık kaynak framework. | `FEM` `Generative Design` |
-| **[PoseidonEye](https://github.com/bahattinyunus/PoseidonEye)** | Gemi makineleri için IoT tabanlı kestirimci bakım ve anomali tespiti. | `IoT` `Isolation Forest` |
-| **[Open Textile Intelligence](https://github.com/bahattinyunus/Open-Textile-Intelligence)** | Tekstilde otonom kalite kontrol ve bilgisayarlı görü platformu. | `Computer Vision` `Qt` |
-| **[Energy Grid Pulse](https://github.com/bahattinyunus/Energy-Grid-Pulse)** | Enerji teknolojileri için TRL analizi ve şebeke simülasyonu. | `Microgrid` `Simulation` |
-| **[E-VİZÖR](https://github.com/bahattinyunus/E-VIZOR)** | Otonom vergi ve evrak yönetim sistemi (FinTech). | `OCR` `Blockchain` |
-| **[Fin-Arch-TR](https://github.com/bahattinyunus/teknofest_finansal_teknolojiler)** | Kurumsal finansal sistemler ve çekirdek defter (Ledger) mimarisi. | `Event Sourcing` `ACID` |
-
-#### 💻 Yazılım Araçları & Frameworkler
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **[Computer Efficiency](https://github.com/bahattinyunus/Computer-Efficiency-Mastery)** | "Supreme Master" verimlilik manifestosu. NixOS, Neovim ve optimizasyon. | `NixOS` `Neovim` `Linux` |
-| **[CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer)** | AST tabanlı kod mimarisi görselleştirme motoru. | `AST` `React` `FastAPI` |
-| **[PhysicEngine](https://github.com/bahattinyunus/PhysicEngine)** | Python tabanlı yüksek performanslı 2D fizik simülasyon motoru. | `Physics` `Vector Math` |
-| **[NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App)** | Gerçek zamanlı mesajlaşma ve sistem mimarisi iskeleti. | `Socket.IO` `Redis` |
-| **[BeeRoute](https://github.com/bahattinyunus/BeeRoute)** | Endüstriyel rotalama için stokastik sürü zekası (ABC) çerçevesi. | `Swarm Intel` `Optimization` |
-
-<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
+> **⚓ [Mavi Vatan 2053](https://github.com/bahattinyunus/denizalti-akademisi)** — `Defense Tech` `ASW`  
+> Sualtı akustik işleme ve otonom karar destek sistemlerini birleştiren komuta çerçevesi.
 
 ---
 
-<a id="stats"></a>
-## 📊 Analitik Veriler & Katkı
+## 📂 Proje Envanteri
 
-<div align="center"> 
+<details>
+<summary><b>🤖 Otonom Sistemler & Robotik</b></summary>
+
+| Proje | Teknoloji |
+| :--- | :--- |
+| [Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
+| [ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
+| [Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
+| [LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
+| [AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
+| [Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
+
+</details>
+
+<details>
+<summary><b>🧠 Yapay Zeka & Veri</b></summary>
+
+| Proje | Teknoloji |
+| :--- | :--- |
+| [Akademik Radar](https://github.com/bahattinyunus/AkademikRadar) | `SciBERT` `Graph Theory` |
+| [Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
+| [NexusBroker](https://github.com/bahattinyunus/NexusBroker) | `Vector DB` `Solidity` |
+| [DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
+
+</details>
+
+<details>
+<summary><b>🛡️ Savunma, Uzay & Siber Güvenlik</b></summary>
+
+| Proje | Teknoloji |
+| :--- | :--- |
+| [Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
+| [SIGINT HUB](https://github.com/bahattinyunus/SIGINT) | `DSP` `FFT` `ELINT` |
+| [NOAA Station](https://github.com/bahattinyunus/NOAA) | `Orbital` `Signal Proc.` |
+| [Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
+| [Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
+
+</details>
+
+<details>
+<summary><b>🏗️ Endüstriyel & Diğer</b></summary>
+
+| Proje | Teknoloji |
+| :--- | :--- |
+| [ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
+| [Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
+| [CivTech-Core](https://github.com/bahattinyunus/CivTech-Core) | `FEM` `Generative Design` |
+| [CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` |
+| [NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
+
+</details>
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&locale=tr&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" width="100%" alt="GitHub Streak" />
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" width="100%" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight&hide_border=true&locale=tr&bg_color=0D1117&title_color=2196F3" alt="Top Languages" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" width="100%" />
     </td>
   </tr>
 </table>
 
-### 🐍 Aktivite & Katkı Döngüsü
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" />
 
-<br>
-  
-<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+
 </div>
-
-<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
 
 ---
 
-## 🎓 Sertifikalar & Yetkinlikler
+## 🎓 Sertifikalar
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-90+-2196F3?style=for-the-badge&logo=certificate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uzmanl%C4%B1k_Alan%C4%B1-Multidisipliner-FFD21E?style=for-the-badge&logo=expert&logoColor=black" />
-  <br>
+  <img src="https://img.shields.io/badge/Toplam_Sertifika-120+-2196F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Detaylı Sertifika Listesini Görüntüle (90+)</b></summary>
+<summary><b>📜 Sertifika Listesi (120+)</b></summary>
 <br />
 
-| Tarih | Sertifika Adı | Sağlayıcı | Detay / Proje / ID |
-| :--- | :--- | :--- | :--- |
-| **Ocak 2026** | **Intro to AI & LLM Architectures** | BTK Akademi | 🆔 `bx1hLxXZOo` |
-| **Ocak 2026** | **Generative AI with Large Language Models** | DeepLearning.AI | 🆔 `bx1hLxXZOo` (Anthropic Claude) |
-| **Ocak 2026** | **Articulate Storyline 360 İleri Seviye** | BTK Akademi | [📂 Lab Projesi](https://github.com/bahattinyunus/BTK-Articulate-Storyline-360-Lab) |
-| **Ocak 2026** | **Canva Magic Design** | BTK Akademi | 🆔 `ZA1UrdEkWO` |
-| **Ocak 2026** | **ChatGPT** | BTK Akademi | 🆔 `OKMhwBXgqW` |
-| **Ocak 2026** | **DeepSeek LLM Ops** | BTK Akademi | 🆔 `lK1hwey4xw` |
-| **Ocak 2026** | **ElevenLabs Voice AI** | BTK Akademi | 🆔 `8jmhNjXbP2` |
-| **Ocak 2026** | **Finansal Okuryazarlık Eğitimi** | 23 | Yirmi Üç | 🆔 `3c44f88d...` |
-| **Ocak 2026** | **Finansal Piyasalara Giriş** | BTK Akademi | 🆔 `Ko9fEG7WZG` |
-| **Ocak 2026** | **Gamma AI Presentation** | BTK Akademi | 🆔 `GoDfm1rwNr` |
-| **Ocak 2026** | **Gemini Veo Multimodal** | BTK Akademi | 🆔 `oJpSgnayWO` |
-| **Ocak 2026** | **Google Dijital Ebeveynlik** | Google | 🆔 `4qgueLmn07` |
-| **Ocak 2026** | **Hailuo AI Video Generation** | BTK Akademi | 🆔 `4qguek4NB9` |
-| **Ocak 2026** | **HeyGen Avatar Synthesis** | BTK Akademi | 🆔 `WJ1SkN2p9n` |
-| **Ocak 2026** | **Manus AI Automation** | BTK Akademi | 🆔 `ZA1UrdE2Bj` |
-| **Ocak 2026** | **Markaların Korunması** | BTK Akademi | 🆔 `WJ1SMLlqMZ` |
-| **Ocak 2026** | **Matematik 101: Developer's Principia** | BTK Akademi | [📂 Math2Code](https://github.com/bahattinyunus/Math2Code-A-Practical-Guide-for-Developers) |
-| **Ocak 2026** | **NotebookLM RAG Systems** | BTK Akademi | [📂 Geliştirme Araçları](https://github.com/bahattinyunus/gelistirme_araclari) |
-| **Ocak 2026** | **Perplexity AI Search** | BTK Akademi | 🆔 `Ko9fE4NpKx` |
-| **Ocak 2026** | **Uluslararası İlişkilerde Yapay Zeka** | BTK Akademi | 🆔 `pKmhqp2DYG` |
-| **Ocak 2026** | **Veri Bilimi için Temel İstatistik** | BTK Akademi | [📂 Stat4IT](https://github.com/bahattinyunus/Stat4IT) |
-| **Ocak 2026** | **Yapay Zeka Dünyasına Giriş** | BTK Akademi | 🆔 `7rptPBld1p` |
-| **Ocak 2026** | **Üretken Yapay Zeka ile Tercüme** | BTK Akademi | 🆔 `OKMhwopAnN` |
-| **Ocak 2026** | **İnsan Haklarına Giriş** | BTK Akademi | 🆔 `JoNf2pbD6z` |
-| **Aralık 2025** | **Uluslararası Terörizm: Saha ve Akademi** | Türk Dünyası GV | 🆔 `KTÜ614600...` |
-| **Aralık 2025** | **AI in Multimedia Data Security** | BTK Akademi | [📂 Workshop Repo](https://github.com/bahattinyunus/btk_atolye_trabzon_ai_multimedya_guvenligi) |
-| **Aralık 2025** | **DoS / DDoS Attacks and Protection** | BTK Akademi | 🆔 `XV1hBdNpMv` |
-| **Aralık 2025** | **FMCG Zirvesi & Talep Tahmini** | KTÜ İşletme | [📂 FMCG for Engineers](https://github.com/bahattinyunus/Fmcg-for-software-engineers) |
-| **Aralık 2025** | **Rotamız Ufkun Ötesi: Denizaltı Doktrini** | KTÜ GEMDTEK | [📂 Denizaltı Akademisi](https://github.com/bahattinyunus/denizalti-akademisi) |
-| **Aralık 2025** | **Social Engineering and Phishing** | BTK Akademi | 🆔 `WJ1SkZbe4d` |
-| **Aralık 2025** | **Underwater Systems & AUV Ops** | T3 Vakfı | [📂 AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) |
-| **Kasım 2025** | **Aviation & Space Exploration Camp** | TÜBİTAK | *Space Fundamentals* |
-| **Kasım 2025** | **Project Management Basics** | BTK Akademi | 🆔 `wmlFmJkB29` |
-| **Ekim 2025** | **Artificial Intelligence Ethics** | BTK Akademi | [📂 AI Ethics](https://github.com/bahattinyunus/ai_ethics) |
-| **Ekim 2025** | **Intro to AI & Algorithms** | BTK Akademi | 🆔 `6mqFNkwJxA` |
-| **Ekim 2025** | **Introduction to Generative AI** | BTK Akademi | 🆔 `eK1hOjmKgG` |
-| **Ekim 2025** | **GenAI in Research** | BTK Akademi | 🆔 `D2xhEEKoYN` |
-| **Eylül 2025** | **Datathon 2025 Data Competition** | BTK Akademi | [📂 Datathon Çözümü](https://github.com/bahattinyunus/datathon) |
-| **Ağustos 2025** | **Hüyük Gençlik Kampı** | GSB | *Leadership* |
-| **Temmuz 2025** | **Digital Literacy** | BTK Akademi | [📂 Dijital Okuryazarlık](https://github.com/bahattinyunus/dijital_okuryazarlik_egitim_gsb) |
-| **Temmuz 2025** | **Python 2: Data Structures** | BTK Akademi | [📂 Python Courses](https://github.com/bahattinyunus/btk-python-courses) |
-| **Haziran 2025** | **C++ Programming** | BTK Akademi | [📂 C++ Course](https://github.com/bahattinyunus/btk-cpp-course) |
-| **Haziran 2025** | **Go (Golang) Programming** | BTK Akademi | [📂 BTK Go](https://github.com/bahattinyunus/btk_go) |
-| **Haziran 2025** | **Javascript Basics** | BTK Akademi | [📂 Web Courses](https://github.com/bahattinyunus/btk-web-courses) |
-| **Haziran 2025** | **Project & Risk Management** | BTK Akademi | 🆔 `8jmhLX7yMG` |
-| **Mayıs 2025** | **8. Yazılım Günü** | KTÜ Yazılım | *Networking* |
-| **Mayıs 2025** | **Android Development Workshop** | GDG Trabzon | [📂 Crypto Tracker](https://github.com/bahattinyunus/gdg_atolye) |
-| **Mayıs 2025** | **Arduino & Tinkercad** | BTK Akademi | [📂 Arduino Projects](https://github.com/bahattinyunus/arduino_and_tinkercad_courses) |
-| **Mayıs 2025** | **Fundamentals of Cryptography** | BTK Akademi | 🆔 `kK1hVD09dy` |
-| **Mayıs 2025** | **Introduction to Cybersecurity** | BTK Akademi | [📂 Cyber Sentinel](https://github.com/bahattinyunus/cyber_security_btk_t3A) |
-| **Mayıs 2025** | **MicroBit & MicroPython** | BTK Akademi | [📂 Microbit Courses](https://github.com/bahattinyunus/microbit_courses) |
-| **Mayıs 2025** | **Python 1: Beginners** | BTK Akademi | 🆔 `Yx1hPL1mGY` |
-| **Mayıs 2025** | **Git & GitHub Version Control** | BTK Akademi | [📂 GitHubTest](https://github.com/bahattinyunus/GitHubTest) |
-| **Nisan 2025** | **Web Development: HTML5 & CSS3** | BTK Akademi | 🆔 `rKjhGyp8LJ` |
-| **Mart 2025** | **Custom GPTs Development** | BTK Akademi | 🆔 `ax1hDzvgrE` |
-| **Mart 2025** | **İHA-1 Ticari Pilot Lisansı** | SHGM | 🆔 `TR-IHA1H10609053` |
-| **Ocak 2025** | **ISO/IEC 27001 Information Security** | BSI | *Auditor* |
-| **Aralık 2024** | **DATA & AI SUMMIT** | KTÜ AI Society | *Participant* |
-| **Aralık 2024** | **Devfest Trabzon** | GDG Trabzon | *Community* |
-| **Aralık 2024** | **Financial Literacy & Fintech** | BTK Akademi | [📂 Fin-Arch-TR](https://github.com/bahattinyunus/teknofest_finansal_teknolojiler) |
-| **Aralık 2024** | **Gençlik Vizyon Çalıştayı** | GSB | *Policy Maker* |
-| **Aralık 2024** | **Yapay Zeka Zirvesi 2024** | T. Girişimcilik Vakfı | 🆔 `G9LlUnWlq4X` |
-| **Kasım 2024** | **Small Basic Coding** | BTK Akademi | 🆔 `9Xrtq18yXl` |
-| **Ekim 2024** | **C Programming Language** | BTK Akademi | [📂 C Projects](https://github.com/bahattinyunus/c_courses_projects) |
-| **Ekim 2024** | **Circuit Design with Proteus** | BTK Akademi | 🆔 `ax1hDAjV9N` |
-| **Ekim 2024** | **Entrepreneurship Fundamentals** | BTK Akademi | [📂 IgniteOS](https://github.com/bahattinyunus/IgniteOS) |
-| **Ekim 2024** | **Communication & Soft Skills** | BTK Akademi | *Leadership Series (10+ Certs)* |
-| **Ekim 2024** | **Patent & IP Protection** | BTK Akademi | [📂 PatentWarrior](https://github.com/bahattinyunus/PatentWarrior) |
-| **Ocak 2022** | **Correctional Officer Training** | Adalet Bakanlığı | *Discipline & Crisis Mgmt* |
-| **...** | **(ve diğer 30+ kişisel gelişim sertifikası)** | **Çeşitli Platformlar** | *Soft Skills & Law* |
+| Tarih | Sertifika | Sağlayıcı |
+| :--- | :--- | :--- |
+| Mar 2026 | Yapay Zekâ Hukuku | BTK Akademi |
+| Mar 2026 | KVKK, GDPR Eğitim Seti | BTK Akademi |
+| Şub 2026 | Uzaktan Erişim Araçları | BTK Akademi |
+| Şub 2026 | Program ve Portföy Yönetimi | BTK Akademi |
+| Şub 2026 | Sosyal Medya Uzmanlığına Giriş | BTK Akademi |
+| Şub 2026 | Fikri ve Sınai Mülkiyet Hakları | BTK Akademi |
+| Şub 2026 | Makine Öğrenmesinin Matematiksel Temelleri | BTK Akademi |
+| Şub 2026 | E-Ticarete Giriş | BTK Akademi |
+| Şub 2026 | Proje Yönetimi | BTK Akademi |
+| Şub 2026 | Uluslararası İş Analizi Metodolojisi | BTK Akademi |
+| Şub 2026 | Sözleşme Yönetimi Hukuku | BTK Akademi |
+| Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi |
+| Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi |
+| Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi |
+| Şub 2026 | Sosyal Medyada Tasarım Temelli İçerik Üretimi | BTK Akademi |
+| Şub 2026 | Sosyal Medyada Marka İletişimi ve İşbirlikleri | BTK Akademi |
+| Şub 2026 | Sosyal Medya Etkileyicilerinin Hukuki Sorumluluğu | BTK Akademi |
+| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Hikâye Anlatıcılığı | BTK Akademi |
+| Şub 2026 | Sosyal Medya Reklamcılığı ve Performans Analitiği | BTK Akademi |
+| Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 \| Yirmi Üç |
+| Şub 2026 | Ankara AI Hackathon — Katılım | Teknopark Ankara |
+| Şub 2026 | KGM Serisi (1-9: Karayolu, Fizibilite, Bakım vb.) | BTK Akademi |
+| Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi |
+| Oca 2026 | Anthropic Claude | BTK Akademi |
+| Oca 2026 | ChatGPT | BTK Akademi |
+| Oca 2026 | Manus AI | BTK Akademi |
+| Oca 2026 | NotebookLM | BTK Akademi |
+| Oca 2026 | DeepSeek | BTK Akademi |
+| Oca 2026 | Gemini Veo | BTK Akademi |
+| Oca 2026 | Hailuo AI | BTK Akademi |
+| Oca 2026 | HeyGen | BTK Akademi |
+| Oca 2026 | ElevenLabs | BTK Akademi |
+| Oca 2026 | Perplexity | BTK Akademi |
+| Oca 2026 | Canva Magic Design | BTK Akademi |
+| Oca 2026 | Gamma | BTK Akademi |
+| Oca 2026 | Yapay Zekâ Dünyasına Giriş | BTK Akademi |
+| Oca 2026 | Üretken Yapay Zekâ ile Tercüme | BTK Akademi |
+| Oca 2026 | Uluslararası İlişkilerde Yapay Zekâ | BTK Akademi |
+| Oca 2026 | Veri Bilimi için Temel İstatistik | BTK Akademi |
+| Oca 2026 | Matematik 101 | BTK Akademi |
+| Oca 2026 | Finansal Piyasalara Giriş | BTK Akademi |
+| Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 \| Yirmi Üç |
+| Oca 2026 | Markaların Korunması | BTK Akademi |
+| Oca 2026 | İnsan Haklarına Giriş | BTK Akademi |
+| Oca 2026 | Google Dijital Ebeveynlik | Google |
+| Ara 2025 | AI in Multimedia Data Security Workshop | BTK Akademi |
+| Ara 2025 | DoS / DDoS Attacks and Protection | BTK Akademi |
+| Ara 2025 | Social Engineering and Phishing | BTK Akademi |
+| Ara 2025 | Underwater Systems & AUV Ops | T3 Vakfı |
+| Ara 2025 | ROTAMIZ UFKUN ÖTESİ (Denizaltı Doktrini) | KTÜ GEMDTEK |
+| Ara 2025 | FMCG Zirvesi | KTÜ İşletme Kulübü |
+| Ara 2025 | Uluslararası Terörizm: Sahadan Akademiye | Türk Dünyası GV |
+| Ara 2025 | Yapay Zeka Zirvesi 2024 | TGV |
+| Ara 2025 | DATA & AI SUMMIT | KTÜ AI Society |
+| Ara 2025 | Devfest Trabzon | GDG Trabzon |
+| Ara 2025 | Gençlik Vizyon Çalıştayı | GSB |
+| Kas 2025 | Aviation & Space Exploration Camp | TÜBİTAK |
+| Kas 2025 | Project Management Basics | BTK Akademi |
+| Kas 2025 | Design Protection (Tasarımların Korunması) | BTK Akademi |
+| Eki 2025 | Artificial Intelligence Ethics | BTK Akademi |
+| Eki 2025 | Introduction to Generative AI | BTK Akademi |
+| Eki 2025 | Use of GenAI in Research | BTK Akademi |
+| Eki 2025 | Introduction to AI & Algorithms | BTK Akademi |
+| Eyl 2025 | Datathon 2025 Data Competition | BTK Akademi |
+| Ağu 2025 | Hüyük Gençlik Kampı | GSB |
+| Tem 2025 | Digital Literacy | BTK Akademi |
+| Tem 2025 | Python 2: Data Structures | BTK Akademi |
+| Haz 2025 | C++ Programming | BTK Akademi |
+| Haz 2025 | Go (Golang) Programming | BTK Akademi |
+| Haz 2025 | JavaScript Basics | BTK Akademi |
+| Haz 2025 | Project and Risk Management | BTK Akademi |
+| May 2025 | Introduction to Cybersecurity | BTK Akademi |
+| May 2025 | Fundamentals of Cryptography | BTK Akademi |
+| May 2025 | Python 1: Beginners | BTK Akademi |
+| May 2025 | Git & GitHub Version Control | BTK Akademi |
+| May 2025 | MicroBit Programming with MicroPython | BTK Akademi |
+| May 2025 | Arduino & Tinkercad | BTK Akademi |
+| May 2025 | 8. Yazılım Günü — Katılım | KTÜ Yazılım Kulübü |
+| May 2025 | Android Atölyesi | GDG Trabzon |
+| Nis 2025 | Web Development: HTML5 & CSS3 | BTK Akademi |
+| Mar 2025 | Custom GPTs Development | BTK Akademi |
+| Mar 2025 | İHA-1 Ticari Pilot Lisansı | SHGM |
+| Şub 2025 | Geleceğini Netleştir | KTÜ Endüstri Müh. Kulübü |
+| Oca 2025 | ISO/IEC 27001 Information Security | BSI |
+| Eki 2024 | C Programming Language | BTK Akademi |
+| Eki 2024 | Circuit Design with Proteus | BTK Akademi |
+| Eki 2024 | Introduction to Basic Electronics & Robotics | BTK Akademi |
+| Eki 2024 | Introduction to Artificial Intelligence | BTK Akademi |
+| Eki 2024 | Introduction to Information Technology | BTK Akademi |
+| Eki 2024 | İşletim Sistemlerine Giriş | BTK Akademi |
+| Eki 2024 | Fundamentals of Entrepreneurship | BTK Akademi |
+| Eki 2024 | Persuasion Skills | BTK Akademi |
+| Eki 2024 | Effective Communication Strategies | BTK Akademi |
+| Eki 2024 | Public Speaking & Presentation Techniques | BTK Akademi |
+| Eki 2024 | Problem Solving Techniques | BTK Akademi |
+| Eki 2024 | Team Building and Management | BTK Akademi |
+| Eki 2024 | Communication & Network Management | BTK Akademi |
+| Eki 2024 | Presentation Techniques | BTK Akademi |
+| Kas 2024 | Small Basic Coding | BTK Akademi |
+| Ara 2024 | Financial Literacy & Fintech | BTK Akademi |
+| Mar 2023 | İHA-1 Sportif/Amatör Pilot Lisansı | SHGM |
+| Oca 2022 | Correctional Officer Training | Adalet Bakanlığı |
+| — | IT Law / Bilişim Hukuku | BTK Akademi |
+| — | Applied Business Model Development | BTK Akademi |
+| — | Patent & Utility Model Protection | BTK Akademi |
+| — | Protection of Geographical Indications | BTK Akademi |
+| — | Digital Retail Expertise | BTK Akademi |
+| — | Interview Techniques | BTK Akademi |
+| — | Coping with Stress & Mindful Awareness | BTK Akademi |
+| — | Sales & Marketing Management | BTK Akademi |
+| — | Market Research & Pricing Strategies | BTK Akademi |
+| — | Company Valuation & Investment Processes | BTK Akademi |
+| — | Creating an Effective LinkedIn Profile | BTK Akademi |
+| — | Career Goal Setting | BTK Akademi |
+| — | Career-Threatening Approaches | BTK Akademi |
+| — | Information Reporting Center (BTK) | BTK Akademi |
+| — | Knowing the Customer | BTK Akademi |
 
 </details>
 
-<div align="right"><a href="#top">⬆️ Başa Dön</a></div>
-
 ---
 
-<a id="contact"></a>
-### 🤝 İşbirliği & Temas (Connect)
-
-**Teknik İşbirliği & Stratejik Partnerlik**
-
-Sistem tasarımı, otonom yapılar veya yapay zeka üzerine her türlü profesyonel iş birliği ve networking için bağlantı kurmaktan memnuniyet duyarım.
-
 <div align="center">
-  <br />
-  <a href="mailto:bahattinyunuscetin@hotmail.com">
-    <img src="https://img.shields.io/badge/E--Posta-G%C3%BCnder-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yunusceti%CC%87n/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ba%C4%9Flant%C4%B1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=PROFILE+VIEWS&color=2196F3&style=for-the-badge" />
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=PROFILE%20VIEWS&color=2196F3&style=for-the-badge" alt="Profil Ziyaretçileri" />
-  <br />
-  <p style="font-size: 10px; color: #555;">© 2026 Bahattin Yunus Çetin. All Rights Reserved.</p>
+  <i>© 2026 Bahattin Yunus Çetin</i>
 </div>

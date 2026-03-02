@@ -3,17 +3,15 @@
   <img src="assets/header_v5.png" width="100%" style="border-radius: 12px;" alt="Bahattin Yunus Çetin" />
 
   <h1>Bahattin Yunus Çetin</h1>
-  <h3>AI Engineer · Aspiring Systems Architect</h3>
-  <p><i>Autonomous Systems & Cybersecurity</i></p>
+  <h3>AI Engineer · Solopreneur · Systems Architect</h3>
+  <p><i>Autonomous Systems · Cybersecurity · Digital Sovereignty</i></p>
 
   <p>
-    <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Autonomous+%26+Secure+Future+Systems;AI+%7C+Robotics+%7C+Cybersecurity+%7C+Architecture" alt="Typing SVG" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Autonomous+%26+Secure+Future+Systems;AI+%7C+Robotics+%7C+Cybersecurity+%7C+Architecture;Visionary+Solopreneur+%7C+Systems+Thinker" alt="Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/yunuscetin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/yunuscetin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -272,6 +270,15 @@ Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine
 | — | Knowing the Customer | BTK Akademi |
 
 </details>
+
+---
+
+<!-- START_QUOTE -->
+### ⚡ Daily Operational Directives
+- > **"Bir şehri fethetmek için önce zihni fethetmek gerekir."**
+- > **"Kod yaz, sistem kur, dünya değiştir."**
+- > **"Solopreneur: Tek başına bir ordu."**
+<!-- END_QUOTE -->
 
 ---
 

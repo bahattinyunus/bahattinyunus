@@ -56,33 +56,7 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
----
 
-## 🚀 Elite Repositories (Araştırma & Geliştirme)
-
-<div align="center">
-
-<a href="https://github.com/bahattinyunus/Mars-Rover-Control-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight" width="48%" />
-</a>
-<a href="https://github.com/bahattinyunus/ANKA-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight" width="48%" />
-</a>
-<br><br>
-<a href="https://github.com/bahattinyunus/denizalti-akademisi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight" width="48%" />
-</a>
-<a href="https://github.com/bahattinyunus/robotex_warrior_core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight" width="48%" />
-</a>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
-
----
 
 ## 📂 Proje Envanteri
 
@@ -144,20 +118,6 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
-## 📊 Mühendislik Metrikleri
-
-<div align="center">
-
-<div align="center">
-
-<a href="https://github.com/bahattinyunus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150px" />
-</a>
-<a href="https://github.com/bahattinyunus">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="150px" />
-</a>
-
-<br><br>
 
 <br>
 

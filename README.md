@@ -24,9 +24,7 @@
 
 ## 🌌 Vizyon & Misyon
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=2196F3" height="150" />
-</div>
+
 
 <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
 O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri *uçtan uca, fault-tolerant bir şekilde inşa etmektir.*<br><br>
@@ -65,17 +63,17 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
 <div align="center">
 
 <a href="https://github.com/bahattinyunus/Mars-Rover-Control-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight" width="48%" />
 </a>
 <a href="https://github.com/bahattinyunus/ANKA-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight" width="48%" />
 </a>
 <br><br>
 <a href="https://github.com/bahattinyunus/denizalti-akademisi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight" width="48%" />
 </a>
 <a href="https://github.com/bahattinyunus/robotex_warrior_core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight" width="48%" />
 </a>
 
 </div>

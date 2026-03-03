@@ -1,11 +1,11 @@
 <a id="top"></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Bahattin%20Yunus%20Cetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Bahattin%20Yunus%20Cetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today.</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+Systems+Architecture;Building+Scalable+%26+Robust+Backend+Systems;Autonomous+Systems+%7C+Cybersecurity;Engineering+efficiency.+Writing+resilience." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Architecture;Building+Scalable+Backend+Systems;Autonomous+Systems;Engineering+efficiency;Writing+resilience" alt="Typing SVG" />
   </p>
 
   <p>
@@ -26,13 +26,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
 
-<blockquote>
-  <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
-  O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri <i>uçtan uca, fault-tolerant bir şekilde inşa etmektir.</i><br><br>
-  Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
-</blockquote>
+<b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
+O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri *uçtan uca, fault-tolerant bir şekilde inşa etmektir.*<br><br>
+Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
 
-<br clear="both" />
+<br />
 
 ### 🎯 Odak Noktalarım
 - 💻 **Yazılım & Sistem Mimarisi** — Ölçeklenebilir altyapılar, backend servisleri, dağıtık sistemler
@@ -65,17 +63,17 @@
 <div align="center">
 
 <a href="https://github.com/bahattinyunus/Mars-Rover-Control-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
 </a>
 <a href="https://github.com/bahattinyunus/ANKA-LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
 </a>
 <br><br>
 <a href="https://github.com/bahattinyunus/denizalti-akademisi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
 </a>
 <a href="https://github.com/bahattinyunus/robotex_warrior_core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117" width="48%" />
 </a>
 
 </div>
@@ -153,7 +151,7 @@
 <div align="center">
 
 <a href="https://github.com/bahattinyunus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150px" />
 </a>
 <a href="https://github.com/bahattinyunus">
   <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="150px" />
@@ -163,11 +161,11 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
 
 </div>
 

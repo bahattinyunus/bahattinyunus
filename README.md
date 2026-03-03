@@ -24,7 +24,9 @@
 
 ## 🌌 Vizyon & Misyon
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=2196F3" height="150" />
+</div>
 
 <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
 O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri *uçtan uca, fault-tolerant bir şekilde inşa etmektir.*<br><br>

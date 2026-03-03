@@ -1,6 +1,6 @@
 <a id="top"></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Bahattin%20Yunus%20%C3%87etin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Bahattin%20Yunus%20Cetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today.</h2>
 
@@ -24,20 +24,15 @@
 
 ## 🌌 Vizyon & Misyon
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; padding-right: 20px;">
-      <blockquote>
-        <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b>
-        O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri <i>uçtan uca, fault-tolerant bir şekilde inşa etmektir.</i>
-        Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
-      </blockquote>
-    </td>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" />
+
+<blockquote>
+  <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
+  O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri <i>uçtan uca, fault-tolerant bir şekilde inşa etmektir.</i><br><br>
+  Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
+</blockquote>
+
+<br clear="both" />
 
 ### 🎯 Odak Noktalarım
 - 💻 **Yazılım & Sistem Mimarisi** — Ölçeklenebilir altyapılar, backend servisleri, dağıtık sistemler
@@ -155,16 +150,16 @@
 
 <div align="center">
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="33%" style="border: none;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" height="150px" />
-    </td>
-    <td width="66%" style="border: none;" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="150px" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/bahattinyunus">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" height="150px" />
+</a>
+<a href="https://github.com/bahattinyunus">
+  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="150px" />
+</a>
+
+<br><br>
 
 <br>
 

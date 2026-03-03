@@ -1,58 +1,93 @@
 <a id="top"></a>
 <div align="center">
-  <img src="assets/header_v5.png" width="100%" style="border-radius: 12px;" alt="Bahattin Yunus Çetin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Bahattin%20Yunus%20%C3%87etin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
-  <h1>Bahattin Yunus Çetin</h1>
-  <h3>AI Engineer · Solopreneur · Systems Architect</h3>
-  <p><i>Autonomous Systems · Cybersecurity · Digital Sovereignty</i></p>
+  <h2>Architecting Tomorrow's Solutions Today.</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2196F3&center=true&vCenter=true&width=650&lines=Building+Autonomous+%26+Secure+Future+Systems;AI+%7C+Robotics+%7C+Cybersecurity+%7C+Architecture;Visionary+Solopreneur+%7C+Systems+Thinker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering+%7C+Systems+Architecture;Building+Scalable+%26+Robust+Backend+Systems;Autonomous+Systems+%7C+Cybersecurity;Engineering+efficiency.+Writing+resilience." alt="Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/yunuscetin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/E--Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/yunuscetin"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
 ---
 
-## 🎯 Hakkımda
+## 🌌 Vizyon & Misyon
 
-Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine çalışıyorum. Teknolojiyi sadece kullanmak değil, **mimari düzeyde anlamak ve inşa etmek** odak noktam.
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; padding-right: 20px;">
+      <blockquote>
+        <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b>
+        O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri <i>uçtan uca, fault-tolerant bir şekilde inşa etmektir.</i>
+        Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
+      </blockquote>
+    </td>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 🤖 **Otonom Sistemler** — Akıllı karar mekanizmaları, robotik, ROS2
-- 🛡️ **Siber Güvenlik** — Mimari güvenlik, SIGINT, kriptografi
-- 🧠 **Yapay Zeka** — LLM, deep learning, otonom yapılar
-- 🏗️ **Sistem Mimarisi** — Ölçeklenebilir, fault-tolerant tasarım
+### 🎯 Odak Noktalarım
+- 💻 **Yazılım & Sistem Mimarisi** — Ölçeklenebilir altyapılar, backend servisleri, dağıtık sistemler
+- 🤖 **Otonom Sistemler** — Akıllı mantıksal algoritmalar, robotik işletim sistemleri (ROS2)
+- 🛡️ **Siber Güvenlik** — Sistem güvenli tasarım prensipleri (Secure by Design), adli bilişim
+- 🧠 **Yapay Zeka** — Büyük dil modelleri (LLM), makine öğrenmesi algoritmaları
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
-## 🛠️ Tech Stack
+## 🛠️ İşletim & Gövde Cephaneliği (Tech Stack)
 
 <div align="center">
 
-| Yapay Zeka & Veri | Siber Güvenlik | Geliştirme & Altyapı |
+| 🌐 Backend & Geliştirme | 🧠 Veri Bilimi & AI | 🛡️ Altyapı & Sistem |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /> | <img src="https://skillicons.dev/icons?i=kali,linux,bash" /> | <img src="https://skillicons.dev/icons?i=python,cpp,go,js,docker,git" /> |
+| <br><img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,react,nodejs&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,nginx,bash&perline=6" /><br> |
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ---
 
-## 🌌 Flagship Projeler
+## 🚀 Elite Repositories (Araştırma & Geliştirme)
 
-> **🚀 [Mars Rover Control OS](https://github.com/bahattinyunus/Mars-Rover-Control-OS)** — `ROS2` `C++17`  
-> Yüksek gecikmeli uzay ortamında çalışan, fault-tolerant otonom keşif mimarisi.
+<div align="center">
 
-> **🧠 [ANKA-LLM](https://github.com/bahattinyunus/ANKA-LLM)** — `LLM` `NPU` `KVKK`  
-> Veri egemenliği odaklı, donanım agnostik milli Büyük Dil Modeli altyapısı.
+<a href="https://github.com/bahattinyunus/Mars-Rover-Control-OS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=Mars-Rover-Control-OS&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+</a>
+<a href="https://github.com/bahattinyunus/ANKA-LLM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=ANKA-LLM&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+</a>
+<br><br>
+<a href="https://github.com/bahattinyunus/denizalti-akademisi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=denizalti-akademisi&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+</a>
+<a href="https://github.com/bahattinyunus/robotex_warrior_core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bahattinyunus&repo=robotex_warrior_core&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=2196F3" width="48%" />
+</a>
 
-> **⚓ [Mavi Vatan 2053](https://github.com/bahattinyunus/denizalti-akademisi)** — `Defense Tech` `ASW`  
-> Sualtı akustik işleme ve otonom karar destek sistemlerini birleştiren komuta çerçevesi.
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 ---
 
@@ -112,27 +147,37 @@ Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine
 
 ---
 
-## 📊 GitHub İstatistikleri
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
+## 📊 Mühendislik Metrikleri
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=bahattinyunus&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" width="100%" />
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="33%" style="border: none;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" height="150px" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3" width="100%" />
+    <td width="66%" style="border: none;" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" height="150px" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<br>
 
-<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+<br>
 
+<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ---
@@ -283,7 +328,9 @@ Ağustos 2023'ten beri AI destekli proje geliştirme ve sistem mimarisi üzerine
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=PROFILE+VIEWS&color=2196F3&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
   <br /><br />
-  <i>© 2026 Bahattin Yunus Çetin</i>
+  <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
+  <br /><br />
+  <b>© 2026 Bahattin Yunus Çetin</b>
 </div>

@@ -8,8 +8,8 @@ def refresh_quotes():
     with open('sozler.json', 'r', encoding='utf-8') as f:
         quotes_list = json.load(f)
     
-    # Select 3 random quotes
-    selected = random.sample(quotes_list, 3)
+    # Select 5 random quotes
+    selected = random.sample(quotes_list, 5)
     
     # Format the block
     new_content = "<!-- START_QUOTE -->\n### ⚡ Daily Operational Directives\n"

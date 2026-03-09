@@ -273,9 +273,9 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İlim öğrenmek, kadın erkek her Müslümana farzdır. - Hz. Muhammed (s.a.v.)"**
-- > **"Konstantiniyye elbet fethedilecektir. Onu fetheden komutan ne güzel komutandır, onu fetheden asker ne güzel askerdir! - Hz. Muhammed (s.a.v.)"**
-- > **"Biz toprakları değil, gönülleri fethetmeye gidiyoruz. - Fatih Sultan Mehmet"**
+- > **"İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet"**
+- > **"İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu"**
+- > **"Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev"**
 
 <!-- END_QUOTE -->
 

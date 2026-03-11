@@ -250,7 +250,6 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
 | Kas 2024 | Small Basic Coding | BTK Akademi |
 | Ara 2024 | Financial Literacy & Fintech | BTK Akademi |
 | Mar 2023 | İHA-1 Sportif/Amatör Pilot Lisansı | SHGM |
-| Oca 2022 | Correctional Officer Training | Adalet Bakanlığı |
 | — | IT Law / Bilişim Hukuku | BTK Akademi |
 | — | Applied Business Model Development | BTK Akademi |
 | — | Patent & Utility Model Protection | BTK Akademi |

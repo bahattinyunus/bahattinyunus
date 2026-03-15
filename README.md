@@ -286,3 +286,6 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
   <br /><br />
   <b>© 2026 Bahattin Yunus Çetin</b>
 </div>
+<div align="center">
+  <img src="assets/elite_banner.png" width="100%" alt="Elite Banner" />
+</div>

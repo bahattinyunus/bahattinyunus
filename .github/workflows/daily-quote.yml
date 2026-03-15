@@ -18,8 +18,8 @@ jobs:
       - name: Select Random Directives
         id: select_quote
         run: |
-          # Read 3 random quotes from sozler.json using jq and shuf
-          mapfile -t QUOTES < <(jq -r '.[]' sozler.json | shuf -n 3)
+          # Read 5 random quotes from sozler.json using jq and shuf
+          mapfile -t QUOTES < <(jq -r '.[]' sozler.json | shuf -n 5)
           
           # Format the quotes into a single block
           FORMATTED_QUOTES=""

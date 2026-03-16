@@ -126,8 +126,8 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=7da33c&text_color=d1d1d1&icon_color=7da33c&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=algolia&bg_color=1a2421&title_color=7da33c&text_color=d1d1d1&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&icon_color=ebcb8b&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&hide_border=true" height="170" />
 </div>
 
 <br>
@@ -139,7 +139,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=dracula&bg_color=1a2421&color=7da33c&line=7da33c&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=nord&bg_color=1a2421&color=a3be8c&line=a3be8c&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>

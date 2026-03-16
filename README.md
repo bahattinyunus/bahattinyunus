@@ -5,7 +5,7 @@
   <h2>Architecting Tomorrow's Solutions Today.</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Architecture;Building+Scalable+Backend+Systems;Autonomous+Systems;Engineering+efficiency;Writing+resilience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Autonomous+Systems;Engineering+efficiency;Universal+Order" alt="Typing SVG" />
   </p>
 
   <p>
@@ -22,13 +22,11 @@
 
 ---
 
-## 🌌 Vizyon & Misyon
-
-
+## 🌌 Vizyon, Misyon & Nizam
 
 <b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
-O günden bu yana odağım sadece kod yazmak değil; sistemlerin kalbinde yatan mimariyi kavramak ve bu sistemleri *uçtan uca, fault-tolerant bir şekilde inşa etmektir.*<br><br>
-Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
+O günden bu yana odağım sadece kod yazmak değil; evrendeki ve sistemlerdeki **mutlak nizamı** kavramak, bu disiplini mimari süreçlere nakşetmektir. Sistemleri *uçtan uca, kusursuz bir tertip ve fault-tolerant bir şekilde inşa etmek* en temel önceliğimdir.<br><br>
+Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
 
 <br />
 
@@ -286,6 +284,7 @@ Geçici kod blokları yerine, geleceği şekillendiren teknolojiler üzerine sa�
   <br /><br />
   <b>© 2026 Bahattin Yunus Çetin</b>
 </div>
+
 <div align="center">
-  <img src="assets/elite_banner.png" width="100%" alt="Elite Banner" />
+  <img src="assets/nizam_banner.png" width="100%" alt="Nizam Banner" />
 </div>

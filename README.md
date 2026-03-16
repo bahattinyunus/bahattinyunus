@@ -17,6 +17,14 @@
 </div>
 
 <div align="center">
+
+| 🖥️ OPERATIONAL STATUS: ONLINE | 🎯 CURRENT FOCUS: ELITE SYSTEMS | 🛡️ THREAT LEVEL: LOW |
+| :--- | :--- | :--- |
+| **UPTIME:** 100% | **ARCH:** SYSTEMIC NIZAM | **INTEGRITY:** VERIFIED |
+
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
@@ -117,13 +125,28 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 </div>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=tokyo-night&bg_color=0D1117&title_color=4facfe&text_color=ffffff&icon_color=4facfe&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=tokyo-night&bg_color=0D1117&title_color=4facfe&text_color=ffffff&hide_border=true" height="170" />
+</div>
+
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=tokyonight&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+</div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=tokyo-night&bg_color=0D1117&color=4facfe&line=4facfe&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
+</div>
 
 </div>
 

@@ -133,7 +133,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=green&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=radical&no-bg=true&margin-w=4&no-frame=true" width="100%" />
 </div>
 
 <br>

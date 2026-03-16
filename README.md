@@ -270,9 +270,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Eğitimin kökleri acı, meyveleri tatlıdır. - Aristoteles"**
-- > **"Tarih yazmak korkaklara göre bir iş değildir. - Fatih Sultan Mehmet"**
-- > **"Taktik olmadan strateji, zafere giden en yavaş yoldur. - Sun Tzu"**
+- > **"Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk"**
+- > **"Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu"**
+- > **"Nizam, her şeyi yerli yerine koyma sanatıdır. - İbn Arabi"**
 <!-- END_QUOTE -->
 
 ---

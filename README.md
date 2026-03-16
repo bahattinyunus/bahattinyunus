@@ -270,9 +270,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk"**
-- > **"Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu"**
-- > **"Nizam, her şeyi yerli yerine koyma sanatıdır. - İbn Arabi"**
+- > **"Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet"**
+- > **"Coğrafya kaderdir. - İbn Haldun"**
+- > **"Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç"**
 <!-- END_QUOTE -->
 
 ---

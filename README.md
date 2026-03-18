@@ -293,9 +293,10 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet"**
-- > **"Coğrafya kaderdir. - İbn Haldun"**
-- > **"Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç"**
+- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
+- > **"Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali"**
+- > **"En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo"**
+
 <!-- END_QUOTE -->
 
 ---

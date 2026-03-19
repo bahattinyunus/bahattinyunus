@@ -293,9 +293,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
-- > **"Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali"**
-- > **"En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo"**
+- > **"Mağluplar galipleri taklit ederler. - İbn Haldun"**
+- > **"Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon"**
+- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna"**
 
 <!-- END_QUOTE -->
 

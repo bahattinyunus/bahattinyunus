@@ -293,9 +293,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Mağluplar galipleri taklit ederler. - İbn Haldun"**
-- > **"Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon"**
-- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna"**
+- > **"İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu"**
+- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
+- > **"En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu"**
 
 <!-- END_QUOTE -->
 

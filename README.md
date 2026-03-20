@@ -309,7 +309,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=nu0b7W6jZBU">
+  <a href="https://www.youtube.com/watch?v=BNyH1KW6fS0">
     <img src="assets/nizam_banner.png" width="100%" alt="Nizam Banner" />
   </a>
 </div>

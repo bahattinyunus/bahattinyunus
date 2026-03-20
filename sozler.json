@@ -1,42 +1,162 @@
 [
-    "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
-    "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
-    "Coğrafya kaderdir. - İbn Haldun",
-    "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-    "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
-    "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
-    "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-    "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-    "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
-    "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-    "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
-    "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
-    "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
-    "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-    "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
-    "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-    "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
-    "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-    "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
-    "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-    "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
-    "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-    "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-    "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
-    "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-    "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-    "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
-    "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
-    "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-    "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
-    "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
-    "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-    "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-    "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
-    "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
-    "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-    "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-    "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-    "Mağluplar galipleri taklit ederler. - İbn Haldun",
-    "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet"
+    {
+        "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
+        "used": false
+    },
+    {
+        "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
+        "used": false
+    },
+    {
+        "text": "Coğrafya kaderdir. - İbn Haldun",
+        "used": false
+    },
+    {
+        "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
+        "used": false
+    },
+    {
+        "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
+        "used": false
+    },
+    {
+        "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
+        "used": false
+    },
+    {
+        "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
+        "used": false
+    },
+    {
+        "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
+        "used": false
+    },
+    {
+        "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
+        "used": false
+    },
+    {
+        "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
+        "used": false
+    },
+    {
+        "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
+        "used": false
+    },
+    {
+        "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
+        "used": false
+    },
+    {
+        "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
+        "used": true
+    },
+    {
+        "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
+        "used": false
+    },
+    {
+        "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
+        "used": true
+    },
+    {
+        "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
+        "used": false
+    },
+    {
+        "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
+        "used": true
+    },
+    {
+        "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
+        "used": false
+    },
+    {
+        "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
+        "used": false
+    },
+    {
+        "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
+        "used": false
+    },
+    {
+        "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
+        "used": false
+    },
+    {
+        "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
+        "used": false
+    },
+    {
+        "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
+        "used": false
+    },
+    {
+        "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
+        "used": false
+    },
+    {
+        "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
+        "used": false
+    },
+    {
+        "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
+        "used": false
+    },
+    {
+        "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
+        "used": false
+    },
+    {
+        "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
+        "used": false
+    },
+    {
+        "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
+        "used": false
+    },
+    {
+        "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
+        "used": false
+    },
+    {
+        "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
+        "used": false
+    },
+    {
+        "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
+        "used": false
+    },
+    {
+        "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
+        "used": false
+    },
+    {
+        "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
+        "used": false
+    },
+    {
+        "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
+        "used": false
+    },
+    {
+        "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
+        "used": false
+    },
+    {
+        "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
+        "used": false
+    },
+    {
+        "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
+        "used": false
+    },
+    {
+        "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
+        "used": false
+    },
+    {
+        "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
+        "used": false
+    }
 ]

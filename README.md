@@ -293,10 +293,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu"**
-- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
-- > **"En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu"**
-
+- > **"Engelin kendisi, yolun kendisi olur. - Marcus Aurelius"**
+- > **"Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius"**
+- > **"Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç"**
 <!-- END_QUOTE -->
 
 ---

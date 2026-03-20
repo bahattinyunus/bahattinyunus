@@ -15,29 +15,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Select Random Directives
-        id: select_quote
-        run: |
-          # Read 3 random quotes from sozler.json using jq and shuf
-          mapfile -t QUOTES < <(jq -r '.[]' sozler.json | shuf -n 3)
-          
-          # Format the quotes into a single block
-          FORMATTED_QUOTES=""
-          for q in "${QUOTES[@]}"; do
-            # Escape double quotes for shell and markdown safety
-            CLEAN_Q=$(echo "$q" | sed 's/"/\\"/g')
-            FORMATTED_QUOTES+="- > **\"$CLEAN_Q\"**\n"
-          done
-          
-          echo "SELECTED_QUOTES<<EOF" >> $GITHUB_ENV
-          echo -e "$FORMATTED_QUOTES" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-
-      - name: Inject Directives into README
-        run: |
-          # Use perl for clean block replacement
-          # We use the multi-line env var SELECTED_QUOTES
-          perl -0777 -i -pe "s/<!-- START_QUOTE -->.*?<!-- END_QUOTE -->/<!-- START_QUOTE -->\n### ⚡ Daily Operational Directives\n$SELECTED_QUOTES\n<!-- END_QUOTE -->/s" README.md
+      - name: Select Directives and Update Readme
+        run: python refresh_quotes.py
 
       - name: Commit and Push
         run: |
@@ -45,8 +24,8 @@ jobs:
           git config --global user.email "bot@bahattinyunus.com"
           
           if [[ -n $(git status -s) ]]; then
-            git add README.md
-            git commit -m "docs: update daily operational directive"
+            git add README.md sozler.json
+            git commit -m "docs: update daily operational directive and select new quotes"
             git push
           else
             echo "No changes to commit."

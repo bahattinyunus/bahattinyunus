@@ -8,35 +8,35 @@ def refresh_quotes():
     with open('sozler.json', 'r', encoding='utf-8') as f:
         quotes_list = json.load(f)
     
-    # Sort quotes alphabetically to ensure consistent absolute ordering before shuffling
-    quotes_list.sort()
+    # Filter unused quotes
+    unused_quotes = [q for q in quotes_list if not q.get('used', False)]
     
-    # Create a reproducible shuffle using a fixed seed
-    # This ensures the list is always scrambled in the same way, mixing authors
-    r = random.Random(42)  # Change 42 to another number to completely re-scramble
-    r.shuffle(quotes_list)
+    num_quotes_per_day = 3
     
-    # Calculate how many days have passed since a fixed epoch (e.g., Jan 1, 2024)
-    epoch = date(2024, 1, 1)
-    today = date.today()
-    days_passed = (today - epoch).days
+    # If not enough unused quotes, reset all to unused
+    if len(unused_quotes) < num_quotes_per_day:
+        for q in quotes_list:
+            q['used'] = False
+        unused_quotes = quotes_list
+        print("Not enough unused quotes left. Resetting all quotes to unused.")
+
+    # Select 3 random quotes from the unused pool
+    selected = random.sample(unused_quotes, num_quotes_per_day)
     
-    # We select 5 quotes per day. 
-    # Use days_passed to slide the window across the shuffled list.
-    total_quotes = len(quotes_list)
-    num_quotes_per_day = 5
-    
-    start_index = (days_passed * num_quotes_per_day) % total_quotes
-    
-    selected = []
-    for i in range(num_quotes_per_day):
-        idx = (start_index + i) % total_quotes
-        selected.append(quotes_list[idx])
-    
+    # Mark them as used
+    selected_texts = []
+    for q in selected:
+        q['used'] = True
+        selected_texts.append(q['text'])
+
+    # Save the updated quotes back to sozler.json
+    with open('sozler.json', 'w', encoding='utf-8') as f:
+        json.dump(quotes_list, f, ensure_ascii=False, indent=4)
+        
     # Format the block
     new_content = "<!-- START_QUOTE -->\n### ⚡ Daily Operational Directives\n"
-    for q in selected:
-        new_content += f"- > **\"{q}\"**\n"
+    for text in selected_texts:
+        new_content += f"- > **\"{text}\"**\n"
     new_content += "<!-- END_QUOTE -->"
     
     # Read README
@@ -51,8 +51,9 @@ def refresh_quotes():
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(updated_readme)
     
-    print(f"Directives refreshed locally for {today} (Day: {days_passed})!")
-    for q in selected:
+    today = date.today()
+    print(f"Directives refreshed locally for {today}!")
+    for q in selected_texts:
         print(f" - {q}")
 
 if __name__ == "__main__":

@@ -11,7 +11,7 @@ def refresh_quotes():
     # Filter unused quotes
     unused_quotes = [q for q in quotes_list if not q.get('used', False)]
     
-    num_quotes_per_day = 3
+    num_quotes_per_day = 5
     
     # If not enough unused quotes, reset all to unused
     if len(unused_quotes) < num_quotes_per_day:

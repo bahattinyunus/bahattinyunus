@@ -293,9 +293,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna"**
-- > **"Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun"**
-- > **"Coğrafya kaderdir. - İbn Haldun"**
+- > **"İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu"**
+- > **"Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani"**
+- > **"Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu"**
+- > **"Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna"**
+- > **"Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk"**
 <!-- END_QUOTE -->
 
 ---

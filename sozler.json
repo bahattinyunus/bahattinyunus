@@ -85,7 +85,7 @@
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
@@ -113,7 +113,7 @@
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
@@ -141,11 +141,11 @@
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
@@ -157,6 +157,86 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
+        "used": false
+    },
+    {
+        "text": "Hayatta en hakiki mürşit ilimdir. - Mustafa Kemal Atatürk",
+        "used": false
+    },
+    {
+        "text": "Yalnız tek bir şeye ihtiyacımız vardır, çalışkan olmak. - Mustafa Kemal Atatürk",
+        "used": false
+    },
+    {
+        "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
+        "used": false
+    },
+    {
+        "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
+        "used": false
+    },
+    {
+        "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
+        "used": false
+    },
+    {
+        "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
+        "used": false
+    },
+    {
+        "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
+        "used": false
+    },
+    {
+        "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
+        "used": false
+    },
+    {
+        "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
+        "used": false
+    },
+    {
+        "text": "Bilgi güçtür. - Francis Bacon",
+        "used": false
+    },
+    {
+        "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
+        "used": false
+    },
+    {
+        "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
+        "used": false
+    },
+    {
+        "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
+        "used": false
+    },
+    {
+        "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
+        "used": false
+    },
+    {
+        "text": "Vatanını en çok seven, görevini en iyi yapandır. - Mustafa Kemal Atatürk",
+        "used": false
+    },
+    {
+        "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
+        "used": false
+    },
+    {
+        "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
+        "used": false
+    },
+    {
+        "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
+        "used": false
+    },
+    {
+        "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
+        "used": true
+    },
+    {
+        "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
         "used": false
     }
 ]

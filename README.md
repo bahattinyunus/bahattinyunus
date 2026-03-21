@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20Çetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
-  <h2>Architecting Tomorrow's Solutions Today</h2>
+  <h2>Architecting Tomorrow's Solutions Today.</h2>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Autonomous+Systems;Engineering+efficiency;Universal+Order" alt="Typing SVG" />

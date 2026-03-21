@@ -21,7 +21,7 @@ jobs:
       - name: Commit and Push
         run: |
           git config --global user.name "Directive Bot"
-          git config --global user.email "bot@bahattinyunus.com"
+          git config --global user.email "bot@arch-yunus.com"
           
           if [[ -n $(git status -s) ]]; then
             git add README.md sozler.json

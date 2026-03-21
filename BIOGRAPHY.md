@@ -10,7 +10,7 @@
 | **Profesyonel Unvan** | **IT Architect & Teknoloji Stratejisti** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
 | **Mevcut Üs / Konum** | Trabzon / Of Teknoloji Fakültesi |
-| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-bahattinyunus-181717?style=flat-square&logo=github)](https://github.com/bahattinyunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bahattinyunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/) |
+| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-arch-yunus-181717?style=flat-square&logo=github)](https://github.com/arch-yunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-arch-yunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arch-yunus/) |
 
 Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Trabzon Of Teknoloji Fakültesi**'nin dinamik atmosferiyle birleştiriyorum.
 
@@ -67,20 +67,20 @@ Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu 
 KTÜ bünyesindeki eğitimimi, sadece bir diploma kazanımı değil, endüstriyel standartlarda bir "IT Architect" yetişme parkuru olarak kurguladım. Burası benim ana operasyonel merkezim ve sistemlerimin çekirdek (Kernel) katmanıdır.
 - **Felsefe**: "Çalışan kod" asgari şarttır; asıl hedef "Evrimsel Mimari" kurmaktır. Sürdürülebilir (Sustainable), yüksek erişilebilir (High Availability), bakımı yapılabilir (Maintainable) ve güvenlik öncelikli (Security-by-Design) sistemler tasarlıyorum. Yazılım yaşam döngüsünün (SDLC) her noktasını, modern DevOps ve CI/CD otomasyonları ile "Deploy-Ready" hale getiriyorum.
 - **Post-AI Vizyonu**: Yapay zekayı bir tehdit değil, mühendisin bilişsel kapasitesini 100 katına çıkaran bir "Nöral Güç Çarpanı" olarak konumlandırıyoruz. LLM ajanları ile otonom kod geliştirme ve sistem izleme (Monitoring) süreçleri üzerinde çalışıyorum.
-- **İlgili Repo**: [KTÜ Post-AI Komuta Merkezi](https://github.com/bahattinyunus/ktu-software-engineering)
+- **İlgili Repo**: [KTÜ Post-AI Komuta Merkezi](https://github.com/arch-yunus/ktu-software-engineering)
 
 ### 2. İstanbul Üniversitesi - Yönetim Bilişim Sistemleri
 **🗓️ 2025 - 2029** | *Hibrit Yönetici Katmanı (Executive Layer)*
 Teknik derinliğimi; stratejik yönetim, finansal okuryazarlık ve işletme vizyonu ile birleştirerek, endüstriyel dünyada aranan "T-Shaped Architect" profilini inşa ediyorum.
 - **Odak Alanları**: Büyük veri analitiği (Big Data Analytics) ile desteklenen veri güdümlü karar alma (Data-Driven Decision Making) süreçleri, dijital transformasyonun kurum kültürü üzerindeki etkisi ve teknoloji yatırımlarının RSI (Return on Innovation) analizi.
 - **Amaç**: Sadece "nasıl kodlanır?" sorusuna değil, "bu kod hangi iş problemini, hangi maliyetle ve nasıl bir stratejik fayda ile çözer?" sorusuna yanıt verebilen bir "Executive Engineer" kimliği oluşturmak.
-- **İlgili Repo**: [MIS Roadmap](https://github.com/bahattinyunus/MIS-Roadmap)
+- **İlgili Repo**: [MIS Roadmap](https://github.com/arch-yunus/MIS-Roadmap)
 
 ### 3. Anadolu Üniversitesi - Bilgisayar Programcılığı
 **🗓️ 2025 - 2027** | *Operasyonel Yedeklilik (Failover System)*
 Akademik dünyanın bazen hantal kalan teorik müfredatına karşı, hızlı uygulama ve operasyonel çeviklik kazandıran stratejik bir "Hot Standby" katmanı.
 - **Strateji**: Pratik kodlama yetilerimi, script yazımı (Scripting), hızlı prototipleme (Prototyping) ve sistem yönetimi (SysAdmin) alanlarında keskinleştiriyorum. Bu bölüm, ana mühendislik kariyerimi her türlü sektörel dalgalanmaya karşı koruyan bir "Yedekleme ve Replika" sistemidir.
-- **İlgili Repo**: [AOF CS Notes](https://github.com/bahattinyunus/AOF-CS-Notes)
+- **İlgili Repo**: [AOF CS Notes](https://github.com/arch-yunus/AOF-CS-Notes)
 
 ### 4. Recep Tayyip Erdoğan Üniversitesi (Önlisans)
 **🗓️ 2024 - 2026** | *Kaynak Çeşitliliği ve Yük Dengeleme (Load Balancing)*

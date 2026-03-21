@@ -9,9 +9,9 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/bahattinyunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
@@ -71,12 +71,12 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 | Proje | Teknoloji |
 | :--- | :--- |
-| [Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
-| [ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
-| [Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
-| [LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
-| [AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
-| [Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
+| [Formula Student Autonomous](https://github.com/arch-yunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
+| [ERC Rover GCS](https://github.com/arch-yunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
+| [Robotex Warrior Core](https://github.com/arch-yunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
+| [LionSight AUV](https://github.com/arch-yunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
+| [AQUASYNC](https://github.com/arch-yunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
+| [Robotaksi Full-Stack](https://github.com/arch-yunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
 
 </details>
 
@@ -85,10 +85,10 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 | Proje | Teknoloji |
 | :--- | :--- |
-| [Akademik Radar](https://github.com/bahattinyunus/AkademikRadar) | `SciBERT` `Graph Theory` |
-| [Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
-| [NexusBroker](https://github.com/bahattinyunus/NexusBroker) | `Vector DB` `Solidity` |
-| [DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
+| [Akademik Radar](https://github.com/arch-yunus/AkademikRadar) | `SciBERT` `Graph Theory` |
+| [Nexus TRL](https://github.com/arch-yunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
+| [NexusBroker](https://github.com/arch-yunus/NexusBroker) | `Vector DB` `Solidity` |
+| [DeepAntenna](https://github.com/arch-yunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
 
 </details>
 
@@ -97,11 +97,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 | Proje | Teknoloji |
 | :--- | :--- |
-| [Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
-| [SIGINT HUB](https://github.com/bahattinyunus/SIGINT) | `DSP` `FFT` `ELINT` |
-| [NOAA Station](https://github.com/bahattinyunus/NOAA) | `Orbital` `Signal Proc.` |
-| [Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
-| [Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
+| [Kiyamet-Hatti](https://github.com/arch-yunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
+| [SIGINT HUB](https://github.com/arch-yunus/SIGINT) | `DSP` `FFT` `ELINT` |
+| [NOAA Station](https://github.com/arch-yunus/NOAA) | `Orbital` `Signal Proc.` |
+| [Digital Archaeology](https://github.com/arch-yunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
+| [Milli Teknoloji Envanteri](https://github.com/arch-yunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
 
 </details>
 
@@ -110,11 +110,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 | Proje | Teknoloji |
 | :--- | :--- |
-| [ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
-| [Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
-| [CivTech-Core](https://github.com/bahattinyunus/CivTech-Core) | `FEM` `Generative Design` |
-| [CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` |
-| [NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
+| [ANATOLIA-SILICON](https://github.com/arch-yunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
+| [Industrial Intelligence](https://github.com/arch-yunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
+| [CivTech-Core](https://github.com/arch-yunus/CivTech-Core) | `FEM` `Generative Design` |
+| [CodeVisualizer](https://github.com/arch-yunus/CodeVisualizer) | `AST` `React` `FastAPI` |
+| [NovaChat](https://github.com/arch-yunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
 
 </details>
 
@@ -126,26 +126,26 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&icon_color=ebcb8b&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahattinyunus&layout=compact&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&icon_color=ebcb8b&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-yunus&layout=compact&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&hide_border=true" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=nord&bg_color=1a2421&color=a3be8c&line=a3be8c&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&theme=nord&bg_color=1a2421&color=a3be8c&line=a3be8c&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
+  <img src="https://raw.githubusercontent.com/arch-yunus/arch-yunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
 </div>
 
 </div>
@@ -301,7 +301,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
   <br /><br />
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br /><br />

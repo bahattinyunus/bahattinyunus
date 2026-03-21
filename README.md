@@ -293,9 +293,9 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Engelin kendisi, yolun kendisi olur. - Marcus Aurelius"**
-- > **"Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius"**
-- > **"Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç"**
+- > **"Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna"**
+- > **"Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun"**
+- > **"Coğrafya kaderdir. - İbn Haldun"**
 <!-- END_QUOTE -->
 
 ---

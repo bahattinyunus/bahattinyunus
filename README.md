@@ -10,7 +10,7 @@
   <h2>Architecting Tomorrow's Solutions Today</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Autonomous+Systems;Engineering+efficiency;Universal+Order" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Polis+%C3%96zel+Harekat+(P%C3%96H)+Disiplini;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
   </p>
 
   <p>
@@ -18,6 +18,9 @@
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <br><br>
+    <img src="https://img.shields.io/badge/Standart-Polis_Özel_Harekat_(PÖH)-14342B?style=for-the-badge&logo=crosshairs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ruh-Yeşil_Bere-005C29?style=for-the-badge&logo=target&logoColor=white" />
   </p>
 </div>
 
@@ -49,6 +52,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 - 🤖 **Otonom Sistemler** — Akıllı mantıksal algoritmalar, robotik işletim sistemleri (ROS2)
 - 🛡️ **Siber Güvenlik** — Sistem güvenli tasarım prensipleri (Secure by Design), adli bilişim
 - 🧠 **Yapay Zeka** — Büyük dil modelleri (LLM), makine öğrenmesi algoritmaları
+- 🐺 **Operasyonel Disiplin** — Polis Özel Harekat (PÖH) standartlarında kriz yönetimi ve görev bilinci
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />

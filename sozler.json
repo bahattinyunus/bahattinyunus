@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -101,7 +101,7 @@
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-        "used": false
+        "used": true
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
@@ -193,7 +193,7 @@
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
-        "used": false
+        "used": true
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
@@ -225,6 +225,54 @@
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
+        "used": false
+    },
+    {
+        "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
+        "used": false
+    },
+    {
+        "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
+        "used": false
+    },
+    {
+        "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
+        "used": false
+    },
+    {
+        "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
+        "used": false
+    },
+    {
+        "text": "Terleyen zırh, kanayan yarayı önler. - Askeri Kural",
+        "used": true
+    },
+    {
+        "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
+        "used": false
+    },
+    {
+        "text": "Devletin temeli adalettir. - Hz. Ömer",
+        "used": true
+    },
+    {
+        "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
+        "used": false
+    },
+    {
+        "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
+        "used": false
+    },
+    {
+        "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
+        "used": false
+    },
+    {
+        "text": "Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi",
+        "used": false
+    },
+    {
+        "text": "Operasyon bitmez, nizam devam eder. - PÖH Mentalitesi",
         "used": false
     }
 ]

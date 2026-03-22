@@ -303,11 +303,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç"**
-- > **"Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali"**
-- > **"Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi"**
-- > **"Bilgi güçtür. - Francis Bacon"**
-- > **"Hayatta en hakiki mürşit ilimdir. - Mustafa Kemal Atatürk"**
+- > **"Hatalar, keşfin kapılarıdır. - James Joyce"**
+- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
+- > **"Terleyen zırh, kanayan yarayı önler. - Askeri Kural"**
+- > **"En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo"**
+- > **"Devletin temeli adalettir. - Hz. Ömer"**
 <!-- END_QUOTE -->
 
 ---

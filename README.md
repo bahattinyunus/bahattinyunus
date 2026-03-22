@@ -10,7 +10,7 @@
   <h2>Architecting Tomorrow's Solutions Today</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Polis+%C3%96zel+Harekat+(P%C3%96H)+Disiplini;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
   </p>
 
   <p>
@@ -19,7 +19,7 @@
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br><br>
-    <img src="https://img.shields.io/badge/Standart-Polis_Özel_Harekat_(PÖH)-14342B?style=for-the-badge&logo=crosshairs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Standart-Operasyonel_Disiplin-14342B?style=for-the-badge&logo=crosshairs&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruh-Yeşil_Bere-005C29?style=for-the-badge&logo=target&logoColor=white" />
   </p>
 </div>
@@ -29,7 +29,7 @@
 | 🖥️ OPERATIONAL STATUS: ONLINE | 🎯 CURRENT FOCUS: ELITE SYSTEMS | 🛡️ THREAT LEVEL: LOW |
 | :--- | :--- | :--- |
 | **UPTIME:** 100% | **ARCH:** SYSTEMIC NIZAM | **INTEGRITY:** VERIFIED |
-| **DISCIPLINE:** PÖH STANDARDS | **RESOLVE:** UNBREAKABLE | **LOYALTY:** ABSOLUTE |
+| **DISCIPLINE:** TACTICAL OPS | **RESOLVE:** UNBREAKABLE | **LOYALTY:** ABSOLUTE |
 
 </div>
 
@@ -52,7 +52,7 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 - 🤖 **Otonom Sistemler** — Akıllı mantıksal algoritmalar, robotik işletim sistemleri (ROS2)
 - 🛡️ **Siber Güvenlik** — Sistem güvenli tasarım prensipleri (Secure by Design), adli bilişim
 - 🧠 **Yapay Zeka** — Büyük dil modelleri (LLM), makine öğrenmesi algoritmaları
-- 🐺 **Operasyonel Disiplin** — Polis Özel Harekat (PÖH) standartlarında kriz yönetimi ve görev bilinci
+- 🐺 **Operasyonel Disiplin** — Yüksek taktiksel standartlarda kriz yönetimi ve görev bilinci
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />

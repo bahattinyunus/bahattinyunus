@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Saraylarda+s%C3%BCremem+da%C4%9Flarda+s%C3%BCrd%C3%BC%C4%9F%C3%BCm%C3%BC...;Bin+cihana+de%C4%9Fi%C5%9Fmem+%C5%9Fu+%C3%B6ks%C3%BCz+T%C3%BCrkl%C3%BC%C4%9F%C3%BCm%C3%BC...;%E2%80%94+H%C3%BCseyin+Nihal+Ats%C4%B1z;Evvelce+gidenlerin+asil+ruhlar%C4%B1+%C5%9Fad+olsun..." alt="Türk" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Saraylarda+s%C3%BCremem+da%C4%9Flarda+s%C3%BCrd%C3%BC%C4%9F%C3%BCm%C3%BC...;Bin+cihana+de%C4%9Fi%C5%9Fmem+%C5%9Fu+%C3%B6ks%C3%BCz+T%C3%BCrkl%C3%BC%C4%9F%C3%BCm%C3%BC...;Evvelce+gidenlerin+asil+ruhlar%C4%B1+%C5%9Fad+olsun..." alt="Türk" />
 </div>
 
 <div align="center">

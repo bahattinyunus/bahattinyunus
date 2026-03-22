@@ -33,7 +33,7 @@
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
@@ -137,7 +137,7 @@
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
-        "used": false
+        "used": true
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
@@ -161,7 +161,7 @@
     },
     {
         "text": "Hayatta en hakiki mürşit ilimdir. - Mustafa Kemal Atatürk",
-        "used": false
+        "used": true
     },
     {
         "text": "Yalnız tek bir şeye ihtiyacımız vardır, çalışkan olmak. - Mustafa Kemal Atatürk",
@@ -197,7 +197,7 @@
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
-        "used": false
+        "used": true
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
@@ -209,7 +209,7 @@
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",

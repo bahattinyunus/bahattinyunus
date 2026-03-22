@@ -293,11 +293,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu"**
-- > **"Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani"**
-- > **"Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu"**
-- > **"Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna"**
-- > **"Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk"**
+- > **"Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç"**
+- > **"Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali"**
+- > **"Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi"**
+- > **"Bilgi güçtür. - Francis Bacon"**
+- > **"Hayatta en hakiki mürşit ilimdir. - Mustafa Kemal Atatürk"**
 <!-- END_QUOTE -->
 
 ---

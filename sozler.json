@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -153,7 +153,7 @@
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
@@ -181,7 +181,7 @@
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
-        "used": false
+        "used": true
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
@@ -225,7 +225,7 @@
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
-        "used": false
+        "used": true
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
@@ -244,12 +244,8 @@
         "used": false
     },
     {
-        "text": "Terleyen zırh, kanayan yarayı önler. - Askeri Kural",
-        "used": true
-    },
-    {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
@@ -270,9 +266,5 @@
     {
         "text": "Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi",
         "used": false
-    },
-    {
-        "text": "Operasyon bitmez, nizam devam eder. - Saha Mentalitesi",
-        "used": true
     }
 ]

@@ -316,11 +316,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun"**
-- > **"Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna"**
-- > **"Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry"**
-- > **"Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu"**
-- > **"Operasyon bitmez, nizam devam eder. - Saha Mentalitesi"**
+- > **"Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina"**
+- > **"Mağluplar galipleri taklit ederler. - İbn Haldun"**
+- > **"Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali"**
+- > **"Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan"**
+- > **"Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid"**
 <!-- END_QUOTE -->
 
 ---

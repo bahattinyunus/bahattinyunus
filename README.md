@@ -143,7 +143,7 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
 </div>
 
 <br>

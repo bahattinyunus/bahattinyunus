@@ -29,7 +29,7 @@
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
@@ -125,7 +125,7 @@
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
@@ -149,7 +149,7 @@
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
@@ -185,7 +185,7 @@
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
@@ -273,6 +273,6 @@
     },
     {
         "text": "Operasyon bitmez, nizam devam eder. - Saha Mentalitesi",
-        "used": false
+        "used": true
     }
 ]

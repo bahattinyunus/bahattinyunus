@@ -303,11 +303,11 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Hatalar, keşfin kapılarıdır. - James Joyce"**
-- > **"İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali"**
-- > **"Terleyen zırh, kanayan yarayı önler. - Askeri Kural"**
-- > **"En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo"**
-- > **"Devletin temeli adalettir. - Hz. Ömer"**
+- > **"Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun"**
+- > **"Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna"**
+- > **"Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry"**
+- > **"Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu"**
+- > **"Operasyon bitmez, nizam devam eder. - Saha Mentalitesi"**
 <!-- END_QUOTE -->
 
 ---

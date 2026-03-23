@@ -169,133 +169,146 @@ Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği ş
 ## 🎓 Sertifikalar
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-120+-2196F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toplam_Sertifika-130+-2196F3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Sertifika Listesi (120+)</b></summary>
+<summary><b>📜 Sertifika Listesi (130+)</b></summary>
 <br />
 
-| Tarih | Sertifika | Sağlayıcı |
-| :--- | :--- | :--- |
-| Mar 2026 | Yapay Zekâ Hukuku | BTK Akademi |
-| Mar 2026 | KVKK, GDPR Eğitim Seti | BTK Akademi |
-| Şub 2026 | Uzaktan Erişim Araçları | BTK Akademi |
-| Şub 2026 | Program ve Portföy Yönetimi | BTK Akademi |
-| Şub 2026 | Sosyal Medya Uzmanlığına Giriş | BTK Akademi |
-| Şub 2026 | Fikri ve Sınai Mülkiyet Hakları | BTK Akademi |
-| Şub 2026 | Makine Öğrenmesinin Matematiksel Temelleri | BTK Akademi |
-| Şub 2026 | E-Ticarete Giriş | BTK Akademi |
-| Şub 2026 | Proje Yönetimi | BTK Akademi |
-| Şub 2026 | Uluslararası İş Analizi Metodolojisi | BTK Akademi |
-| Şub 2026 | Sözleşme Yönetimi Hukuku | BTK Akademi |
-| Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi |
-| Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi |
-| Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi |
-| Şub 2026 | Sosyal Medyada Tasarım Temelli İçerik Üretimi | BTK Akademi |
-| Şub 2026 | Sosyal Medyada Marka İletişimi ve İşbirlikleri | BTK Akademi |
-| Şub 2026 | Sosyal Medya Etkileyicilerinin Hukuki Sorumluluğu | BTK Akademi |
-| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Hikâye Anlatıcılığı | BTK Akademi |
-| Şub 2026 | Sosyal Medya Reklamcılığı ve Performans Analitiği | BTK Akademi |
-| Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 \| Yirmi Üç |
-| Şub 2026 | Ankara AI Hackathon — Katılım | Teknopark Ankara |
-| Şub 2026 | KGM Serisi (1-9: Karayolu, Fizibilite, Bakım vb.) | BTK Akademi |
-| Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi |
-| Oca 2026 | Anthropic Claude | BTK Akademi |
-| Oca 2026 | ChatGPT | BTK Akademi |
-| Oca 2026 | Manus AI | BTK Akademi |
-| Oca 2026 | NotebookLM | BTK Akademi |
-| Oca 2026 | DeepSeek | BTK Akademi |
-| Oca 2026 | Gemini Veo | BTK Akademi |
-| Oca 2026 | Hailuo AI | BTK Akademi |
-| Oca 2026 | HeyGen | BTK Akademi |
-| Oca 2026 | ElevenLabs | BTK Akademi |
-| Oca 2026 | Perplexity | BTK Akademi |
-| Oca 2026 | Canva Magic Design | BTK Akademi |
-| Oca 2026 | Gamma | BTK Akademi |
-| Oca 2026 | Yapay Zekâ Dünyasına Giriş | BTK Akademi |
-| Oca 2026 | Üretken Yapay Zekâ ile Tercüme | BTK Akademi |
-| Oca 2026 | Uluslararası İlişkilerde Yapay Zekâ | BTK Akademi |
-| Oca 2026 | Veri Bilimi için Temel İstatistik | BTK Akademi |
-| Oca 2026 | Matematik 101 | BTK Akademi |
-| Oca 2026 | Finansal Piyasalara Giriş | BTK Akademi |
-| Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 \| Yirmi Üç |
-| Oca 2026 | Markaların Korunması | BTK Akademi |
-| Oca 2026 | İnsan Haklarına Giriş | BTK Akademi |
-| Oca 2026 | Google Dijital Ebeveynlik | Google |
-| Ara 2025 | AI in Multimedia Data Security Workshop | BTK Akademi |
-| Ara 2025 | DoS / DDoS Attacks and Protection | BTK Akademi |
-| Ara 2025 | Social Engineering and Phishing | BTK Akademi |
-| Ara 2025 | Underwater Systems & AUV Ops | T3 Vakfı |
-| Ara 2025 | ROTAMIZ UFKUN ÖTESİ (Denizaltı Doktrini) | KTÜ GEMDTEK |
-| Ara 2025 | FMCG Zirvesi | KTÜ İşletme Kulübü |
-| Ara 2025 | Uluslararası Terörizm: Sahadan Akademiye | Türk Dünyası GV |
-| Ara 2025 | Yapay Zeka Zirvesi 2024 | TGV |
-| Ara 2025 | DATA & AI SUMMIT | KTÜ AI Society |
-| Ara 2025 | Devfest Trabzon | GDG Trabzon |
-| Ara 2025 | Gençlik Vizyon Çalıştayı | GSB |
-| Kas 2025 | Aviation & Space Exploration Camp | TÜBİTAK |
-| Kas 2025 | Project Management Basics | BTK Akademi |
-| Kas 2025 | Design Protection (Tasarımların Korunması) | BTK Akademi |
-| Eki 2025 | Artificial Intelligence Ethics | BTK Akademi |
-| Eki 2025 | Introduction to Generative AI | BTK Akademi |
-| Eki 2025 | Use of GenAI in Research | BTK Akademi |
-| Eki 2025 | Introduction to AI & Algorithms | BTK Akademi |
-| Eyl 2025 | Datathon 2025 Data Competition | BTK Akademi |
-| Ağu 2025 | Hüyük Gençlik Kampı | GSB |
-| Tem 2025 | Digital Literacy | BTK Akademi |
-| Tem 2025 | Python 2: Data Structures | BTK Akademi |
-| Haz 2025 | C++ Programming | BTK Akademi |
-| Haz 2025 | Go (Golang) Programming | BTK Akademi |
-| Haz 2025 | JavaScript Basics | BTK Akademi |
-| Haz 2025 | Project and Risk Management | BTK Akademi |
-| May 2025 | Introduction to Cybersecurity | BTK Akademi |
-| May 2025 | Fundamentals of Cryptography | BTK Akademi |
-| May 2025 | Python 1: Beginners | BTK Akademi |
-| May 2025 | Git & GitHub Version Control | BTK Akademi |
-| May 2025 | MicroBit Programming with MicroPython | BTK Akademi |
-| May 2025 | Arduino & Tinkercad | BTK Akademi |
-| May 2025 | 8. Yazılım Günü — Katılım | KTÜ Yazılım Kulübü |
-| May 2025 | Android Atölyesi | GDG Trabzon |
-| Nis 2025 | Web Development: HTML5 & CSS3 | BTK Akademi |
-| Mar 2025 | Custom GPTs Development | BTK Akademi |
-| Mar 2025 | İHA-1 Ticari Pilot Lisansı | SHGM |
-| Şub 2025 | Geleceğini Netleştir | KTÜ Endüstri Müh. Kulübü |
-| Oca 2025 | ISO/IEC 27001 Information Security | BSI |
-| Eki 2024 | C Programming Language | BTK Akademi |
-| Eki 2024 | Circuit Design with Proteus | BTK Akademi |
-| Eki 2024 | Introduction to Basic Electronics & Robotics | BTK Akademi |
-| Eki 2024 | Introduction to Artificial Intelligence | BTK Akademi |
-| Eki 2024 | Introduction to Information Technology | BTK Akademi |
-| Eki 2024 | İşletim Sistemlerine Giriş | BTK Akademi |
-| Eki 2024 | Fundamentals of Entrepreneurship | BTK Akademi |
-| Eki 2024 | Persuasion Skills | BTK Akademi |
-| Eki 2024 | Effective Communication Strategies | BTK Akademi |
-| Eki 2024 | Public Speaking & Presentation Techniques | BTK Akademi |
-| Eki 2024 | Problem Solving Techniques | BTK Akademi |
-| Eki 2024 | Team Building and Management | BTK Akademi |
-| Eki 2024 | Communication & Network Management | BTK Akademi |
-| Eki 2024 | Presentation Techniques | BTK Akademi |
-| Kas 2024 | Small Basic Coding | BTK Akademi |
-| Ara 2024 | Financial Literacy & Fintech | BTK Akademi |
-| Mar 2023 | İHA-1 Sportif/Amatör Pilot Lisansı | SHGM |
-| — | IT Law / Bilişim Hukuku | BTK Akademi |
-| — | Applied Business Model Development | BTK Akademi |
-| — | Patent & Utility Model Protection | BTK Akademi |
-| — | Protection of Geographical Indications | BTK Akademi |
-| — | Digital Retail Expertise | BTK Akademi |
-| — | Interview Techniques | BTK Akademi |
-| — | Coping with Stress & Mindful Awareness | BTK Akademi |
-| — | Sales & Marketing Management | BTK Akademi |
-| — | Market Research & Pricing Strategies | BTK Akademi |
-| — | Company Valuation & Investment Processes | BTK Akademi |
-| — | Creating an Effective LinkedIn Profile | BTK Akademi |
-| — | Career Goal Setting | BTK Akademi |
-| — | Career-Threatening Approaches | BTK Akademi |
-| — | Information Reporting Center (BTK) | BTK Akademi |
-| — | Knowing the Customer | BTK Akademi |
+| Tarih | Sertifika | Sağlayıcı | Yeterlilik Kimliği |
+| :--- | :--- | :--- | :--- |
+| Mar 2026 | Doküman Tipleri ve Veri Formatları | BTK Akademi | qKrheZWjeK |
+| Mar 2026 | Web Sitesi Kullanılabilirliği | BTK Akademi | ZA1UM14oWD |
+| Mar 2026 | İnternet Alan Adları Hukuku | BTK Akademi | qKrheYWWE4 |
+| Mar 2026 | Google Dijital Pazarlama Temelleri | Google | ax1hrE94bx |
+| Mar 2026 | 3-Karayolu Proje Çalışmaları | BTK Akademi | oJpSg49EYp |
+| Mar 2026 | 6-Karayolu Yapım Çalışmaları | BTK Akademi | zXztnmNe2o |
+| Mar 2026 | 8-Karayollarında Trafik Güvenliği Çalışmaları | BTK Akademi | L8dcNpnYyA |
+| Mar 2026 | Beyaz Şapkalı Hacker Eğitimi | Siber Vatan | — |
+| Mar 2026 | 10-Özel ve Tarihi Köprüler | BTK Akademi | nKqhnWbmG7 |
+| Mar 2026 | Yapay Zekâ Hukuku | BTK Akademi | qKrheZ0lrM |
+| Mar 2026 | KVKK, GDPR Eğitim Seti | BTK Akademi | WJ1SMLnmrd |
+| Şub 2026 | Uzaktan Erişim Araçları | BTK Akademi | 8jmhNZEEZZ |
+| Şub 2026 | Program ve Portföy Yönetimi | BTK Akademi | BozfGVqboj |
+| Şub 2026 | Sosyal Medya Uzmanlığına Giriş | BTK Akademi | 7rptZxEryp |
+| Şub 2026 | Fikri ve Sınai Mülkiyet Hakları | BTK Akademi | PVghbqvyVe |
+| Şub 2026 | Makine Öğrenmesinin Matematiksel Temelleri | BTK Akademi | gK2halKOrV |
+| Şub 2026 | E-Ticarete Giriş | BTK Akademi | 7rptZxE7ya |
+| Şub 2026 | 4-Kamulaştırma Süreci | BTK Akademi | wmlFmB1rX4 |
+| Şub 2026 | 9-Devlet ve İl Yollarında Bakım ve İşletme Sürecine Giriş | BTK Akademi | 6mqF01q9Yy |
+| Şub 2026 | 7-Yol Yapım, Bakım, Onarım Makine ve Ekipmanları | BTK Akademi | ZA1Ura7jgd |
+| Şub 2026 | 2-Karayolu Projeleri Fizibilite Etütleri | BTK Akademi | Ko9fE0xM1J |
+| Şub 2026 | 1-KGM Tarihçesi, Görev, Yetki ve Sorumlulukları | BTK Akademi | lK1hwkggAa |
+| Şub 2026 | 5-Malzeme Ocakları Yönetim Süreci | BTK Akademi | GoDfm64AA9 |
+| Şub 2026 | Proje Yönetimi | BTK Akademi | lK1hw74pZw |
+| Şub 2026 | Uluslararası İş Analizi Metodolojisi ve Teknikleri | BTK Akademi | L8dcNeAVPK |
+| Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 | Yirmi Üç | 1774b535-4b29-4c25-b11b-291d57f9b481 |
+| Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi | AKkkf7kNJla |
+| Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi | XlOOsBKZW6Z |
+| Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi | kJMMHbnypXg |
+| Şub 2026 | Sosyal Medyada Tasarım Temelli İçerik Üretimi | BTK Akademi | m688uk1ErWp |
+| Şub 2026 | Sosyal Medyada Marka İletişimi ve İşbirlikleri | BTK Akademi | VljjsgWkaKA |
+| Şub 2026 | Sosyal Medya Etkileyicilerinin Hukuki Sorumluluğu | BTK Akademi | xoBBUN4brZL |
+| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Hikâye Anlatıcılığı | BTK Akademi | xoBBUN4bLgn |
+| Şub 2026 | Sosyal Medya Reklamcılığı ve Performans Analitiği | BTK Akademi | AKkkf7kwlrL |
+| Şub 2026 | Ankara AI Hackathon | Teknopark Ankara | jeqDhGDaZKq |
+| Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi | nwJltz89 |
+| Oca 2026 | Google Dijital Ebeveynlik | Google | 4qgueLmn07 |
+| Oca 2026 | Markaların Korunması | BTK Akademi | WJ1SMLlqMZ |
+| Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 | Yirmi Üç | 3c44f88d-1944-4919-b750-67f769f6e5ad |
+| Oca 2026 | HeyGen | BTK Akademi | WJ1SkN2p9n |
+| Oca 2026 | ElevenLabs | BTK Akademi | 8jmhNjXbP2 |
+| Oca 2026 | Gemini Veo | BTK Akademi | oJpSgnayWO |
+| Oca 2026 | Hailuo AI | BTK Akademi | 4qguek4NB9 |
+| Oca 2026 | Finansal Piyasalara Giriş | BTK Akademi | Ko9fEG7WZG |
+| Oca 2026 | Üretken Yapay Zekâ ile Tercüme | BTK Akademi | OKMhwopAnN |
+| Oca 2026 | Veri Bilimi için Temel İstatistik | BTK Akademi | lK1h7n9And |
+| Oca 2026 | Matematik 101 | BTK Akademi | yjahJpZVEB |
+| Oca 2026 | İnsan Haklarına Giriş | BTK Akademi | JoNf2pbD6z |
+| Oca 2026 | Uluslararası İlişkilerde Yapay Zekâ | BTK Akademi | pKmhqp2DYG |
+| Oca 2026 | Anthropic Claude | BTK Akademi | bx1hLxXZOo |
+| Oca 2026 | ChatGPT | BTK Akademi | OKMhwBXgqW |
+| Oca 2026 | Manus AI | BTK Akademi | ZA1UrdE2Bj |
+| Oca 2026 | NotebookLM | BTK Akademi | 8jmhNZeyk6 |
+| Oca 2026 | Yapay Zekâ Dünyasına Giriş | BTK Akademi | 7rptPBld1p |
+| Oca 2026 | Perplexity | BTK Akademi | Ko9fE4NpKx |
+| Oca 2026 | Canva Magic Design | BTK Akademi | ZA1UrdEkWO |
+| Oca 2026 | Gamma | BTK Akademi | GoDfm1rwNr |
+| Oca 2026 | DeepSeek | BTK Akademi | lK1hwey4xw |
+| Ara 2025 | 21. Yüzyılda Sahadan Akademiye Uluslararası Terörizm | Türk Dünyası Gençlik Vakfı | 2025_KTÜ6146006461910 |
+| Ara 2025 | FMCG Zirvesi | KTÜ İşletme ve Ekonomi Kulübü | — |
+| Ara 2025 | Certificate of Achievement – Use of Artificial Intelligence in Multimedia Data Security Workshop | BTK Akademi | WzBbI9py |
+| Ara 2025 | Social Engineering and Phishing | BTK Akademi | WJ1SkZbe4d |
+| Ara 2025 | DoS / DDoS Attacks and Protection | BTK Akademi | XV1hBdNpMv |
+| Ara 2025 | Underwater Systems Training | T3 Vakfı | — |
+| Kas 2025 | Aviation & Space Exploration Camp – Certificate (2025) | TÜBİTAK | — |
+| Kas 2025 | Project Management Basics | BTK Akademi | wmlFmJkB29 |
+| Eki 2025 | Artificial Intelligence Ethics | BTK Akademi | MAZUE7xX2D |
+| Eki 2025 | Use of Generative Artificial Intelligence in Research | BTK Akademi | D2xhEEKoYN |
+| Eki 2025 | Introduction to Generative Artificial Intelligence | BTK Akademi | eK1hOjmKgG |
+| Eki 2025 | Introduction to Artificial Intelligence and Algorithms | BTK Akademi | 6mqFNkwJxA |
+| Eyl 2025 | Datathon 2025 Data Competition | BTK Akademi | bzAaiLLYxmy |
+| Ağu 2025 | Hüyük Youth Camp | Gençlik ve Spor Bakanlığı | — |
+| Tem 2025 | Digital Literacy | BTK Akademi | OKMhqeyObw |
+| Tem 2025 | Python 2 | BTK Akademi | dx1hAG0d1z |
+| Haz 2025 | Javascript Basics | BTK Akademi | gK2hoVBwj9 |
+| Haz 2025 | Project and Risk Management | BTK Akademi | 8jmhLX7yMG |
+| Haz 2025 | C++ | BTK Akademi | 6mqFNqLYdA |
+| Haz 2025 | Go | BTK Akademi | xr4t0Jeolm |
+| May 2025 | ANDROİD ATÖLYESİ | GDG Trabzon | — |
+| May 2025 | Fundamentals of Cryptography | BTK Akademi | kK1hVD09dy |
+| May 2025 | Python 1 | BTK Akademi | Yx1hPL1mGY |
+| May 2025 | Version Control: Git and GitHub | BTK Akademi | NowfnNpDAz |
+| May 2025 | Introduction to Cybersecurity | BTK Akademi | XV1hWEow9j |
+| May 2025 | 8. YAZILIM GÜNÜ | Karadeniz Teknik Üniversitesi Yazılım Kulübü | — |
+| May 2025 | MicroBit Programming with MicroPython | BTK Akademi | 1kZCoxNdMM |
+| May 2025 | Arduino Programming with Tinkercad | BTK Akademi | BozfGwDZbx |
+| Nis 2025 | CSS Fundamentals | BTK Akademi | 7rptZAreZ1 |
+| Nis 2025 | Web Development with HTML5 | BTK Akademi | rKjhGyp8LJ |
+| Mar 2025 | Custom GPTs | BTK Akademi | ax1hDzvgrE |
+| Şub 2025 | Geleceğini Netleştir | Karadeniz Teknik Üniversitesi Endüstri Mühendisliği Kulübü | — |
+| Ara 2024 | Financial Literacy | BTK Akademi | AJaSdLzWW1 |
+| Ara 2024 | Gençlik Vizyon Çalıştayı | Gençlik ve Spor Bakanlığı | — |
+| Ara 2024 | Yapay Zeka Zirvesi 2024 | Türkiye Girişimcilik Vakfı | G9LlUnWlq4X |
+| Ara 2024 | Devfest Trabzon | GDG Trabzon | — |
+| Ara 2024 | DATA&AI SUMMIT | KTU Artificial Intelligence Society | — |
+| Kas 2024 | Small Basic | BTK Akademi | 9Xrtq18yXl |
+| Eki 2024 | Persuasion Skills | BTK Akademi | pKmhKr9Xxj |
+| Eki 2024 | Effective Communication Strategies | BTK Akademi | vpWc8Mb1Ao |
+| Eki 2024 | Public Speaking and Presentation Techniques | BTK Akademi | GoDfn0V2xB |
+| Eki 2024 | Introduction to Artificial Intelligence | BTK Akademi | zXztak2EeO |
+| Eki 2024 | Introduction to Information Technology | BTK Akademi | gK2hoD7Lqj |
+| Eki 2024 | İşletim Sistemlerine Giriş | BTK Akademi | 7rptZxqGKp |
+| Eki 2024 | Circuit Design with Proteus | BTK Akademi | ax1hDAjV9N |
+| Eki 2024 | Introduction to Basic Electronics and Robotics | BTK Akademi | 1kZCozGVO7 |
+| Eki 2024 | Fundamentals of Entrepreneurship | BTK Akademi | XV1hWEv6VY |
+| Eki 2024 | Communication and Network Management | BTK Akademi | yjahJpaPNz |
+| Eki 2024 | Presentation Techniques | BTK Akademi | zXztak2MEd |
+| Eki 2024 | Problem Solving Techniques | BTK Akademi | zXztak7gdZ |
+| Eki 2024 | Team Building and Management | BTK Akademi | 7rptZxqG9P |
+| Eki 2024 | C Programming Language | BTK Akademi | GoDfn444BW |
+| Mar 2023 | IHA - 1 - Sportif / Amatör | SHGM / Sivil Havacılık Genel Müdürlüğü | TR-IHA1H10609053 |
+| — | Sözleşme Yönetimi Hukuku | BTK Akademi | EoPfJJEzwb |
+| — | Design Protection | BTK Akademi | 7rptZgnMXy |
+| — | Information Reporting Center and Social Media Complaint Procedures | BTK Akademi | yjahzAKKW1 |
+| — | Applied Business Model Development | BTK Akademi | oJpS7m2kwM |
+| — | Protection of Patents and Utility Models | BTK Akademi | jK1hKrZEYN |
+| — | Digital Retail Expertise | BTK Akademi | nKqhneAAjL |
+| — | Interview Techniques | BTK Akademi | lK1h7nZOBZ |
+| — | Coping with Stress and Mindful Awareness | BTK Akademi | MAZUNeOraZ |
+| — | Protection of Geographical Indications | BTK Akademi | wmlFJrZkJv |
+| — | IT Law | BTK Akademi | 2NwcJJnl84 |
+| — | Company Valuation and Investment Processes | BTK Akademi | OKMhqpzgrp |
+| — | Market Research and Pricing Strategies | BTK Akademi | 6mqFN8zGOM |
+| — | Creating an Effective LinkedIn Profile | BTK Akademi | Nowfrb1zOx |
+| — | Career-Threatening Approaches for Young Professional | BTK Akademi | MAZUENAJ9z |
+| — | Career Goal Setting | BTK Akademi | 0KohzoGvkW |
+| — | Sales and Marketing Management | BTK Akademi | WJ1SMLlqOO |
+| — | Knowing the Customer | BTK Akademi | 0KohzoGvee |
+| — | Career-Threatening Approaches | BTK Akademi | 2Nwc0Bk4k |
 
 </details>
 

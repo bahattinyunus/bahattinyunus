@@ -21,6 +21,9 @@
     <br><br>
     <img src="https://img.shields.io/badge/Standart-Operasyonel_Disiplin-14342B?style=for-the-badge&logo=crosshairs&logoColor=white" />
     <img src="https://img.shields.io/badge/Ruh-Yeşil_Bere-005C29?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Analitik-Zeka-2C3E50?style=for-the-badge&logo=brain&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mefkure-Tam_Bağımsızlık-C11B17?style=for-the-badge&logo=star&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mimari-Derin_Sistemler-151B54?style=for-the-badge&logo=instructure&logoColor=white" />
   </p>
 </div>
 

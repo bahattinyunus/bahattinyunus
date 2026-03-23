@@ -145,8 +145,14 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&icon_color=ebcb8b&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch-yunus&theme=nord_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=1a2421&ring=A3BE8C&fire=ebcb8b&currStreakNum=ebcb8b&sideNums=A3BE8C&currStreakLabel=A3BE8C&sideLabels=A3BE8C&dates=A3BE8C&hide_border=true" width="100%" />
 </div>
 
 <br>
@@ -158,7 +164,7 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ffffff&area=true&hide_border=true&area_color=1a2421" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ebcb8b&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>

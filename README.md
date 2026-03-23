@@ -139,8 +139,14 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&icon_color=ebcb8b&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-yunus&layout=compact&theme=algolia&bg_color=1a2421&title_color=a3be8c&text_color=ffffff&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arch-yunus&theme=nord_dark" height="170" />
 </div>
 
 <br>
@@ -152,7 +158,7 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&theme=nord&bg_color=1a2421&color=a3be8c&line=a3be8c&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ffffff&area=true&hide_border=true&area_color=1a2421" width="100%" />
 </div>
 
 <br>

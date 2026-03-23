@@ -39,11 +39,11 @@
 
 ---
 
-## 🌌 Vizyon, Misyon & Nizam
+## 🌌 Vizyon, Misyon & Mühendislik Felsefesi
 
-<b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te başladım.</b><br><br>
-O günden bu yana odağım sadece kod yazmak değil; evrendeki ve sistemlerdeki **mutlak nizamı** kavramak, bu disiplini mimari süreçlere nakşetmektir. Sistemleri *uçtan uca, kusursuz bir tertip ve fault-tolerant bir şekilde inşa etmek* en temel önceliğimdir.<br><br>
-Geçici kod blokları yerine, disiplinli bir nizam üzerine kurulu, geleceği şekillendiren teknolojiler üzerine sağlam, ölçeklenebilir ve yenilikçi çözümler üretmekten heyecan duyuyorum.
+<b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te adım attım.</b><br><br>
+O günden bu yana temel odak noktam, yalnızca kod üretmek değil; karmaşık sistemlerin yapısal disiplinini çözümlemek ve bu prensipleri uçtan uca mimari süreçlere entegre etmektir. Sistemleri yüksek erişilebilirlik (*high-availability*), ölçeklenebilirlik ve hata toleransı (*fault-tolerant*) prensipleriyle, sağlam bir mühendislik temeli üzerine inşa etmek en temel önceliğimdir.<br><br>
+Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, geleceği şekillendiren teknolojiler üzerine sürdürülebilir ve yenilikçi çözümler üretmeye odaklanıyorum.
 
 <br />
 

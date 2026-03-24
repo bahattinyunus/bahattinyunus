@@ -331,11 +331,11 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina"**
-- > **"Mağluplar galipleri taklit ederler. - İbn Haldun"**
-- > **"Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali"**
-- > **"Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan"**
-- > **"Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid"**
+- > **"İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet"**
+- > **"Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat"**
+- > **"Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp"**
+- > **"Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali"**
+- > **"Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin"**
 <!-- END_QUOTE -->
 
 ---

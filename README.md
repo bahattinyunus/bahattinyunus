@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20Çetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today</h2>
 

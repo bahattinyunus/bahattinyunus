@@ -331,11 +331,11 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet"**
-- > **"Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat"**
-- > **"Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp"**
-- > **"Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali"**
-- > **"Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin"**
+- > **"İnsanları tanıyan yalnızlaşır. - Hz. Ali"**
+- > **"Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu"**
+- > **"Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız"**
+- > **"Geçmişin hatası, geleceğin rehberidir. - Gazali"**
+- > **"Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş"**
 <!-- END_QUOTE -->
 
 ---

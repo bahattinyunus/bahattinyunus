@@ -53,7 +53,7 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
@@ -109,7 +109,7 @@
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
@@ -205,7 +205,7 @@
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
@@ -229,7 +229,7 @@
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
-        "used": false
+        "used": true
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
@@ -241,7 +241,7 @@
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
-        "used": false
+        "used": true
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",

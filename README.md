@@ -40,22 +40,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
----
 
-## 🌌 Vizyon, Misyon & Mühendislik Felsefesi
 
-<b>Yazılım mühendisliği yolculuğuma Ağustos 2023'te adım attım.</b><br><br>
-O günden bu yana temel odak noktam, yalnızca kod üretmek değil; karmaşık sistemlerin yapısal disiplinini çözümlemek ve bu prensipleri uçtan uca mimari süreçlere entegre etmektir. Sistemleri yüksek erişilebilirlik (*high-availability*), ölçeklenebilirlik ve hata toleransı (*fault-tolerant*) prensipleriyle, sağlam bir mühendislik temeli üzerine inşa etmek en temel önceliğimdir.<br><br>
-Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, geleceği şekillendiren teknolojiler üzerine sürdürülebilir ve yenilikçi çözümler üretmeye odaklanıyorum.
 
-<br />
-
-### 🎯 Odak Noktalarım
-- 💻 **Yazılım & Sistem Mimarisi** — Ölçeklenebilir altyapılar, backend servisleri, dağıtık sistemler
-- 🤖 **Otonom Sistemler** — Akıllı mantıksal algoritmalar, robotik işletim sistemleri (ROS2)
-- 🛡️ **Siber Güvenlik** — Sistem güvenli tasarım prensipleri (Secure by Design), adli bilişim
-- 🧠 **Yapay Zeka** — Büyük dil modelleri (LLM), makine öğrenmesi algoritmaları
-- 🐺 **Operasyonel Disiplin** — Yüksek taktiksel standartlarda kriz yönetimi ve görev bilinci
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />

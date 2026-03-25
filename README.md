@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20Çetin&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today</h2>
 
@@ -331,11 +331,11 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İnsanları tanıyan yalnızlaşır. - Hz. Ali"**
-- > **"Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu"**
-- > **"Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız"**
-- > **"Geçmişin hatası, geleceğin rehberidir. - Gazali"**
-- > **"Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş"**
+- > **"Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina"**
+- > **"Mağluplar galipleri taklit ederler. - İbn Haldun"**
+- > **"Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali"**
+- > **"Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan"**
+- > **"Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid"**
 <!-- END_QUOTE -->
 
 ---
@@ -353,15 +353,3 @@ Gündelik kod blokları yerine; disiplinli bir metodolojiyle kurgulanmış, gele
     <img src="assets/nizam_banner.png" width="100%" alt="Nizam Banner" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=20&pause=1000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Gerilir+zorlu+bir+yay%2C+oku+f%C4%B1rlatmak+i%C3%A7in%3B" alt="Poem Line 1" /><br>
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=20&pause=1000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Gece+g%C3%B6kte+do%C4%9Far+ay%2C+y%C3%BCkselip+batmak+i%C3%A7in." alt="Poem Line 2" /><br>
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=20&pause=1000&color=A3BE8C&center=true&vCenter=true&width=800&lines=%C4%B0nsan+b%C3%BCy%C3%BCr+be%C5%9Fikte%2C+mezarda+yatmak+i%C3%A7in." alt="Poem Line 3" /><br>
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=20&pause=1000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Kahramanlar+can+verir%2C+yurdu+ya%C5%9Fatmak+i%C3%A7in..." alt="Poem Line 4" />
-</div>
-

@@ -318,11 +318,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî"**
-- > **"İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani"**
-- > **"Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei"**
-- > **"Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf"**
-- > **"Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani"**
+- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
+- > **"Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon"**
+- > **"Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa"**
+- > **"İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali"**
+- > **"Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca"**
 <!-- END_QUOTE -->
 
 ---

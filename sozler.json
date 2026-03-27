@@ -37,7 +37,7 @@
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-        "used": false
+        "used": true
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
@@ -73,7 +73,7 @@
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
-        "used": false
+        "used": true
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
@@ -165,11 +165,11 @@
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
-        "used": false
+        "used": true
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
@@ -217,7 +217,7 @@
     },
     {
         "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",

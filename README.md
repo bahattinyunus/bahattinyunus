@@ -318,11 +318,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
-- > **"Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon"**
-- > **"Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa"**
-- > **"İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali"**
-- > **"Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca"**
+- > **"Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun"**
+- > **"Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius"**
+- > **"Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu"**
+- > **"Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi"**
+- > **"Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil"**
 <!-- END_QUOTE -->
 
 ---

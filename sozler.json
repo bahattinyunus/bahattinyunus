@@ -25,7 +25,7 @@
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
@@ -89,7 +89,7 @@
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
@@ -97,7 +97,7 @@
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -253,11 +253,11 @@
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
-        "used": false
+        "used": true
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
-        "used": false
+        "used": true
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",

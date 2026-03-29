@@ -318,11 +318,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun"**
-- > **"Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius"**
-- > **"Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu"**
-- > **"Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi"**
-- > **"Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil"**
+- > **"Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet"**
+- > **"Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev"**
+- > **"Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali"**
+- > **"İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles"**
+- > **"Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu"**
 <!-- END_QUOTE -->
 
 ---

@@ -1,11 +1,11 @@
 [
     {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
@@ -129,11 +129,11 @@
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": false
+        "used": true
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
@@ -261,7 +261,7 @@
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi",

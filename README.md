@@ -147,8 +147,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=ai_courses&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=btk-python-courses&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
 </div>
 
 <br>

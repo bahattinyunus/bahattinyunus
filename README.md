@@ -140,6 +140,22 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=nord_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=nord_dark" height="190" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/arch-yunus/arch-yunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
 </div>
 

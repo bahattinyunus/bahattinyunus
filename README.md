@@ -1,8 +1,6 @@
 <a id="top"></a>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=22&pause=2000&color=A3BE8C&center=true&vCenter=true&width=800&lines=Saraylarda+s%C3%BCremem+da%C4%9Flarda+s%C3%BCrd%C3%BC%C4%9F%C3%BCm%C3%BC...;Bin+cihana+de%C4%9Fi%C5%9Fmem+%C5%9Fu+%C3%B6ks%C3%BCz+T%C3%BCrkl%C3%BC%C4%9F%C3%BCm%C3%BC...;Evvelce+gidenlerin+asil+ruhlar%C4%B1+%C5%9Fad+olsun..." alt="Türk" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
@@ -19,20 +17,13 @@
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br><br>
-    <img src="https://img.shields.io/badge/Standart-Operasyonel_Disiplin-14342B?style=for-the-badge&logo=crosshairs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ruh-Yeşil_Bere-005C29?style=for-the-badge&logo=target&logoColor=white" />
-    <img src="https://img.shields.io/badge/Analitik-Zeka-2C3E50?style=for-the-badge&logo=brain&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mefkure-Tam_Bağımsızlık-C11B17?style=for-the-badge&logo=star&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mimari-Derin_Sistemler-151B54?style=for-the-badge&logo=instructure&logoColor=white" />
+    
   </p>
 </div>
 
 <div align="center">
 
-| 🖥️ OPERATIONAL STATUS: ONLINE | 🎯 CURRENT FOCUS: ELITE SYSTEMS | 🛡️ THREAT LEVEL: LOW |
-| :--- | :--- | :--- |
-| **UPTIME:** 100% | **ARCH:** SYSTEMIC NIZAM | **INTEGRITY:** VERIFIED |
-| **DISCIPLINE:** TACTICAL OPS | **RESOLVE:** UNBREAKABLE | **LOYALTY:** ABSOLUTE |
+
 
 </div>
 
@@ -335,18 +326,8 @@
   <b>© 2026 Bahattin Yunus Çetin</b>
 </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=BNyH1KW6fS0">
-    <img src="assets/nizam_banner.png" width="100%" alt="Nizam Banner" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-<!---
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Cinzel&weight=600&size=19&pause=1200&typeSpeed=35&deleteSpeed=20&color=A3BE8C&center=true&vCenter=true&width=800&lines=Gerilir+zorlu+bir+yay%2C+oku+f%C4%B1rlatmak+i%C3%A7in;Gece+g%C3%B6kte+do%C4%9Far+ay%2C+y%C3%BCkselip+batmak+i%C3%A7in.;Mecnun+inler%2C+kan%C4%B1n%C4%B1+Leyla'ya+katmak+i%C3%A7in.;Cilve+yapar+sevgili+g%C3%B6n%C3%BCl+kanatmak+i%C3%A7in.;%C5%9Eair+neden+gam+%C3%A7eker%3F+%C5%9Eiir+yaratmak+i%C3%A7in.;Da%C4%9Fda+ni%C3%A7in+ba%C4%9F%C4%B1r%C4%B1l%C4%B1r%3F+Fele%C4%9Fe+%C3%A7atmak+i%C3%A7in.;A%C3%A7%C4%B1l%C4%B1r+tatl%C4%B1+g%C3%BCller+ar%C4%B1lar+tatmak+i%C3%A7in.;Tanr%C4%B1+k%C4%B1zlar+yaratm%C4%B1%C5%9F+erlere+satmak+i%C3%A7in.;%C4%B0nsan+b%C3%BCy%C3%BCr+be%C5%9Fikte+mezarda+yatmak+i%C3%A7in.;Ve;Kahramanlar+can+verir+yurdu+ya%C5%9Fatmak+i%C3%A7in..." alt="Kahramanların Ölümü" />
-</div>
-<!---

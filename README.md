@@ -16,23 +16,15 @@
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <br><br>
-    
+    <br>
   </p>
 </div>
 
-<div align="center">
 
-
-
-</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
-
-
-
 
 
 <div align="center">
@@ -123,8 +115,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
 </div>
 
 <br>
@@ -149,8 +141,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arch-yunus/arch-yunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
-</div>
-
 </div>
 
 <div align="center">

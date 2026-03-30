@@ -319,7 +319,7 @@
 - > **"Zihin, ne ile beslenirse onunla büyür. - Cahit Arf"**
 - > **"Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates"**
 - > **"Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn"**
-- > **"Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi"**
+
 <!-- END_QUOTE -->
 
 ---

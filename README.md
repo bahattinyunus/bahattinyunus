@@ -315,11 +315,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet"**
-- > **"Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev"**
-- > **"Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali"**
-- > **"İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles"**
-- > **"Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu"**
+- > **"Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci"**
+- > **"Zihin, ne ile beslenirse onunla büyür. - Cahit Arf"**
+- > **"Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates"**
+- > **"Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn"**
+- > **"Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi"**
 <!-- END_QUOTE -->
 
 ---

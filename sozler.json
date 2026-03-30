@@ -161,7 +161,7 @@
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -177,7 +177,7 @@
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
@@ -197,7 +197,7 @@
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
@@ -209,7 +209,7 @@
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
@@ -265,6 +265,6 @@
     },
     {
         "text": "Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi",
-        "used": false
+        "used": true
     }
 ]

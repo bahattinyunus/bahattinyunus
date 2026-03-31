@@ -315,11 +315,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci"**
-- > **"Zihin, ne ile beslenirse onunla büyür. - Cahit Arf"**
-- > **"Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates"**
-- > **"Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn"**
-
+- > **"İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani"**
+- > **"Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun"**
+- > **"Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani"**
+- > **"Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid"**
+- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
 <!-- END_QUOTE -->
 
 ---

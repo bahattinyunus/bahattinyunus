@@ -315,11 +315,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani"**
-- > **"Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun"**
-- > **"Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani"**
-- > **"Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid"**
-- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
+- > **"Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç"**
+- > **"Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei"**
+- > **"Engelin kendisi, yolun kendisi olur. - Marcus Aurelius"**
+- > **"Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu"**
+- > **"Bilgi güçtür. - Francis Bacon"**
 <!-- END_QUOTE -->
 
 ---

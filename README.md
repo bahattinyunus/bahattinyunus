@@ -315,11 +315,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç"**
-- > **"Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei"**
-- > **"Engelin kendisi, yolun kendisi olur. - Marcus Aurelius"**
-- > **"Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu"**
-- > **"Bilgi güçtür. - Francis Bacon"**
+- > **"Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn"**
+- > **"Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız"**
+- > **"Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun"**
+- > **"Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna"**
+- > **"Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry"**
 <!-- END_QUOTE -->
 
 ---

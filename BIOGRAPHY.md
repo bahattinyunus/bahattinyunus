@@ -10,7 +10,7 @@
 | **Profesyonel Unvan** | **IT Architect & Teknoloji Stratejisti** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
 | **Mevcut Üs / Konum** | Trabzon / Of Teknoloji Fakültesi |
-| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-arch-yunus-181717?style=flat-square&logo=github)](https://github.com/arch-yunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-arch-yunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arch-yunus/) |
+| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-arch-yunus-181717?style=flat-square&logo=github)](https://github.com/arch-yunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-arch-yunus-8B0000?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arch-yunus/) |
 
 Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Trabzon Of Teknoloji Fakültesi**'nin dinamik atmosferiyle birleştiriyorum.
 

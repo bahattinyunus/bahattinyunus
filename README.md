@@ -3,19 +3,19 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=B22222&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-B22222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br>
   </p>
 </div>
@@ -23,12 +23,12 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="100%" />
 </div>
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
 </div>
 
 ## 🛠️ İşletim & Gövde Cephaneliği (Tech Stack)
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
 </div>
 
 
@@ -104,51 +104,51 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=radical" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=1a2421&ring=A3BE8C&fire=ebcb8b&currStreakNum=ebcb8b&sideNums=A3BE8C&currStreakLabel=A3BE8C&sideLabels=A3BE8C&dates=A3BE8C&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=radical" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&theme=radical" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ebcb8b&area=true&hide_border=true" width="100%" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=radical&no-bg=true&margin-w=4&no-frame=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=nord_dark" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=nord_dark" height="190" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&theme=radical" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=ai_courses&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=btk-python-courses&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=radical" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=radical" height="190" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=ai_courses&theme=radical" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=btk-python-courses&theme=radical" height="150" />
 </div>
 
 <br>
@@ -160,7 +160,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
 </div>
 
 ---
@@ -168,7 +168,7 @@
 ## 🎓 Sertifikalar
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-140-2196F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toplam_Sertifika-140-8B0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
 </div>
@@ -336,7 +336,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=8B0000&style=flat-square" />
   <br /><br />
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br /><br />
@@ -345,6 +345,6 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="100%" />
 </div>
 

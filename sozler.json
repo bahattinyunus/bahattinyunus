@@ -5,7 +5,7 @@
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
@@ -49,7 +49,7 @@
     },
     {
         "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
@@ -61,7 +61,7 @@
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
@@ -145,7 +145,7 @@
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
@@ -201,7 +201,7 @@
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
@@ -221,7 +221,7 @@
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
@@ -257,7 +257,7 @@
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
-        "used": false
+        "used": true
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
@@ -277,7 +277,7 @@
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",
-        "used": false
+        "used": true
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
@@ -313,7 +313,7 @@
     },
     {
         "text": "Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
@@ -333,7 +333,7 @@
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",

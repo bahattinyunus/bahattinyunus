@@ -345,12 +345,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“The best way to predict the future is to create it.”* — **Peter Drucker**
+> *“Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius”*
 
-- **Simplicity as Sophistication**: Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.
-- **Architectural Integrity**: Structure dictates function; robust systems are born from intentional order (Nizam).
-- **Relentless Innovation**: Execution is the ultimate differentiator. Ideas without implementation are merely noise.
-- **Ordered Destiny**: Success is the inevitable result of disciplined effort and prepared opportunity.
+- **System Strategy**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
+- **Operational Integrity**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
+- **Architectural Vision**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
+- **Logic & Reason**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
 <!-- END_QUOTE -->
 
 ---

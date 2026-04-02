@@ -34,9 +34,19 @@ def refresh_quotes():
         json.dump(quotes_list, f, ensure_ascii=False, indent=4)
         
     # Format the block
-    new_content = "<!-- START_QUOTE -->\n### ⚡ Daily Operational Directives\n"
-    for text in selected_texts:
-        new_content += f"- > **\"{text}\"**\n"
+    new_content = "<!-- START_QUOTE -->\n## ⚖️ Architectural Logic & Visionary Principles\n\n"
+    
+    # First one is the "Master Quote" (Blockquote)
+    master = selected[0]['text']
+    new_content += f"> *“{master}”*\n\n"
+    
+    labels = ["System Strategy", "Operational Integrity", "Architectural Vision", "Logic & Reason", "Strategic Doctrine"]
+    
+    # Others are "Architectural Directives" (Bullets)
+    for i, q in enumerate(selected[1:]):
+        label = labels[i % len(labels)]
+        new_content += f"- **{label}**: {q['text']}\n"
+        
     new_content += "<!-- END_QUOTE -->"
     
     # Read README

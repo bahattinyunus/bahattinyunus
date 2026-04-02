@@ -3,22 +3,29 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Systems%20Architect%20|%20Autonomous%20Logic%20Specialist&descAlignY=55&fontColor=ffffff&descSize=25&animation=fadeIn" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
 
-  <h2>Architecting Tomorrow's Solutions Today</h2>
+  <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Design+High-Availability+Distributed+Systems;Implement+Mission-Critical+Autonomous+Stacks;Architect+Space-Grade+Edge+Computing+Solutions;Develop+Next-Gen+Aerospace+AI;Engineering+Complexity+into+Simplicity" alt="Elite Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <br>
+    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Interface-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
+
+---
+
+### 🖋️ Technical Executive Summary
+
+> **Systems Architect** with a primary focus on the intersection of **Autonomous Robotics**, **Distributed Computing**, and **Mission-Critical Systems**. My engineering philosophy revolves around "Nizam & Tertib" (Order & Arrangement) — distilling chaotic complexity into elegant, robust, and scalable architectures. 
+>
+> I specialize in designing end-to-end full-stack solutions for extreme environments, ranging from **LEO CubeSats (NASA-cFS)** to **Surface Navigation Stacks (ROS2/EKF)** and **Edge AI Swarm Logics**. My goal is to build autonomous ecosystems that operate with absolute telemetry integrity and orbital-grade reliability.
 
 
 
@@ -31,33 +38,38 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
-## 🛠️ İşletim & Gövde Cephaneliği (Tech Stack)
+## 🛠️ Domain Mastery & Technical Ecosystem
 
 <div align="center">
 
-| 🌐 Backend & Geliştirme | 🧠 Veri Bilimi & AI | 🛡️ Altyapı & Sistem |
+| 🏗️ Architecture & Systems | 🧠 Intelligence & Data | 🛡️ Infrastructure & Security |
 |:---:|:---:|:---:|
+| Core Systems Design, Robotics, Distributed Architectures | Deep Learning, Computer Vision, Signal Processing | Cloud-Native, DevSecOps, RTOS Integrity |
 | <br><img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,react,nodejs&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,nginx,bash&perline=6" /><br> |
 
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 
-## 🚀 Stratejik Görevler: Egemenlik Katmanı (2026)
+## 🚀 High-Impact Architectures (2026 Core Initiatives)
 
 <div align="center">
 
-| Görev | Operasyon Alanı | Sınıflandırma | Durum |
+| Initiative | System Focus | Technological Core | Operational Health |
 | :--- | :--- | :--- | :--- |
-| **[AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture)** | Derin Uzay & Biyosinyal | `Swarm AI` `Edge Computing` | 🟢 Aktif |
-| **[Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture)** | LEO Yörünge & Gözlem | `NASA-cFS` `Aethel-Class` | 🟢 Nominal |
-| **[RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat)** | Mars Otonom Yerleşke | `Habitat-OS` `Swarm Logic` | 🟡 Geliştirme |
-| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Ay Yüzeyi Navigasyon | `ROS2` `EKF` `Slam Toolbox` | 🟢 Görev Hazır |
-| **[Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon)** | Yörünge Savunma & Kenetlenme | `CW-Dynamics` `Orbital Shield` | 🟢 Doğrulandı |
-| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetri Bütünlüğü | `Kalman Filter` `Data Science` | 🟢 Tamamlandı |
+| **[AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture)** | Deep Space Biosignal | `Swarm AI` `Edge Computing` | 🟢 **Active** |
+| **[Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture)** | LEO Earth Observation | `NASA-cFS` `Aethel-Class` | 🟢 **Nominal** |
+| **[RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat)** | Mars Autonomous Habitat | `Habitat-OS` `Swarm Logic` | 🟡 **Iterating** |
+| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Lunar Surface Navigation | `ROS2` `EKF` `Slam Toolbox` | 🟢 **Full Deploy** |
+| **[Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon)** | Orbital Docking Systems | `CW-Dynamics` `Orbital Shield` | 🟢 **Verified** |
+| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `Data Analytics` | 🟢 **Production** |
 
 </div>
 
@@ -67,10 +79,10 @@
 
 
 
-## 📂 Proje Envanteri
+## 📂 Strategic Systems Portfolio
 
-<details>
-<summary><b>🤖 Otonom Sistemler & Robotik</b></summary>
+<details open>
+<summary><b>🤖 Robotics & Autonomous Intelligence</b></summary>
 
 | Proje | Teknoloji |
 | :--- | :--- |
@@ -85,7 +97,7 @@
 </details>
 
 <details>
-<summary><b>🧠 Yapay Zeka & Veri</b></summary>
+<summary><b>🧠 Artificial Intelligence & Data Science</b></summary>
 
 | Proje | Teknoloji |
 | :--- | :--- |
@@ -99,7 +111,7 @@
 </details>
 
 <details>
-<summary><b>🛡️ Savunma, Uzay & Siber Güvenlik</b></summary>
+<summary><b>🛡️ Aerospace, Systems & Cybersecurity</b></summary>
 
 | Proje | Teknoloji |
 | :--- | :--- |
@@ -115,7 +127,7 @@
 </details>
 
 <details>
-<summary><b>🏗️ Endüstriyel & Diğer</b></summary>
+<summary><b>🏗️ Industrial IIoT & Digital Twin Solutions</b></summary>
 
 | Proje | Teknoloji |
 | :--- | :--- |
@@ -134,47 +146,31 @@
 </div>
 
 
+## 📊 Architectural Insights & Performance Metrics
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=1a2421&ring=A3BE8C&fire=ebcb8b&currStreakNum=ebcb8b&sideNums=A3BE8C&currStreakLabel=A3BE8C&sideLabels=A3BE8C&dates=A3BE8C&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ebcb8b&area=true&hide_border=true" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=nord_dark" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=nord_dark" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
 </div>
 
 <br>
@@ -191,12 +187,12 @@
 
 ---
 
-## 🎓 Sertifikalar
+## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-130+-2196F3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-140%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
@@ -205,6 +201,16 @@
 
 | Tarih | Sertifika | Sağlayıcı | Yeterlilik Kimliği |
 | :--- | :--- | :--- | :--- |
+| Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
+| Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |
+| Mar 2026 | TS EN 50600 Veri Merkezi Tesisleri ve Altyapıları Standardı | BTK Akademi | mKEhkNWJ6X |
+| Mar 2026 | Sitescope ile Sistem İzleme | BTK Akademi | qKrheYWd01 |
+| Mar 2026 | Grafik Tasarıma Giriş | BTK Akademi | OKMhqvKqDj |
+| Mar 2026 | Bilgi Güvenliği Yönetim Sistemi | BTK Akademi | 4qgueLmnLY |
+| Mar 2026 | API ve API Testi | BTK Akademi | 4qguegXX7r |
+| Mar 2026 | SIEM Temelleri | BTK Akademi | gK2hakvzwK |
+| Mar 2026 | Güvenlik Duvarına Giriş | BTK Akademi | OKMhw8EwMb |
+| Mar 2026 | Telekomünikasyon Sistemleri Güvenliği | BTK Akademi | XV1hBdNm8l |
 | Mar 2026 | Doküman Tipleri ve Veri Formatları | BTK Akademi | qKrheZWjeK |
 | Mar 2026 | Web Sitesi Kullanılabilirliği | BTK Akademi | ZA1UM14oWD |
 | Mar 2026 | İnternet Alan Adları Hukuku | BTK Akademi | qKrheYWWE4 |
@@ -263,6 +269,7 @@
 | Oca 2026 | Canva Magic Design | BTK Akademi | ZA1UrdEkWO |
 | Oca 2026 | Gamma | BTK Akademi | GoDfm1rwNr |
 | Oca 2026 | DeepSeek | BTK Akademi | lK1hwey4xw |
+| Ara 2025 | ROTAMIZ UFKUN ÖTESİ | KTU Gemi İnşaatı ve Deniz Teknolojileri Kulübü | — |
 | Ara 2025 | 21. Yüzyılda Sahadan Akademiye Uluslararası Terörizm | Türk Dünyası Gençlik Vakfı | 2025_KTÜ6146006461910 |
 | Ara 2025 | FMCG Zirvesi | KTÜ İşletme ve Ekonomi Kulübü | — |
 | Ara 2025 | Certificate of Achievement – Use of Artificial Intelligence in Multimedia Data Security Workshop | BTK Akademi | WzBbI9py |
@@ -340,26 +347,27 @@
 ---
 
 <!-- START_QUOTE -->
-### ⚡ Daily Operational Directives
-- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
-- > **"Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt"**
-- > **"Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe"**
-- > **"Kader, gayrete aşıktır. - Yunus Emre"**
-- > **"Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche"**
+## ⚖️ Architectural Logic & Visionary Principles
+
+> *“The best way to predict the future is to create it.”* — **Peter Drucker**
+
+- **Simplicity as Sophistication**: Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.
+- **Architectural Integrity**: Structure dictates function; robust systems are born from intentional order (Nizam).
+- **Relentless Innovation**: Execution is the ultimate differentiator. Ideas without implementation are merely noise.
+- **Ordered Destiny**: Success is the inevitable result of disciplined effort and prepared opportunity.
 <!-- END_QUOTE -->
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
-  <br /><br />
-  <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
-  <br /><br />
-  <b>© 2026 Bahattin Yunus Çetin</b>
-</div>
-
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=SYSTEM+ACCESSES&color=00d4ff&style=flat-square" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
+  <br>
+  <b>Bahattin Yunus ÇETİN</b><br>
+  <i>Systems Architect | Autonomous Logic Specialist</i><br>
+  <small>© 2026 — Built with Precision & Intent</small>
 </div>
 

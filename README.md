@@ -23,9 +23,9 @@
 
 ### 🖋️ Technical Executive Summary
 
-> **Systems Architect** with a primary focus on the intersection of **Autonomous Robotics**, **Distributed Computing**, and **Mission-Critical Systems**. My engineering philosophy revolves around "Nizam & Tertib" (Order & Arrangement) — distilling chaotic complexity into elegant, robust, and scalable architectures. 
+> **Systems Architect** specialist at the nexus of **Autonomous Robotics**, **Edge Intelligence**, and **Mission-Critical Systems**. My engineering doctrine is rooted in "Nizam & Tertib" (Analytical Order & Systematic Arrangement) — the art of distilling extreme complexity into resilient, scalable, and high-integrity architectures.
 >
-> I specialize in designing end-to-end full-stack solutions for extreme environments, ranging from **LEO CubeSats (NASA-cFS)** to **Surface Navigation Stacks (ROS2/EKF)** and **Edge AI Swarm Logics**. My goal is to build autonomous ecosystems that operate with absolute telemetry integrity and orbital-grade reliability.
+> I architect end-to-end solutions for high-stakes environments, spanning from **Aerospace Flight Software (NASA-cFS)** to **Lunar Surface Navigation Stacks (ROS2/EKF)**. Driven by a commitment to telemetry precision and architectural elegance, I build autonomous ecosystems where absolute reliability is the baseline, not the goal.
 
 
 
@@ -49,8 +49,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
 </div>
 
 <div align="center">
@@ -84,7 +82,7 @@
 <details open>
 <summary><b>🤖 Robotics & Autonomous Intelligence</b></summary>
 
-| Proje | Teknoloji |
+| Project | Core Technology |
 | :--- | :--- |
 | [Ay-Otonom-Navigasyon](https://github.com/arch-yunus/Ay-Otonom-Navigasyon) | `ROS2` `EKF` `DWA` `A*` |
 | [Formula Student Autonomous](https://github.com/arch-yunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
@@ -97,11 +95,11 @@
 </details>
 
 <details>
-<summary><b>🧠 Artificial Intelligence & Data Science</b></summary>
+<summary><b>🧠 Intelligence, Data Science & Neural Networks</b></summary>
 
-| Proje | Teknoloji |
+| Project | Core Technology |
 | :--- | :--- |
-| [AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge Computing` `Spektroskopi` |
+| [AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge Computing` `Spectroscopy` |
 | [Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer) | `Kalman Smoothing` `Anomaly Detection` |
 | [Akademik Radar](https://github.com/arch-yunus/AkademikRadar) | `SciBERT` `Graph Theory` |
 | [Nexus TRL](https://github.com/arch-yunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
@@ -111,9 +109,9 @@
 </details>
 
 <details>
-<summary><b>🛡️ Aerospace, Systems & Cybersecurity</b></summary>
+<summary><b>🛡️ Aerospace, Mission-Critical Systems & Cybersecurity</b></summary>
 
-| Proje | Teknoloji |
+| Project | Core Technology |
 | :--- | :--- |
 | [Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `Aethel-Class` `CubeSat` |
 | [RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Planetary Scale` |
@@ -127,9 +125,9 @@
 </details>
 
 <details>
-<summary><b>🏗️ Industrial IIoT & Digital Twin Solutions</b></summary>
+<summary><b>🏗️ Industrial IIoT & Digital Twin Architectures</b></summary>
 
-| Proje | Teknoloji |
+| Project | Core Technology |
 | :--- | :--- |
 | [ANATOLIA-SILICON](https://github.com/arch-yunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
 | [Industrial Intelligence](https://github.com/arch-yunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
@@ -146,7 +144,7 @@
 </div>
 
 
-## 📊 Architectural Insights & Performance Metrics
+## 📊 Analytical Intelligence & System Metrics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
@@ -157,6 +155,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
@@ -171,14 +175,6 @@
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arch-yunus/arch-yunus/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none';" />
 </div>
 
 <div align="center">
@@ -196,10 +192,10 @@
 </div>
 
 <details>
-<summary><b>📜 Sertifika Listesi (130+)</b></summary>
+<summary><b>📜 Comprehensive Credential Archive (140+)</b></summary>
 <br />
 
-| Tarih | Sertifika | Sağlayıcı | Yeterlilik Kimliği |
+| Date | Credential | Issuer | ID |
 | :--- | :--- | :--- | :--- |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
 | Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |

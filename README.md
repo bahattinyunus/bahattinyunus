@@ -362,6 +362,8 @@
   <br /><br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
   <br>
+  <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
+  <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
   <i>Systems Architect | Autonomous Logic Specialist</i><br>
   <small>© 2026 — Built with Precision & Intent</small>

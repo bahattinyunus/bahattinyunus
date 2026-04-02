@@ -31,9 +31,9 @@ Temel amacım; teknolojiyi sadece tüketen pasif bir aktör olmak değil, onu st
 Geleneksel mühendislik disiplinlerinin sınırlarını zorlayarak, "Meta-Mühendislik" olarak tanımladığım yeni nesil bir paradigma üzerinde bağımsız, derinlemesine ve akademik titizlikle araştırmalar yürütüyorum. Bu laboratuvar, sadece bugünün problemlerini değil, 10 yıl sonrasının sistem mimarilerini simüle etmek üzerine kurgulandı.
 - **Teknik Vizyon**: Yazılım geliştirme süreçlerinin, insan bağımlı manuel kodlama aşamasından (Craftsmanship), yapay zeka destekli tam otonom üretim aşamasına (Industrial Autonomy) evrilmesi için gereken "Cognitive Kernel" tasarımları.
 - **Research Pillars (Araştırma Sütunları)**:
-    - **Autonomous Swarm Intelligence (Otonom Sürü Zekası)**: Birbirleriyle asimetrik olarak haberleşen, hiyerarşik olmayan, görev odaklı ve "consensus" algoritmalarıyla karara varan uzman yapay zeka ajanlarının (AI Agents) matematiksel modellerinin tasarımı.
+    - **Autonomous Swarm Intelligence (Otonom Sürü Zekası)**: Birbirleriyle asimetrik olarak haberleşen, hiyerarşik olmayan, görev odaklı ve "consensus" algoritmalarıyla karara varan uzman yapay zeka ajanlarının (AI Agents) matematiksel modellerinin tasarımı. *Uygulama: [AstroBio-Edge-Architecture](https://github.com/arch-yunus/AstroBio-Edge-Architecture)*
     - **Von Neumann Self-Replicating Systems**: Kendi yapısını ve kodunu analiz eden (Static/Dynamic Analysis), çalışma zamanında (Runtime) hatalarını teşhis eden ve performansını saniyeler içinde optimize eden "Polymorphic" sistem mimarileri.
-    - **Stochastic Error Resilience**: Belirsizliğin ve gürültünün (Noise) yüksek olduğu ortamlarda bile deterministik sonuçlar üretebilen, olasılıksal mantık temelli "Fault-Tolerant" yazılım geliştirme metodolojileri.
+    - **Stochastic Error Resilience**: Belirsizliğin ve gürültünün (Noise) yüksek olduğu ortamlarda bile deterministik sonuçlar üretebilen, olasılıksal mantık temelli "Fault-Tolerant" yazılım geliştirme metodolojileri. *Uygulama: [Cosmic-Telemetry-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)*
 
 ### 📱 Budak | Edge-AI Optimization
 **Rol: Founder & Optimization Architect** | *Oca 2026 - Günümüz*
@@ -41,11 +41,12 @@ Devasa bulut sunucularına bağımlı yapay zekayı "özgürleştirmek" ve birey
 - **Teknik Odak**: Milyarlarca parametreye sahip modelleri, `FP16`'dan `INT4/EG` formatına kadar nicemleyerek (Quantization), performans kaybını %1'in altında tutarken model boyutunu %80 oranında küçültmek. Pruning (Dal Budama) teknikleriyle nöral ağların kullanılmayan sinapslarını temizliyoruz.
 - **Uygulama Alanı**: Akıllı telefonlardan, endüstriyel "Cyber-Physical" sensörlere kadar her noktada; internet bağlantısı gerekmeden, sıfır gecikme (Zero Latency) ve mutlak veri gizliliği ile çalışan "yerinde zeka" ekosistemi.
 
-### 🦅 Anka Silicon Dynamics
+### 🦅 Anka Silicon Dynamics & Space Systems
 **Rol: Founder & Chief Architect** | *Oca 2026 - Günümüz*
-Küresel teknoloji devlerinin donanım hegemonyasına karşı, "yazılımın donanımı yönettiği" değil, "donanımın zeka ile evrildiği" bir gelecek için kurulan Anka, Türkiye'nin dijital egemenliğinin donanım tarafındaki kalbidir.
+Küresel teknoloji devlerinin donanım hegemonyasına karşı, "yazılımın donanımı yönettiği" değil, "donanımın zeka ile evrildiği" bir gelecek için kurulan Anka, Türkiye'nin dijital egemenliğinin donanım ve uzay tarafındaki kalbidir.
 - **Stratejik Motto**: "Donanımı beklemiyoruz; yerli çipler (NPU/FPGA) basıldığında üzerinde koşacak zekayı bugünden, 'Silicon-Ready' mantığıyla inşa ediyoruz."
-- **Teknik Derinlik**: Knowledge Distillation (Bilgi Damıtma) yoluyla devasa modellerin bilgisini "Small Language Models" (SLM) yapılarına aktarma. Türkçe morfolojik yapıya özel tokenleştirme algoritmaları ve vLLM/Cuda entegrasyonlarıyla çıkarım hızını (Inference Speed) endüstriyel tavan noktasına çıkarma.
+- **Teknik Derinlik**: Knowledge Distillation (Bilgi Damıtma) yoluyla devasa modellerin bilgisini "Small Language Models" (SLM) yapılarına aktarma. [Feza-X CubeSat](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture) mimarisi ile NASA-cFS tabanlı uçuş yazılımı ve uç birimlerde AI çıkarımı (Edge Inference) entegrasyonu.
+- **Gezegenler Arası Vizyon**: [RedPlanet-Autonomous-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat) ve [Ay-Otonom-Navigasyon](https://github.com/arch-yunus/Ay-Otonom-Navigasyon) projeleriyle çoklu gezegenli yaşam için gereken otonom ekosistemlerin inşası.
 
 ### 🛡️ Siber Vatan (T-Red Team Operations)
 **Rol: Engineering Candidate** | *Kas 2025 - Günümüz*

@@ -168,17 +168,27 @@
 ## 🎓 Sertifikalar
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-130+-2196F3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toplam_Sertifika-140-2196F3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Sertifika Listesi (130+)</b></summary>
+<summary><b>📜 Sertifika Listesi (140)</b></summary>
 <br />
 
 | Tarih | Sertifika | Sağlayıcı | Yeterlilik Kimliği |
 | :--- | :--- | :--- | :--- |
+| Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
+| Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |
+| Mar 2026 | TS EN 50600 Veri Merkezi Tesisleri ve Altyapıları Standardı | BTK Akademi | mKEhkNWJ6X |
+| Mar 2026 | Sitescope ile Sistem İzleme | BTK Akademi | qKrheYWd01 |
+| Mar 2026 | Grafik Tasarıma Giriş | BTK Akademi | OKMhqvKqDj |
+| Mar 2026 | Bilgi Güvenliği Yönetim Sistemi | BTK Akademi | 4qgueLmnLY |
+| Mar 2026 | API ve API Testi | BTK Akademi | 4qguegXX7r |
+| Mar 2026 | SIEM Temelleri | BTK Akademi | gK2hakvzwK |
+| Mar 2026 | Güvenlik Duvarına Giriş | BTK Akademi | OKMhw8EwMb |
+| Mar 2026 | Telekomünikasyon Sistemleri Güvenliği | BTK Akademi | XV1hBdNm8l |
 | Mar 2026 | Doküman Tipleri ve Veri Formatları | BTK Akademi | qKrheZWjeK |
 | Mar 2026 | Web Sitesi Kullanılabilirliği | BTK Akademi | ZA1UM14oWD |
 | Mar 2026 | İnternet Alan Adları Hukuku | BTK Akademi | qKrheYWWE4 |
@@ -207,14 +217,14 @@
 | Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 | Yirmi Üç | 1774b535-4b29-4c25-b11b-291d57f9b481 |
 | Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi | AKkkf7kNJla |
 | Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi | XlOOsBKZW6Z |
-| Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi | kJMMHbnypXg |
+| Şub 2026 | Sosyal Medya İçerik Üretimi (Hedef Kitle Analizi) | BTK Akademi | kJMMHbnypXg |
 | Şub 2026 | Sosyal Medyada Tasarım Temelli İçerik Üretimi | BTK Akademi | m688uk1ErWp |
 | Şub 2026 | Sosyal Medyada Marka İletişimi ve İşbirlikleri | BTK Akademi | VljjsgWkaKA |
 | Şub 2026 | Sosyal Medya Etkileyicilerinin Hukuki Sorumluluğu | BTK Akademi | xoBBUN4brZL |
-| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Hikâye Anlatıcılığı | BTK Akademi | xoBBUN4bLgn |
+| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Görsel Dil | BTK Akademi | xoBBUN4bLgn |
 | Şub 2026 | Sosyal Medya Reklamcılığı ve Performans Analitiği | BTK Akademi | AKkkf7kwlrL |
 | Şub 2026 | Ankara AI Hackathon | Teknopark Ankara | jeqDhGDaZKq |
-| Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi | nwJltz89 |
+| Oca 2026 | Articulate Storyline 360 ile İleri Seviye Etkileşimli İçerik | BTK Akademi | nwJltz89 |
 | Oca 2026 | Google Dijital Ebeveynlik | Google | 4qgueLmn07 |
 | Oca 2026 | Markaların Korunması | BTK Akademi | WJ1SMLlqMZ |
 | Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 | Yirmi Üç | 3c44f88d-1944-4919-b750-67f769f6e5ad |
@@ -243,6 +253,7 @@
 | Ara 2025 | Social Engineering and Phishing | BTK Akademi | WJ1SkZbe4d |
 | Ara 2025 | DoS / DDoS Attacks and Protection | BTK Akademi | XV1hBdNpMv |
 | Ara 2025 | Underwater Systems Training | T3 Vakfı | — |
+| Ara 2025 | ROTAMIZ UFKUN ÖTESİ | KTUGEMDTEK | — |
 | Kas 2025 | Aviation & Space Exploration Camp – Certificate (2025) | TÜBİTAK | — |
 | Kas 2025 | Project Management Basics | BTK Akademi | wmlFmJkB29 |
 | Eki 2025 | Artificial Intelligence Ethics | BTK Akademi | MAZUE7xX2D |

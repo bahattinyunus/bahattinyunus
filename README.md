@@ -3,8 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Systems%20Architect%20|%20Autonomous%20Logic%20Specialist&descAlignY=55&fontColor=ffffff&descSize=25&animation=fadeIn" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Systems%20Architect%20|%20Autonomous%20Logic%20Specialist&descAlignY=55&fontColor=ffffff&descSize=25&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
@@ -366,6 +365,9 @@
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
   <i>Systems Architect | Autonomous Logic Specialist</i><br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=400&height=30&lines=%5B%E2%97%8F%5D+Secure+Uplink+Active;%5B%E2%97%8F%5D+System+Integrity+Nominal;%5B%E2%97%8F%5D+Monitoring+Live+Telemetry...;%5B%E2%97%8F%5D+Awaiting+Next+Command..." alt="Live Telemetry" />
+  <br>
   <small>© 2026 — Built with Precision & Intent</small>
 </div>
 

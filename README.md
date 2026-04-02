@@ -3,19 +3,19 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=250&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=60&fontAlignY=33&desc=Software%20Engineer%20|%20Systems%20Architect&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <h2>Architecting Tomorrow's Solutions Today</h2>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=B22222&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=800&lines=Software+Engineering;Systems+Architecture;Nizam+%26+Tertib;Taktiksel+M%C3%BChendislik;Autonomous+Systems;Universal+Order" alt="Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-8B0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-B22222?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br>
   </p>
 </div>
@@ -23,12 +23,12 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ## 🛠️ İşletim & Gövde Cephaneliği (Tech Stack)
@@ -42,7 +42,27 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
+
+## 🚀 Stratejik Görevler: Egemenlik Katmanı (2026)
+
+<div align="center">
+
+| Görev | Operasyon Alanı | Sınıflandırma | Durum |
+| :--- | :--- | :--- | :--- |
+| **[AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture)** | Derin Uzay & Biyosinyal | `Swarm AI` `Edge Computing` | 🟢 Aktif |
+| **[Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture)** | LEO Yörünge & Gözlem | `NASA-cFS` `Aethel-Class` | 🟢 Nominal |
+| **[RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat)** | Mars Otonom Yerleşke | `Habitat-OS` `Swarm Logic` | 🟡 Geliştirme |
+| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Ay Yüzeyi Navigasyon | `ROS2` `EKF` `Slam Toolbox` | 🟢 Görev Hazır |
+| **[Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon)** | Yörünge Savunma & Kenetlenme | `CW-Dynamics` `Orbital Shield` | 🟢 Doğrulandı |
+| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetri Bütünlüğü | `Kalman Filter` `Data Science` | 🟢 Tamamlandı |
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 
@@ -54,6 +74,7 @@
 
 | Proje | Teknoloji |
 | :--- | :--- |
+| [Ay-Otonom-Navigasyon](https://github.com/arch-yunus/Ay-Otonom-Navigasyon) | `ROS2` `EKF` `DWA` `A*` |
 | [Formula Student Autonomous](https://github.com/arch-yunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
 | [ERC Rover GCS](https://github.com/arch-yunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
 | [Robotex Warrior Core](https://github.com/arch-yunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
@@ -68,6 +89,8 @@
 
 | Proje | Teknoloji |
 | :--- | :--- |
+| [AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge Computing` `Spektroskopi` |
+| [Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer) | `Kalman Smoothing` `Anomaly Detection` |
 | [Akademik Radar](https://github.com/arch-yunus/AkademikRadar) | `SciBERT` `Graph Theory` |
 | [Nexus TRL](https://github.com/arch-yunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
 | [NexusBroker](https://github.com/arch-yunus/NexusBroker) | `Vector DB` `Solidity` |
@@ -80,6 +103,9 @@
 
 | Proje | Teknoloji |
 | :--- | :--- |
+| [Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `Aethel-Class` `CubeSat` |
+| [RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Planetary Scale` |
+| [Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon) | `Orbital Defense` `CW-Dynamics` |
 | [Kiyamet-Hatti](https://github.com/arch-yunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
 | [SIGINT HUB](https://github.com/arch-yunus/SIGINT) | `DSP` `FFT` `ELINT` |
 | [NOAA Station](https://github.com/arch-yunus/NOAA) | `Orbital` `Signal Proc.` |
@@ -104,51 +130,51 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=radical" height="190" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=radical" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&theme=radical" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=A3BE8C&border_color=A3BE8C&hide_active_border=true" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=radical&no-bg=true&margin-w=4&no-frame=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=1a2421&ring=A3BE8C&fire=ebcb8b&currStreakNum=ebcb8b&sideNums=A3BE8C&currStreakLabel=A3BE8C&sideLabels=A3BE8C&dates=A3BE8C&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&theme=radical" width="100%" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=arch-yunus&theme=gruvbox&no-bg=true&margin-w=4&no-frame=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=radical" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=radical" height="190" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=1a2421&color=A3BE8C&line=A3BE8C&point=ebcb8b&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=ai_courses&theme=radical" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=btk-python-courses&theme=radical" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=nord_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arch-yunus&theme=nord_dark" height="190" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=erc_rover_mission_control&theme=algolia&bg_color=1a2421&title_color=A3BE8C&text_color=A3BE8C&icon_color=ebcb8b" height="150" />
 </div>
 
 <br>
@@ -160,7 +186,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ---
@@ -168,27 +194,17 @@
 ## 🎓 Sertifikalar
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Toplam_Sertifika-140-8B0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Toplam_Sertifika-130+-2196F3?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/İHA--1_Pilot_Lisansı-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Auditor-green?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Sertifika Listesi (140)</b></summary>
+<summary><b>📜 Sertifika Listesi (130+)</b></summary>
 <br />
 
 | Tarih | Sertifika | Sağlayıcı | Yeterlilik Kimliği |
 | :--- | :--- | :--- | :--- |
-| Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
-| Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |
-| Mar 2026 | TS EN 50600 Veri Merkezi Tesisleri ve Altyapıları Standardı | BTK Akademi | mKEhkNWJ6X |
-| Mar 2026 | Sitescope ile Sistem İzleme | BTK Akademi | qKrheYWd01 |
-| Mar 2026 | Grafik Tasarıma Giriş | BTK Akademi | OKMhqvKqDj |
-| Mar 2026 | Bilgi Güvenliği Yönetim Sistemi | BTK Akademi | 4qgueLmnLY |
-| Mar 2026 | API ve API Testi | BTK Akademi | 4qguegXX7r |
-| Mar 2026 | SIEM Temelleri | BTK Akademi | gK2hakvzwK |
-| Mar 2026 | Güvenlik Duvarına Giriş | BTK Akademi | OKMhw8EwMb |
-| Mar 2026 | Telekomünikasyon Sistemleri Güvenliği | BTK Akademi | XV1hBdNm8l |
 | Mar 2026 | Doküman Tipleri ve Veri Formatları | BTK Akademi | qKrheZWjeK |
 | Mar 2026 | Web Sitesi Kullanılabilirliği | BTK Akademi | ZA1UM14oWD |
 | Mar 2026 | İnternet Alan Adları Hukuku | BTK Akademi | qKrheYWWE4 |
@@ -217,14 +233,14 @@
 | Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 | Yirmi Üç | 1774b535-4b29-4c25-b11b-291d57f9b481 |
 | Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi | AKkkf7kNJla |
 | Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi | XlOOsBKZW6Z |
-| Şub 2026 | Sosyal Medya İçerik Üretimi (Hedef Kitle Analizi) | BTK Akademi | kJMMHbnypXg |
+| Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi | kJMMHbnypXg |
 | Şub 2026 | Sosyal Medyada Tasarım Temelli İçerik Üretimi | BTK Akademi | m688uk1ErWp |
 | Şub 2026 | Sosyal Medyada Marka İletişimi ve İşbirlikleri | BTK Akademi | VljjsgWkaKA |
 | Şub 2026 | Sosyal Medya Etkileyicilerinin Hukuki Sorumluluğu | BTK Akademi | xoBBUN4brZL |
-| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Görsel Dil | BTK Akademi | xoBBUN4bLgn |
+| Şub 2026 | Sosyal Medyada İçerik Üretim Süreci & Hikâye Anlatıcılığı | BTK Akademi | xoBBUN4bLgn |
 | Şub 2026 | Sosyal Medya Reklamcılığı ve Performans Analitiği | BTK Akademi | AKkkf7kwlrL |
 | Şub 2026 | Ankara AI Hackathon | Teknopark Ankara | jeqDhGDaZKq |
-| Oca 2026 | Articulate Storyline 360 ile İleri Seviye Etkileşimli İçerik | BTK Akademi | nwJltz89 |
+| Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi | nwJltz89 |
 | Oca 2026 | Google Dijital Ebeveynlik | Google | 4qgueLmn07 |
 | Oca 2026 | Markaların Korunması | BTK Akademi | WJ1SMLlqMZ |
 | Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 | Yirmi Üç | 3c44f88d-1944-4919-b750-67f769f6e5ad |
@@ -253,7 +269,6 @@
 | Ara 2025 | Social Engineering and Phishing | BTK Akademi | WJ1SkZbe4d |
 | Ara 2025 | DoS / DDoS Attacks and Protection | BTK Akademi | XV1hBdNpMv |
 | Ara 2025 | Underwater Systems Training | T3 Vakfı | — |
-| Ara 2025 | ROTAMIZ UFKUN ÖTESİ | KTUGEMDTEK | — |
 | Kas 2025 | Aviation & Space Exploration Camp – Certificate (2025) | TÜBİTAK | — |
 | Kas 2025 | Project Management Basics | BTK Akademi | wmlFmJkB29 |
 | Eki 2025 | Artificial Intelligence Ethics | BTK Akademi | MAZUE7xX2D |
@@ -326,17 +341,17 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn"**
-- > **"Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız"**
-- > **"Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun"**
-- > **"Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna"**
-- > **"Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry"**
+- > **"Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi"**
+- > **"En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu"**
+- > **"Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates"**
+- > **"Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız"**
+- > **"Zihin, ne ile beslenirse onunla büyür. - Cahit Arf"**
 <!-- END_QUOTE -->
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=8B0000&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
   <br /><br />
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br /><br />
@@ -345,6 +360,6 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/crimson.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 

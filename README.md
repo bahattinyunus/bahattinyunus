@@ -372,6 +372,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=150&section=footer&text=END%20OF%20TELEMETRY%20%7C%20SYSTEMS%20NOMINAL&fontSize=26&fontAlignY=65&fontColor=00d4ff&desc=ARCHITECTURAL%20INTEGRITY%20SECURED&descSize=15&descAlignY=85&animation=twinkling" width="100%" alt="Elite Footer Banner" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Visual Telemetry Banner" />
 </div>
 

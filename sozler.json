@@ -345,7 +345,7 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": false
+        "used": true
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
@@ -353,15 +353,15 @@
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
-        "used": false
+        "used": true
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",
-        "used": false
+        "used": true
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
-        "used": false
+        "used": true
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",

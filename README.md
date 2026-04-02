@@ -341,11 +341,11 @@
 
 <!-- START_QUOTE -->
 ### ⚡ Daily Operational Directives
-- > **"Gökbörü'nün izinde, nizam-ı alem uğruna. - Türk Töresi"**
-- > **"En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu"**
-- > **"Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates"**
-- > **"Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız"**
-- > **"Zihin, ne ile beslenirse onunla büyür. - Cahit Arf"**
+- > **"Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker"**
+- > **"Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt"**
+- > **"Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe"**
+- > **"Kader, gayrete aşıktır. - Yunus Emre"**
+- > **"Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche"**
 <!-- END_QUOTE -->
 
 ---

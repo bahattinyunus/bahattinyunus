@@ -369,3 +369,7 @@
   <small>© 2026 — Built with Precision & Intent</small>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001f3f&height=150&section=footer&text=END%20OF%20TELEMETRY%20%7C%20SYSTEMS%20NOMINAL&fontSize=26&fontAlignY=65&fontColor=00d4ff&desc=ARCHITECTURAL%20INTEGRITY%20SECURED&descSize=15&descAlignY=85&animation=twinkling" width="100%" alt="Elite Footer Banner" />
+</div>
+

@@ -25,7 +25,7 @@
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
@@ -193,7 +193,7 @@
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
-        "used": false
+        "used": true
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
@@ -225,7 +225,7 @@
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
-        "used": false
+        "used": true
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
@@ -261,7 +261,7 @@
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar",
@@ -273,7 +273,7 @@
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",

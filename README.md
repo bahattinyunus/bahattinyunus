@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius”*
+> *“Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar”*
 
-- **System Strategy**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
-- **Operational Integrity**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
-- **Architectural Vision**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
-- **Logic & Reason**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
+- **System Strategy**: Hatalar, keşfin kapılarıdır. - James Joyce
+- **Operational Integrity**: İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles
+- **Architectural Vision**: Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina
+- **Logic & Reason**: Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius
 <!-- END_QUOTE -->
 
 ---

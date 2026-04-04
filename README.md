@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar”*
+> *“Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet”*
 
-- **System Strategy**: Hatalar, keşfin kapılarıdır. - James Joyce
-- **Operational Integrity**: İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles
-- **Architectural Vision**: Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina
-- **Logic & Reason**: Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius
+- **System Strategy**: Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali
+- **Operational Integrity**: Geçmişin hatası, geleceğin rehberidir. - Gazali
+- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
+- **Logic & Reason**: Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca
 <!-- END_QUOTE -->
 
 ---

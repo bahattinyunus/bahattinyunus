@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet”*
+> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
 
-- **System Strategy**: Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali
-- **Operational Integrity**: Geçmişin hatası, geleceğin rehberidir. - Gazali
-- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
-- **Logic & Reason**: Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca
+- **System Strategy**: Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız
+- **Operational Integrity**: İnsanları tanıyan yalnızlaşır. - Hz. Ali
+- **Architectural Vision**: Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş
+- **Logic & Reason**: Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin
 <!-- END_QUOTE -->
 
 ---

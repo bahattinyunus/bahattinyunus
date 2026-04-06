@@ -372,8 +372,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=IIhsbJvGKzw" target="_blank">
-    <img src="assets/elite_architect_banner.png" width="100%" alt="Visual Telemetry Banner" />
+  <a href="https://www.youtube.com/watch?v=Fq3uOpmH-28" target="_blank">
+    <img src="assets/military_steppe_rustbucket.png" width="100%" alt="Visual Telemetry Banner" />
   </a>
 </div>
 

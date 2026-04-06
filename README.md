@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
+> *“İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet”*
 
-- **System Strategy**: Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız
-- **Operational Integrity**: İnsanları tanıyan yalnızlaşır. - Hz. Ali
-- **Architectural Vision**: Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş
-- **Logic & Reason**: Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin
+- **System Strategy**: Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon
+- **Operational Integrity**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
+- **Architectural Vision**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
+- **Logic & Reason**: Düşünüyorum, öyleyse varım. - Rene Descartes
 <!-- END_QUOTE -->
 
 ---

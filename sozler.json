@@ -37,7 +37,7 @@
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-        "used": false
+        "used": true
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
@@ -105,7 +105,7 @@
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
@@ -281,7 +281,7 @@
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
-        "used": false
+        "used": true
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
@@ -293,7 +293,7 @@
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
@@ -309,7 +309,7 @@
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein",

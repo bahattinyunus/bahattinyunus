@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet”*
+> *“Devletin temeli adalettir. - Hz. Ömer”*
 
-- **System Strategy**: Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon
-- **Operational Integrity**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
-- **Architectural Vision**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
-- **Logic & Reason**: Düşünüyorum, öyleyse varım. - Rene Descartes
+- **System Strategy**: Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu
+- **Operational Integrity**: Kaosun içinde fırsat yatar. - Sun Tzu
+- **Architectural Vision**: İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali
+- **Logic & Reason**: Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev
 <!-- END_QUOTE -->
 
 ---

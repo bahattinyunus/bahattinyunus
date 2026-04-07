@@ -7,9 +7,10 @@
 |  |  |
 | :--- | :--- |
 | **İsim Soyisim** | **Bahattin Yunus Çetin** |
-| **Profesyonel Unvan** | **IT Architect & Teknoloji Stratejisti** |
+| **Profesyonel Unvan** | **Founder @ Budak | AI Researcher & Edge-AI Developer** |
+| **Akademik Disiplin** | **Electrical and Electronics Engineering (EEE)** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
-| **Mevcut Üs / Konum** | Trabzon / Of Teknoloji Fakültesi |
+| **Mevcut Üs / Konum** | Sakarya / Sakarya Üniversitesi |
 | **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-arch-yunus-181717?style=flat-square&logo=github)](https://github.com/arch-yunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-arch-yunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arch-yunus/) |
 
 Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Trabzon Of Teknoloji Fakültesi**'nin dinamik atmosferiyle birleştiriyorum.
@@ -26,20 +27,18 @@ Temel amacım; teknolojiyi sadece tüketen pasif bir aktör olmak değil, onu st
 
 ## 💼 Profesyonel Operasyonlar ve Girişimler
 
-### 🔬 Meta-Engineering Research Lab
+### 🔬 Meta-Engineering Research Lab (MERL)
 **Rol: Lead Researcher & Founder** | *Oca 2026 - Günümüz*
-Geleneksel mühendislik disiplinlerinin sınırlarını zorlayarak, "Meta-Mühendislik" olarak tanımladığım yeni nesil bir paradigma üzerinde bağımsız, derinlemesine ve akademik titizlikle araştırmalar yürütüyorum. Bu laboratuvar, sadece bugünün problemlerini değil, 10 yıl sonrasının sistem mimarilerini simüle etmek üzerine kurgulandı.
-- **Teknik Vizyon**: Yazılım geliştirme süreçlerinin, insan bağımlı manuel kodlama aşamasından (Craftsmanship), yapay zeka destekli tam otonom üretim aşamasına (Industrial Autonomy) evrilmesi için gereken "Cognitive Kernel" tasarımları.
-- **Research Pillars (Araştırma Sütunları)**:
-    - **Autonomous Swarm Intelligence (Otonom Sürü Zekası)**: Birbirleriyle asimetrik olarak haberleşen, hiyerarşik olmayan, görev odaklı ve "consensus" algoritmalarıyla karara varan uzman yapay zeka ajanlarının (AI Agents) matematiksel modellerinin tasarımı.
-    - **Von Neumann Self-Replicating Systems**: Kendi yapısını ve kodunu analiz eden (Static/Dynamic Analysis), çalışma zamanında (Runtime) hatalarını teşhis eden ve performansını saniyeler içinde optimize eden "Polymorphic" sistem mimarileri.
-    - **Stochastic Error Resilience**: Belirsizliğin ve gürültünün (Noise) yüksek olduğu ortamlarda bile deterministik sonuçlar üretebilen, olasılıksal mantık temelli "Fault-Tolerant" yazılım geliştirme metodolojileri.
+MERL, yazılım geliştirmenin geleneksel "zanaat" döngüsünü kırarak, kodun kendi kendini var ettiği ve evrildiği otonom sistemler üzerine odaklanan bağımsız bir araştırma merkezidir.
+- **Otonom Kod Evrimi**: İnsan bilişsel darboğazını ortadan kaldıran, biyolojik prensiplerle çalışan dijital organizma tasarımları.
+- **Paradigma Dönüşümü**: Yazılım üretimini operasyonel kodlama yükünden kurtarıp, stratejik mimari ve etik karar verme katmanına taşıma.
+- **Sistem Optimizasyonu**: Kendi kendini onaran ve optimize eden yüksek karmaşıklıklı yazılım mimarileri (Self-Healing Systems).
 
 ### 📱 Budak | Edge-AI Optimization
 **Rol: Founder & Optimization Architect** | *Oca 2026 - Günümüz*
-Devasa bulut sunucularına bağımlı yapay zekayı "özgürleştirmek" ve bireysel cihazlara (Edge) indirgemek amacıyla kurduğum bu girişim, matematiksel optimizasyonun en uç noktalarını hedefliyor. Budak; verimliliğin, güç tüketiminin ve gizliliğin anahtarını elinde tutan bir teknoloji yığınıdır.
-- **Teknik Odak**: Milyarlarca parametreye sahip modelleri, `FP16`'dan `INT4/EG` formatına kadar nicemleyerek (Quantization), performans kaybını %1'in altında tutarken model boyutunu %80 oranında küçültmek. Pruning (Dal Budama) teknikleriyle nöral ağların kullanılmayan sinapslarını temizliyoruz.
-- **Uygulama Alanı**: Akıllı telefonlardan, endüstriyel "Cyber-Physical" sensörlere kadar her noktada; internet bağlantısı gerekmeden, sıfır gecikme (Zero Latency) ve mutlak veri gizliliği ile çalışan "yerinde zeka" ekosistemi.
+Yapay zekayı bulutun hantallığından kurtarıp uç cihazlarda (Edge) özgürleştirmek vizyonuyla Budak'ı hayata geçirdim. Devasa modelleri endüstriyel IoT ve otonom sistemlerde verimli çalıştırmaya odaklanıyoruz.
+- **Edge-AI Optimizasyonu**: Milyarlarca parametreye sahip modelleri model budama (pruning), nicemleme (quantization) ve bilgi damıtma (knowledge distillation) yöntemleriyle optimize ederek %80 küçültme ve sıfır gecikme sağlama.
+- **Donanım Uyumluluğu**: Modelleri buluttan bağımsız hale getirerek, verinin cihaz içinde kaldığı (tam gizlilik) ve kararların milisaniyeler içinde alındığı düşük enerji tüketimli mimariler tasarlıyorum.
 
 ### 🦅 Anka Silicon Dynamics
 **Rol: Founder & Chief Architect** | *Oca 2026 - Günümüz*
@@ -62,12 +61,15 @@ Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu 
 
 ## 🏛️ Akademik Mimari: Post-AI Stratejisi
 
-### 1. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
-**🗓️ 2023 - 2027** | *Ana Komuta Merkezi (Strategic HQ)*
-KTÜ bünyesindeki eğitimimi, sadece bir diploma kazanımı değil, endüstriyel standartlarda bir "IT Architect" yetişme parkuru olarak kurguladım. Burası benim ana operasyonel merkezim ve sistemlerimin çekirdek (Kernel) katmanıdır.
-- **Felsefe**: "Çalışan kod" asgari şarttır; asıl hedef "Evrimsel Mimari" kurmaktır. Sürdürülebilir (Sustainable), yüksek erişilebilir (High Availability), bakımı yapılabilir (Maintainable) ve güvenlik öncelikli (Security-by-Design) sistemler tasarlıyorum. Yazılım yaşam döngüsünün (SDLC) her noktasını, modern DevOps ve CI/CD otomasyonları ile "Deploy-Ready" hale getiriyorum.
-- **Post-AI Vizyonu**: Yapay zekayı bir tehdit değil, mühendisin bilişsel kapasitesini 100 katına çıkaran bir "Nöral Güç Çarpanı" olarak konumlandırıyoruz. LLM ajanları ile otonom kod geliştirme ve sistem izleme (Monitoring) süreçleri üzerinde çalışıyorum.
-- **İlgili Repo**: [KTÜ Post-AI Komuta Merkezi](https://github.com/arch-yunus/ktu-software-engineering)
+### 1. Sakarya Üniversitesi - Elektrik ve Elektronik Mühendisliği (EEE)
+**🗓️ 2026 - Devam Ediyor** | *Donanım ve Yazılımın Kesişim Noktası*
+Yazılım temelimi donanım uzmanlığıyla pekiştirmek için EEE disiplinine geçiş yaptım. Görev kritik sistemlerin hem yazılımsal hem de donanımsal mimari direncini artırmaya odaklanıyorum.
+- **Felsefe**: "Güvenli Tasarım" (Security by Design) ilkeleri gereği siber güvenliği geliştirme yaşam döngüsünün tam merkezine yerleştiriyorum.
+- **Hedef**: Geleceğin ölçeklenebilir sistem mimarilerini (Scalable System Architect) hem silikon seviyesinde hem de yüksek seviyeli AI katmanında inşa etmek.
+
+### 2. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
+**🗓️ 2023 - 2026** | *Yazılım Mimarisi Temelleri*
+IT Architect ve sistem tasarımı yetkinliklerimin çekirdek katmanını oluşturduğum dönem. Modern DevOps, CI/CD ve yazılım yaşam döngüsü (SDLC) konularında derinlemesine pratik.
 
 ### 2. İstanbul Üniversitesi - Yönetim Bilişim Sistemleri
 **🗓️ 2025 - 2029** | *Hibrit Yönetici Katmanı (Executive Layer)*

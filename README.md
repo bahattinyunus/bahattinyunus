@@ -3,11 +3,11 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Systems%20Architect%20|%20Autonomous%20Logic%20Specialist&descAlignY=55&fontColor=ffffff&descSize=25&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Founder%20@%20Budak%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Design+High-Availability+Distributed+Systems;Implement+Mission-Critical+Autonomous+Stacks;Architect+Space-Grade+Edge+Computing+Solutions;Develop+Next-Gen+Aerospace+AI;Engineering+Complexity+into+Simplicity" alt="Elite Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Founder+@+Budak+|+Edge-AI+Optimization;Lead+Researcher+@+Meta-Engineering+Research+Lab;Mission-Critical+Autonomous+Logic+Specialist;Electrical+and+Electronics+Engineering+Student;Security+by+Design+Architect" alt="Elite Typing SVG" />
   </p>
 
   <p>
@@ -22,9 +22,9 @@
 
 ### 🖋️ Technical Executive Summary
 
-> **Systems Architect** specialist at the nexus of **Autonomous Robotics**, **Edge Intelligence**, and **Mission-Critical Systems**. My engineering doctrine is rooted in "Nizam & Tertib" (Analytical Order & Systematic Arrangement) — the art of distilling extreme complexity into resilient, scalable, and high-integrity architectures.
+> **Founder @ Budak** & **Lead Researcher @ MERL**. I am an **Edge-AI Optimization Specialist** and **Electrical-Electronics Engineering (EEE)** student at the nexus of **Autonomous Robotics**, **Embedded Hardware**, and **On-Premise Artificial Intelligence**. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
 >
-> I architect end-to-end solutions for high-stakes environments, spanning from **Aerospace Flight Software (NASA-cFS)** to **Lunar Surface Navigation Stacks (ROS2/EKF)**. Driven by a commitment to telemetry precision and architectural elegance, I build autonomous ecosystems where absolute reliability is the baseline, not the goal.
+> I architect end-to-end solutions for high-stakes environments, spanning from **Lunar Surface Navigation Stacks (ROS2/EKF)** to **Edge-AI Model Optimization (Quantization/Pruning)**. Driven by a commitment to architectural resilience and hardware-software synergy, I build autonomous ecosystems where absolute reliability is the baseline, not the goal.
 
 
 
@@ -59,14 +59,14 @@
 
 <div align="center">
 
-| Initiative | System Focus | Technological Core | Operational Health |
+| Initiatives (2026) | System Focus | Technological Core | Operational Health |
 | :--- | :--- | :--- | :--- |
 | **[AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture)** | Deep Space Biosignal | `Swarm AI` `Edge Computing` | 🟢 **Active** |
-| **[Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture)** | LEO Earth Observation | `NASA-cFS` `Aethel-Class` | 🟢 **Nominal** |
-| **[RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat)** | Mars Autonomous Habitat | `Habitat-OS` `Swarm Logic` | 🟡 **Iterating** |
-| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Lunar Surface Navigation | `ROS2` `EKF` `Slam Toolbox` | 🟢 **Full Deploy** |
-| **[Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon)** | Orbital Docking Systems | `CW-Dynamics` `Orbital Shield` | 🟢 **Verified** |
-| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `Data Analytics` | 🟢 **Production** |
+| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Lunar Surface Navigation | `ROS2` `EKF` `Slam Toolbox` | 🟢 **Nominal** |
+| **[MilliHaklar](https://github.com/arch-yunus/MilliHaklar-UzayHukuku)** | Space Law Legal-Tech | `SSA Data` `Legal-AI` | 🟢 **Deployed** |
+| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `SEU Repair` | 🟢 **Production** |
+| **[Aura-Hockey-AR](https://github.com/arch-yunus/Aura-Hockey-AR)** | Hand-Tracking 3D Game | `MediaPipe` `Three.js` | 🟢 **Verified** |
+| **[TurkSpace-Platform](https://github.com/arch-yunus/TurkSpace-Platform)** | SpaaS Ecosystem | `Space Data` `Dashboard` | 🟢 **Nominal** |
 
 </div>
 
@@ -194,8 +194,8 @@
 <summary><b>📜 Comprehensive Credential Archive (140+)</b></summary>
 <br />
 
-| Date | Credential | Issuer | ID |
-| :--- | :--- | :--- | :--- |
+| Apr 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
+| Apr 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
 | Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |
 | Mar 2026 | TS EN 50600 Veri Merkezi Tesisleri ve Altyapıları Standardı | BTK Akademi | mKEhkNWJ6X |
@@ -364,9 +364,9 @@
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
-  <i>Systems Architect | Autonomous Logic Specialist</i><br>
+  <i>Founder @ Budak | AI Researcher & Edge-AI Developer</i><br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=400&height=30&lines=%5B%E2%97%8F%5D+Secure+Uplink+Active;%5B%E2%97%8F%5D+System+Integrity+Nominal;%5B%E2%97%8F%5D+Monitoring+Live+Telemetry...;%5B%E2%97%8F%5D+Awaiting+Next+Command..." alt="Live Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=400&height=30&lines=%5B%E2%97%8F%5D+Budak+Edge-AI+Link+Active;%5B%E2%97%8F%5D+EEE+Hybrid+Stack+Nominal;%5B%E2%97%8F%5D+MERL+Research+Live;%5B%E2%97%8F%5D+Awaiting+Next+Command..." alt="Live Telemetry" />
   <br>
   <small>© 2026 — Built with Precision & Intent</small>
 </div>

@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Devletin temeli adalettir. - Hz. Ömer”*
+> *“Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan”*
 
-- **System Strategy**: Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu
-- **Operational Integrity**: Kaosun içinde fırsat yatar. - Sun Tzu
-- **Architectural Vision**: İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali
-- **Logic & Reason**: Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev
+- **System Strategy**: Çok çalışmak, dehanın yarısıdır. - Aziz Sancar
+- **Operational Integrity**: Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna
+- **Architectural Vision**: Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu
+- **Logic & Reason**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
 <!-- END_QUOTE -->
 
 ---

@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan”*
+> *“Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates”*
 
-- **System Strategy**: Çok çalışmak, dehanın yarısıdır. - Aziz Sancar
-- **Operational Integrity**: Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna
-- **Architectural Vision**: Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu
-- **Logic & Reason**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
+- **System Strategy**: Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci
+- **Operational Integrity**: Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali
+- **Architectural Vision**: Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer
+- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

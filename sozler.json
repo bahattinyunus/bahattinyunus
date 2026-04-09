@@ -29,7 +29,7 @@
     },
     {
         "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
@@ -49,7 +49,7 @@
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
@@ -169,7 +169,7 @@
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -185,7 +185,7 @@
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
@@ -377,7 +377,7 @@
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",

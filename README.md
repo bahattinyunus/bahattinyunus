@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=EEE%20Student%20%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20Student%20%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>

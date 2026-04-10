@@ -5,7 +5,7 @@
     },
     {
         "text": "Yapay zeka çağında o %1'lik elit kesimde kalmanın sırrı; dijital yazılımları, fiziksel dünya donanımıyla atölye masasında birleştirmektir. - B. Yunus Çetin",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
@@ -17,7 +17,7 @@
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
@@ -77,7 +77,7 @@
     },
     {
         "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-        "used": false
+        "used": true
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
@@ -109,7 +109,7 @@
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-        "used": false
+        "used": true
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
@@ -373,7 +373,7 @@
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",

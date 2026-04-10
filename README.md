@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates”*
+> *“Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat”*
 
-- **System Strategy**: Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci
-- **Operational Integrity**: Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali
-- **Architectural Vision**: Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer
-- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
+- **System Strategy**: En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles
+- **Operational Integrity**: Coğrafya kaderdir. - İbn Haldun
+- **Architectural Vision**: En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo
+- **Logic & Reason**: Yapay zeka çağında o %1'lik elit kesimde kalmanın sırrı; dijital yazılımları, fiziksel dünya donanımıyla atölye masasında birleştirmektir. - B. Yunus Çetin
 <!-- END_QUOTE -->
 
 ---

@@ -344,12 +344,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat”*
+> *“Zihin, ne ile beslenirse onunla büyür. - Cahit Arf”*
 
-- **System Strategy**: En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles
-- **Operational Integrity**: Coğrafya kaderdir. - İbn Haldun
-- **Architectural Vision**: En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo
-- **Logic & Reason**: Yapay zeka çağında o %1'lik elit kesimde kalmanın sırrı; dijital yazılımları, fiziksel dünya donanımıyla atölye masasında birleştirmektir. - B. Yunus Çetin
+- **System Strategy**: Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin
+- **Operational Integrity**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
+- **Architectural Vision**: Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf
+- **Logic & Reason**: Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet
 <!-- END_QUOTE -->
 
 ---

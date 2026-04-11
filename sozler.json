@@ -1,5 +1,4 @@
 [
-   
     {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
         "used": true
@@ -158,7 +157,7 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
@@ -210,11 +209,11 @@
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
@@ -322,7 +321,7 @@
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
@@ -330,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",

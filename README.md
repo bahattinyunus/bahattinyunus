@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Electrical%20and%20Electronics%20Engineering%20Student%20%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Industrial%20Engineering%20Student%20%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
@@ -19,13 +19,9 @@
 </div>
 
 ---
-
-### 🖋️ Technical Executive Summary
-
-> **Founder @ Budak** & **Lead Researcher @ MERL**. I am an **Edge-AI Optimization Specialist** and **Electrical-Electronics Engineering (EEE)** student at the nexus of **Autonomous Robotics**, **Embedded Hardware**, and **On-Premise Artificial Intelligence**. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
+> **Founder @ Budak** & **Lead Researcher @ MERL**. I am an **Edge-AI Optimization Specialist** and **Industrial Engineering ** student at the nexus of **Autonomous Robotics**, **Embedded Hardware**, and **On-Premise Artificial Intelligence**. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
 >
 > I architect end-to-end solutions for high-stakes environments, spanning from **Lunar Surface Navigation Stacks (ROS2/EKF)** to **Edge-AI Model Optimization (Quantization/Pruning)**. Driven by a commitment to architectural resilience and hardware-software synergy, I build autonomous ecosystems where absolute reliability is the baseline, not the goal.
-
 
 
 <div align="center">

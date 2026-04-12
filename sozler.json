@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -73,7 +73,7 @@
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
-        "used": false
+        "used": true
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
@@ -85,7 +85,7 @@
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
@@ -97,7 +97,7 @@
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -117,7 +117,7 @@
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
-        "used": false
+        "used": true
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",

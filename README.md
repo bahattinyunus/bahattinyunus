@@ -347,12 +347,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Zihin, ne ile beslenirse onunla büyür. - Cahit Arf”*
+> *“Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk”*
 
-- **System Strategy**: Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin
-- **Operational Integrity**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
-- **Architectural Vision**: Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf
-- **Logic & Reason**: Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet
+- **System Strategy**: İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali
+- **Operational Integrity**: Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî
+- **Architectural Vision**: Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa
+- **Logic & Reason**: Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

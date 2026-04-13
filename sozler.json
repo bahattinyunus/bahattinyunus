@@ -133,7 +133,7 @@
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
@@ -237,7 +237,7 @@
     },
     {
         "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
-        "used": false
+        "used": true
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
@@ -265,7 +265,7 @@
     },
     {
         "text": "İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Çok çalışmak, dehanın yarısıdır. - Aziz Sancar",
@@ -297,7 +297,7 @@
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",
@@ -341,7 +341,7 @@
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
-        "used": false
+        "used": true
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",

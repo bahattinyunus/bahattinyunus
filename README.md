@@ -347,12 +347,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar”*
+> *“Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi”*
 
-- **System Strategy**: Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp
-- **Operational Integrity**: En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs
-- **Architectural Vision**: Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali
-- **Logic & Reason**: Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper
+- **System Strategy**: Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek
+- **Operational Integrity**: Hayal gücü, bilgiden daha önemlidir. - Albert Einstein
+- **Architectural Vision**: Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein
+- **Logic & Reason**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
 <!-- END_QUOTE -->
 
 ---

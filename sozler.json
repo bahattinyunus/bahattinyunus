@@ -121,7 +121,7 @@
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
-        "used": false
+        "used": true
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
@@ -253,7 +253,7 @@
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
-        "used": false
+        "used": true
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
@@ -289,7 +289,7 @@
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
@@ -301,11 +301,11 @@
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Hayal gücü, bilgiden daha önemlidir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",

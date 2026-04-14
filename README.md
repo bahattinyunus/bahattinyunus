@@ -21,14 +21,14 @@
 ---
 # Professional Profile
 
-> **Founder @ Budak** & **Lead Researcher @ MERL**
-> **Edge-AI Optimization Specialist | Industrial Engineering Student**
+Founder @ Budak & Lead Researcher @ MERL
+Edge-AI Optimization Specialist | Electrical-Electronics Engineering Student
 
-I am an **Edge-AI Optimization Specialist** and **Industrial Engineering** student operating at the strategic nexus of **Autonomous Robotics**, **System Efficiency**, and **On-Premise Artificial Intelligence**. My engineering doctrine is rooted in **"Security by Design"** — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
+I am an Edge-AI Optimization Specialist and Electrical-Electronics Engineering student operating at the strategic nexus of Autonomous Robotics, Hardware-Software Co-design, and On-Premise Artificial Intelligence. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
 
-I architect end-to-end solutions for high-stakes environments, spanning from **Lunar Surface Navigation Stacks (ROS2/EKF)** to **Industrial AI Lifecycle Optimization (Quantization/Pruning)**. By merging the algorithmic rigor of AI with the systems-thinking approach of Industrial Engineering, I build autonomous ecosystems where absolute reliability and operational efficiency are the baseline, not the goal. 
+I architect end-to-end solutions for high-stakes environments, spanning from Lunar Surface Navigation Stacks (ROS2/EKF) to Industrial AI Lifecycle Optimization (Quantization/Pruning). By merging the algorithmic rigor of AI with the deep hardware insights of Electrical-Electronics Engineering, I build autonomous ecosystems where absolute reliability and operational efficiency are the baseline, not the goal.
 
-I am committed to engineering the future of scalable, hardware-aware intelligent systems through the lens of **System Architecture** and **Mathematical Optimization**.
+I am committed to engineering the future of scalable, hardware-aware intelligent systems through the lens of Embedded Systems, Signal Processing, and Mathematical Optimization.
 
 
 <div align="center">

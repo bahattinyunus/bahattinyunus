@@ -153,7 +153,7 @@
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
@@ -285,7 +285,7 @@
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
@@ -317,7 +317,7 @@
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
@@ -337,7 +337,7 @@
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
-        "used": false
+        "used": true
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
@@ -373,6 +373,6 @@
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     }
 ]

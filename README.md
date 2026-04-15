@@ -347,12 +347,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi”*
+> *“Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç”*
 
-- **System Strategy**: Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek
-- **Operational Integrity**: Hayal gücü, bilgiden daha önemlidir. - Albert Einstein
-- **Architectural Vision**: Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein
-- **Logic & Reason**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
+- **System Strategy**: Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein
+- **Operational Integrity**: Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi
+- **Architectural Vision**: İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek
+- **Logic & Reason**: Mağluplar galipleri taklit ederler. - İbn Haldun
 <!-- END_QUOTE -->
 
 ---

@@ -197,6 +197,8 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <summary><b>📜 Comprehensive Credential Archive (140+)</b></summary>
 <br />
 
+| Tarih | Eğitim / Sertifika | Kurum | Doğrulama Kodu |
+| :--- | :--- | :--- | :--- |
 | Apr 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
 | Apr 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |

@@ -349,12 +349,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali”*
+> *“Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk”*
 
-- **System Strategy**: Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi
-- **Operational Integrity**: Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş
-- **Architectural Vision**: Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil
-- **Logic & Reason**: Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat
+- **System Strategy**: Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna
+- **Operational Integrity**: Bilgi güçtür. - Francis Bacon
+- **Architectural Vision**: Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer
+- **Logic & Reason**: Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun
 <!-- END_QUOTE -->
 
 ---

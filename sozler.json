@@ -81,11 +81,11 @@
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
@@ -93,7 +93,7 @@
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
@@ -189,7 +189,7 @@
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
-        "used": false
+        "used": true
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
@@ -369,7 +369,7 @@
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",

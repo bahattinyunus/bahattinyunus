@@ -349,12 +349,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk”*
+> *“Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius”*
 
-- **System Strategy**: Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna
-- **Operational Integrity**: Bilgi güçtür. - Francis Bacon
-- **Architectural Vision**: Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer
-- **Logic & Reason**: Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun
+- **System Strategy**: İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet
+- **Operational Integrity**: İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles
+- **Architectural Vision**: Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan
+- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

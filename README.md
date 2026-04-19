@@ -349,12 +349,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius”*
+> *“Geçmişin hatası, geleceğin rehberidir. - Gazali”*
 
-- **System Strategy**: İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet
-- **Operational Integrity**: İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles
-- **Architectural Vision**: Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan
-- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
+- **System Strategy**: Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî
+- **Operational Integrity**: Çok çalışmak, dehanın yarısıdır. - Aziz Sancar
+- **Architectural Vision**: Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet
+- **Logic & Reason**: Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci
 <!-- END_QUOTE -->
 
 ---

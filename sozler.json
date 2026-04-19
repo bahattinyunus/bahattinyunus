@@ -117,7 +117,7 @@
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
-        "used": false
+        "used": true
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
@@ -157,11 +157,11 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -205,7 +205,7 @@
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
@@ -269,7 +269,7 @@
     },
     {
         "text": "Çok çalışmak, dehanın yarısıdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",

@@ -1,19 +1,11 @@
 [
     {
-        "text": "Mühendislik bir unvan değil, bir reflekstir. - B. Yunus Çetin",
-        "used": false
-    },
-    {
-        "text": "Yapay zeka çağında o %1'lik elit kesimde kalmanın sırrı; dijital yazılımları, fiziksel dünya donanımıyla atölye masasında birleştirmektir. - B. Yunus Çetin",
-        "used": false
-    },
-    {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
-        "used": true
+        "used": false
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
-        "used": true
+        "used": false
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
@@ -25,19 +17,19 @@
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
-        "used": true
-    },
-    {
-        "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
         "used": false
     },
     {
-        "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
+        "text": "En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu",
         "used": true
     },
     {
+        "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
+        "used": false
+    },
+    {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-        "used": true
+        "used": false
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
@@ -45,7 +37,7 @@
     },
     {
         "text": "Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon",
-        "used": true
+        "used": false
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
@@ -53,7 +45,7 @@
     },
     {
         "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
-        "used": true
+        "used": false
     },
     {
         "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
@@ -61,23 +53,23 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": true
+        "used": false
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
-        "used": true
+        "used": false
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-        "used": true
+        "used": false
     },
     {
         "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
-        "used": true
+        "used": false
     },
     {
         "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-        "used": false
+        "used": true
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
@@ -85,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": true
+        "used": false
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -93,15 +85,15 @@
     },
     {
         "text": "Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk",
-        "used": false
-    },
-    {
-        "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
         "used": true
     },
     {
-        "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
+        "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
         "used": false
+    },
+    {
+        "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
+        "used": true
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
@@ -117,15 +109,15 @@
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
-        "used": true
+        "used": false
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": true
+        "used": false
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
-        "used": false
+        "used": true
     },
     {
         "text": "Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin",
@@ -133,11 +125,11 @@
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-        "used": true
+        "used": false
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": true
+        "used": false
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
@@ -145,19 +137,19 @@
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
-        "used": true
+        "used": false
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-        "used": true
+        "used": false
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": true
+        "used": false
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-        "used": true
+        "used": false
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
@@ -165,23 +157,23 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
-        "used": true
+        "used": false
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
-        "used": true
+        "used": false
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
-        "used": true
+        "used": false
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
@@ -189,11 +181,11 @@
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
-        "used": true
+        "used": false
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
-        "used": true
+        "used": false
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
@@ -205,11 +197,11 @@
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
-        "used": true
+        "used": false
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": true
+        "used": false
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
@@ -229,7 +221,7 @@
     },
     {
         "text": "Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna",
-        "used": true
+        "used": false
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
@@ -241,7 +233,7 @@
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
-        "used": true
+        "used": false
     },
     {
         "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
@@ -249,7 +241,7 @@
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
-        "used": true
+        "used": false
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
@@ -257,11 +249,11 @@
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
-        "used": true
+        "used": false
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
-        "used": false
+        "used": true
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
@@ -285,15 +277,15 @@
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",
-        "used": true
+        "used": false
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
-        "used": true
+        "used": false
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
@@ -301,7 +293,7 @@
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
-        "used": true
+        "used": false
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
@@ -317,11 +309,11 @@
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
-        "used": true
+        "used": false
     },
     {
         "text": "Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein",
-        "used": true
+        "used": false
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
@@ -333,7 +325,7 @@
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
-        "used": true
+        "used": false
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
@@ -341,7 +333,7 @@
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",
-        "used": true
+        "used": false
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
@@ -353,23 +345,23 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": true
+        "used": false
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
-        "used": true
+        "used": false
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
-        "used": true
+        "used": false
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",
-        "used": true
+        "used": false
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",
-        "used": true
+        "used": false
     },
     {
         "text": "En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles",
@@ -377,7 +369,7 @@
     },
     {
         "text": "Dostu olmayan bir insan, bir kolu olmayan bir insana benzer. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",

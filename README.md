@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Founder%20@%20Budak%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Industrial%20Engineer%20%20|%20AI%20Researcher%20&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/arch-yunus"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Interface-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,13 +19,16 @@
 </div>
 
 ---
+# Professional Profile
 
-### 🖋️ Technical Executive Summary
+Founder @ Budak & Lead Researcher @ MERL
+Edge-AI Optimization Specialist | Electrical-Electronics Engineering Student
 
-> **Founder @ Budak** & **Lead Researcher @ MERL**. I am an **Edge-AI Optimization Specialist** and **Electrical-Electronics Engineering (EEE)** student at the nexus of **Autonomous Robotics**, **Embedded Hardware**, and **On-Premise Artificial Intelligence**. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
->
-> I architect end-to-end solutions for high-stakes environments, spanning from **Lunar Surface Navigation Stacks (ROS2/EKF)** to **Edge-AI Model Optimization (Quantization/Pruning)**. Driven by a commitment to architectural resilience and hardware-software synergy, I build autonomous ecosystems where absolute reliability is the baseline, not the goal.
+I am an Edge-AI Optimization Specialist and Electrical-Electronics Engineering student operating at the strategic nexus of Autonomous Robotics, Hardware-Software Co-design, and On-Premise Artificial Intelligence. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
 
+I architect end-to-end solutions for high-stakes environments, spanning from Lunar Surface Navigation Stacks (ROS2/EKF) to Industrial AI Lifecycle Optimization (Quantization/Pruning). By merging the algorithmic rigor of AI with the deep hardware insights of Electrical-Electronics Engineering, I build autonomous ecosystems where absolute reliability and operational efficiency are the baseline, not the goal.
+
+I am committed to engineering the future of scalable, hardware-aware intelligent systems through the lens of Embedded Systems, Signal Processing, and Mathematical Optimization.
 
 
 <div align="center">
@@ -357,12 +360,12 @@
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan”*
+> *“İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek”*
 
-- **System Strategy**: Çok çalışmak, dehanın yarısıdır. - Aziz Sancar
-- **Operational Integrity**: Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna
-- **Architectural Vision**: Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu
-- **Logic & Reason**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
+- **System Strategy**: Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina
+- **Operational Integrity**: Hatalar, keşfin kapılarıdır. - James Joyce
+- **Architectural Vision**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
+- **Logic & Reason**: Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar
 <!-- END_QUOTE -->
 
 ---

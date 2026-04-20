@@ -349,12 +349,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Geçmişin hatası, geleceğin rehberidir. - Gazali”*
+> *“İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek”*
 
-- **System Strategy**: Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî
-- **Operational Integrity**: Çok çalışmak, dehanın yarısıdır. - Aziz Sancar
-- **Architectural Vision**: Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet
-- **Logic & Reason**: Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci
+- **System Strategy**: Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina
+- **Operational Integrity**: Hatalar, keşfin kapılarıdır. - James Joyce
+- **Architectural Vision**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
+- **Logic & Reason**: Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar
 <!-- END_QUOTE -->
 
 ---

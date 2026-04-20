@@ -185,15 +185,28 @@
 ## 🎓 Domain Certifications & Advanced Training
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certification_Inventory-140%2B-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certification_Inventory-150%2B-00d4ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-00e676?style=for-the-badge&logoColor=white" />
 </div>
 
 <details>
-<summary><b>📜 Comprehensive Credential Archive (140+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (150+)</b></summary>
 <br />
 
+| Date | Certification Name | Institution | Credential ID |
+| :--- | :--- | :--- | :--- |
+| Apr 2026 | Dijital Okuryazarlık | BTK Akademi | w92KSm8LyqD |
+| Apr 2026 | Vatandaşlık Okuryazarlığı | BTK Akademi | N28vfnvx6yl |
+| Apr 2026 | Veri Okuryazarlığı | BTK Akademi | qEgjTeL4MVk |
+| Apr 2026 | Kültür Okuryazarlığı | BTK Akademi | YEmkT8mnMwK |
+| Apr 2026 | Sürdürülebilirlik Okuryazarlığı | BTK Akademi | eAxetO6aZeX |
+| Apr 2026 | Karadeniz Bilişim Zirvesi KBZ'26 | KTÜ Yönetim Bilişim Sistemleri Kulübü | — |
+| Apr 2026 | Microsoft 365 Copilot ve Office Uygulamaları | BTK Akademi | MAZUEAVVxy |
+| Apr 2026 | Mobil Güvenlik ve Sızma Teknikleri | BTK Akademi | lK1hwX9ELb |
+| Apr 2026 | Web Tabanlı Coğrafi Bilgi Sistemleri | BTK Akademi | dx1hlM8eWG |
+| Apr 2026 | Ford Otosan Kariyer ve Gelişim Haftası | Ford Otosan | — |
+| Apr 2026 | Nesnelerin İnterneti (IoT) ve Güvenliği | BTK Akademi | XV1hWjGjJn |
 | Apr 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
 | Apr 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
@@ -366,14 +379,14 @@
   <b>Bahattin Yunus ÇETİN</b><br>
   <i>Founder @ Budak | AI Researcher & Edge-AI Developer</i><br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=400&height=30&lines=%5B%E2%97%8F%5D+Budak+Edge-AI+Link+Active;%5B%E2%97%8F%5D+EEE+Hybrid+Stack+Nominal;%5B%E2%97%8F%5D+MERL+Research+Live;%5B%E2%97%8F%5D+Awaiting+Next+Command..." alt="Live Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Dijital+Seyyah%3A+Active+%2F+Mobile;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
   <br>
   <small>© 2026 — Built with Precision & Intent</small>
 </div>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=kfEnygJcfxM" target="_blank">
-    <img src="assets/military_steppe_rustbucket.png" width="100%" alt="Visual Telemetry Banner" />
+    <img src="assets/vanlife_live_banner.png" width="100%" alt="Visual Telemetry Banner" />
   </a>
 </div>
 

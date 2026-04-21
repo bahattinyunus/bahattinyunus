@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek”*
+> *“Engelin kendisi, yolun kendisi olur. - Marcus Aurelius”*
 
-- **System Strategy**: Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina
-- **Operational Integrity**: Hatalar, keşfin kapılarıdır. - James Joyce
-- **Architectural Vision**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
-- **Logic & Reason**: Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar
+- **System Strategy**: Mağluplar galipleri taklit ederler. - İbn Haldun
+- **Operational Integrity**: Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf
+- **Architectural Vision**: Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu
+- **Logic & Reason**: Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin
 <!-- END_QUOTE -->
 
 ---

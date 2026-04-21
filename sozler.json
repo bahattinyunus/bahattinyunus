@@ -57,7 +57,7 @@
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
@@ -97,7 +97,7 @@
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -153,7 +153,7 @@
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
@@ -213,7 +213,7 @@
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
@@ -329,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",

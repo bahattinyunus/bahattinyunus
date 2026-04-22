@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Engelin kendisi, yolun kendisi olur. - Marcus Aurelius”*
+> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
 
-- **System Strategy**: Mağluplar galipleri taklit ederler. - İbn Haldun
-- **Operational Integrity**: Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf
-- **Architectural Vision**: Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu
-- **Logic & Reason**: Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin
+- **System Strategy**: Coğrafya kaderdir. - İbn Haldun
+- **Operational Integrity**: Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn
+- **Architectural Vision**: Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein
+- **Logic & Reason**: Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp
 <!-- END_QUOTE -->
 
 ---

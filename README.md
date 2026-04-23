@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
+> *“Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper”*
 
-- **System Strategy**: Coğrafya kaderdir. - İbn Haldun
-- **Operational Integrity**: Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn
-- **Architectural Vision**: Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein
-- **Logic & Reason**: Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp
+- **System Strategy**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
+- **Operational Integrity**: Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali
+- **Architectural Vision**: Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun
+- **Logic & Reason**: Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali
 <!-- END_QUOTE -->
 
 ---

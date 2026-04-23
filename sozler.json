@@ -41,7 +41,7 @@
     },
     {
         "text": "Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
@@ -149,7 +149,7 @@
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
@@ -201,7 +201,7 @@
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
@@ -321,7 +321,7 @@
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
@@ -341,7 +341,7 @@
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
-        "used": false
+        "used": true
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",

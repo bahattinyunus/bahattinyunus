@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper”*
+> *“Devletin temeli adalettir. - Hz. Ömer”*
 
-- **System Strategy**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
-- **Operational Integrity**: Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali
-- **Architectural Vision**: Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun
-- **Logic & Reason**: Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali
+- **System Strategy**: Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid
+- **Operational Integrity**: İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani
+- **Architectural Vision**: Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche
+- **Logic & Reason**: Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius
 <!-- END_QUOTE -->
 
 ---

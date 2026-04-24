@@ -25,7 +25,7 @@
     },
     {
         "text": "Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
@@ -45,7 +45,7 @@
     },
     {
         "text": "İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
@@ -181,7 +181,7 @@
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
-        "used": false
+        "used": true
     },
     {
         "text": "Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry",
@@ -249,7 +249,7 @@
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir devletin yıkılışı, adalet mefhumunun sarsılmasıyla başlar. - Kınalızade Ali Efendi",
@@ -353,7 +353,7 @@
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
-        "used": false
+        "used": true
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",

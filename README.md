@@ -388,8 +388,7 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=kfEnygJcfxM" target="_blank">
+  <a href="https://youtu.be/sXDQjXv-sEQ?si=_gMV-sAlP8QYI5VJ" target="_blank">
     <img src="assets/vanlife_live_banner.png" width="100%" alt="Visual Telemetry Banner" />
   </a>
 </div>
-

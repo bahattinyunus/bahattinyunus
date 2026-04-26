@@ -1,7 +1,7 @@
 [
     {
         "text": "Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu",
@@ -129,7 +129,7 @@
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
-        "used": false
+        "used": true
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
@@ -293,7 +293,7 @@
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",
-        "used": false
+        "used": true
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
@@ -305,7 +305,7 @@
     },
     {
         "text": "Hayal gücü, bilgiden daha önemlidir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
@@ -317,7 +317,7 @@
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",

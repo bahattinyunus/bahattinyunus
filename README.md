@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali”*
+> *“Hayal gücü, bilgiden daha önemlidir. - Albert Einstein”*
 
-- **System Strategy**: Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu
-- **Operational Integrity**: Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız
-- **Architectural Vision**: Kaosun içinde fırsat yatar. - Sun Tzu
-- **Logic & Reason**: Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon
+- **System Strategy**: Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet
+- **Operational Integrity**: Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev
+- **Architectural Vision**: Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein
+- **Logic & Reason**: Düşünüyorum, öyleyse varım. - Rene Descartes
 <!-- END_QUOTE -->
 
 ---

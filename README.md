@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Hayal gücü, bilgiden daha önemlidir. - Albert Einstein”*
+> *“En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles”*
 
-- **System Strategy**: Ya ben İstanbul'u alırım, ya İstanbul beni. - Fatih Sultan Mehmet
-- **Operational Integrity**: Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev
-- **Architectural Vision**: Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein
-- **Logic & Reason**: Düşünüyorum, öyleyse varım. - Rene Descartes
+- **System Strategy**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
+- **Operational Integrity**: Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell
+- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
+- **Logic & Reason**: Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe
 <!-- END_QUOTE -->
 
 ---

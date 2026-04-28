@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles”*
+> *“Zihin, ne ile beslenirse onunla büyür. - Cahit Arf”*
 
-- **System Strategy**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
-- **Operational Integrity**: Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell
-- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
-- **Logic & Reason**: Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe
+- **System Strategy**: Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin
+- **Operational Integrity**: Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi
+- **Architectural Vision**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
+- **Logic & Reason**: En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs
 <!-- END_QUOTE -->
 
 ---

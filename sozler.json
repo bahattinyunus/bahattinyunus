@@ -145,7 +145,7 @@
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun",
@@ -209,7 +209,7 @@
     },
     {
         "text": "Zihin, ne ile beslenirse onunla büyür. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
@@ -297,7 +297,7 @@
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",
@@ -325,7 +325,7 @@
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
@@ -337,7 +337,7 @@
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
-        "used": false
+        "used": true
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",

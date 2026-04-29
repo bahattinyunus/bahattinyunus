@@ -3,17 +3,18 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=Industrial%20Engineer%20%20|%20AI%20Researcher%20|%20Edge-AI%20Developer&%20Edge-AI%20Developer%20|%20EEE%20Student&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20UAV%20Technician%20%7C%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Founder+@+Budak+|+Edge-AI+Optimization;Lead+Researcher+@+Meta-Engineering+Research+Lab;Mission-Critical+Autonomous+Logic+Specialist;Electrical+and+Electronics+Engineering+Student;Security+by+Design+Architect" alt="Elite Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=AI+Developer+%26+UAV+Technician;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Interface-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
@@ -21,14 +22,17 @@
 ---
 # Professional Profile
 
-Founder @ Budak & Lead Researcher @ MERL
-Edge-AI Optimization Specialist | Electrical-Electronics Engineering Student
 
-I am an Edge-AI Optimization Specialist and Electrical-Electronics Engineering student operating at the strategic nexus of Autonomous Robotics, Hardware-Software Co-design, and On-Premise Artificial Intelligence. My engineering doctrine is rooted in "Security by Design" — the art of distilling extreme complexity into resilient, scalable, and mission-critical architectures.
 
-I architect end-to-end solutions for high-stakes environments, spanning from Lunar Surface Navigation Stacks (ROS2/EKF) to Industrial AI Lifecycle Optimization (Quantization/Pruning). By merging the algorithmic rigor of AI with the deep hardware insights of Electrical-Electronics Engineering, I build autonomous ecosystems where absolute reliability and operational efficiency are the baseline, not the goal.
+AI Developer & UAV Technician | ROS2, C++, Embedded Systems | Hardware-Software Integration | Epistemic Technology Philosophy
 
-I am committed to engineering the future of scalable, hardware-aware intelligent systems through the lens of Embedded Systems, Signal Processing, and Mathematical Optimization.
+My software journey began in August 2023 with the relentless discipline of a self-taught developer. In an era where the AI revolution is rapidly reshaping white-collar roles, I firmly believe the future belongs to the "new-collar" workforce—those who bridge the gap between digital code and the physical world. Driven by this vision, I am grounding my software foundation in hands-on Unmanned Aerial Vehicle (UAV) Technology and Operations.
+
+My work centers on Autonomous Systems (ROS2) and Large Language Model (LLM) architectures, dealing directly with real-time (RTOS) robotic control systems, embedded hardware, and on-premise AI models. I build my technical expertise on a hybrid stack of Python (PyTorch/TensorFlow) and C++ (17/20), but I go beyond the screen: I embrace the blue-collar reality of physically building, integrating, and troubleshooting the hardware systems myself.
+
+By combining the analytical mind of a self-taught coder with the grit and field discipline of a technician, I solve mission-critical problems in the Defense and Autonomous Vehicle sectors. I am not just designing systems behind a desk; I am a hands-on technology builder who writes the code, turns the wrench, and operates the system in the field.
+
+
 
 
 <div align="center">

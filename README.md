@@ -70,6 +70,8 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 | **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `SEU Repair` | 🟢 **Production** |
 | **[Aura-Hockey-AR](https://github.com/arch-yunus/Aura-Hockey-AR)** | Hand-Tracking 3D Game | `MediaPipe` `Three.js` | 🟢 **Verified** |
 | **[TurkSpace-Platform](https://github.com/arch-yunus/TurkSpace-Platform)** | SpaaS Ecosystem | `Space Data` `Dashboard` | 🟢 **Nominal** |
+| **[KIZILELMA-H](KIZILELMA_H_SPEC.md)** | Hybrid Submersible Aircraft | `Egemen-AI` `Amphibious` | 🔵 **Conceptual** |
+| **[SUNGUR-OMNI](SUNGUR_OMNI_SPEC.md)** | Trans-Domain Platform (Sea/Land/Space) | `Omni-AI` `Tri-Propulsion` | 🟣 **Visionary** |
 
 </div>
 
@@ -389,6 +391,6 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 
 <div align="center">
   <a href="https://youtu.be/sXDQjXv-sEQ?si=_gMV-sAlP8QYI5VJ" target="_blank">
-    <img src="assets/vanlife_live_banner.png" width="100%" alt="Visual Telemetry Banner" />
+    <img src="assets/auv_kizilelma_banner.png" width="100%" alt="Kızılelma AUV Tactical Banner" />
   </a>
 </div>

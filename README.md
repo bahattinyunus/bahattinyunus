@@ -360,12 +360,12 @@ I am committed to engineering the future of scalable, hardware-aware intelligent
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Zihin, ne ile beslenirse onunla büyür. - Cahit Arf”*
+> *“En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo”*
 
-- **System Strategy**: Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin
-- **Operational Integrity**: Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi
-- **Architectural Vision**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
-- **Logic & Reason**: En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs
+- **System Strategy**: Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç
+- **Operational Integrity**: Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry
+- **Architectural Vision**: Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna
+- **Logic & Reason**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
 <!-- END_QUOTE -->
 
 ---

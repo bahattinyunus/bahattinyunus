@@ -366,12 +366,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo”*
+> *“İnsanları tanıyan yalnızlaşır. - Hz. Ali”*
 
-- **System Strategy**: Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç
-- **Operational Integrity**: Mükemmellik ekleyecek bir şey kalmadığında değil, çıkaracak bir şey kalmadığında elde edilir. - Antoine de Saint-Exupéry
-- **Architectural Vision**: Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna
-- **Logic & Reason**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
+- **System Strategy**: Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates
+- **Operational Integrity**: Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt
+- **Architectural Vision**: Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu
+- **Logic & Reason**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
 <!-- END_QUOTE -->
 
 ---

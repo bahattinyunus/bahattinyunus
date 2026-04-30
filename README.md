@@ -1,8 +1,13 @@
 <a id="top"></a>
 
-
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pm7efI9RAfc" target="_blank">
+    <img src="https://img.youtube.com/vi/iWBncUynmf8/maxresdefault.jpg" width="100%" alt="Video Link" />
+  </a>
+</div>
 
 <div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20UAV%20Technician%20%7C%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 

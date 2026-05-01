@@ -53,7 +53,7 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
@@ -61,7 +61,7 @@
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç",
@@ -73,7 +73,7 @@
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
-        "used": false
+        "used": true
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
@@ -113,7 +113,7 @@
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî",
@@ -289,7 +289,7 @@
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşünüyorum, öyleyse varım. - Rene Descartes",

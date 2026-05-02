@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pm7efI9RAfc" target="_blank">
-    <img src="https://img.youtube.com/vi/iWBncUynmf8/maxresdefault.jpg" width="100%" alt="Video Link" />
+    <img src="assets/mythology_eagle_banner.png" width="100%" alt="Turkish Mythology Cyber Eagle Banner" />
   </a>
 </div>
 

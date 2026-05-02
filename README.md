@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pm7efI9RAfc" target="_blank">
-    <img src="assets/mythology_eagle_banner.png" width="100%" alt="Turkish Mythology Cyber Eagle Banner" />
+    <img src="https://img.youtube.com/vi/iWBncUynmf8/maxresdefault.jpg" width="100%" alt="Video Link" />
   </a>
 </div>
 
@@ -371,12 +371,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker”*
+> *“İnsanları tanıyan yalnızlaşır. - Hz. Ali”*
 
-- **System Strategy**: Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei
-- **Operational Integrity**: Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali
-- **Architectural Vision**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
-- **Logic & Reason**: Kader, gayrete aşıktır. - Yunus Emre
+- **System Strategy**: Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates
+- **Operational Integrity**: Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt
+- **Architectural Vision**: Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu
+- **Logic & Reason**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
 <!-- END_QUOTE -->
 
 ---
@@ -400,6 +400,6 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 
 <div align="center">
   <a href="https://youtu.be/sXDQjXv-sEQ?si=_gMV-sAlP8QYI5VJ" target="_blank">
-    <img src="assets/auv_kizilelma_banner.png" width="100%" alt="Kızılelma AUV Tactical Banner" />
+    <img src="assets/mythology_eagle_banner.png" width="100%" alt="Turkish Mythology Cyber Eagle Banner" />
   </a>
 </div>

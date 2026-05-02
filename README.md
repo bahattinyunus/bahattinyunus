@@ -371,12 +371,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu”*
+> *“Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker”*
 
-- **System Strategy**: Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa
-- **Operational Integrity**: Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani
-- **Architectural Vision**: Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu
-- **Logic & Reason**: Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek
+- **System Strategy**: Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei
+- **Operational Integrity**: Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali
+- **Architectural Vision**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
+- **Logic & Reason**: Kader, gayrete aşıktır. - Yunus Emre
 <!-- END_QUOTE -->
 
 ---

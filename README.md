@@ -371,12 +371,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İnsanları tanıyan yalnızlaşır. - Hz. Ali”*
+> *“İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali”*
 
-- **System Strategy**: Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates
-- **Operational Integrity**: Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt
-- **Architectural Vision**: Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu
-- **Logic & Reason**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
+- **System Strategy**: Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca
+- **Operational Integrity**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
+- **Architectural Vision**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
+- **Logic & Reason**: Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç
 <!-- END_QUOTE -->
 
 ---

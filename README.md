@@ -371,12 +371,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali”*
+> *“Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius”*
 
-- **System Strategy**: Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca
-- **Operational Integrity**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
-- **Architectural Vision**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
-- **Logic & Reason**: Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç
+- **System Strategy**: En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles
+- **Operational Integrity**: Düşünüyorum, öyleyse varım. - Rene Descartes
+- **Architectural Vision**: Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız
+- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

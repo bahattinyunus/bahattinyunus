@@ -53,10 +53,21 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 
 <div align="center">
 
-| 🏗️ Architecture & Systems | 🧠 Intelligence & Data | 🛡️ Infrastructure & Security |
+| 🏗️ Core Languages & Logic | 🧠 AI, Data & Intelligence | 🛡️ Infra, Cloud & DevOps |
 |:---:|:---:|:---:|
-| Core Systems Design, Robotics, Distributed Architectures | Deep Learning, Computer Vision, Signal Processing | Cloud-Native, DevSecOps, RTOS Integrity |
-| <br><img src="https://skillicons.dev/icons?i=python,cpp,go,js,ts,react,nodejs&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,nginx,bash&perline=6" /><br> |
+| <br><img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,go,rust,java,solidity,haskell,elixir,clojure,erlang,julia,php,ruby,perl,zig,r,fortran,swift,kotlin,dart,lua,forth,nim,ocaml,pkl,scala,v,vala,wasm,haxe&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas,matlab,octave,anaconda,d3,grafana,prometheus,regex,processing&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,githubactions,jenkins,aws,gcp,azure,nginx,cloudflare,terraform,ansible,vagrant,openshift,openstack,vercel,netlify,heroku&perline=5" /><br> |
+
+<br>
+
+| 🌐 Web, Mobile & Runtimes | 📟 Embedded, IoT & OS | 🧰 Tools & Design Suite |
+|:---:|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,vue,svelte,solidjs,astro,htmx,tailwind,bootstrap,sass,nodejs,express,fastapi,flask,django,nestjs,laravel,rails,deno,bun,workers,apollo,graphql,flutter&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,fedora,kali,arch,mint,redhat,bsd,nix,plan9,apple,windows,ros,arduino,raspberrypi,bevy,godot,unity,unreal&perline=5" /><br> | <br><img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,vim,neovim,emacs,clion,pycharm,idea,postman,npm,yarn,pnpm,figma,sketchup,blender,autocad,ps,ai,ae,pr,xd,obsidian,notion,discord,slack&perline=7" /><br> |
+
+<br>
+
+| 🗄️ Databases & Storage | ♾️ Meta & Productivity |
+|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=stackoverflow,github,gitlab,bitbucket,discord,slack,instagram,linkedin,twitter,md,fediverse,activitypub&perline=6" /><br> |
 
 </div>
 

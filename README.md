@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Hayatınızı şekillendiren şey, düşüncelerinizin rengidir. - Marcus Aurelius”*
+> *“Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali”*
 
-- **System Strategy**: En iyi yönetim, insanın kendi kendini yönetmesidir. - Aristoteles
-- **Operational Integrity**: Düşünüyorum, öyleyse varım. - Rene Descartes
-- **Architectural Vision**: Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız
-- **Logic & Reason**: En büyük zafer, savaşmadan kazanılan zaferdir. - Sun Tzu
+- **System Strategy**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
+- **Operational Integrity**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
+- **Architectural Vision**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
+- **Logic & Reason**: Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî
 <!-- END_QUOTE -->
 
 ---

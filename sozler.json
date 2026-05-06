@@ -189,7 +189,7 @@
     },
     {
         "text": "Bilgi güçtür. - Francis Bacon",
-        "used": false
+        "used": true
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
@@ -245,7 +245,7 @@
     },
     {
         "text": "Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan",
-        "used": false
+        "used": true
     },
     {
         "text": "Devletin temeli adalettir. - Hz. Ömer",
@@ -269,7 +269,7 @@
     },
     {
         "text": "Çok çalışmak, dehanın yarısıdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
@@ -285,7 +285,7 @@
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",
-        "used": false
+        "used": true
     },
     {
         "text": "Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek",
@@ -317,7 +317,7 @@
     },
     {
         "text": "Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",

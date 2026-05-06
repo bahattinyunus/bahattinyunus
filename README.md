@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Akıl gibi zenginlik, cehalet gibi fakirlik yoktur. - Hz. Ali”*
+> *“Çok çalışmak, dehanın yarısıdır. - Aziz Sancar”*
 
-- **System Strategy**: İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu
-- **Operational Integrity**: Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy
-- **Architectural Vision**: Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein
-- **Logic & Reason**: Bilgi, paylaşılmadığı sürece sadece bir yüktür. - İmam Gazâlî
+- **System Strategy**: Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan
+- **Operational Integrity**: Bilgi güçtür. - Francis Bacon
+- **Architectural Vision**: İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek
+- **Logic & Reason**: Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein
 <!-- END_QUOTE -->
 
 ---

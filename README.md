@@ -411,6 +411,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 
 <div align="center">
   <a href="https://youtu.be/sXDQjXv-sEQ?si=_gMV-sAlP8QYI5VJ" target="_blank">
-    <img src="assets/cyber_mythology_footer_banner.png" width="100%" alt="Cyber Mythology Edge-AI Footer Banner" />
+    <img src="assets/sereflikochisar_bozkir_banner.png" width="100%" alt="Şereflikoçhisar Bozkır Edge-AI Footer Banner" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=f-tUvDMciJU" target="_blank">
+    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="Additional Video" />
   </a>
 </div>

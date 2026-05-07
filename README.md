@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Çok çalışmak, dehanın yarısıdır. - Aziz Sancar”*
+> *“Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun”*
 
-- **System Strategy**: Nizamı korumak, onu kurmaktan daha zordur. - Bilge Kağan
-- **Operational Integrity**: Bilgi güçtür. - Francis Bacon
-- **Architectural Vision**: İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek
-- **Logic & Reason**: Mantık sizi A'dan B'ye götürür, hayal gücü ise her yere. - Albert Einstein
+- **System Strategy**: Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat
+- **Operational Integrity**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
+- **Architectural Vision**: İnsanları tanıyan yalnızlaşır. - Hz. Ali
+- **Logic & Reason**: En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo
 <!-- END_QUOTE -->
 
 ---

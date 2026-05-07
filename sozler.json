@@ -69,7 +69,7 @@
     },
     {
         "text": "Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat",
-        "used": false
+        "used": true
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
@@ -89,7 +89,7 @@
     },
     {
         "text": "Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
@@ -101,7 +101,7 @@
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
-        "used": false
+        "used": true
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
@@ -109,7 +109,7 @@
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu",
@@ -281,7 +281,7 @@
     },
     {
         "text": "Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy",
-        "used": false
+        "used": true
     },
     {
         "text": "İnanmak, başarmanın yarısı değil, tamamıdır. - Necip Fazıl Kısakürek",

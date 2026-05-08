@@ -93,11 +93,11 @@
     },
     {
         "text": "Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo",
@@ -125,7 +125,7 @@
     },
     {
         "text": "Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu",
-        "used": false
+        "used": true
     },
     {
         "text": "Hukuksuz devlet, elsiz ayaksız bedene benzer. - Molla Hüsrev",
@@ -133,7 +133,7 @@
     },
     {
         "text": "Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi",
@@ -305,7 +305,7 @@
     },
     {
         "text": "Hayal gücü, bilgiden daha önemlidir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",

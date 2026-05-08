@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer. - İbn Haldun”*
+> *“Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu”*
 
-- **System Strategy**: Padişahlık, adaletle kaimdir; zulümle payidar olmaz. - II. Murat
-- **Operational Integrity**: Girmeden tefrika bir millete, düşman giremez. - Mehmet Akif Ersoy
-- **Architectural Vision**: İnsanları tanıyan yalnızlaşır. - Hz. Ali
-- **Logic & Reason**: En karanlık gece bile sona erer ve güneş tekrar doğar. - Victor Hugo
+- **System Strategy**: Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun
+- **Operational Integrity**: Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali
+- **Architectural Vision**: Hayal gücü, bilgiden daha önemlidir. - Albert Einstein
+- **Logic & Reason**: Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu”*
+> *“Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper”*
 
-- **System Strategy**: Zulüm, umranın harap oluşunun habercisidir. - İbn Haldun
-- **Operational Integrity**: Söz ağzındayken o senin esirindir, ağzından çıkınca sen onun esiri olursun. - Hz. Ali
-- **Architectural Vision**: Hayal gücü, bilgiden daha önemlidir. - Albert Einstein
-- **Logic & Reason**: Planların gece gibi karanlık ve geçilmez olsun; hareket ettiğinde ise yıldırım gibi düş. - Sun Tzu
+- **System Strategy**: Göklerdeki nizamı görmeyen, yerdeki kaosu yönetemez. - Ali Kuşçu
+- **Operational Integrity**: Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn
+- **Architectural Vision**: Kendini yönet, dünyayı yönetecek gücü bulursun. - Platon
+- **Logic & Reason**: Zoru henüz kolayken tasarla, büyüğü henüz küçükken yap. - Sun Tzu
 <!-- END_QUOTE -->
 
 ---

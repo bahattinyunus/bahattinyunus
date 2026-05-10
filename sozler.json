@@ -153,7 +153,7 @@
     },
     {
         "text": "Mağluplar galipleri taklit ederler. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
@@ -213,7 +213,7 @@
     },
     {
         "text": "Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali",
@@ -257,7 +257,7 @@
     },
     {
         "text": "Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil",
-        "used": false
+        "used": true
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
@@ -309,7 +309,7 @@
     },
     {
         "text": "Zorlukların ortasında fırsatlar yatar. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Aynı şeyi tekrar tekrar yapıp farklı sonuçlar beklemek deliliktir. - Albert Einstein",
@@ -373,6 +373,6 @@
     },
     {
         "text": "Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç",
-        "used": false
+        "used": true
     }
 ]

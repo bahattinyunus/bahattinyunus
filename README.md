@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Matematik esasen sabır işidir. Belleyerek değil keşfederek anlamak gerekir. - Cahit Arf”*
+> *“Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina”*
 
-- **System Strategy**: Mağluplar galipleri taklit ederler. - İbn Haldun
-- **Operational Integrity**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
-- **Architectural Vision**: Ölüm, hayatta bir son değildir; asıl son, insanın vicdanının ölmesidir. - Aliya İzzetbegoviç
-- **Logic & Reason**: Güçlü olan haklı değil, haklı olan güçlü olmalıdır. - Şeyh Şamil
+- **System Strategy**: Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani
+- **Operational Integrity**: Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius
+- **Architectural Vision**: Coğrafya kaderdir. - İbn Haldun
+- **Logic & Reason**: İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet
 <!-- END_QUOTE -->
 
 ---

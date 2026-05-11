@@ -9,7 +9,7 @@
     },
     {
         "text": "Coğrafya kaderdir. - İbn Haldun",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
@@ -49,7 +49,7 @@
     },
     {
         "text": "Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
@@ -105,7 +105,7 @@
     },
     {
         "text": "İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "İnsanları tanıyan yalnızlaşır. - Hz. Ali",
@@ -141,7 +141,7 @@
     },
     {
         "text": "Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani",
-        "used": false
+        "used": true
     },
     {
         "text": "İlimsiz ibadet bedensiz ruh gibidir. - Ali Kuşçu",
@@ -225,7 +225,7 @@
     },
     {
         "text": "Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina",
-        "used": false
+        "used": true
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",

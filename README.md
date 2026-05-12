@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Sistemler, insanın kısıtlı iradesini aşan bir nizamın meyvesidir. - İbn-i Sina”*
+> *“Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani”*
 
-- **System Strategy**: Öğrenmekten vazgeçen, yönetmekten de vazgeçmiş demektir. - Molla Gürani
-- **Operational Integrity**: Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius
-- **Architectural Vision**: Coğrafya kaderdir. - İbn Haldun
-- **Logic & Reason**: İmkânın sınırını görmek için imkânsızı denemek lazım. - Fatih Sultan Mehmet
+- **System Strategy**: Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek
+- **Operational Integrity**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
+- **Architectural Vision**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
+- **Logic & Reason**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
 <!-- END_QUOTE -->
 
 ---

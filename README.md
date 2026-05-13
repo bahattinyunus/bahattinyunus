@@ -410,13 +410,13 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 </div>
 
 <div align="center">
-  <a href="https://youtu.be/sXDQjXv-sEQ?si=_gMV-sAlP8QYI5VJ" target="_blank">
+  <a href="https://www.youtube.com/watch?v=BuEh5EVzRDg" target="_blank">
     <img src="assets/sereflikochisar_bozkir_banner.png" width="100%" alt="Şereflikoçhisar Bozkır Edge-AI Footer Banner" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=OWsDXq8UXFw" target="_blank">
-    <img src="https://img.youtube.com/vi/OWsDXq8UXFw/maxresdefault.jpg" width="100%" alt="Additional Video" />
+    <img src="https://img.youtube.com/vi/jxi17F3z0Xw/maxresdefault.jpg" width="100%" alt="Additional Video" />
   </a>
 </div>

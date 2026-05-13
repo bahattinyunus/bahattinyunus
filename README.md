@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani”*
+> *“Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin”*
 
-- **System Strategy**: Devler gibi eserler bırakmak için, karıncalar gibi çalışmak lazım. - Necip Fazıl Kısakürek
-- **Operational Integrity**: Her şey vaktini bekler; ne gül vaktinden erken açar, ne güneş vaktinden erken doğar. - Mevlâna
-- **Architectural Vision**: Aslanı yenmek kolaydır, asıl kahraman nefsini yenendir. - Akşemsettin
-- **Logic & Reason**: Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç
+- **System Strategy**: İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani
+- **Operational Integrity**: Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun
+- **Architectural Vision**: İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali
+- **Logic & Reason**: Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç
 <!-- END_QUOTE -->
 
 ---

@@ -416,7 +416,7 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=f-tUvDMciJU" target="_blank">
-    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="Additional Video" />
+  <a href="https://www.youtube.com/watch?v=OWsDXq8UXFw" target="_blank">
+    <img src="https://img.youtube.com/vi/OWsDXq8UXFw/maxresdefault.jpg" width="100%" alt="Additional Video" />
   </a>
 </div>

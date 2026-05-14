@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin”*
+> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
 
-- **System Strategy**: İlim kılıcın kesemediği düğümleri çözer. - Molla Gürani
-- **Operational Integrity**: Devletler de tıpkı insanlar gibi doğar, büyür, yaşlanır ve ölürler. - İbn Haldun
-- **Architectural Vision**: İnsanı yaşat ki devlet yaşasın. - Şeyh Edebali
-- **Logic & Reason**: Yeryüzünün öğretmeni olabilmek için gökyüzünün öğrencisi olmak lazımdır. - Aliya İzzetbegoviç
+- **System Strategy**: Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk
+- **Operational Integrity**: Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker
+- **Architectural Vision**: Kader, gayrete aşıktır. - Yunus Emre
+- **Logic & Reason**: Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell
 <!-- END_QUOTE -->
 
 ---

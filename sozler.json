@@ -13,7 +13,7 @@
     },
     {
         "text": "İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna",
@@ -57,7 +57,7 @@
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
-        "used": false
+        "used": true
     },
     {
         "text": "Zulüm ile abad olanın, ahiri berbad olur. - Molla Gürani",
@@ -173,7 +173,7 @@
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
-        "used": false
+        "used": true
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
@@ -193,7 +193,7 @@
     },
     {
         "text": "Hatalar, keşfin kapılarıdır. - James Joyce",
-        "used": false
+        "used": true
     },
     {
         "text": "Disiplin, hedeflerle başarı arasındaki köprüdür. - Jim Rohn",
@@ -321,7 +321,7 @@
     },
     {
         "text": "Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein",
-        "used": false
+        "used": true
     },
     {
         "text": "Zamanı geri getiremezsin ama onu en verimli şekilde yönetebilirsin. - Benjamin Franklin",

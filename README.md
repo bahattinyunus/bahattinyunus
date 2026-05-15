@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Erdemli şehrin insanları birbirlerine sevgi ile bağlıdırlar. - Farabi”*
+> *“Engelin kendisi, yolun kendisi olur. - Marcus Aurelius”*
 
-- **System Strategy**: Dünyanın nizamı adaletle, adaletin nizamı ise ilimle kaimdir. - Nizamülmülk
-- **Operational Integrity**: Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker
-- **Architectural Vision**: Kader, gayrete aşıktır. - Yunus Emre
-- **Logic & Reason**: Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell
+- **System Strategy**: Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei
+- **Operational Integrity**: Hatalar, keşfin kapılarıdır. - James Joyce
+- **Architectural Vision**: İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali
+- **Logic & Reason**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
 <!-- END_QUOTE -->
 
 ---

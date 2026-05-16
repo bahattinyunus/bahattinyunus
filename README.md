@@ -397,7 +397,7 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=BuEh5EVzRDg" target="_blank">
+  <a href="https://www.youtube.com/watch?v=NcxsM3TIfwU" target="_blank">
     <img src="assets/sereflikochisar_bozkir_banner.png" width="100%" alt="Şereflikoçhisar Bozkır Edge-AI Footer Banner" />
   </a>
 </div>

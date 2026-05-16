@@ -161,7 +161,7 @@
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
-        "used": false
+        "used": true
     },
     {
         "text": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır. - Peter Drucker",
@@ -201,7 +201,7 @@
     },
     {
         "text": "Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali",
-        "used": false
+        "used": true
     },
     {
         "text": "Geçmişin hatası, geleceğin rehberidir. - Gazali",
@@ -229,7 +229,7 @@
     },
     {
         "text": "Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş",
-        "used": false
+        "used": true
     },
     {
         "text": "Kahramanlar can verir yurdu yaşatmak için. - Hüseyin Nihal Atsız",
@@ -337,7 +337,7 @@
     },
     {
         "text": "Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi",
-        "used": false
+        "used": true
     },
     {
         "text": "Gerçeği arayanlar, her zaman yanılmayı göze almalıdırlar. - Karl Popper",
@@ -349,7 +349,7 @@
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",

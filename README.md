@@ -382,12 +382,12 @@ By combining the analytical mind of a self-taught coder with the grit and field 
 <!-- START_QUOTE -->
 ## ⚖️ Architectural Logic & Visionary Principles
 
-> *“Engelin kendisi, yolun kendisi olur. - Marcus Aurelius”*
+> *“Bizim yolumuz dikenlidir, ayağını seven gelmesin. - Alparslan Türkeş”*
 
-- **System Strategy**: Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei
-- **Operational Integrity**: Hatalar, keşfin kapılarıdır. - James Joyce
-- **Architectural Vision**: İlim bir noktaydı, onu cahiller çoğalttı. - Hz. Ali
-- **Logic & Reason**: Dünya, kötülük yapanlar yüzünden değil, seyirci kalıp hiçbir şey yapmayanlar yüzünden tehlikeli bir yerdir. - Albert Einstein
+- **System Strategy**: Dünya bir gemi, akıl dümeni, asıl amaç ise menzile selametle varmaktır. - Katip Çelebi
+- **Operational Integrity**: Zamanın nizamı, sabrın meyvesidir. - Şeyh Edebali
+- **Architectural Vision**: Kaosun içinde fırsat yatar. - Sun Tzu
+- **Logic & Reason**: Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci
 <!-- END_QUOTE -->
 
 ---

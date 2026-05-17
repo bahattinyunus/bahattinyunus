@@ -29,7 +29,7 @@
     },
     {
         "text": "Dün zekiydim, dünyayı değiştirmek isterdim. Bugün bilgeyim, kendimi değiştiriyorum. - Mevlâna",
-        "used": false
+        "used": true
     },
     {
         "text": "Savaş, ölünce değil, düşmana benzeyince kaybedilir. - Aliya İzzetbegoviç",
@@ -73,7 +73,7 @@
     },
     {
         "text": "Marifet, sadece bilmek değil, bildiğiyle amel etmektir. - Sinan Paşa",
-        "used": false
+        "used": true
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
@@ -237,7 +237,7 @@
     },
     {
         "text": "Vatan ne Türkiyedir Türklere, ne Türkistan Vatan, büyük ve müebbet bir ülkedir: Turan. - Ziya Gökalp",
-        "used": false
+        "used": true
     },
     {
         "text": "Ülküsüz insan çamurdan farkı olmayan bir varlıktır. - Hüseyin Nihal Atsız",
@@ -273,7 +273,7 @@
     },
     {
         "text": "Bilim yapmak için zekâdan önce sabır lazımdır. - Aziz Sancar",
-        "used": false
+        "used": true
     },
     {
         "text": "Üretmeyen toplumlar, tüketmeye ve yok olmaya mahkumdur. - Mehmet Akif Ersoy",
@@ -329,7 +329,7 @@
     },
     {
         "text": "Hazırlıklı olmayı başaramazsanız, başarısızlığa hazırlanmış olursunuz. - Benjamin Franklin",
-        "used": false
+        "used": true
     },
     {
         "text": "Daha iyi olmaya çalışmayan, iyi olarak da kalamaz. - Oliver Cromwell",

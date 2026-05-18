@@ -157,7 +157,7 @@
     },
     {
         "text": "Düşmanı tanımak, tehlikeyi bertaraf etmek demektir. - Fatih Sultan Mehmet",
-        "used": false
+        "used": true
     },
     {
         "text": "Basitlik, en yüksek gelişmişlik düzeyidir. - Leonardo da Vinci",
@@ -169,7 +169,7 @@
     },
     {
         "text": "Başarı, hazırlık ve fırsatın karşılaştığı yerdir. - Seneca",
-        "used": false
+        "used": true
     },
     {
         "text": "Ölçülebilen her şeyi ölç, ölçülemeyenleri ise ölçülebilir yap. - Galileo Galilei",
@@ -345,7 +345,7 @@
     },
     {
         "text": "Yalnızca bilmek yetmez, uygulamak da gerekir; istemek yetmez, yapmak da gerekir. - Johann Wolfgang von Goethe",
-        "used": false
+        "used": true
     },
     {
         "text": "Kaosun içinde fırsat yatar. - Sun Tzu",
@@ -353,11 +353,11 @@
     },
     {
         "text": "Zayıf olan, güçlü olandan daha çok şanslıdır; çünkü güçlü olanın artık gidecek yolu kalmamıştır. - Friedrich Nietzsche",
-        "used": false
+        "used": true
     },
     {
         "text": "Büyük beyinler fikirleri, orta beyinler olayları, küçük beyinler ise kişileri tartışır. - Eleanor Roosevelt",
-        "used": false
+        "used": true
     },
     {
         "text": "Kader, gayrete aşıktır. - Yunus Emre",

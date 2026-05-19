@@ -53,7 +53,7 @@
     },
     {
         "text": "Taktik olmayan strateji, zafere giden en yavaş yoldur. - Sun Tzu",
-        "used": false
+        "used": true
     },
     {
         "text": "Engelin kendisi, yolun kendisi olur. - Marcus Aurelius",
@@ -77,7 +77,7 @@
     },
     {
         "text": "Haksızlık karşısında eğilmeyiniz; şerefinizi kaybedersiniz. - Hz. Ali",
-        "used": false
+        "used": true
     },
     {
         "text": "Mum olmak kolay değildir. Işık saçmak için önce yanmak gerekir. - Mevlâna",
@@ -177,7 +177,7 @@
     },
     {
         "text": "Sorgulanmayan bir hayat, yaşanmaya değmez. - Sokrates",
-        "used": false
+        "used": true
     },
     {
         "text": "Bir zincir, en zayıf halkası kadar güçlüdür. - Thomas Reid",
@@ -261,7 +261,7 @@
     },
     {
         "text": "İtaat etmesini bilmeyen, hükmetmesini de bilemez. - Aristoteles",
-        "used": false
+        "used": true
     },
     {
         "text": "İlim, gerçeğin peşinde nefes tüketmektir. - Aziz Sancar",
@@ -297,7 +297,7 @@
     },
     {
         "text": "En büyük zafer, hiç düşmemek değil, her düştüğünde ayağa kalkmaktır. - Konfüçyüs",
-        "used": false
+        "used": true
     },
     {
         "text": "Zayıf insanlar intikam alır, güçlü insanlar affeder, zeki insanlar umursamaz. - Albert Einstein",

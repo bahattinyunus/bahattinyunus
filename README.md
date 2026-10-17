@@ -2,13 +2,7 @@
 
 <div align="center">
   <a href="https://www.metu.edu.tr/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C4122F,001f3f&height=210&section=header&text=MIDDLE%20EAST%20TECHNICAL%20UNIVERSITY&fontSize=34&fontAlignY=38&desc=Orta%20Do%C4%9Fu%20Teknik%20%C3%9Cniversitesi%20%E2%80%A2%20CEIT%20%26%20AI%20Systems%20Architecture&descAlignY=62&fontColor=ffffff&descSize=16&animation=fadeIn" width="100%" alt="Middle East Technical University | ODTÜ Banner" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=FVkqlwken9E" target="_blank">
-    <img src="https://img.youtube.com/vi/FVkqlwken9E/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
+    <img src="assets/odtu_metu_banner.png" width="100%" alt="Middle East Technical University | ODTÜ Banner" />
   </a>
 </div>
 <br>

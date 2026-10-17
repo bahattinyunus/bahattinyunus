@@ -8,6 +8,10 @@
 <br>
 
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <br>
+
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=ODT%C3%9C+%7C+METU+CEIT;AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>

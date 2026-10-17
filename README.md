@@ -163,15 +163,17 @@
 ## 📊 Analytical Intelligence & System Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=nord_dark" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=nord_dark" height="190" />
+  <img width="100%" src="./github-metrics.svg" alt="Extended GitHub Metrics Panel" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bahattinyunus&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+  </picture>
 </div>
 
 <br>

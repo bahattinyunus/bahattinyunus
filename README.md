@@ -1,7 +1,9 @@
 <a id="top"></a>
 
-  <br>
-
+<div align="center">
+  <a href="https://www.metu.edu.tr/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C4122F,001f3f&height=210&section=header&text=MIDDLE%20EAST%20TECHNICAL%20UNIVERSITY&fontSize=34&fontAlignY=38&desc=Orta%20Do%C4%9Fu%20Teknik%20%C3%9Cniversitesi%20%E2%80%A2%20CEIT%20%26%20AI%20Systems%20Architecture&descAlignY=62&fontColor=ffffff&descSize=16&animation=fadeIn" width="100%" alt="Middle East Technical University | ODTÜ Banner" />
+  </a>
 </div>
 
 <div align="center">
@@ -9,9 +11,7 @@
     <img src="https://img.youtube.com/vi/FVkqlwken9E/maxresdefault.jpg" width="100%" alt="Cinematic Tech Banner v2" />
   </a>
 </div>
-  <br>
-  
-
+<br>
 
 <div align="center">
 
@@ -206,6 +206,13 @@
 ---
 
 ## 🏛️ Academic Foundation & Education
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Academic%20Base-METU%20%2F%20ODT%C3%9C-C4122F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Department-CEIT-001f3f?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ankara%2C%20TR-00d4ff?style=for-the-badge&logoColor=white" />
+</div>
+<br />
 
 <div align="center">
 

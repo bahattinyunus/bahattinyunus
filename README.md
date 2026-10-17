@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Bahattin%20Yunus%20ÇETİN&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
   <br>
 
   <p>
@@ -179,7 +179,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img width="100%" src="./profile-activity.svg" alt="Tactical Contribution Activity Graph" />
 </div>
 
 <br>
@@ -517,7 +517,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=SYSTEM+ACCESSES&color=00d4ff&style=flat-square" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbahattinyunus%2Fbahattinyunus.json&amp;label=SYSTEM%20ACCESSES&amp;color=00d4ff&amp;style=flat-square" alt="System Accesses" />
   <br /><br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
   <br>

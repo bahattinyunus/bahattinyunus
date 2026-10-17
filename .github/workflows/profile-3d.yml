@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3

@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
+  <img src="assets/hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — ODTÜ (METU) AI &amp; Autonomous Systems" />
   <br>
 
   <p>

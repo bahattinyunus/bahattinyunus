@@ -8,10 +8,6 @@
 <br>
 
 <div align="center">
-
-  <img src="assets/hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — ODTÜ (METU) AI &amp; Autonomous Systems" />
-  <br>
-
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=ODT%C3%9C+%7C+METU+CEIT;AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>

@@ -35,4 +35,4 @@ KIZILELMA-H, su yüzeyine temas anında kanat geometrisini ve motor girişlerini
 
 > *"Geleceğin savaşları domainler arası geçişte kazanılacaktır. KIZILELMA-H, bu geçişin anahtarıdır."*
 
-**Developed by arch-yunus | 2026 Sovereign Systems Initiative**
+**Developed by bahattinyunus | 2026 Sovereign Systems Initiative**

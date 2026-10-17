@@ -8,12 +8,12 @@
 | :--- | :--- |
 | **İsim Soyisim** | **Bahattin Yunus Çetin** |
 | **Profesyonel Unvan** | **Founder @ Budak | AI Researcher & Edge-AI Developer** |
-| **Akademik Disiplin** | **Electrical and Electronics Engineering (EEE)** |
+| **Akademik Disiplin** | **Computer Education and Instructional Technologies (CEIT)** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
-| **Mevcut Üs / Konum** | Sakarya / Sakarya Üniversitesi |
-| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-arch-yunus-181717?style=flat-square&logo=github)](https://github.com/arch-yunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-arch-yunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arch-yunus/) |
+| **Mevcut Üs / Konum** | Ankara / Orta Doğu Teknik Üniversitesi (ODTÜ) |
+| **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-bahattinyunus-181717?style=flat-square&logo=github)](https://github.com/bahattinyunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bahattinyunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/) |
 
-Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Trabzon Of Teknoloji Fakültesi**'nin dinamik atmosferiyle birleştiriyorum.
+Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Orta Doğu Teknik Üniversitesi (ODTÜ)**'nin vizyoner ve dinamik atmosferiyle birleştiriyorum.
 
 Kağıt üzerinde bir "üniversite öğrencisi" olarak görünsem de, bu tanım benim için sadece bürokratik bir statüden ibarettir. Gerçekte, pasif bir bilgi alıcısı olmayı reddediyor; endüstriyel standartlarda, ölçeklenebilir ve sürdürülebilir sistemler tasarlayan, proaktif ve vizyoner bir **IT Architect** kimliğiyle hareket ediyorum.
 
@@ -61,33 +61,23 @@ Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu 
 
 ## 🏛️ Akademik Mimari: Post-AI Stratejisi
 
-### 1. Sakarya Üniversitesi - Elektrik ve Elektronik Mühendisliği (EEE)
-**🗓️ 2026 - Devam Ediyor** | *Donanım ve Yazılımın Kesişim Noktası*
-Yazılım temelimi donanım uzmanlığıyla pekiştirmek için EEE disiplinine geçiş yaptım. Görev kritik sistemlerin hem yazılımsal hem de donanımsal mimari direncini artırmaya odaklanıyorum.
-- **Felsefe**: "Güvenli Tasarım" (Security by Design) ilkeleri gereği siber güvenliği geliştirme yaşam döngüsünün tam merkezine yerleştiriyorum.
-- **Hedef**: Geleceğin ölçeklenebilir sistem mimarilerini (Scalable System Architect) hem silikon seviyesinde hem de yüksek seviyeli AI katmanında inşa etmek.
+### 1. Orta Doğu Teknik Üniversitesi (ODTÜ / METU) - Bilgisayar ve Öğretim Teknolojileri (CEIT)
+**🗓️ 2026 - 2028** | *Mevcut Üs / İleri Teknoloji & Bilişsel Mimari (Active)*
+Eğitim teknolojileri, bilişsel sistemler ve insan-bilgisayar etkileşimini yapay zeka odaklı sistem tasarımıyla birleştiren ana operasyon üssüm.
+- **Felsefe**: Yapay zeka ve yazılım mimarilerinin sadece kod katmanında değil, insan ve sistem ölçeğinde nasıl öğrenip öğretildiğini modellemek.
+- **Hedef**: Uçtan uca teknoloji vizyonunu ODTÜ'nün köklü araştırma kültürüyle harmanlayarak küresel standartlarda sistem mühendisliği icra etmek.
 
-### 2. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
+### 2. Hacettepe Üniversitesi
+**🗓️ 2026 - 2028** | *Akademik Genişleme & Çok Disiplinli Perspektif*
+Akademik vizyonu farklı disiplinlerin dinamikleriyle zenginleştiren stratejik eğitim katmanı.
+
+### 3. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
 **🗓️ 2023 - 2026** | *Yazılım Mimarisi Temelleri*
 IT Architect ve sistem tasarımı yetkinliklerimin çekirdek katmanını oluşturduğum dönem. Modern DevOps, CI/CD ve yazılım yaşam döngüsü (SDLC) konularında derinlemesine pratik.
 
-### 2. İstanbul Üniversitesi - Yönetim Bilişim Sistemleri
-**🗓️ 2025 - 2029** | *Hibrit Yönetici Katmanı (Executive Layer)*
-Teknik derinliğimi; stratejik yönetim, finansal okuryazarlık ve işletme vizyonu ile birleştirerek, endüstriyel dünyada aranan "T-Shaped Architect" profilini inşa ediyorum.
-- **Odak Alanları**: Büyük veri analitiği (Big Data Analytics) ile desteklenen veri güdümlü karar alma (Data-Driven Decision Making) süreçleri, dijital transformasyonun kurum kültürü üzerindeki etkisi ve teknoloji yatırımlarının RSI (Return on Innovation) analizi.
-- **Amaç**: Sadece "nasıl kodlanır?" sorusuna değil, "bu kod hangi iş problemini, hangi maliyetle ve nasıl bir stratejik fayda ile çözer?" sorusuna yanıt verebilen bir "Executive Engineer" kimliği oluşturmak.
-- **İlgili Repo**: [MIS Roadmap](https://github.com/arch-yunus/MIS-Roadmap)
-
-### 3. Anadolu Üniversitesi - Bilgisayar Programcılığı
-**🗓️ 2025 - 2027** | *Operasyonel Yedeklilik (Failover System)*
-Akademik dünyanın bazen hantal kalan teorik müfredatına karşı, hızlı uygulama ve operasyonel çeviklik kazandıran stratejik bir "Hot Standby" katmanı.
-- **Strateji**: Pratik kodlama yetilerimi, script yazımı (Scripting), hızlı prototipleme (Prototyping) ve sistem yönetimi (SysAdmin) alanlarında keskinleştiriyorum. Bu bölüm, ana mühendislik kariyerimi her türlü sektörel dalgalanmaya karşı koruyan bir "Yedekleme ve Replika" sistemidir.
-- **İlgili Repo**: [AOF CS Notes](https://github.com/arch-yunus/AOF-CS-Notes)
-
-### 4. Recep Tayyip Erdoğan Üniversitesi (Önlisans)
+### 4. Recep Tayyip Erdoğan Üniversitesi
 **🗓️ 2024 - 2026** | *Kaynak Çeşitliliği ve Yük Dengeleme (Load Balancing)*
-Eğitimi tek bir fiziksel lokasyonla sınırlandırmak, sistemde "Single Point of Failure" (Tekil Hata Noktası) yaratmaktır. Bu riski RTEÜ desteğiyle dağıtıyorum.
-- **Operasyon**: Of Teknoloji Fakültesi ana sunucum (Primary) iken, RTEÜ kütüphane ve laboratuvar imkanlarını, akademik network ağını ve farklı perspektifleri sunan bir "Uydu Üs" (Edge Location) olarak kullanıyorum. Bu hibrit model, bilgiye erişimde kesintisiz bir operasyonel kabiliyet (uptime) sağlıyor.
+Eğitimi tek bir fiziksel lokasyonla sınırlandırmayarak akademik network ve laboratuvar imkanlarını çeşitlendirdiğim "Uydu Üs" stratejisi. Bu hibrit model, bilgiye erişimde kesintisiz bir operasyonel kabiliyet (uptime) sağladı.
 
 ---
 

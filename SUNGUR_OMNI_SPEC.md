@@ -42,4 +42,4 @@ SUNGUR-OMNI, her ortama uyum sağlayabilen modüler bir gövde mimarisine sahipt
 
 > *"SUNGUR-OMNI, sadece bir araç değil; her yerde var olan, her yerde savaşan ve her yerde kazanan bir hayaletin vücut bulmuş halidir."*
 
-**Developed by arch-yunus | 2026 Sovereign Systems Initiative**
+**Developed by bahattinyunus | 2026 Sovereign Systems Initiative**

@@ -19,13 +19,14 @@
   <br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=ODT%C3%9C+%7C+METU+CEIT;AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>
 
   <p>
+    <a href="https://www.metu.edu.tr/"><img src="https://img.shields.io/badge/ODT%C3%9C%20%2F%20METU-CEIT-C4122F?style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/arch-yunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://arch-yunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Interface-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
@@ -81,12 +82,12 @@
 
 | Initiatives (2026) | System Focus | Technological Core | Operational Health |
 | :--- | :--- | :--- | :--- |
-| **[AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture)** | Deep Space Biosignal | `Swarm AI` `Edge Computing` | 🟢 **Active** |
-| **[Ay-Otonom](https://github.com/arch-yunus/Ay-Otonom-Navigasyon)** | Lunar Surface Navigation | `ROS2` `EKF` `Slam Toolbox` | 🟢 **Nominal** |
-| **[MilliHaklar](https://github.com/arch-yunus/MilliHaklar-UzayHukuku)** | Space Law Legal-Tech | `SSA Data` `Legal-AI` | 🟢 **Deployed** |
-| **[Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `SEU Repair` | 🟢 **Production** |
-| **[Aura-Hockey-AR](https://github.com/arch-yunus/Aura-Hockey-AR)** | Hand-Tracking 3D Game | `MediaPipe` `Three.js` | 🟢 **Verified** |
-| **[TurkSpace-Platform](https://github.com/arch-yunus/TurkSpace-Platform)** | SpaaS Ecosystem | `Space Data` `Dashboard` | 🟢 **Nominal** |
+| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Deep Space Biosignal | `Swarm AI` `Edge Computing` | 🟢 **Active** |
+| **[Ay-Otonom](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | Lunar Surface Navigation | `ROS2` `EKF` `Slam Toolbox` | 🟢 **Nominal** |
+| **[MilliHaklar](https://github.com/bahattinyunus/MilliHaklar-UzayHukuku)** | Space Law Legal-Tech | `SSA Data` `Legal-AI` | 🟢 **Deployed** |
+| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | Telemetry Integrity Stack | `Kalman Filter` `SEU Repair` | 🟢 **Production** |
+| **[Aura-Hockey-AR](https://github.com/bahattinyunus/Aura-Hockey-AR)** | Hand-Tracking 3D Game | `MediaPipe` `Three.js` | 🟢 **Verified** |
+| **[TurkSpace-Platform](https://github.com/bahattinyunus/TurkSpace-Platform)** | SpaaS Ecosystem | `Space Data` `Dashboard` | 🟢 **Nominal** |
 | **[KIZILELMA-H](KIZILELMA_H_SPEC.md)** | Hybrid Submersible Aircraft | `Egemen-AI` `Amphibious` | 🔵 **Conceptual** |
 | **[SUNGUR-OMNI](SUNGUR_OMNI_SPEC.md)** | Trans-Domain Platform (Sea/Land/Space) | `Omni-AI` `Tri-Propulsion` | 🟣 **Visionary** |
 
@@ -105,13 +106,13 @@
 
 | Project | Core Technology |
 | :--- | :--- |
-| [Ay-Otonom-Navigasyon](https://github.com/arch-yunus/Ay-Otonom-Navigasyon) | `ROS2` `EKF` `DWA` `A*` |
-| [Formula Student Autonomous](https://github.com/arch-yunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
-| [ERC Rover GCS](https://github.com/arch-yunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
-| [Robotex Warrior Core](https://github.com/arch-yunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
-| [LionSight AUV](https://github.com/arch-yunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
-| [AQUASYNC](https://github.com/arch-yunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
-| [Robotaksi Full-Stack](https://github.com/arch-yunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
+| [Ay-Otonom-Navigasyon](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon) | `ROS2` `EKF` `DWA` `A*` |
+| [Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
+| [ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
+| [Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
+| [LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
+| [AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
+| [Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
 
 </details>
 
@@ -120,12 +121,12 @@
 
 | Project | Core Technology |
 | :--- | :--- |
-| [AstroBio-Edge](https://github.com/arch-yunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge Computing` `Spectroscopy` |
-| [Cosmic-Sanitizer](https://github.com/arch-yunus/Cosmic-Telemetry-Sanitizer) | `Kalman Smoothing` `Anomaly Detection` |
-| [Akademik Radar](https://github.com/arch-yunus/AkademikRadar) | `SciBERT` `Graph Theory` |
-| [Nexus TRL](https://github.com/arch-yunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
-| [NexusBroker](https://github.com/arch-yunus/NexusBroker) | `Vector DB` `Solidity` |
-| [DeepAntenna](https://github.com/arch-yunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
+| [AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge Computing` `Spectroscopy` |
+| [Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer) | `Kalman Smoothing` `Anomaly Detection` |
+| [Akademik Radar](https://github.com/bahattinyunus/AkademikRadar) | `SciBERT` `Graph Theory` |
+| [Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `Data Analysis` |
+| [NexusBroker](https://github.com/bahattinyunus/NexusBroker) | `Vector DB` `Solidity` |
+| [DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
 
 </details>
 
@@ -134,14 +135,14 @@
 
 | Project | Core Technology |
 | :--- | :--- |
-| [Feza-X (CubeSat)](https://github.com/arch-yunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `Aethel-Class` `CubeSat` |
-| [RedPlanet-Habitat](https://github.com/arch-yunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Planetary Scale` |
-| [Otonom-İstasyon](https://github.com/arch-yunus/Otonom-Moduler-Istasyon) | `Orbital Defense` `CW-Dynamics` |
-| [Kiyamet-Hatti](https://github.com/arch-yunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
-| [SIGINT HUB](https://github.com/arch-yunus/SIGINT) | `DSP` `FFT` `ELINT` |
-| [NOAA Station](https://github.com/arch-yunus/NOAA) | `Orbital` `Signal Proc.` |
-| [Digital Archaeology](https://github.com/arch-yunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
-| [Milli Teknoloji Envanteri](https://github.com/arch-yunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
+| [Feza-X (CubeSat)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `Aethel-Class` `CubeSat` |
+| [RedPlanet-Habitat](https://github.com/bahattinyunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Planetary Scale` |
+| [Otonom-İstasyon](https://github.com/bahattinyunus/Otonom-Moduler-Istasyon) | `Orbital Defense` `CW-Dynamics` |
+| [Kiyamet-Hatti](https://github.com/bahattinyunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
+| [SIGINT HUB](https://github.com/bahattinyunus/SIGINT) | `DSP` `FFT` `ELINT` |
+| [NOAA Station](https://github.com/bahattinyunus/NOAA) | `Orbital` `Signal Proc.` |
+| [Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
+| [Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
 
 </details>
 
@@ -150,11 +151,11 @@
 
 | Project | Core Technology |
 | :--- | :--- |
-| [ANATOLIA-SILICON](https://github.com/arch-yunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
-| [Industrial Intelligence](https://github.com/arch-yunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
-| [CivTech-Core](https://github.com/arch-yunus/CivTech-Core) | `FEM` `Generative Design` |
-| [CodeVisualizer](https://github.com/arch-yunus/CodeVisualizer) | `AST` `React` `FastAPI` |
-| [NovaChat](https://github.com/arch-yunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
+| [ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON) | `RISC-V` `Deep Tech` |
+| [Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
+| [CivTech-Core](https://github.com/bahattinyunus/CivTech-Core) | `FEM` `Generative Design` |
+| [CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` |
+| [NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
 
 </details>
 
@@ -168,35 +169,56 @@
 ## 📊 Analytical Intelligence & System Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arch-yunus&theme=nord_dark" height="190" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arch-yunus&theme=nord_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=nord_dark" height="190" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=nord_dark" height="190" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arch-yunus&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arch-yunus&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bahattinyunus&show_icons=true&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bahattinyunus&layout=donut&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=00d4ff&hide_active_border=true" height="170" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arch-yunus&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&bg_color=001f3f&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arch-yunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=ai_courses&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=arch-yunus&repo=btk-python-courses&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=ai_courses&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=btk-python-courses&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
+
+---
+
+## 🏛️ Academic Foundation & Education
+
+<div align="center">
+
+| Institution | Field of Study / Program | Period | Status |
+| :--- | :--- | :---: | :---: |
+| **[Orta Doğu Teknik Üniversitesi (ODTÜ / METU)](https://www.metu.edu.tr/)** | Computer Education and Instructional Technologies | `2026 – 2028` | 🟢 **Current / Active** |
+| **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Higher Education | `2026 – 2028` | 🔵 **Enrolled** |
+| **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2023 – 2026` | ⚪ **Alum** |
+| **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Higher Education | `2024 – 2026` | ⚪ **Alum** |
+
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
@@ -492,16 +514,16 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arch-yunus&label=SYSTEM+ACCESSES&color=00d4ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=SYSTEM+ACCESSES&color=00d4ff&style=flat-square" />
   <br /><br />
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
   <br>
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
-  <i>Founder @ Arat | AI Researcher & Edge-AI Developer</i><br>
+  <i>ODTÜ (METU) | Founder @ Arat | AI Researcher & Edge-AI Developer</i><br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Dijital+Seyyah%3A+Active+%2F+Mobile;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Base%3A+ODT%C3%9C+%2F+METU+Ankara;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
   <br>
   <small>© 2026 — Built with Precision & Intent</small>
   

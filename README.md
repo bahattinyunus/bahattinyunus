@@ -1,10 +1,10 @@
 <a id="top"></a>
-
-<div align="center">
-  <a href="https://www.metu.edu.tr/" target="_blank">
-    <img src="assets/odtu_metu_banner.png" width="100%" alt="Middle East Technical University | ODTÜ Banner" />
+ <div align="center">
+  <a href="https://www.youtube.com/watch?v=kfEnygJcfxM" target="_blank">
+    <img src="https://img.youtube.com/vi/-Bzqd9vUh2Q/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
 </div>
+
 <br>
 
 <div align="center">

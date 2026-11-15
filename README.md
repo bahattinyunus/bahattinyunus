@@ -4,33 +4,38 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=300&section=header&text=%20Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=70&fontAlignY=35&desc=AI%20Developer%20%7C%20%20%20%20ROS2%2C%20C%2B%2B%2C%20Embedded%20Systems&descAlignY=55&fontColor=ffffff&descSize=20&animation=twinkling" width="100%" alt="Bahattin Yunus Çetin Elite Banner" />
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:003366,100:00d4ff&height=260&section=header&text=Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=58&fontAlignY=38&desc=AI%20Researcher%20%E2%80%A2%20Autonomous%20Systems%20%E2%80%A2%20Edge-AI%20Architect&descAlignY=60&fontColor=ffffff&descSize=18&animation=fadeIn" width="100%" alt="Bahattin Yunus Çetin Banner" />
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=ODT%C3%9C+%7C+METU+CEIT;AI+Developer;ROS2,+C%2B%2B,+Embedded+Systems;Hardware-Software+Integration;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00d4ff&center=true&vCenter=true&width=850&lines=Founder+%40+Arat+%7C+AI+%26+Edge+Systems+Architect;ROS2+%E2%80%A2+C%2B%2B20+%E2%80%A2+Embedded+Systems;Aerospace%2C+Robotics+%26+Mission-Critical+Software;Epistemic+Technology+Philosophy" alt="Elite Typing SVG" />
   </p>
 
   <p>
-    <a href="https://www.metu.edu.tr/"><img src="https://img.shields.io/badge/ODT%C3%9C%20%2F%20METU-CEIT-C4122F?style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Expertise-Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Interface-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
+
 </div>
-
----
-
-
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
+> ### ⚡ Architectural Doctrine
+> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
+>
+> Designing **autonomous intelligence, edge-AI stacks, and mission-critical aerospace/robotics architectures** where software logic meets physical reality under real-time constraints.
+
+```yaml
+identity:
+  role: "Founder @ Arat | AI Researcher & Edge-AI Developer"
+  focus: ["Autonomous Robotics (ROS2)", "Edge Intelligence", "Aerospace & Defense Tech", "Embedded C++20"]
+  base: "Ankara, TR"
+  status: "Building at the Edge"
+```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
@@ -55,8 +60,6 @@
 | 🗄️ Databases & Storage | ♾️ Meta & Productivity |
 |:---:|:---:|
 | <br><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,cassandra,dynamodb,neo4j,planetscale,supabase,appwrite,firebase&perline=6" /><br> | <br><img src="https://skillicons.dev/icons?i=stackoverflow,github,gitlab,bitbucket,discord,slack,instagram,linkedin,twitter,md,fediverse,activitypub&perline=6" /><br> |
-
-</div>
 
 </div>
 
@@ -199,8 +202,6 @@
 ## 🏛️ Academic Foundation & Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Academic%20Base-METU%20%2F%20ODT%C3%9C-C4122F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Department-CEIT-001f3f?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Ankara%2C%20TR-00d4ff?style=for-the-badge&logoColor=white" />
 </div>
 <br />
@@ -209,7 +210,6 @@
 
 | Institution | Field of Study / Program | Period | Status |
 | :--- | :--- | :---: | :---: |
-| **[Orta Doğu Teknik Üniversitesi (ODTÜ / METU)](https://www.metu.edu.tr/)** | Computer Education and Instructional Technologies | `2026 – 2028` | 🟢 **Current / Active** |
 | **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Higher Education | `2026 – 2028` | 🔵 **Enrolled** |
 | **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2023 – 2026` | ⚪ **Alum** |
 | **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Higher Education | `2024 – 2026` | ⚪ **Alum** |
@@ -507,27 +507,24 @@
 
 </details>
 
-
-
 <br>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+  <br /><br />
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbahattinyunus%2Fbahattinyunus.json&amp;label=SYSTEM%20ACCESSES&amp;color=00d4ff&amp;style=flat-square" alt="System Accesses" />
   <br /><br />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="300" />
-  <br>
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
-  <i>ODTÜ (METU) | Founder @ Arat | AI Researcher & Edge-AI Developer</i><br>
+  <i>Founder @ Arat | AI Researcher & Edge-AI Developer</i><br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Base%3A+ODT%C3%9C+%2F+METU+Ankara;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
-  <br>
-  <small>© 2026 — Built with Precision & Intent</small>
-  
-  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Base%3A+Ankara;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
+  <br><br>
   <a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
     <img src="https://img.youtube.com/vi/DdChmxqb92c/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
+  <br><br>
+  <small>© 2026 — Built with Precision & Intent • <a href="#top">⬆ Return to Top</a></small>
 </div>
 

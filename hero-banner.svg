@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Bahattin Yunus Çetin — AI Systems Architect">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030811" />
+      <stop offset="45%" stop-color="#071629" />
+      <stop offset="100%" stop-color="#04101E" />
+    </linearGradient>
+
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.0" />
+      <stop offset="20%" stop-color="#00d4ff" stop-opacity="0.85" />
+      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="1.0" />
+      <stop offset="80%" stop-color="#00d4ff" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#E2F1FF" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <linearGradient id="pillBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B2239" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#061322" stop-opacity="0.9" />
+    </linearGradient>
+
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#0055aa" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.0" />
+    </radialGradient>
+
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0d2847" stroke-width="0.7" stroke-opacity="0.55" />
+      <circle cx="40" cy="40" r="1" fill="#1e4976" opacity="0.6" />
+    </pattern>
+
+    <style>
+      .hud-top { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 11px; fill: #6495ED; letter-spacing: 1.8px; }
+      .hud-accent { fill: #00d4ff; font-weight: 700; }
+      .hud-live { fill: #00e676; font-weight: 700; }
+      .main-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 52px; font-weight: 900; fill: url(#textGrad); letter-spacing: 3px; }
+      .sub-role { font-family: 'Fira Code', Consolas, monospace; font-size: 15.5px; font-weight: 700; fill: #00d4ff; letter-spacing: 2.5px; }
+      .sub-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13.5px; fill: #94A3B8; letter-spacing: 0.8px; }
+      .pill-text { font-family: 'Fira Code', Consolas, monospace; font-size: 11.5px; font-weight: 600; fill: #E2E8F0; letter-spacing: 0.8px; }
+      .pill-tag { fill: #2dd4bf; font-weight: 700; }
+      .corner { fill: none; stroke: #00d4ff; stroke-width: 2; }
+      .orbit-cw { transform-origin: 130px 170px; animation: spinCW 28s linear infinite; }
+      .orbit-ccw { transform-origin: 130px 170px; animation: spinCCW 18s linear infinite; }
+      .orbit-r-cw { transform-origin: 1070px 170px; animation: spinCW 24s linear infinite; }
+      .orbit-r-ccw { transform-origin: 1070px 170px; animation: spinCCW 16s linear infinite; }
+      .pulse { animation: pulseAnim 2.5s ease-in-out infinite; }
+      .scanline { animation: scanAnim 6s linear infinite; }
+      @keyframes spinCW { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes spinCCW { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+      @keyframes pulseAnim { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @keyframes scanAnim { 0% { transform: translateY(0px); opacity: 0.0; } 15% { opacity: 0.35; } 85% { opacity: 0.35; } 100% { transform: translateY(320px); opacity: 0.0; } }
+    </style>
+  </defs>
+
+  <!-- Base Frame & Grid -->
+  <rect x="2" y="2" width="1196" height="336" rx="14" fill="url(#bgGrad)" stroke="#153E66" stroke-width="2" />
+  <rect x="4" y="4" width="1192" height="332" rx="12" fill="url(#techGrid)" />
+  <ellipse cx="600" cy="170" rx="520" ry="160" fill="url(#coreGlow)" />
+
+  <!-- Subtle Horizontal Scanline -->
+  <line x1="10" y1="10" x2="1190" y2="10" stroke="#00d4ff" stroke-width="1" class="scanline" />
+
+  <!-- Tactical HUD Corner Brackets -->
+  <path d="M 18 42 L 18 18 L 46 18" class="corner" />
+  <path d="M 1182 42 L 1182 18 L 1154 18" class="corner" />
+  <path d="M 18 298 L 18 322 L 46 322" class="corner" />
+  <path d="M 1182 298 L 1182 322 L 1154 322" class="corner" />
+
+  <!-- Left Orbital Radar HUD -->
+  <g opacity="0.75">
+    <circle cx="130" cy="170" r="88" fill="none" stroke="#103458" stroke-width="1" />
+    <circle cx="130" cy="170" r="68" fill="none" stroke="#00d4ff" stroke-width="1.2" stroke-dasharray="10 6 2 6" class="orbit-cw" />
+    <circle cx="130" cy="170" r="46" fill="none" stroke="#2dd4bf" stroke-width="1.2" stroke-dasharray="24 12" class="orbit-ccw" />
+    <circle cx="130" cy="170" r="22" fill="none" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="35" y1="170" x2="225" y2="170" stroke="#103458" stroke-width="0.8" />
+    <line x1="130" y1="75" x2="130" y2="265" stroke="#103458" stroke-width="0.8" />
+    <circle cx="130" cy="170" r="4" fill="#00d4ff" filter="url(#neonGlow)" class="pulse" />
+    <text x="130" y="282" text-anchor="middle" class="hud-top" font-size="9">NAV // ROS2-EKF</text>
+  </g>
+
+  <!-- Right Orbital Telemetry HUD -->
+  <g opacity="0.75">
+    <circle cx="1070" cy="170" r="88" fill="none" stroke="#103458" stroke-width="1" />
+    <circle cx="1070" cy="170" r="68" fill="none" stroke="#00d4ff" stroke-width="1.2" stroke-dasharray="14 8" class="orbit-r-ccw" />
+    <circle cx="1070" cy="170" r="46" fill="none" stroke="#2dd4bf" stroke-width="1.2" stroke-dasharray="6 8 18 8" class="orbit-r-cw" />
+    <polygon points="1070,144 1092,182 1048,182" fill="none" stroke="#00d4ff" stroke-width="1" stroke-opacity="0.6" />
+    <line x1="975" y1="170" x2="1165" y2="170" stroke="#103458" stroke-width="0.8" />
+    <line x1="1070" y1="75" x2="1070" y2="265" stroke="#103458" stroke-width="0.8" />
+    <circle cx="1070" cy="170" r="4" fill="#2dd4bf" filter="url(#neonGlow)" class="pulse" />
+    <text x="1070" y="282" text-anchor="middle" class="hud-top" font-size="9">EDGE // NPU-SLM</text>
+  </g>
+
+  <!-- Top Telemetry Bar -->
+  <text x="60" y="36" class="hud-top">SYS.ID // <tspan class="hud-accent">BYC-2026-ARCHITECT</tspan></text>
+  <text x="600" y="36" text-anchor="middle" class="hud-top">LOC // <tspan class="hud-accent">ANKARA, TR [39.93°N, 32.85°E]</tspan></text>
+  <text x="1140" y="36" text-anchor="end" class="hud-top">TELEMETRY // <tspan class="hud-live">● ONLINE</tspan></text>
+  <line x1="60" y1="48" x2="1140" y2="48" stroke="#123252" stroke-width="1" />
+
+  <!-- Center Identity Block -->
+  <text x="600" y="122" text-anchor="middle" class="main-name" filter="url(#neonGlow)">BAHATTİN YUNUS ÇETİN</text>
+
+  <!-- Glowing Divider Bar -->
+  <rect x="250" y="140" width="700" height="2" fill="url(#cyanGrad)" />
+
+  <!-- Primary Architectural Title -->
+  <text x="600" y="170" text-anchor="middle" class="sub-role">AI SYSTEMS ARCHITECT • AUTONOMOUS ROBOTICS • EDGE &amp; DEFENSE TECH</text>
+  <text x="600" y="196" text-anchor="middle" class="sub-desc">Engineering sovereign Edge-AI stacks, deterministic C++20/ROS 2 control loops &amp; mission-critical cyber-physical systems</text>
+
+  <!-- 4 Executive Venture Pills -->
+  <!-- Pill 1: MERL -->
+  <g transform="translate(148, 222)">
+    <rect x="0" y="0" width="212" height="34" rx="6" fill="url(#pillBg)" stroke="#1E4976" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="3.5" fill="#00d4ff" class="pulse" />
+    <text x="28" y="21" class="pill-text"><tspan class="pill-tag">MERL</tspan> // Lead Researcher</text>
+  </g>
+
+  <!-- Pill 2: Budak -->
+  <g transform="translate(374, 222)">
+    <rect x="0" y="0" width="216" height="34" rx="6" fill="url(#pillBg)" stroke="#1E4976" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="3.5" fill="#2dd4bf" class="pulse" />
+    <text x="28" y="21" class="pill-text"><tspan class="pill-tag">BUDAK</tspan> // Edge-AI Founder</text>
+  </g>
+
+  <!-- Pill 3: Anka Silicon -->
+  <g transform="translate(604, 222)">
+    <rect x="0" y="0" width="224" height="34" rx="6" fill="url(#pillBg)" stroke="#1E4976" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="3.5" fill="#38bdf8" class="pulse" />
+    <text x="28" y="21" class="pill-text"><tspan class="pill-tag">ANKA</tspan> // Silicon Architect</text>
+  </g>
+
+  <!-- Pill 4: Siber Vatan -->
+  <g transform="translate(842, 222)">
+    <rect x="0" y="0" width="210" height="34" rx="6" fill="url(#pillBg)" stroke="#1E4976" stroke-width="1.2" />
+    <circle cx="16" cy="17" r="3.5" fill="#00e676" class="pulse" />
+    <text x="28" y="21" class="pill-text"><tspan class="pill-tag">SİBER VATAN</tspan> // Red Team</text>
+  </g>
+
+  <!-- Bottom Telemetry Footer inside Banner -->
+  <line x1="60" y1="296" x2="1140" y2="296" stroke="#123252" stroke-width="1" />
+  <text x="60" y="315" class="hud-top">STACK // <tspan fill="#CBD5E1">ROS 2 • C++20 • PYTORCH • vLLM • QLoRA • NASA-cFS • RISC-V • SDR/SIGINT</tspan></text>
+  <text x="1140" y="315" text-anchor="end" class="hud-top">DOCTRINE // <tspan class="hud-accent">BUILT FOR THE EDGE</tspan></text>
+</svg>

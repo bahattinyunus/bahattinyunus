@@ -4,7 +4,9 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:040d1a,45:001f3f,100:00d4ff&height=270&section=header&text=Bahattin%20Yunus%20%C3%87ET%C4%B0N&fontSize=58&fontAlignY=38&desc=AI%20Systems%20Architect%20%E2%80%A2%20Autonomous%20Robotics%20%E2%80%A2%20Edge%20%26%20Defense%20Tech&descAlignY=60&fontColor=ffffff&descSize=18&animation=fadeIn" width="100%" alt="Bahattin Yunus Çetin Banner" />
+  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — AI Systems Architect & Autonomous Systems Command Banner" />
+
+  <br><br>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00d4ff&center=true&vCenter=true&width=860&lines=Founder+%40+Arat+%26+Budak+%7C+Edge-AI+Optimization+Architect;Lead+Researcher+%40+MERL+%7C+Self-Healing+%26+Autonomous+Systems;Chief+Architect+%40+Anka+Silicon+Dynamics+%7C+Silicon-Ready+SLMs;ROS2+%E2%80%A2+C%2B%2B20+%E2%80%A2+PyTorch+%E2%80%A2+Aerospace+%26+Cyber-Physical+Systems" alt="Live Executive Telemetry" />
@@ -67,6 +69,12 @@
 | **[KIZILELMA-H Spec](./KIZILELMA_H_SPEC.md)** | Hybrid Submersible Unmanned Combat Aircraft | `Egemen-AI` `Trans-Media Hydro/Aero` | 🔵 **Spec Blueprint** |
 | **[SUNGUR-OMNI Spec](./SUNGUR_OMNI_SPEC.md)** | Multi-Domain Autonomous Platform (Sea/Land/Space) | `Omni-AI` `Tri-Propulsion` `Swarm` | 🟣 **Visionary Spec** |
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/tech_banner_v2.png" width="100%" alt="Integrated Autonomous Systems — Space, Lunar & Deep Ocean ROS2 Architecture" />
 </div>
 
 ---
@@ -186,11 +194,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/bahattinyunus/AstroBio-Edge-Architecture"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=AstroBio-Edge-Architecture&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=1A3547" height="145" /></a>
-  <a href="https://github.com/bahattinyunus/Ay-Otonom-Navigasyon"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=Ay-Otonom-Navigasyon&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=1A3547" height="145" /></a>
-  <br>
-  <a href="https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=TerraSense-CubeSat-Architecture&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=1A3547" height="145" /></a>
-  <a href="https://github.com/bahattinyunus/formula_student_autonomous_stack"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bahattinyunus&repo=formula_student_autonomous_stack&theme=algolia&bg_color=001f3f&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&border_color=1A3547" height="145" /></a>
+  <img width="100%" src="./flagship-cards.svg" alt="Flagship Architectures Telemetry Deck" />
 </div>
 
 ---

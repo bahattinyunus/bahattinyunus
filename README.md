@@ -6,58 +6,43 @@
 
 <div align="center">
 
-  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — EGEMEN-OS Command Banner" />
+  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — Systems Architect & Deep-Tech Researcher" />
 
   <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-200%2B_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Dossier-00e676?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-    <a href="mailto:bahattinyunusct1@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Biography-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+    <a href="mailto:bahattinyunusct1@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
 ---
 
-## 🌌 Sovereign Concepts & Field Operations
+## 🏛️ Featured Engineering & Research
 
 <div align="center">
 
-| 🔱 **[KIZILELMA-H](./KIZILELMA_H_SPEC.md)** | 🌐 **[SUNGUR-OMNI](./SUNGUR_OMNI_SPEC.md)** |
-| :---: | :---: |
-| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H" /></a><br><sub>`Mach 2.2 Air` ⟷ `85 kt Submersible` • `Egemen-AI L5` • [Spec →](./KIZILELMA_H_SPEC.md)</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="SUNGUR-OMNI" /></a><br><sub>`95 kt Sea` • `120 km/h Land` • `Mach 6+ Air` • `15 km/s Δv Space` • [Spec →](./SUNGUR_OMNI_SPEC.md)</sub> |
-| 🛰️ **[ORBITAL & NEURAL COMMAND](./ORBITAL_COMMAND_SPEC.md)** | 🚐 **[NOMADIC EDGE LAB](./NOMADIC_LAB_SPEC.md)** |
-| <a href="./ORBITAL_COMMAND_SPEC.md"><img src="./assets/orbital_command_hud.png" width="100%" alt="Orbital & Neural Command" /></a><br><sub>`MERL Self-Healing` • `FEZA-X cFS` • `Anka RISC-V NPU` • [Spec →](./ORBITAL_COMMAND_SPEC.md)</sub> | <a href="./NOMADIC_LAB_SPEC.md"><img src="./assets/futuristic_nomadic_lab.png" width="100%" alt="Futuristic Nomadic Edge Lab" /></a><br><sub>`Mobile SatCom` • `ROS 2 Steppe Rover` • `Budak 4-Bit SLM` • [Spec →](./NOMADIC_LAB_SPEC.md)</sub> |
+| Project | Domain & Focus | Core Stack |
+| :--- | :--- | :--- |
+| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Deep-Space Biosignal Intelligence & Swarm Inference | `PyTorch` `Swarm AI` `Edge Computing` |
+| **[Ay-Otonom](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | GPS-Denied Lunar Rover Navigation & Sensor Fusion | `ROS 2` `C++` `EKF` `SLAM` |
+| **[TerraSense (Feza-X)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture)** | Fault-Tolerant CubeSat Flight Software & Avionics | `NASA-cFS` `C++` `Orbital Telemetry` |
+| **[Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack)** | High-Speed Autonomous Racing Perception & Control | `ROS 2` `C++20` `YOLOv8` `MPC` |
+| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | Real-Time Orbital Telemetry Anomaly Detection | `Kalman Filter` `Anomaly AI` `Python` |
+| **[ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON)** | Open-Source Microarchitecture & Hardware Design | `RISC-V` `RTL` `Hardware Acceleration` |
+| **[MilliHaklar](https://github.com/bahattinyunus/MilliHaklar-UzayHukuku)** | Space Law & Orbital Governance Intelligence | `RAG` `LLM` `SSA Data` |
+| **[Aura-Hockey-AR](https://github.com/bahattinyunus/Aura-Hockey-AR)** | Real-Time Spatial 3D Computer Vision & Physics | `MediaPipe` `Three.js` `WebGL` |
 
 </div>
 
 ---
 
-## 🚀 2026 Core Initiatives
-
-<div align="center">
-
-| System | Focus | Stack | Status |
-| :--- | :--- | :--- | :---: |
-| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Deep-Space Biosignal | `Swarm AI` `Edge` | 🟢 **Active** |
-| **[Ay-Otonom](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | Lunar Navigation | `ROS2` `EKF` `SLAM` | 🟢 **Nominal** |
-| **[Feza-X](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture)** | CubeSat Avionics | `NASA-cFS` `C++` | 🟢 **Nominal** |
-| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | SEU Telemetry Repair | `Kalman` `Anomaly AI` | 🟢 **Production** |
-| **[MilliHaklar](https://github.com/bahattinyunus/MilliHaklar-UzayHukuku)** | Space Law AI | `SSA Data` `RAG` | 🟢 **Deployed** |
-| **[Aura-Hockey-AR](https://github.com/bahattinyunus/Aura-Hockey-AR)** | Spatial 3D Vision | `MediaPipe` `Three.js` | 🟢 **Verified** |
-| **[TurkSpace](https://github.com/bahattinyunus/TurkSpace-Platform)** | SpaaS Dashboard | `Telemetry` `Web` | 🟢 **Nominal** |
-| **[KIZILELMA-H](./KIZILELMA_H_SPEC.md)** | Submersible UCAV | `Egemen-AI` `Stealth` | 🔵 **Blueprint** |
-| **[SUNGUR-OMNI](./SUNGUR_OMNI_SPEC.md)** | Omni-Domain Platform | `Omni-AI` `Swarm` | 🟣 **Visionary** |
-
-</div>
-
----
-
-## 📂 Systems Archive
+## 📂 Engineering Portfolio & Archive
 
 <details open>
 <summary><b>🤖 Robotics, Subsea & Autonomous Control</b></summary>
@@ -142,7 +127,7 @@
 
 ---
 
-## 📊 System Telemetry
+## 📊 Engineering Metrics & Activity
 
 <div align="center">
   <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
@@ -497,20 +482,20 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbahattinyunus%2Fbahattinyunus.json&amp;label=SYSTEM%20ACCESSES&amp;color=00d4ff&amp;style=flat-square" alt="System Accesses" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbahattinyunus%2Fbahattinyunus.json&amp;label=PROFILE%20VIEWS&amp;color=38BDF8&amp;style=flat-square" alt="Profile Views" />
   <br /><br />
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
-  <i>Founder @ Arat & Budak • Lead Researcher @ MERL • Chief Architect @ Anka Silicon</i><br>
+  <i>Systems Architect & Deep-Tech Researcher • Autonomous Robotics, Edge AI & Aerospace</i><br>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Base%3A+Ankara;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=38BDF8&center=true&vCenter=true&width=560&height=30&lines=Autonomous+Systems+%26+Real-Time+Robotics+Architecture;Edge+AI%2C+Foundation+Models+%26+Aerospace+Avionics;Engineering+Resilient+Software+from+Silicon+to+Orbit;Ankara%2C+T%C3%BCrkiye+%E2%80%A2+METU+(ODT%C3%9C)+%26+Hacettepe" alt="Focus Areas" />
   <br><br>
   
    <a href="https://www.youtube.com/watch?v=f-tUvDMciJU&list=RDDdChmxqb92c&index=2" target="_blank">
     <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
   <br><br>
-  <small>© 2026 — Built with Precision & Intent • <a href="#top">⬆ Return to Command Center</a></small>
+  <small>© 2026 Bahattin Yunus Çetin — Built with Precision & Intent • <a href="#top">⬆ Back to Top</a></small>
 </div>
 

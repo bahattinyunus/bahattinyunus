@@ -1,308 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="EGEMEN-OS v4.2 // Bahattin Yunus Çetin Tactical Command HUD">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Bahattin Yunus Çetin — Systems Architect &amp; Deep-Tech Researcher">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#02060D" />
-      <stop offset="50%" stop-color="#061325" />
-      <stop offset="100%" stop-color="#030914" />
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0A101F" />
+      <stop offset="100%" stop-color="#060A14" />
     </linearGradient>
 
-    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#091D34" stop-opacity="0.78" />
-      <stop offset="100%" stop-color="#040D1A" stop-opacity="0.88" />
-    </linearGradient>
-
-    <linearGradient id="cyanLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.0" />
-      <stop offset="20%" stop-color="#00d4ff" stop-opacity="0.9" />
-      <stop offset="50%" stop-color="#00e676" stop-opacity="1.0" />
-      <stop offset="80%" stop-color="#00d4ff" stop-opacity="0.9" />
-      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.0" />
-    </linearGradient>
-
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FFFFFF" />
-      <stop offset="55%" stop-color="#E0F2FE" />
-      <stop offset="100%" stop-color="#00d4ff" />
-    </linearGradient>
-
-    <linearGradient id="radarSweep" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.45" />
-      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.0" />
-    </linearGradient>
-
-    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#0055aa" />
-      <stop offset="60%" stop-color="#00d4ff" />
-      <stop offset="100%" stop-color="#00e676" />
-    </linearGradient>
-
-    <radialGradient id="centerGlow" cx="50%" cy="45%" r="50%">
-      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.16" />
-      <stop offset="60%" stop-color="#004080" stop-opacity="0.05" />
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.0" />
+    <radialGradient id="ambientGlow" cx="50%" cy="32%" r="55%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.14" />
+      <stop offset="45%" stop-color="#6366F1" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#050811" stop-opacity="0.0" />
     </radialGradient>
 
-    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#93C5FD" />
+    </linearGradient>
 
-    <pattern id="cyberGrid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#0B223D" stroke-width="0.7" />
-      <circle cx="32" cy="32" r="0.9" fill="#1A4473" opacity="0.65" />
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.0" />
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="1.0" />
+      <stop offset="75%" stop-color="#38BDF8" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111A2E" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#090E1A" stop-opacity="0.9" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.45" />
+      <stop offset="50%" stop-color="#1E293B" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0.35" />
+    </linearGradient>
+
+    <pattern id="archGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.6" stroke-opacity="0.45" />
     </pattern>
 
-    <!-- Motion Paths for Neural & Orbital Packet Routing -->
-    <path id="pathMerl" d="M 430 305 C 500 305, 530 265, 600 265" fill="none" />
-    <path id="pathBudak" d="M 770 305 C 700 305, 670 265, 600 265" fill="none" />
-    <path id="pathAnka" d="M 430 375 C 500 375, 530 265, 600 265" fill="none" />
-    <path id="pathSiber" d="M 770 375 C 700 375, 670 265, 600 265" fill="none" />
-
     <style>
-      .mono-xs { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 9.5px; fill: #64748B; letter-spacing: 1px; }
-      .mono-sm { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 10.5px; fill: #94A3B8; letter-spacing: 1.2px; }
-      .mono-md { font-family: 'Fira Code', Consolas, 'Courier New', monospace; font-size: 11.5px; fill: #E2E8F0; letter-spacing: 1px; }
-      .panel-hdr { font-family: 'Fira Code', Consolas, monospace; font-size: 11px; font-weight: 700; fill: #00d4ff; letter-spacing: 1.8px; }
-      .hero-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 40px; font-weight: 900; fill: url(#titleGrad); letter-spacing: 2.5px; }
-      .hero-sub { font-family: 'Fira Code', Consolas, monospace; font-size: 13px; font-weight: 700; fill: #00d4ff; letter-spacing: 2px; }
-      .hero-tag { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; fill: #94A3B8; letter-spacing: 0.5px; }
-      .node-title { font-family: 'Fira Code', Consolas, monospace; font-size: 11px; font-weight: 700; fill: #F8FAFC; }
-      .node-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 9.5px; fill: #38BDF8; }
-      .term-cmd { font-family: 'Fira Code', Consolas, monospace; font-size: 10px; fill: #38BDF8; }
-      .term-ok { font-family: 'Fira Code', Consolas, monospace; font-size: 10px; fill: #00e676; font-weight: 700; }
-      .term-txt { font-family: 'Fira Code', Consolas, monospace; font-size: 10px; fill: #CBD5E1; }
-      .spin-cw { transform-origin: 155px 195px; animation: rotCW 12s linear infinite; }
-      .spin-ccw { transform-origin: 155px 195px; animation: rotCCW 20s linear infinite; }
-      .sweep { transform-origin: 155px 195px; animation: rotCW 4.5s linear infinite; }
-      .blink { animation: blinkAnim 1.1s steps(2, start) infinite; }
-      .pulse { animation: pulseAnim 2.2s ease-in-out infinite; }
-      .scan { animation: scanLine 7s linear infinite; }
-      @keyframes rotCW { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-      @keyframes rotCCW { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
-      @keyframes blinkAnim { to { visibility: hidden; } }
-      @keyframes pulseAnim { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
-      @keyframes scanLine { 0% { transform: translateY(0px); opacity: 0; } 10% { opacity: 0.3; } 90% { opacity: 0.3; } 100% { transform: translateY(460px); opacity: 0; } }
+      .eyebrow { font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace; font-size: 11px; font-weight: 600; fill: #38BDF8; letter-spacing: 3.5px; }
+      .name { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; font-size: 46px; font-weight: 800; fill: url(#nameGrad); letter-spacing: 3px; }
+      .role { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 600; fill: #E2E8F0; letter-spacing: 1.5px; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; font-size: 14px; font-weight: 400; fill: #94A3B8; letter-spacing: 0.3px; }
+      .card-num { font-family: 'Fira Code', Consolas, monospace; font-size: 10.5px; font-weight: 700; fill: #38BDF8; letter-spacing: 1.5px; }
+      .card-title { font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif; font-size: 13.5px; font-weight: 700; fill: #F8FAFC; letter-spacing: 0.4px; }
+      .card-sub { font-family: 'Fira Code', Consolas, monospace; font-size: 10.5px; fill: #94A3B8; }
+      .meta { font-family: 'Fira Code', Consolas, monospace; font-size: 11px; fill: #64748B; letter-spacing: 1px; }
+      .meta-hi { font-family: 'Fira Code', Consolas, monospace; font-size: 11px; font-weight: 600; fill: #CBD5E1; letter-spacing: 1px; }
     </style>
   </defs>
 
-  <!-- Outer Command Frame -->
-  <rect x="2" y="2" width="1196" height="476" rx="14" fill="url(#bgGrad)" stroke="#163E69" stroke-width="2" />
-  <rect x="4" y="4" width="1192" height="472" rx="12" fill="url(#cyberGrid)" />
-  <ellipse cx="600" cy="230" rx="500" ry="210" fill="url(#centerGlow)" />
+  <!-- Canvas & Architectural Grid -->
+  <rect x="1" y="1" width="1198" height="418" rx="16" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="1.5" />
+  <rect x="2" y="2" width="1196" height="416" rx="15" fill="url(#archGrid)" />
+  <ellipse cx="600" cy="145" rx="540" ry="190" fill="url(#ambientGlow)" />
 
-  <!-- Moving Horizontal Scanline -->
-  <line x1="8" y1="10" x2="1192" y2="10" stroke="#00d4ff" stroke-width="1" class="scan" />
+  <!-- Subtle Geometric Orbital Arcs (Iconic Background Motif) -->
+  <path d="M 180 420 A 460 460 0 0 1 1020 420" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 6" opacity="0.7" />
+  <path d="M 80 420 A 560 560 0 0 1 1120 420" fill="none" stroke="#1E293B" stroke-width="0.75" opacity="0.5" />
 
-  <!-- Corner HUD Brackets -->
-  <path d="M 16 40 L 16 16 L 42 16" fill="none" stroke="#00d4ff" stroke-width="2" />
-  <path d="M 1184 40 L 1184 16 L 1158 16" fill="none" stroke="#00d4ff" stroke-width="2" />
-  <path d="M 16 440 L 16 464 L 42 464" fill="none" stroke="#00d4ff" stroke-width="2" />
-  <path d="M 1184 440 L 1184 464 L 1158 464" fill="none" stroke="#00d4ff" stroke-width="2" />
+  <!-- Top Minimal Header Bar -->
+  <g transform="translate(56, 36)">
+    <circle cx="6" cy="6" r="3.5" fill="#38BDF8" />
+    <text x="20" y="10" class="meta-hi">ANKARA, TÜRKİYE</text>
+    <text x="155" y="10" class="meta">•</text>
+    <text x="172" y="10" class="meta">METU (ODTÜ) &amp; HACETTEPE</text>
+    <text x="1088" y="10" text-anchor="end" class="meta">PORTFOLIO // <tspan fill="#38BDF8">BAHATTINYUNUS.GITHUB.IO</tspan></text>
+  </g>
+  <line x1="56" y1="58" x2="1144" y2="58" stroke="#1E293B" stroke-width="1" />
 
-  <!-- ================= TOP SYSTEM TELEMETRY BAR ================= -->
-  <rect x="26" y="16" width="1148" height="28" rx="5" fill="#051120" stroke="#133357" stroke-width="1" />
-  <circle cx="42" cy="30" r="4" fill="#00e676" class="pulse" />
-  <text x="54" y="34" class="mono-sm" fill="#E2E8F0"><tspan fill="#00d4ff" font-weight="700">EGEMEN-OS v4.2</tspan> // SOVEREIGN CYBER-PHYSICAL ARCHITECTURE KERNEL</text>
-  <text x="640" y="34" class="mono-sm">COORDS: <tspan fill="#2dd4bf">39.9334° N, 32.8597° E [ANKARA]</tspan></text>
-  <text x="1158" y="34" text-anchor="end" class="mono-sm">DEFCON // <tspan fill="#00e676" font-weight="700">NOMINAL [UPLINK LOCKED]</tspan></text>
-
-  <!-- ================= LEFT PANEL: OMNI-DOMAIN RADAR & TELEMETRY ================= -->
-  <rect x="26" y="56" width="260" height="372" rx="8" fill="url(#panelGrad)" stroke="#163B63" stroke-width="1.2" />
-  <text x="42" y="78" class="panel-hdr">◈ OMNI-DOMAIN RADAR</text>
-  <text x="272" y="78" text-anchor="end" class="mono-xs" fill="#2dd4bf">4/4 LOCKED</text>
-  <line x1="38" y1="86" x2="274" y2="86" stroke="#133357" stroke-width="1" />
-
-  <!-- Radar Scope -->
-  <g>
-    <circle cx="155" cy="195" r="86" fill="#030B17" stroke="#153B66" stroke-width="1.5" />
-    <circle cx="155" cy="195" r="64" fill="none" stroke="#0E2A4A" stroke-width="1" stroke-dasharray="4 4" />
-    <circle cx="155" cy="195" r="42" fill="none" stroke="#0E2A4A" stroke-width="1" />
-    <circle cx="155" cy="195" r="20" fill="none" stroke="#0E2A4A" stroke-width="1" stroke-dasharray="2 3" />
-    <line x1="69" y1="195" x2="241" y2="195" stroke="#0E2A4A" stroke-width="1" />
-    <line x1="155" y1="109" x2="155" y2="281" stroke="#0E2A4A" stroke-width="1" />
-
-    <!-- Outer Rotating Ring -->
-    <circle cx="155" cy="195" r="78" fill="none" stroke="#00d4ff" stroke-width="1.2" stroke-dasharray="18 10 4 10" class="spin-cw" />
-    <circle cx="155" cy="195" r="52" fill="none" stroke="#2dd4bf" stroke-width="1" stroke-dasharray="10 14" class="spin-ccw" />
-
-    <!-- Rotating Radar Sweep Sector -->
-    <path d="M 155 195 L 155 110 A 85 85 0 0 1 228 152 Z" fill="url(#radarSweep)" class="sweep" />
-
-    <!-- Target Blips -->
-    <circle cx="122" cy="148" r="3.2" fill="#00e676" filter="url(#glow)" class="pulse" />
-    <text x="108" y="142" class="mono-xs" fill="#00e676">FEZA-X</text>
-
-    <circle cx="196" cy="162" r="3.2" fill="#00d4ff" filter="url(#glow)" class="pulse" />
-    <text x="175" y="154" class="mono-xs" fill="#00d4ff">AY-ROVER</text>
-
-    <circle cx="182" cy="232" r="3.2" fill="#38bdf8" filter="url(#glow)" class="pulse" />
-    <text x="160" y="247" class="mono-xs" fill="#38bdf8">KIZILELMA-H</text>
-
-    <circle cx="115" cy="218" r="3.2" fill="#2dd4bf" filter="url(#glow)" class="pulse" />
-    <text x="86" y="232" class="mono-xs" fill="#2dd4bf">AUV-ORIN</text>
-
-    <circle cx="155" cy="195" r="3.5" fill="#FFFFFF" stroke="#00d4ff" stroke-width="1.5" />
+  <!-- Centerpiece Identity -->
+  <g transform="translate(600, 102)">
+    <text x="0" y="0" text-anchor="middle" class="eyebrow">SYSTEMS ARCHITECTURE • DEEP TECH • RESEARCH</text>
+    <text x="0" y="54" text-anchor="middle" class="name">BAHATTİN YUNUS ÇETİN</text>
+    <rect x="-220" y="74" width="440" height="1.5" fill="url(#accentLine)" />
+    <text x="0" y="104" text-anchor="middle" class="role">Software &amp; Systems Architect  •  Autonomous Robotics, Edge AI &amp; Aerospace</text>
+    <text x="0" y="130" text-anchor="middle" class="desc">Engineering high-reliability software from bare-metal silicon and real-time control to orbital flight systems.</text>
   </g>
 
-  <!-- Subsystem Load Bars -->
-  <g transform="translate(42, 300)">
-    <text x="0" y="12" class="mono-xs" fill="#CBD5E1">BUDAK QLoRA COMPRESSION</text>
-    <text x="228" y="12" text-anchor="end" class="mono-xs" fill="#00e676">80.0%</text>
-    <rect x="0" y="17" width="228" height="6" rx="3" fill="#0A192F" />
-    <rect x="0" y="17" width="182" height="6" rx="3" fill="#00e676" />
+  <!-- Four Iconic Architectural Pillars -->
+  <g transform="translate(56, 268)">
+    <!-- Pillar 1 -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="257" height="88" rx="10" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.2" />
+      <line x1="18" y1="0" x2="88" y2="0" stroke="#38BDF8" stroke-width="2" />
+      <text x="20" y="26" class="card-num">01 // AUTONOMY</text>
+      <text x="20" y="48" class="card-title">Robotics &amp; Control</text>
+      <text x="20" y="68" class="card-sub">ROS 2 • EKF SLAM • MPC</text>
+    </g>
 
-    <text x="0" y="38" class="mono-xs" fill="#CBD5E1">ANKA SILICON NPU THROUGHPUT</text>
-    <text x="228" y="38" text-anchor="end" class="mono-xs" fill="#00d4ff">94.2%</text>
-    <rect x="0" y="43" width="228" height="6" rx="3" fill="#0A192F" />
-    <rect x="0" y="43" width="214" height="6" rx="3" fill="#00d4ff" />
+    <!-- Pillar 2 -->
+    <g transform="translate(277, 0)">
+      <rect x="0" y="0" width="257" height="88" rx="10" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.2" />
+      <line x1="18" y1="0" x2="88" y2="0" stroke="#818CF8" stroke-width="2" />
+      <text x="20" y="26" class="card-num" fill="#818CF8">02 // INTELLIGENCE</text>
+      <text x="20" y="48" class="card-title">Edge AI &amp; Foundation</text>
+      <text x="20" y="68" class="card-sub">PyTorch • QLoRA • Vision</text>
+    </g>
 
-    <text x="0" y="64" class="mono-xs" fill="#CBD5E1">ROS 2 DDS REAL-TIME DETERMINISM</text>
-    <text x="228" y="64" text-anchor="end" class="mono-xs" fill="#2dd4bf">99.9%</text>
-    <rect x="0" y="69" width="228" height="6" rx="3" fill="#0A192F" />
-    <rect x="0" y="69" width="224" height="6" rx="3" fill="#2dd4bf" />
+    <!-- Pillar 3 -->
+    <g transform="translate(554, 0)">
+      <rect x="0" y="0" width="257" height="88" rx="10" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.2" />
+      <line x1="18" y1="0" x2="88" y2="0" stroke="#2DD4BF" stroke-width="2" />
+      <text x="20" y="26" class="card-num" fill="#2DD4BF">03 // AEROSPACE</text>
+      <text x="20" y="48" class="card-title">Avionics &amp; Orbital SW</text>
+      <text x="20" y="68" class="card-sub">NASA-cFS • CubeSat • DSP</text>
+    </g>
 
-    <text x="0" y="90" class="mono-xs" fill="#CBD5E1">COSMIC SEU KALMAN INTEGRITY</text>
-    <text x="228" y="90" text-anchor="end" class="mono-xs" fill="#38bdf8">NOMINAL</text>
-    <rect x="0" y="95" width="228" height="6" rx="3" fill="#0A192F" />
-    <rect x="0" y="95" width="208" height="6" rx="3" fill="#38bdf8" />
+    <!-- Pillar 4 -->
+    <g transform="translate(831, 0)">
+      <rect x="0" y="0" width="257" height="88" rx="10" fill="url(#cardGrad)" stroke="#1E293B" stroke-width="1.2" />
+      <line x1="18" y1="0" x2="88" y2="0" stroke="#F59E0B" stroke-width="2" />
+      <text x="20" y="26" class="card-num" fill="#F59E0B">04 // INFRASTRUCTURE</text>
+      <text x="20" y="48" class="card-title">Silicon &amp; Cyber Systems</text>
+      <text x="20" y="68" class="card-sub">RISC-V • C++20 • Security</text>
+    </g>
   </g>
 
-  <!-- ================= CENTER PANEL: IDENTITY & LIVE NEURAL TOPOLOGY ================= -->
-  <rect x="298" y="56" width="604" height="372" rx="8" fill="url(#panelGrad)" stroke="#1B4978" stroke-width="1.4" />
-
-  <!-- Top Emblem & Classification -->
-  <text x="600" y="82" text-anchor="middle" class="mono-xs" fill="#38bdf8" letter-spacing="3">[[ SOVEREIGN SYSTEMS ARCHITECT // EXECUTIVE DOSSIER ]]</text>
-
-  <!-- Main Name -->
-  <text x="600" y="128" text-anchor="middle" class="hero-name" filter="url(#glow)">BAHATTİN YUNUS ÇETİN</text>
-  <rect x="350" y="142" width="500" height="2" fill="url(#cyanLine)" />
-
-  <!-- Role & Tagline -->
-  <text x="600" y="166" text-anchor="middle" class="hero-sub">FOUNDER @ ARAT &amp; BUDAK • LEAD @ MERL • CHIEF ARCHITECT @ ANKA</text>
-  <text x="600" y="188" text-anchor="middle" class="hero-tag">Autonomous Robotics (ROS 2) • Zero-Latency Edge-AI • Aerospace &amp; Trans-Domain Defense Systems</text>
-
-  <!-- Live Neural & Venture Topology Graph -->
-  <!-- Connecting Bezier Circuits -->
-  <path d="M 430 305 C 500 305, 530 265, 600 265" fill="none" stroke="#194673" stroke-width="2" />
-  <path d="M 770 305 C 700 305, 670 265, 600 265" fill="none" stroke="#194673" stroke-width="2" />
-  <path d="M 430 375 C 500 375, 530 265, 600 265" fill="none" stroke="#194673" stroke-width="2" />
-  <path d="M 770 375 C 700 375, 670 265, 600 265" fill="none" stroke="#194673" stroke-width="2" />
-
-  <!-- Animated Data Packets Traveling Along Circuits -->
-  <circle r="3.5" fill="#00d4ff" filter="url(#glow)">
-    <animateMotion dur="2.6s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#pathMerl" />
-    </animateMotion>
-  </circle>
-  <circle r="3.5" fill="#00e676" filter="url(#glow)">
-    <animateMotion dur="2.2s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear">
-      <mpath href="#pathBudak" />
-    </animateMotion>
-  </circle>
-  <circle r="3.5" fill="#38bdf8" filter="url(#glow)">
-    <animateMotion dur="3.0s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear">
-      <mpath href="#pathAnka" />
-    </animateMotion>
-  </circle>
-  <circle r="3.5" fill="#2dd4bf" filter="url(#glow)">
-    <animateMotion dur="2.4s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear">
-      <mpath href="#pathSiber" />
-    </animateMotion>
-  </circle>
-
-  <!-- Central Core Hub -->
-  <g transform="translate(600, 265)">
-    <circle cx="0" cy="0" r="34" fill="#041224" stroke="#00d4ff" stroke-width="2" filter="url(#glow)" />
-    <circle cx="0" cy="0" r="26" fill="none" stroke="#00e676" stroke-width="1" stroke-dasharray="6 4" />
-    <text x="0" y="-3" text-anchor="middle" class="mono-xs" fill="#00d4ff" font-weight="700">EGEMEN</text>
-    <text x="0" y="9" text-anchor="middle" class="mono-xs" fill="#FFFFFF" font-weight="700">CORE</text>
+  <!-- Bottom Executive Footer -->
+  <line x1="56" y1="378" x2="1144" y2="378" stroke="#1E293B" stroke-width="1" />
+  <g transform="translate(56, 398)">
+    <text x="0" y="0" class="meta">75+ OPEN-SOURCE REPOSITORIES   •   200+ TECHNICAL ARTICLES   •   270+ VERIFIED CREDENTIALS</text>
+    <text x="1088" y="0" text-anchor="end" class="meta-hi">PRECISION • ARCHITECTURE • IMPACT</text>
   </g>
-
-  <!-- Node 1: MERL (Top Left) -->
-  <g transform="translate(318, 282)">
-    <rect x="0" y="0" width="215" height="46" rx="6" fill="#06162B" stroke="#00d4ff" stroke-width="1.2" />
-    <circle cx="16" cy="23" r="4" fill="#00d4ff" class="pulse" />
-    <text x="28" y="19" class="node-title">MERL // Research Lab</text>
-    <text x="28" y="34" class="node-sub">Self-Healing &amp; Code Evolution</text>
-  </g>
-
-  <!-- Node 2: BUDAK (Top Right) -->
-  <g transform="translate(667, 282)">
-    <rect x="0" y="0" width="215" height="46" rx="6" fill="#06162B" stroke="#00e676" stroke-width="1.2" />
-    <circle cx="16" cy="23" r="4" fill="#00e676" class="pulse" />
-    <text x="28" y="19" class="node-title">BUDAK // Edge-AI Ops</text>
-    <text x="28" y="34" class="node-sub">Pruning • QLoRA • Distillation</text>
-  </g>
-
-  <!-- Node 3: ANKA SILICON (Bottom Left) -->
-  <g transform="translate(318, 352)">
-    <rect x="0" y="0" width="215" height="46" rx="6" fill="#06162B" stroke="#38bdf8" stroke-width="1.2" />
-    <circle cx="16" cy="23" r="4" fill="#38bdf8" class="pulse" />
-    <text x="28" y="19" class="node-title">ANKA // Silicon Dynamics</text>
-    <text x="28" y="34" class="node-sub">RISC-V NPU &amp; Sovereign SLMs</text>
-  </g>
-
-  <!-- Node 4: SIBER VATAN (Bottom Right) -->
-  <g transform="translate(667, 352)">
-    <rect x="0" y="0" width="215" height="46" rx="6" fill="#06162B" stroke="#2dd4bf" stroke-width="1.2" />
-    <circle cx="16" cy="23" r="4" fill="#2dd4bf" class="pulse" />
-    <text x="28" y="19" class="node-title">SİBER VATAN // Red Team</text>
-    <text x="28" y="34" class="node-sub">Offensive Cyber &amp; DevSecOps</text>
-  </g>
-
-  <text x="600" y="416" text-anchor="middle" class="mono-xs" fill="#6495ED">MISSION DOCTRINE: SEA (AUV) ⟷ LAND (ROVER) ⟷ AIR (KIZILELMA-H) ⟷ ORBIT (FEZA-X)</text>
-
-  <!-- ================= RIGHT PANEL: LIVE KERNEL CONSOLE & SIGINT FFT ================= -->
-  <rect x="914" y="56" width="260" height="372" rx="8" fill="url(#panelGrad)" stroke="#163B63" stroke-width="1.2" />
-  <text x="930" y="78" class="panel-hdr">◈ KERNEL // ttyS0</text>
-  <text x="1160" y="78" text-anchor="end" class="mono-xs" fill="#00e676">115200 BAUD</text>
-  <line x1="926" y1="86" x2="1162" y2="86" stroke="#133357" stroke-width="1" />
-
-  <!-- Terminal Window -->
-  <rect x="926" y="96" width="236" height="196" rx="5" fill="#020810" stroke="#102A47" stroke-width="1" />
-  <g transform="translate(936, 114)">
-    <text x="0" y="0" class="term-cmd">$ egemen-os --boot --sovereign</text>
-    <text x="0" y="18" class="term-txt"><tspan class="term-ok">[OK]</tspan> Anka RISC-V NPU initialized</text>
-    <text x="0" y="34" class="term-txt"><tspan class="term-ok">[OK]</tspan> Budak SLM 4-bit (-80% VRAM)</text>
-    <text x="0" y="50" class="term-txt"><tspan class="term-ok">[OK]</tspan> MERL Self-Healing daemon up</text>
-    <text x="0" y="66" class="term-txt"><tspan class="term-ok">[OK]</tspan> ROS 2 Humble DDS mesh locked</text>
-    <text x="0" y="82" class="term-txt"><tspan class="term-ok">[OK]</tspan> Lunar EKF SLAM drift &lt; 0.02%</text>
-    <text x="0" y="98" class="term-txt"><tspan class="term-ok">[OK]</tspan> NASA-cFS CubeSat bus nominal</text>
-    <text x="0" y="114" class="term-txt"><tspan class="term-ok">[OK]</tspan> SIGINT SDR waterfall active</text>
-    <text x="0" y="130" class="term-txt"><tspan class="term-ok">[OK]</tspan> KIZILELMA-H hydro-aero ready</text>
-    <text x="0" y="150" class="term-cmd">root@ankara-edge:~# <tspan fill="#E2E8F0">status --all</tspan></text>
-    <text x="0" y="166" class="term-ok">&gt;&gt; ALL 266+ CREDENTIALS VERIFIED <tspan fill="#00d4ff" class="blink">█</tspan></text>
-  </g>
-
-  <!-- SIGINT / SDR Real-Time FFT Spectrum Analyzer -->
-  <text x="930" y="314" class="mono-xs" fill="#00d4ff" font-weight="700">SIGINT // RF &amp; BIOSIGNAL FFT SPECTRUM</text>
-  <rect x="926" y="322" width="236" height="92" rx="5" fill="#020810" stroke="#102A47" stroke-width="1" />
-
-  <!-- Animated Spectrum Bars (SMIL height/y animations) -->
-  <g transform="translate(936, 330)">
-    <rect x="0" y="20" width="9" height="56" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="56;24;68;35;56" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="20;52;8;41;20" dur="1.4s" repeatCount="indefinite"/></rect>
-    <rect x="14" y="36" width="9" height="40" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="40;66;20;52;40" dur="1.1s" repeatCount="indefinite"/><animate attributeName="y" values="36;10;56;24;36" dur="1.1s" repeatCount="indefinite"/></rect>
-    <rect x="28" y="12" width="9" height="64" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="64;30;70;44;64" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="12;46;6;32;12" dur="1.6s" repeatCount="indefinite"/></rect>
-    <rect x="42" y="28" width="9" height="48" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="48;18;60;32;48" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="28;58;16;44;28" dur="1.2s" repeatCount="indefinite"/></rect>
-    <rect x="56" y="8" width="9" height="68" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="68;42;16;62;68" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="8;34;60;14;8" dur="1.5s" repeatCount="indefinite"/></rect>
-    <rect x="70" y="32" width="9" height="44" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="44;72;28;50;44" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="32;4;48;26;32" dur="1.3s" repeatCount="indefinite"/></rect>
-    <rect x="84" y="18" width="9" height="58" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="58;22;64;38;58" dur="1.7s" repeatCount="indefinite"/><animate attributeName="y" values="18;54;12;38;18" dur="1.7s" repeatCount="indefinite"/></rect>
-    <rect x="98" y="40" width="9" height="36" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="36;68;34;18;36" dur="1.0s" repeatCount="indefinite"/><animate attributeName="y" values="40;8;42;58;40" dur="1.0s" repeatCount="indefinite"/></rect>
-    <rect x="112" y="14" width="9" height="62" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="62;26;70;48;62" dur="1.45s" repeatCount="indefinite"/><animate attributeName="y" values="14;50;6;28;14" dur="1.45s" repeatCount="indefinite"/></rect>
-    <rect x="126" y="30" width="9" height="46" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="46;60;22;66;46" dur="1.25s" repeatCount="indefinite"/><animate attributeName="y" values="30;16;54;10;30" dur="1.25s" repeatCount="indefinite"/></rect>
-    <rect x="140" y="24" width="9" height="52" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="52;16;58;36;52" dur="1.55s" repeatCount="indefinite"/><animate attributeName="y" values="24;60;18;40;24" dur="1.55s" repeatCount="indefinite"/></rect>
-    <rect x="154" y="10" width="9" height="66" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="66;38;72;28;66" dur="1.15s" repeatCount="indefinite"/><animate attributeName="y" values="10;38;4;48;10" dur="1.15s" repeatCount="indefinite"/></rect>
-    <rect x="168" y="34" width="9" height="42" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="42;64;26;54;42" dur="1.35s" repeatCount="indefinite"/><animate attributeName="y" values="34;12;50;22;34" dur="1.35s" repeatCount="indefinite"/></rect>
-    <rect x="182" y="22" width="9" height="54" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="54;28;62;20;54" dur="1.65s" repeatCount="indefinite"/><animate attributeName="y" values="22;48;14;56;22" dur="1.65s" repeatCount="indefinite"/></rect>
-    <rect x="196" y="38" width="9" height="38" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="38;70;32;48;38" dur="1.05s" repeatCount="indefinite"/><animate attributeName="y" values="38;6;44;28;38" dur="1.05s" repeatCount="indefinite"/></rect>
-    <rect x="210" y="16" width="9" height="60" rx="1.5" fill="url(#barGrad)"><animate attributeName="height" values="60;32;68;40;60" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="16;44;8;36;16" dur="1.4s" repeatCount="indefinite"/></rect>
-  </g>
-
-  <!-- ================= BOTTOM STATUS BAR ================= -->
-  <rect x="26" y="438" width="1148" height="26" rx="5" fill="#051120" stroke="#133357" stroke-width="1" />
-  <text x="42" y="455" class="mono-xs" fill="#94A3B8">CORE STACK // <tspan fill="#00d4ff">ROS 2 • C++20 • PYTORCH • vLLM • QLoRA • NASA-cFS • RISC-V • SDR/DSP • KALMAN/EKF</tspan></text>
-  <text x="1158" y="455" text-anchor="end" class="mono-xs" fill="#2dd4bf">CLEARANCE: SHGM UAV-1 • ISO/IEC 27001 AUDITOR</text>
 </svg>

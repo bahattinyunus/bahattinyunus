@@ -73,9 +73,65 @@
 
 <br>
 
+### 🌌 Trans-Domain Visual Dossier & Field Operations
+
 <div align="center">
-  <img src="./assets/tech_banner_v2.png" width="100%" alt="Integrated Autonomous Systems — Space, Lunar & Deep Ocean ROS2 Architecture" />
+
+| 🔱 **KIZILELMA-H // Hydro-Aero Stealth Platform** | 🌐 **SUNGUR-OMNI // Multi-Domain ROS 2 Mesh** |
+| :---: | :---: |
+| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H Hybrid Submersible Combat Aircraft" /></a><br><sub>**Mach 2.2 Stratospheric Flight ⟷ 85 kt Supercavitation Submersible** • [Read Spec Sheet →](./KIZILELMA_H_SPEC.md)</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="Integrated Autonomous Systems — Space, Lunar & Deep Ocean" /></a><br><sub>**Unified Sea / Land / Air / Deep-Space Autonomous Control Bus** • [Read Spec Sheet →](./SUNGUR_OMNI_SPEC.md)</sub> |
+| 🛰️ **MERL & FEZA-X // Orbital & Neural Command** | 🚐 **NOMADIC EDGE LAB // Anatolian Steppe Ops** |
+| <a href="./BIOGRAPHY.md"><img src="./assets/futuristic_frontier_banner.png" width="100%" alt="Orbital & Neural Command Center" /></a><br><sub>**Self-Healing Neural Topologies & Telemetry Command** • [Read Dossier →](./BIOGRAPHY.md)</sub> | <a href="https://github.com/bahattinyunus/Kiyamet-Hatti"><img src="./assets/vanlife_tech_banner.png" width="100%" alt="Nomadic Steppe AI Lab & Rover Field Operations" /></a><br><sub>**Off-Grid Mobile Edge Data Center, SatCom & Steppe Rover** • [Explore Kıyamet-Hattı →](https://github.com/bahattinyunus/Kiyamet-Hatti)</sub> |
+
 </div>
+
+<br>
+
+### 🧬 Sovereign Cyber-Physical Control Loop (System Architecture)
+
+```mermaid
+flowchart LR
+    subgraph SENSORS["📡 Multi-Domain Sensor Array"]
+        S1["LiDAR / Stereo Vision"]
+        S2["SDR / SIGINT RF Waterfall"]
+        S3["Star Tracker / IMU / Sonar"]
+    end
+
+    subgraph SANITIZER["🛡️ Signal & State Estimation"]
+        F1["Cosmic-Sanitizer (SEU Repair)"]
+        F2["Extended Kalman Filter (EKF)"]
+    end
+
+    subgraph EDGE_CORE["🧠 Sovereign Edge-AI Core"]
+        E1["Anka RISC-V / Jetson Orin NPU"]
+        E2["Budak 4-Bit QLoRA SLM (-80% VRAM)"]
+        E3["MERL Self-Healing Kernel"]
+    end
+
+    subgraph ACTUATION["🚀 Deterministic Actuation Bus"]
+        A1["ROS 2 DDS & Nav2 / MPC"]
+        A2["NASA-cFS CubeSat Flight Bus"]
+        A3["MAVLink / Trans-Domain Swarm"]
+    end
+
+    S1 & S2 & S3 --> F1 --> F2 --> E1
+    E1 <--> E2
+    E3 -.->|"Fault Recovery & Code Evolution"| E1 & A1
+    E2 --> A1 & A2 & A3
+```
+
+---
+
+<!-- START_QUOTE -->
+## ⚖️ Architectural Logic & Visionary Principles
+
+> *“Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu”*
+
+- **System Strategy**: Geçmişin hatası, geleceğin rehberidir. - Gazali
+- **Operational Integrity**: Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius
+- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
+- **Logic & Reason**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
+<!-- END_QUOTE -->
 
 ---
 

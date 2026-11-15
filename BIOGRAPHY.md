@@ -7,13 +7,13 @@
 |  |  |
 | :--- | :--- |
 | **İsim Soyisim** | **Bahattin Yunus Çetin** |
-| **Profesyonel Unvan** | **Founder @ Budak | AI Researcher & Edge-AI Developer** |
-| **Akademik Disiplin** | **Computer Education and Instructional Technologies (CEIT)** |
+| **Profesyonel Unvan** | **Founder @ Arat & Budak | AI Researcher & Edge-AI Developer** |
+| **Akademik Disiplin** | **Software Engineering & Autonomous Systems** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
-| **Mevcut Üs / Konum** | Ankara / Orta Doğu Teknik Üniversitesi (ODTÜ) |
+| **Mevcut Üs / Konum** | Ankara, Türkiye |
 | **Dijital Kimlik** | [![GitHub](https://img.shields.io/badge/GitHub-bahattinyunus-181717?style=flat-square&logo=github)](https://github.com/bahattinyunus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-bahattinyunus-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/) |
 
-Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda akademik ve teknik operasyonlarımı yürüttüğüm **Orta Doğu Teknik Üniversitesi (ODTÜ)**'nin vizyoner ve dinamik atmosferiyle birleştiriyorum.
+Aslen Ankara'nın **Şereflikoçhisar** ilçesinin zorlu coğrafyasında yoğrulmuş disiplinli karakter yapısını, şu anda Ankara merkezli yürüttüğüm ileri mühendislik ve Ar-Ge operasyonlarının vizyoner ve dinamik atmosferiyle birleştiriyorum.
 
 Kağıt üzerinde bir "üniversite öğrencisi" olarak görünsem de, bu tanım benim için sadece bürokratik bir statüden ibarettir. Gerçekte, pasif bir bilgi alıcısı olmayı reddediyor; endüstriyel standartlarda, ölçeklenebilir ve sürdürülebilir sistemler tasarlayan, proaktif ve vizyoner bir **IT Architect** kimliğiyle hareket ediyorum.
 
@@ -61,21 +61,15 @@ Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu 
 
 ## 🏛️ Akademik Mimari: Post-AI Stratejisi
 
-### 1. Orta Doğu Teknik Üniversitesi (ODTÜ / METU) - Bilgisayar ve Öğretim Teknolojileri (CEIT)
-**🗓️ 2026 - 2028** | *Mevcut Üs / İleri Teknoloji & Bilişsel Mimari (Active)*
-Eğitim teknolojileri, bilişsel sistemler ve insan-bilgisayar etkileşimini yapay zeka odaklı sistem tasarımıyla birleştiren ana operasyon üssüm.
-- **Felsefe**: Yapay zeka ve yazılım mimarilerinin sadece kod katmanında değil, insan ve sistem ölçeğinde nasıl öğrenip öğretildiğini modellemek.
-- **Hedef**: Uçtan uca teknoloji vizyonunu ODTÜ'nün köklü araştırma kültürüyle harmanlayarak küresel standartlarda sistem mühendisliği icra etmek.
-
-### 2. Hacettepe Üniversitesi
-**🗓️ 2026 - 2028** | *Akademik Genişleme & Çok Disiplinli Perspektif*
+### 1. Hacettepe Üniversitesi
+**🗓️ 2026 - 2028** | *Akademik Genişleme & Çok Disiplinli Perspektif (Active)*
 Akademik vizyonu farklı disiplinlerin dinamikleriyle zenginleştiren stratejik eğitim katmanı.
 
-### 3. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
+### 2. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
 **🗓️ 2023 - 2026** | *Yazılım Mimarisi Temelleri*
 IT Architect ve sistem tasarımı yetkinliklerimin çekirdek katmanını oluşturduğum dönem. Modern DevOps, CI/CD ve yazılım yaşam döngüsü (SDLC) konularında derinlemesine pratik.
 
-### 4. Recep Tayyip Erdoğan Üniversitesi
+### 3. Recep Tayyip Erdoğan Üniversitesi
 **🗓️ 2024 - 2026** | *Kaynak Çeşitliliği ve Yük Dengeleme (Load Balancing)*
 Eğitimi tek bir fiziksel lokasyonla sınırlandırmayarak akademik network ve laboratuvar imkanlarını çeşitlendirdiğim "Uydu Üs" stratejisi. Bu hibrit model, bilgiye erişimde kesintisiz bir operasyonel kabiliyet (uptime) sağladı.
 

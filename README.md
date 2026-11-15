@@ -4,225 +4,143 @@
 
 <div align="center">
 
-  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — AI Systems Architect & Autonomous Systems Command Banner" />
+  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — EGEMEN-OS Command Banner" />
 
   <br><br>
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00d4ff&center=true&vCenter=true&width=860&lines=Founder+%40+Arat+%26+Budak+%7C+Edge-AI+Optimization+Architect;Lead+Researcher+%40+MERL+%7C+Self-Healing+%26+Autonomous+Systems;Chief+Architect+%40+Anka+Silicon+Dynamics+%7C+Silicon-Ready+SLMs;ROS2+%E2%80%A2+C%2B%2B20+%E2%80%A2+PyTorch+%E2%80%A2+Aerospace+%26+Cyber-Physical+Systems" alt="Live Executive Telemetry" />
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-bahattinyunus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-Command_Center-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Web-Expertise_Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-@archyunus-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Dossier-Strategic_Biography-00e676?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Comms-Direct_Interface-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-
-  <p>
-    <a href="#-command-structure--rd-ventures"><code>[ 🏛️ Ventures & R&D ]</code></a> •
-    <a href="#-flagship-architectures-2026-core-initiatives"><code>[ 🚀 2026 Flagships ]</code></a> •
-    <a href="#-strategic-systems-matrix"><code>[ 📂 Systems Matrix ]</code></a> •
-    <a href="#-production-grade-technical-arsenal"><code>[ 🛠️ Tech Stack ]</code></a> •
-    <a href="#-analytical-intelligence--system-metrics"><code>[ 📊 Telemetry ]</code></a> •
-    <a href="#-academic-architecture--verified-credentials"><code>[ 🎓 Credentials ]</code></a>
+    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Dossier-00e676?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
 
 ---
 
-## 🏛️ Command Structure & R&D Ventures
-
-> *"Geleceği tahmin etmenin en güvenilir yolu, onu bizzat inşa etme iradesini göstermektir."*
->
-> **Architectural Thesis:** Moving beyond cloud-dependent AI consumption to engineer **sovereign, low-latency Edge-AI, autonomous robotic control stacks (ROS 2 / C++20), and resilient cyber-physical architectures** capable of operating under deterministic real-time and contested-environment constraints.
-
-| Venture / Initiative | Executive Role | Architectural Focus & Technical Mandate |
-| :--- | :--- | :--- |
-| **🔬 MERL**<br>*(Meta-Engineering Research Lab)* | **Lead Researcher & Founder** | **Self-Healing & Autonomous Systems:** Autonomous code evolution, cognitive bottleneck elimination, and fault-tolerant software organisms. |
-| **📱 Budak**<br>*(Edge-AI Optimization)* | **Founder & Optimization Architect** | **Zero-Latency Edge Intelligence:** Model pruning, quantization (`QLoRA`), and knowledge distillation delivering up to **80% footprint compression** for industrial IoT & autonomous platforms. |
-| **🦅 Anka Silicon Dynamics** | **Founder & Chief Architect** | **Silicon-Ready SLMs:** Co-designing Small Language Models (`vLLM` / `CUDA` / `NPU-FPGA`) and morphologically aware Turkish tokenization for sovereign hardware acceleration. |
-| **🛡️ Siber Vatan**<br>*(T-Red Team Operations)* | **Offensive & Defensive Cyber** | **Asymmetric Cyber Defense:** Red teaming, reverse engineering (`Ghidra`/`Radare2`), malware forensics, and critical infrastructure `DevSecOps` hardening. |
-
-<div align="right">
-  <sub>📄 Full operational history & doctrine: <a href="./BIOGRAPHY.md"><b>Read Strategic Dossier (BIOGRAPHY.md) →</b></a></sub>
-</div>
-
----
-
-## 🚀 Flagship Architectures (2026 Core Initiatives)
+## 🌌 Sovereign Concepts & Field Operations
 
 <div align="center">
 
-| System / Blueprint | Domain & Mission Profile | Core Engineering Stack | Operational Status |
+| 🔱 **[KIZILELMA-H](./KIZILELMA_H_SPEC.md)** | 🌐 **[SUNGUR-OMNI](./SUNGUR_OMNI_SPEC.md)** |
+| :---: | :---: |
+| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H" /></a><br><sub>`Mach 2.2 Air` ⟷ `85 kt Submersible`</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="SUNGUR-OMNI" /></a><br><sub>`Sea` • `Land` • `Air` • `Deep Space`</sub> |
+| 🛰️ **[ORBITAL & NEURAL COMMAND](./BIOGRAPHY.md)** | 🚐 **[NOMADIC EDGE LAB](https://github.com/bahattinyunus/Kiyamet-Hatti)** |
+| <a href="./BIOGRAPHY.md"><img src="./assets/futuristic_frontier_banner.png" width="100%" alt="Orbital Command" /></a><br><sub>`MERL` • `Anka Silicon` • `Budak Edge-AI`</sub> | <a href="https://github.com/bahattinyunus/Kiyamet-Hatti"><img src="./assets/futuristic_nomadic_lab.png" width="100%" alt="Futuristic Nomadic Edge Lab" /></a><br><sub>`Mobile SatCom` • `ROS 2 Rover` • `Edge Cluster`</sub> |
+
+</div>
+
+---
+
+## 🚀 2026 Core Initiatives
+
+<div align="center">
+
+| System | Focus | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Deep-Space Biosignal & Spectroscopy Intelligence | `Swarm AI` `Edge Computing` `PyTorch` | 🟢 **Active** |
-| **[Ay-Otonom](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | GPS-Denied Lunar Surface Autonomous Navigation | `ROS2` `EKF` `SLAM Toolbox` `Nav2` | 🟢 **Nominal** |
-| **[Feza-X / TerraSense](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture)** | Aethel-Class CubeSat Flight Software & Avionics | `NASA-cFS` `C++` `Orbital Telemetry` | 🟢 **Nominal** |
-| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | Radiation-Induced SEU Telemetry Integrity Stack | `Kalman Filter` `SEU Repair` `Anomaly AI` | 🟢 **Production** |
-| **[MilliHaklar](https://github.com/bahattinyunus/MilliHaklar-UzayHukuku)** | Orbital Situational Awareness & Space Law AI | `SSA Data` `Legal-AI` `RAG` | 🟢 **Deployed** |
-| **[Aura-Hockey-AR](https://github.com/bahattinyunus/Aura-Hockey-AR)** | Real-Time Spatial Hand-Tracking 3D Engine | `MediaPipe` `Three.js` `Computer Vision` | 🟢 **Verified** |
-| **[TurkSpace-Platform](https://github.com/bahattinyunus/TurkSpace-Platform)** | Space-as-a-Service (SpaaS) Mission Dashboard | `Space Data` `Telemetry UI` `Full-Stack` | 🟢 **Nominal** |
-| **[KIZILELMA-H Spec](./KIZILELMA_H_SPEC.md)** | Hybrid Submersible Unmanned Combat Aircraft | `Egemen-AI` `Trans-Media Hydro/Aero` | 🔵 **Spec Blueprint** |
-| **[SUNGUR-OMNI Spec](./SUNGUR_OMNI_SPEC.md)** | Multi-Domain Autonomous Platform (Sea/Land/Space) | `Omni-AI` `Tri-Propulsion` `Swarm` | 🟣 **Visionary Spec** |
-
-</div>
-
-<br>
-
-### 🌌 Trans-Domain Visual Dossier & Field Operations
-
-<div align="center">
-
-| 🔱 **KIZILELMA-H // Hydro-Aero Stealth Platform** | 🌐 **SUNGUR-OMNI // Multi-Domain ROS 2 Mesh** |
-| :---: | :---: |
-| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H Hybrid Submersible Combat Aircraft" /></a><br><sub>**Mach 2.2 Stratospheric Flight ⟷ 85 kt Supercavitation Submersible** • [Read Spec Sheet →](./KIZILELMA_H_SPEC.md)</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="Integrated Autonomous Systems — Space, Lunar & Deep Ocean" /></a><br><sub>**Unified Sea / Land / Air / Deep-Space Autonomous Control Bus** • [Read Spec Sheet →](./SUNGUR_OMNI_SPEC.md)</sub> |
-| 🛰️ **MERL & FEZA-X // Orbital & Neural Command** | 🚐 **NOMADIC EDGE LAB // Anatolian Steppe Ops** |
-| <a href="./BIOGRAPHY.md"><img src="./assets/futuristic_frontier_banner.png" width="100%" alt="Orbital & Neural Command Center" /></a><br><sub>**Self-Healing Neural Topologies & Telemetry Command** • [Read Dossier →](./BIOGRAPHY.md)</sub> | <a href="https://github.com/bahattinyunus/Kiyamet-Hatti"><img src="./assets/vanlife_tech_banner.png" width="100%" alt="Nomadic Steppe AI Lab & Rover Field Operations" /></a><br><sub>**Off-Grid Mobile Edge Data Center, SatCom & Steppe Rover** • [Explore Kıyamet-Hattı →](https://github.com/bahattinyunus/Kiyamet-Hatti)</sub> |
-
-</div>
-
-<br>
-
-### 🧬 Sovereign Cyber-Physical Control Loop (System Architecture)
-
-```mermaid
-flowchart LR
-    subgraph SENSORS["📡 Multi-Domain Sensor Array"]
-        S1["LiDAR / Stereo Vision"]
-        S2["SDR / SIGINT RF Waterfall"]
-        S3["Star Tracker / IMU / Sonar"]
-    end
-
-    subgraph SANITIZER["🛡️ Signal & State Estimation"]
-        F1["Cosmic-Sanitizer (SEU Repair)"]
-        F2["Extended Kalman Filter (EKF)"]
-    end
-
-    subgraph EDGE_CORE["🧠 Sovereign Edge-AI Core"]
-        E1["Anka RISC-V / Jetson Orin NPU"]
-        E2["Budak 4-Bit QLoRA SLM (-80% VRAM)"]
-        E3["MERL Self-Healing Kernel"]
-    end
-
-    subgraph ACTUATION["🚀 Deterministic Actuation Bus"]
-        A1["ROS 2 DDS & Nav2 / MPC"]
-        A2["NASA-cFS CubeSat Flight Bus"]
-        A3["MAVLink / Trans-Domain Swarm"]
-    end
-
-    S1 & S2 & S3 --> F1 --> F2 --> E1
-    E1 <--> E2
-    E3 -.->|"Fault Recovery & Code Evolution"| E1 & A1
-    E2 --> A1 & A2 & A3
-```
-
----
-
-<!-- START_QUOTE -->
-## ⚖️ Architectural Logic & Visionary Principles
-
-> *“Gökyüzüne bakmayanların yeryüzünde göreceği bir şey yoktur. - Ali Kuşçu”*
-
-- **System Strategy**: Geçmişin hatası, geleceğin rehberidir. - Gazali
-- **Operational Integrity**: Sakin bir zihin, en güçlü kalkandır. - Marcus Aurelius
-- **Architectural Vision**: Ya olduğun gibi görün, ya göründüğün gibi ol. - Mevlâna
-- **Logic & Reason**: Zorlukların ortasında fırsatlar yatar. - Albert Einstein
-<!-- END_QUOTE -->
-
----
-
-## 📂 Strategic Systems Matrix
-
-<details open>
-<summary><b>🤖 1. Robotics, Autonomous Control & Unmanned Systems</b></summary>
-<br>
-
-| Repository | Mission & Engineering Scope | Core Stack |
-| :--- | :--- | :--- |
-| **[Ay-Otonom-Navigasyon](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | Autonomous lunar rover localization, sensor fusion & path planning | `ROS2` `EKF` `DWA` `A*` |
-| **[Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack)** | High-speed perception, cone detection & Model Predictive Control | `ROS2` `YOLOv8` `MPC` `C++` |
-| **[ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control)** | European Rover Challenge ground control station & digital twin | `Digital Twin` `Edge AI` `Telemetry` |
-| **[Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core)** | Deterministic low-latency combat/autonomous robotics core | `C++20` `EKF` `DDS` `RTOS` |
-| **[LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV)** | Autonomous Underwater Vehicle vision & acoustic navigation stack | `Jetson Orin` `PyTorch` `ROS2` |
-| **[AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System)** | Multi-domain cooperative maritime swarm orchestration | `Swarm` `Nav2` `MAVLink` |
-| **[Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi)** | TEKNOFEST full-scale autonomous vehicle lateral/longitudinal control | `Stanley` `Pure Pursuit` `ROS2` |
-
-</details>
-
-<details open>
-<summary><b>🧠 2. Edge-AI, Large Language Models & Neural Architectures</b></summary>
-<br>
-
-| Repository | Mission & Engineering Scope | Core Stack |
-| :--- | :--- | :--- |
-| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Distributed swarm inference for astrobiological spectral analysis | `Swarm AI` `Edge Computing` `Spectroscopy` |
-| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | Deep anomaly detection & Kalman smoothing for corrupted sensor streams | `Kalman Smoothing` `Anomaly Detection` |
-| **[Akademik Radar](https://github.com/bahattinyunus/AkademikRadar)** | Scientific literature knowledge graph & semantic discovery engine | `SciBERT` `Graph Theory` `NLP` |
-| **[Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM)** | LLM-driven Technology Readiness Level assessment & R&D intelligence | `LLM` `RAG` `Data Analysis` |
-| **[NexusBroker](https://github.com/bahattinyunus/NexusBroker)** | Decentralized autonomous brokerage with vector memory & smart contracts | `Vector DB` `Solidity` `AI Agents` |
-| **[DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design)** | Neural surrogate modeling for RF & microstrip antenna optimization | `TensorFlow` `ANN` `Electromagnetics` |
-
-</details>
-
-<details open>
-<summary><b>🛡️ 3. Aerospace, SIGINT, Mission-Critical & Cybersecurity</b></summary>
-<br>
-
-| Repository | Mission & Engineering Scope | Core Stack |
-| :--- | :--- | :--- |
-| **[Feza-X (CubeSat)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture)** | Flight software bus, fault management & payload orchestration | `NASA-cFS` `Aethel-Class` `CubeSat` |
-| **[RedPlanet-Habitat](https://github.com/bahattinyunus/RedPlanet-Autonomous-Habitat)** | Closed-loop life support & planetary habitat operating system | `Habitat OS` `Cyber-Physical` |
-| **[Otonom-İstasyon](https://github.com/bahattinyunus/Otonom-Moduler-Istasyon)** | Orbital station docking dynamics (Clohessy-Wiltshire) & defense | `Orbital Mechanics` `CW-Dynamics` |
-| **[Kıyamet-Hattı](https://github.com/bahattinyunus/Kiyamet-Hatti)** | Off-grid emergency radio, satellite & tactical mesh communication | `SDR` `DMR/FT8` `SatCom` |
-| **[SIGINT HUB](https://github.com/bahattinyunus/SIGINT)** | Signal Intelligence, spectral waterfall analysis & RF classification | `DSP` `FFT` `ELINT` `SDR` |
-| **[NOAA Station](https://github.com/bahattinyunus/NOAA)** | Automated meteorological satellite APT/LRPT ground station decoder | `Orbital` `Signal Processing` |
-| **[Digital Archaeology Vault](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault)** | Cryptographic steganography & digital forensics analysis suite | `Forensics` `Steganography` `Crypto` |
-| **[Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri)** | Sovereign defense & deep-tech capability mapping platform | `Strategy` `TRL` `Analytics` |
-
-</details>
-
-<details open>
-<summary><b>🏗️ 4. Silicon, Industrial IIoT & Digital Twin Ecosystems</b></summary>
-<br>
-
-| Repository | Mission & Engineering Scope | Core Stack |
-| :--- | :--- | :--- |
-| **[ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON)** | Open-source processor architecture & sovereign semiconductor R&D | `RISC-V` `RTL` `Computer Architecture` |
-| **[Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler)** | Predictive maintenance, factory IIoT telemetry & digital twin | `IIoT` `Digital Twin` `MQTT` |
-| **[CivTech-Core](https://github.com/bahattinyunus/CivTech-Core)** | Finite Element Method (FEM) structural simulation & generative design | `FEM` `Generative Design` `Simulation` |
-| **[CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer)** | Abstract Syntax Tree (AST) static analysis & interactive architecture graph | `AST` `React` `FastAPI` |
-| **[NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App)** | Low-latency distributed pub/sub real-time communication engine | `Socket.IO` `Redis` `Node.js` |
-
-</details>
-
----
-
-## 🛠️ Production-Grade Technical Arsenal
-
-<div align="center">
-
-| ⚙️ Systems, Robotics & Edge Core | 🧠 AI, LLM Ops & Computer Vision |
-| :---: | :---: |
-| <br><img src="https://skillicons.dev/icons?i=cpp,c,py,rust,go,ros,linux,ubuntu,debian,arch,arduino,raspberrypi,cmake&perline=7" /><br><br><sub>`C++20` • `ROS 2 (Nav2 / DDS)` • `NASA-cFS` • `MAVLink` • `RISC-V` • `SDR / DSP` • `Jetson Orin`</sub> | <br><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas,anaconda,matlab,grafana,prometheus&perline=5" /><br><br><sub>`vLLM` • `QLoRA / Unsloth` • `Knowledge Distillation` • `YOLOv8` • `MediaPipe` • `Kalman / EKF` • `RAG`</sub> |
-
-<br>
-
-| 🛡️ Cyber, Cloud-Native & DevSecOps | 🌐 Full-Stack Telemetry & Data |
-| :---: | :---: |
-| <br><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,kali,bash,nginx,cloudflare,aws,gcp,terraform,ansible&perline=7" /><br><br><sub>`Offensive Security (Red Team)` • `Reverse Engineering (Ghidra)` • `Zero-Trust` • `ISO/IEC 27001` • `CI/CD`</sub> | <br><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,tailwind,nodejs,fastapi,flask,graphql,postgres,mongodb,redis,sqlite&perline=7" /><br><br><sub>`Mission Control GCS` • `3D Spatial Web (Three.js)` • `Vector DBs (Milvus/Pinecone)` • `WebSockets`</sub> |
+| **[AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture)** | Deep-Space Biosignal | `Swarm AI` `Edge` | 🟢 **Active** |
+| **[Ay-Otonom](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon)** | Lunar Navigation | `ROS2` `EKF` `SLAM` | 🟢 **Nominal** |
+| **[Feza-X](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture)** | CubeSat Avionics | `NASA-cFS` `C++` | 🟢 **Nominal** |
+| **[Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer)** | SEU Telemetry Repair | `Kalman` `Anomaly AI` | 🟢 **Production** |
+| **[MilliHaklar](https://github.com/bahattinyunus/MilliHaklar-UzayHukuku)** | Space Law AI | `SSA Data` `RAG` | 🟢 **Deployed** |
+| **[Aura-Hockey-AR](https://github.com/bahattinyunus/Aura-Hockey-AR)** | Spatial 3D Vision | `MediaPipe` `Three.js` | 🟢 **Verified** |
+| **[TurkSpace](https://github.com/bahattinyunus/TurkSpace-Platform)** | SpaaS Dashboard | `Telemetry` `Web` | 🟢 **Nominal** |
+| **[KIZILELMA-H](./KIZILELMA_H_SPEC.md)** | Submersible UCAV | `Egemen-AI` `Stealth` | 🔵 **Blueprint** |
+| **[SUNGUR-OMNI](./SUNGUR_OMNI_SPEC.md)** | Omni-Domain Platform | `Omni-AI` `Swarm` | 🟣 **Visionary** |
 
 </div>
 
 ---
 
-## 📊 Analytical Intelligence & System Metrics
+## 📂 Systems Archive
+
+<details open>
+<summary><b>🤖 Robotics & Autonomous Control</b></summary>
+<br>
+
+| Project | Stack |
+| :--- | :--- |
+| [Ay-Otonom-Navigasyon](https://github.com/bahattinyunus/Ay-Otonom-Navigasyon) | `ROS2` `EKF` `DWA` `A*` |
+| [Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
+| [ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
+| [Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
+| [LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
+| [AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
+| [Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
+
+</details>
+
+<details>
+<summary><b>🧠 Edge-AI, LLMs & Neural Networks</b></summary>
+<br>
+
+| Project | Stack |
+| :--- | :--- |
+| [AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge` `Spectroscopy` |
+| [Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer) | `Kalman` `Anomaly Detection` |
+| [Akademik Radar](https://github.com/bahattinyunus/AkademikRadar) | `SciBERT` `Graph Theory` |
+| [Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `RAG` `Analytics` |
+| [NexusBroker](https://github.com/bahattinyunus/NexusBroker) | `Vector DB` `Solidity` |
+| [DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
+
+</details>
+
+<details>
+<summary><b>🛡️ Aerospace, SIGINT & Cybersecurity</b></summary>
+<br>
+
+| Project | Stack |
+| :--- | :--- |
+| [Feza-X (CubeSat)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `CubeSat` |
+| [RedPlanet-Habitat](https://github.com/bahattinyunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Cyber-Physical` |
+| [Otonom-İstasyon](https://github.com/bahattinyunus/Otonom-Moduler-Istasyon) | `Orbital Defense` `CW-Dynamics` |
+| [Kıyamet-Hattı](https://github.com/bahattinyunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
+| [SIGINT HUB](https://github.com/bahattinyunus/SIGINT) | `DSP` `FFT` `ELINT` |
+| [NOAA Station](https://github.com/bahattinyunus/NOAA) | `Orbital` `Signal Proc.` |
+| [Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
+| [Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
+
+</details>
+
+<details>
+<summary><b>🏗️ Silicon, IIoT & Digital Twins</b></summary>
+<br>
+
+| Project | Stack |
+| :--- | :--- |
+| [ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON) | `RISC-V` `RTL` `Deep Tech` |
+| [Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
+| [CivTech-Core](https://github.com/bahattinyunus/CivTech-Core) | `FEM` `Generative Design` |
+| [CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` |
+| [NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img width="100%" src="./github-metrics.svg" alt="Extended GitHub Metrics Panel" />
+
+| ⚙️ Systems & Robotics | 🧠 AI & Vision |
+| :---: | :---: |
+| <br><img src="https://skillicons.dev/icons?i=cpp,c,py,rust,go,ros,linux,ubuntu,debian,arch,arduino,raspberrypi,cmake&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas,anaconda,matlab,grafana,prometheus&perline=5" /><br> |
+
+| 🛡️ Cyber & Cloud-Native | 🌐 Full-Stack & Data |
+| :---: | :---: |
+| <br><img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,kali,bash,nginx,cloudflare,aws,gcp,terraform,ansible&perline=7" /><br> | <br><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,threejs,tailwind,nodejs,fastapi,flask,graphql,postgres,mongodb,redis,sqlite&perline=7" /><br> |
+
+</div>
+
+---
+
+## 📊 System Telemetry
+
+<div align="center">
+  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
@@ -231,62 +149,49 @@ flowchart LR
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="./profile-activity.svg" alt="Tactical Contribution Activity Graph" />
+  <img width="100%" src="./profile-activity.svg" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="100%" src="./flagship-cards.svg" alt="Flagship Architectures Telemetry Deck" />
+  <img width="100%" src="./flagship-cards.svg" alt="Flagship Cards" />
 </div>
 
 ---
 
-## 🎓 Academic Architecture & Verified Credentials
+## 🎓 Education & Credentials
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Base_of_Operations-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verified_Certifications-266%2B-00e676?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/UAV--1_Pilot_License-SHGM-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certifications-266%2B-00e676?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV--1_Pilot-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-38BDF8?style=for-the-badge&logoColor=white" />
 </div>
 
 <br>
 
-### 🏛️ Academic Foundation
-
-| Institution | Academic Focus & Track | Period | Status |
+| Institution | Track | Period | Status |
 | :--- | :--- | :---: | :---: |
-| **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Multi-Disciplinary Academic & Research Track | `2026 – 2028` | 🟢 **Active** |
-| **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering & Systems Architecture | `2023 – 2026` | ⚪ **Alum** |
-| **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Distributed Academic & Laboratory Track | `2024 – 2026` | ⚪ **Alum** |
-
-### 🏅 Selected Executive Licenses & Hackathons
-
-| Credential / Honor | Issuing Authority | Verification / ID |
-| :--- | :--- | :--- |
-| **İHA-1 (UAV-1) Commercial/Sport Pilot License** | SHGM (Directorate General of Civil Aviation) | `TR-IHA1H10609053` |
-| **ISO/IEC 27001 Information Security Lead Auditor** | Information Security & Compliance | `Verified Auditor` |
-| **TUA Astro Hackathon & Interstellar Problem Solver** | Türkiye Uzay Ajansı (Turkish Space Agency) | `Mar – Apr 2026` |
-| **5-Day White Hat Hacker Bootcamp & Cyber Defense** | Siber Vatan / DOKA / Bilgi Güvenliği Derneği | `Mar – May 2026` |
-| **Ankara AI Hackathon** | Teknopark Ankara | `jeqDhGDaZKq` |
-| **Aviation & Space Exploration Camp** | TÜBİTAK | `Nov 2025` |
+| **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Academic & Research Track | `2026 – 2028` | 🟢 **Active** |
+| **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2023 – 2026` | ⚪ **Alum** |
+| **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Distributed Academic Track | `2024 – 2026` | ⚪ **Alum** |
 
 <details>
-<summary><b>📜 Complete Verification Ledger — All Licenses & Certifications (266+ Chronological Archive)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (266+)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |

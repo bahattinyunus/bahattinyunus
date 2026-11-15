@@ -61,15 +61,19 @@ Profesyonel kimliğimin en sert ve sarsılmaz katmanı bu dönemde atıldı. Bu 
 
 ## 🏛️ Akademik Mimari: Post-AI Stratejisi
 
-### 1. Hacettepe Üniversitesi
+### 1. Orta Doğu Teknik Üniversitesi (ODTÜ / METU) - Bilgisayar ve Öğretim Teknolojileri Eğitimi (CEIT)
+**🗓️ 2026 - 2028** | *İleri Teknoloji & Bilişsel Mimari (Active)*
+Eğitim teknolojileri, bilişsel sistemler ve insan-bilgisayar etkileşimini yapay zekâ odaklı sistem tasarımıyla birleştiren akademik katman.
+
+### 2. Hacettepe Üniversitesi
 **🗓️ 2026 - 2028** | *Akademik Genişleme & Çok Disiplinli Perspektif (Active)*
 Akademik vizyonu farklı disiplinlerin dinamikleriyle zenginleştiren stratejik eğitim katmanı.
 
-### 2. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
-**🗓️ 2023 - 2026** | *Yazılım Mimarisi Temelleri*
+### 3. Karadeniz Teknik Üniversitesi - Yazılım Mühendisliği
+**🗓️ 2024 - 2026** | *Yazılım Mimarisi Temelleri*
 IT Architect ve sistem tasarımı yetkinliklerimin çekirdek katmanını oluşturduğum dönem. Modern DevOps, CI/CD ve yazılım yaşam döngüsü (SDLC) konularında derinlemesine pratik.
 
-### 3. Recep Tayyip Erdoğan Üniversitesi
+### 4. Recep Tayyip Erdoğan Üniversitesi
 **🗓️ 2024 - 2026** | *Kaynak Çeşitliliği ve Yük Dengeleme (Load Balancing)*
 Eğitimi tek bir fiziksel lokasyonla sınırlandırmayarak akademik network ve laboratuvar imkanlarını çeşitlendirdiğim "Uydu Üs" stratejisi. Bu hibrit model, bilgiye erişimde kesintisiz bir operasyonel kabiliyet (uptime) sağladı.
 
@@ -103,7 +107,23 @@ Bu üç yıllık zorlu süreç bana; sadece ders çalışmayı değil, uzun vade
 
 ---
 
-## 🤝 Gönüllü Operasyonlar ve Toplumsal Etki
+## 🤝 Uluslararası Temsil, Seçkin Programlar ve Toplumsal Etki
+
+### 🇪🇺 Türkiye–Fransa Uluslararası Gençlik Değişimi Programı (GSB – Türkiye Maarif Vakfı)
+**Rol: Seçilmiş Temsilci (66.500+ Başvuru Arasından Seçilen 20 Genç)** | *2026*
+66.500'ü aşkın başvuru arasından seçilen 20 gençten biri olarak uluslararası diplomasi ve kurumsal temsil misyonu yürüttüm; **Avrupa Parlamentosu**, **Avrupa İnsan Hakları Mahkemesi (AİHM)** ve **T.C. Strasbourg Başkonsolosluğu** resmi ziyaretlerinde yer aldım.
+
+### ✈️ TEI – TUSAŞ Motor Sanayii A.Ş.
+**Program: 6. Dönem Havacılık Motorları Okulu** | *16 Hafta*
+Havacılık itki sistemleri, gaz türbinli motor mimarileri ve savunma sanayii mühendislik standartları üzerine 16 haftalık kapsamlı teknik eğitim programı.
+
+### ✍️ Düşünce Üretimi ve Teknik Yayınlar (200+ Makale)
+**Platformlar: Medium (@archyunus) & LinkedIn** | *2025 - 2026*
+Yapay zekâ, yazılım mühendisliği, siber güvenlik, savunma-havacılık ve teknoloji felsefesi üzerine 200'den fazla makale kaleme aldım. Öne çıkan çalışmalar:
+- *Bizden Neden Bir OpenAI Çıkmıyor? Yazılımcının "Survive" Mücadelesi*
+- *Gökyüzüne Mühendislik İmzası: Sıfırdan Zirveye Roket Yarışması Hazırlık Rehberi*
+- *Yapay Zeka Çağında Hayatta Kalmak: Junior Yazılımcıların %99'u Neden Sektörü Bırakacak?*
+- *2026: Teknolojide Büyük Kırılma Noktası ve Yapay Zekanın Yeni Çağı*
 
 ### 🗺️ GSB Seyahatsever | Tactical Field Operation (45 Days)
 **Rol: Tactical Explorer & Volunteer** | *Tem 2025 - Ağu 2025*

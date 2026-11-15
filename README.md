@@ -14,9 +14,9 @@
     <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-200%2B_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Dossier-00e676?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-    <a href="mailto:bahattinyunuscetin@hotmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:bahattinyunusct1@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 
 </div>
@@ -60,7 +60,7 @@
 ## 📂 Systems Archive
 
 <details open>
-<summary><b>🤖 Robotics & Autonomous Control</b></summary>
+<summary><b>🤖 Robotics, Subsea & Autonomous Control</b></summary>
 <br>
 
 | Project | Stack |
@@ -69,24 +69,26 @@
 | [Formula Student Autonomous](https://github.com/bahattinyunus/formula_student_autonomous_stack) | `ROS2` `YOLOv8` `MPC` |
 | [ERC Rover GCS](https://github.com/bahattinyunus/erc_rover_mission_control) | `Digital Twin` `Edge AI` |
 | [Robotex Warrior Core](https://github.com/bahattinyunus/robotex_warrior_core) | `C++20` `EKF` `DDS` |
-| [LionSight AUV](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `PyTorch` |
-| [AQUASYNC](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
+| [LionSight AUV & İnsansız Sualtı Rehberi](https://github.com/bahattinyunus/LionSight-AUV) | `Jetson Orin` `ROS2` `EKF` `PyTorch` |
+| [AQUASYNC & Denizaltı Akademisi](https://github.com/bahattinyunus/AQUASYNC-Multi-Domain-Autonomous-Maritime-System) | `Swarm` `Nav2` `MAVLink` |
 | [Robotaksi Full-Stack](https://github.com/bahattinyunus/teknofest_robotaksi) | `Stanley` `Pure Pursuit` |
 
 </details>
 
 <details>
-<summary><b>🧠 Edge-AI, LLMs & Neural Networks</b></summary>
+<summary><b>🧠 Edge-AI, Forecasting, LLMs & Ontology</b></summary>
 <br>
 
 | Project | Stack |
 | :--- | :--- |
 | [AstroBio-Edge](https://github.com/bahattinyunus/AstroBio-Edge-Architecture) | `Swarm AI` `Edge` `Spectroscopy` |
+| [Datathon Tahminleme Hattı](https://github.com/bahattinyunus) | `Attention-LSTM` `Prophet` `Random Forest` |
+| [PoseidonEye (Marine Predictive Maintenance)](https://github.com/bahattinyunus) | `Isolation Forest` `MQTT` `Streamlit` |
 | [Cosmic-Sanitizer](https://github.com/bahattinyunus/Cosmic-Telemetry-Sanitizer) | `Kalman` `Anomaly Detection` |
 | [Akademik Radar](https://github.com/bahattinyunus/AkademikRadar) | `SciBERT` `Graph Theory` |
-| [Nexus TRL](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `RAG` `Analytics` |
-| [NexusBroker](https://github.com/bahattinyunus/NexusBroker) | `Vector DB` `Solidity` |
+| [Nexus TRL & NexusBroker](https://github.com/bahattinyunus/Nexus-TRL-LLM) | `LLM` `Vector DB` `Solidity` |
 | [DeepAntenna](https://github.com/bahattinyunus/ANN-for-Antenna-Design) | `TensorFlow` `ANN` |
+| [Hanif AI & AGI-Bilinç-Araştırmaları](https://github.com/bahattinyunus) | `Cognitive AI` `Ontology` `Philosophy` |
 
 </details>
 
@@ -96,28 +98,29 @@
 
 | Project | Stack |
 | :--- | :--- |
-| [Feza-X (CubeSat)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `CubeSat` |
+| [Feza-X (CubeSat) & TUA Uzay Mimarileri (15+ Projects)](https://github.com/bahattinyunus/TerraSense-CubeSat-Architecture) | `NASA-cFS` `CubeSat` `Space Law` |
 | [RedPlanet-Habitat](https://github.com/bahattinyunus/RedPlanet-Autonomous-Habitat) | `Habitat OS` `Cyber-Physical` |
 | [Otonom-İstasyon](https://github.com/bahattinyunus/Otonom-Moduler-Istasyon) | `Orbital Defense` `CW-Dynamics` |
 | [Kıyamet-Hattı](https://github.com/bahattinyunus/Kiyamet-Hatti) | `SDR` `DMR/FT8` `SatCom` |
 | [SIGINT HUB](https://github.com/bahattinyunus/SIGINT) | `DSP` `FFT` `ELINT` |
 | [NOAA Station](https://github.com/bahattinyunus/NOAA) | `Orbital` `Signal Proc.` |
-| [Digital Archaeology](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` |
-| [Milli Teknoloji Envanteri](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` |
+| [Digital Archaeology & PatentWarrior](https://github.com/bahattinyunus/Digital-Archaeology-Steganography-Vault) | `Forensics` `Steganography` `Audit` |
+| [Milli Teknoloji Envanteri & IgniteOS](https://github.com/bahattinyunus/Milli-Teknoloji-Envanteri) | `Strategy` `TRL` `Systems` |
 
 </details>
 
 <details>
-<summary><b>🏗️ Silicon, IIoT & Digital Twins</b></summary>
+<summary><b>🏗️ Silicon, IIoT, Mobile & Instructional Architecture</b></summary>
 <br>
 
 | Project | Stack |
 | :--- | :--- |
 | [ANATOLIA-SILICON](https://github.com/bahattinyunus/ANATOLIA-SILICON) | `RISC-V` `RTL` `Deep Tech` |
 | [Industrial Intelligence](https://github.com/bahattinyunus/teknofest_sanayide_dijital_teknolojiler) | `IIoT` `Digital Twin` |
+| [Android Crypto Tracker (GDG Trabzon)](https://github.com/bahattinyunus) | `Jetpack Compose` `MVVM` `Retrofit` |
 | [CivTech-Core](https://github.com/bahattinyunus/CivTech-Core) | `FEM` `Generative Design` |
-| [CodeVisualizer](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` |
-| [NovaChat](https://github.com/bahattinyunus/NovaChat-Real-Time-Messaging-App) | `Socket.IO` `Redis` |
+| [CodeVisualizer & NovaChat](https://github.com/bahattinyunus/CodeVisualizer) | `AST` `React` `FastAPI` `Redis` |
+| [Dijital Öğretim Mimarlığı & GSB Müfredatı](https://github.com/bahattinyunus) | `Storyline 360` `EdTech` |
 
 </details>
 
@@ -175,13 +178,13 @@
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education, Programs & Credentials
 
 <div align="center">
   <img src="https://img.shields.io/badge/Base-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certifications-266%2B-00e676?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certifications-270%2B-00e676?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot-SHGM-orange?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ISO/IEC_27001-Lead_Auditor-38BDF8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TEI-Aviation_Engines-38BDF8?style=for-the-badge&logoColor=white" />
 </div>
 
 <br>
@@ -190,15 +193,38 @@
 | :--- | :--- | :---: | :---: |
 | **[Orta Doğu Teknik Üniversitesi (ODTÜ / METU)](https://www.metu.edu.tr/)** | Computer Education & Instructional Technology (CEIT) | `2026 – 2028` | 🟢 **Active** |
 | **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Academic & Research Track | `2026 – 2028` | 🟢 **Active** |
-| **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2023 – 2026` | ⚪ **Alum** |
+| **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2024 – 2026` | ⚪ **Alum** |
 | **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Distributed Academic Track | `2024 – 2026` | ⚪ **Alum** |
 
+<br>
+
+| 🏆 Selected Programs, Fellowships & Hackathons | Scope & Distinction |
+| :--- | :--- |
+| 🇪🇺 **Türkiye–Fransa Uluslararası Gençlik Değişimi (GSB & Maarif Vakfı)** | **Selected 1 of 20 out of 66,500+ applicants** • European Parliament & ECHR (Strasbourg) |
+| ✈️ **TEI – TUSAŞ Motor Sanayii A.Ş.** | **6. Dönem Havacılık Motorları Okulu** (16-Week Aerospace Propulsion Program) |
+| 🛡️ **Türkiye Siber Vatan Programı 2026 & KAMP+ Siber Güvenlik** | **6-Hour CTF Exam Laureate** • 5-Day White Hat Hacker & BGD SOC/Pentest Camp |
+| 🚀 **TÜBİTAK KAMP+ Uzay Kampı & TUA Interstellar Problem Solver** | Radio Astronomy, Space R&D & Turkish Space Agency (TUA) Problem Solver |
+| 📊 **Datathons & AI Hackathons (2025–2026)** | **DATATHON '26** & **HACKATHON '26** (Girişimcilik Vakfı) • **BTK Datathon '25** • **Ankara AI Hackathon** |
+| ✍️ **200+ Technical Articles ([Medium](https://medium.com/@archyunus) & LinkedIn)** | AI Architecture, Cybersecurity, Rocket/Subsea Engineering & Philosophy of Technology |
+
+<br>
+
+<div align="center">
+  <sub><b>270+ Verified Certificates by Domain:</b> 💻 Yazılım & Web (56) • 🧠 Yapay Zekâ & Veri (43) • 📈 Girişimcilik & Yönetim (40) • 🎯 Kişisel Gelişim (29) • 🤖 Elektronik, Robotik & Havacılık (28) • 🏛️ Okuryazarlık & Kamu (25) • 📱 Sosyal Medya (17) • 🛡️ Siber Güvenlik (16) • ⚖️ Hukuk & Fikri Mülkiyet (16)</sub>
+</div>
+
+<br>
+
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (266+)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (270+ Tam Arşiv)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
+| 2026 | 6. Dönem Havacılık Motorları Okulu (16 Hafta) | TEI – TUSAŞ Motor Sanayii A.Ş. | — |
+| 2026 | DATATHON 2026 & HACKATHON 2026 | Türkiye Girişimcilik Vakfı | — |
+| 2026 | Yapay Zekâ ile İçerik Üretimi – Elazığ & Malatya | BTK Akademi | — |
+| Haz 2026 | Fotoğrafçılık Teknikleri | Bilgeİş | — |
 | Haz 2026 | HTML5 & CSS3 – Ders 3 | Bilgeİş | ad616b65-53ef-4c5d-9b8f-00cd6cf1fa43 |
 | Haz 2026 | HTML5 & CSS3 – Ders 2 | Bilgeİş | b100b204-76e2-4968-a82a-8d8e4c9950c9 |
 | Haz 2026 | HTML5 & CSS3 – Ders 1 | Bilgeİş | a3e692f7-e470-47ad-85f6-a1af0bccf3af |

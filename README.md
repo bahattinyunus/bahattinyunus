@@ -1,7 +1,7 @@
 <a id="top"></a>
-  <a href="https://www.youtube.com/watch?v=f-tUvDMciJU&list=RDDdChmxqb92c&index=2" target="_blank">
-    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
-  </a>
+<a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
+    <img src="https://img.youtube.com/vi/DdChmxqb92c/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
+  </a> 
 <br>
 
 <div align="center">
@@ -506,8 +506,9 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&height=30&lines=%5B%E2%97%8F%5D+Base%3A+Ankara;%5B%E2%97%8F%5D+Nomadic+Hub%3A+Live+-+AI+Lab;%5B%E2%97%8F%5D+Status%3A+Living+at+the+Edge;%5B%E2%97%8F%5D+Awaiting+Mission+Parameters..." alt="Live Telemetry" />
   <br><br>
-  <a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/DdChmxqb92c/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
+  
+   <a href="https://www.youtube.com/watch?v=f-tUvDMciJU&list=RDDdChmxqb92c&index=2" target="_blank">
+    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
   <br><br>
   <small>© 2026 — Built with Precision & Intent • <a href="#top">⬆ Return to Command Center</a></small>

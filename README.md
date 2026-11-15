@@ -29,9 +29,9 @@
 
 | 🔱 **[KIZILELMA-H](./KIZILELMA_H_SPEC.md)** | 🌐 **[SUNGUR-OMNI](./SUNGUR_OMNI_SPEC.md)** |
 | :---: | :---: |
-| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H" /></a><br><sub>`Mach 2.2 Air` ⟷ `85 kt Submersible`</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="SUNGUR-OMNI" /></a><br><sub>`Sea` • `Land` • `Air` • `Deep Space`</sub> |
-| 🛰️ **[ORBITAL & NEURAL COMMAND](./BIOGRAPHY.md)** | 🚐 **[NOMADIC EDGE LAB](https://github.com/bahattinyunus/Kiyamet-Hatti)** |
-| <a href="./BIOGRAPHY.md"><img src="./assets/futuristic_frontier_banner.png" width="100%" alt="Orbital Command" /></a><br><sub>`MERL` • `Anka Silicon` • `Budak Edge-AI`</sub> | <a href="https://github.com/bahattinyunus/Kiyamet-Hatti"><img src="./assets/futuristic_nomadic_lab.png" width="100%" alt="Futuristic Nomadic Edge Lab" /></a><br><sub>`Mobile SatCom` • `ROS 2 Rover` • `Edge Cluster`</sub> |
+| <a href="./KIZILELMA_H_SPEC.md"><img src="./assets/kizilelma_hybrid_concept.png" width="100%" alt="KIZILELMA-H" /></a><br><sub>`Mach 2.2 Air` ⟷ `85 kt Submersible` • `Egemen-AI L5` • [Spec →](./KIZILELMA_H_SPEC.md)</sub> | <a href="./SUNGUR_OMNI_SPEC.md"><img src="./assets/tech_banner_v2.png" width="100%" alt="SUNGUR-OMNI" /></a><br><sub>`95 kt Sea` • `120 km/h Land` • `Mach 6+ Air` • `15 km/s Δv Space` • [Spec →](./SUNGUR_OMNI_SPEC.md)</sub> |
+| 🛰️ **[ORBITAL & NEURAL COMMAND](./ORBITAL_COMMAND_SPEC.md)** | 🚐 **[NOMADIC EDGE LAB](./NOMADIC_LAB_SPEC.md)** |
+| <a href="./ORBITAL_COMMAND_SPEC.md"><img src="./assets/orbital_command_hud.png" width="100%" alt="Orbital & Neural Command" /></a><br><sub>`MERL Self-Healing` • `FEZA-X cFS` • `Anka RISC-V NPU` • [Spec →](./ORBITAL_COMMAND_SPEC.md)</sub> | <a href="./NOMADIC_LAB_SPEC.md"><img src="./assets/futuristic_nomadic_lab.png" width="100%" alt="Futuristic Nomadic Edge Lab" /></a><br><sub>`Mobile SatCom` • `ROS 2 Steppe Rover` • `Budak 4-Bit SLM` • [Spec →](./NOMADIC_LAB_SPEC.md)</sub> |
 
 </div>
 

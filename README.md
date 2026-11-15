@@ -1,9 +1,4 @@
 <a id="top"></a>
- <div align="center">
-  <a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/-Bzqd9vUh2Q/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
-  </a>
-</div>
 
 <br>
 
@@ -531,8 +526,8 @@
   <small>© 2026 — Built with Precision & Intent</small>
   
   <div align="center">
-  <a href="https://www.youtube.com/watch?v=Skt9kuqwvGQ&list=RDSkt9kuqwvGQ&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/6SF4Zm1i9Dc/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
+  <a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
+    <img src="https://img.youtube.com/vi/DdChmxqb92c/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
   </a>
 </div>
 

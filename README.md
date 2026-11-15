@@ -186,6 +186,7 @@
 
 | Institution | Track | Period | Status |
 | :--- | :--- | :---: | :---: |
+| **[Orta Doğu Teknik Üniversitesi (ODTÜ / METU)](https://www.metu.edu.tr/)** | Computer Education & Instructional Technology (CEIT) | `2026 – 2028` | 🟢 **Active** |
 | **[Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/)** | Academic & Research Track | `2026 – 2028` | 🟢 **Active** |
 | **[Karadeniz Teknik Üniversitesi (KTÜ)](https://www.ktu.edu.tr/)** | Software Engineering | `2023 – 2026` | ⚪ **Alum** |
 | **[Recep Tayyip Erdoğan Üniversitesi (RTEÜ)](https://erdogan.edu.tr/)** | Distributed Academic Track | `2024 – 2026` | ⚪ **Alum** |

@@ -165,7 +165,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Base-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certifications-270%2B-00e676?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certifications-300%2B-00e676?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/UAV--1_Pilot-SHGM-orange?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/TEI-Aviation_Engines-38BDF8?style=for-the-badge&logoColor=white" />
 </div>
@@ -193,21 +193,53 @@
 <br>
 
 <div align="center">
-  <sub><b>270+ Verified Certificates by Domain:</b> 💻 Yazılım & Web (56) • 🧠 Yapay Zekâ & Veri (43) • 📈 Girişimcilik & Yönetim (40) • 🎯 Kişisel Gelişim (29) • 🤖 Elektronik, Robotik & Havacılık (28) • 🏛️ Okuryazarlık & Kamu (25) • 📱 Sosyal Medya (17) • 🛡️ Siber Güvenlik (16) • ⚖️ Hukuk & Fikri Mülkiyet (16)</sub>
+  <sub><b>300+ Verified Certificates by Domain:</b> 💻 Yazılım & Web (56) • 📈 Girişimcilik & Yönetim (52) • 🧠 Yapay Zekâ & Veri (46) • 🤖 Elektronik, Robotik & Havacılık (33) • 🏛️ Okuryazarlık & Kamu (32) • 🎯 Kişisel Gelişim (32) • ⚖️ Hukuk & Fikri Mülkiyet (18) • 📱 Sosyal Medya (18) • 🛡️ Siber Güvenlik (16)</sub>
 </div>
 
 <br>
 
 <details>
-<summary><b>📜 Lisanslar ve Sertifikalar (270+ Tam Arşiv)</b></summary>
+<summary><b>📜 Lisanslar ve Sertifikalar (300+ Tam Arşiv)</b></summary>
 <br />
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
-| 2026 | 6. Dönem Havacılık Motorları Okulu (16 Hafta) | TEI – TUSAŞ Motor Sanayii A.Ş. | — |
-| 2026 | DATATHON 2026 & HACKATHON 2026 | Türkiye Girişimcilik Vakfı | — |
-| 2026 | Yapay Zekâ ile İçerik Üretimi – Elazığ & Malatya | BTK Akademi | — |
-| Haz 2026 | Fotoğrafçılık Teknikleri | Bilgeİş | — |
+| Kas 2026 | Copilot | BTK Akademi | 09e6eb26-797d-49ae-8284-06052fb70eef |
+| Kas 2026 | Resmi Yazışma Usul ve Esasları | BTK Akademi | e2bae188-4af1-46e4-b003-7f8f601fe664 |
+| Kas 2026 | Güvenilir Yapay Zekâ | BTK Akademi | cc416dfd-0fbf-43be-9100-538088d74ee8 |
+| Kas 2026 | Entegre Lojistik Destek Yönetimi | BTK Akademi | 96f86865-a7b0-4f98-9569-18e72af8e02a |
+| Kas 2026 | Kalite Güvence ve Sertifikasyon | BTK Akademi | cdb39613-e7b5-4540-abd9-d170d381efab |
+| Kas 2026 | Savunma Sanayiinde Finans | BTK Akademi | 306411fc-3479-4d70-a616-55f324fdc631 |
+| Kas 2026 | Savunma Sanayiinde Kurumsal İletişim | BTK Akademi | 6f12689b-93b3-4b48-b160-43b1e23d4a5e |
+| Kas 2026 | Dijital Mühendislik ve Dijital Dönüşüm | BTK Akademi | 0c7896ae-ab9e-4868-8a81-0015d9f6cbff |
+| Kas 2026 | Savunma Sanayiinde Kurumsal Akademiler | BTK Akademi | cba0297f-a33e-44e5-abdf-efa7e22acba2 |
+| Kas 2026 | İhtiyaçtan Ürüne Sistem Mühendisliği ve Ürün Ömür Devri Yaklaşımı | BTK Akademi | 2e7f644a-07a0-47e1-bff5-86958949ab1a |
+| Kas 2026 | Savunma Sanayiinde Tedarik Zinciri ve Yönetimi | BTK Akademi | 972ccfd0-82c1-4421-934f-f6b5254d01f3 |
+| Kas 2026 | Savunma Sanayiinde Yetenek Yönetimi | BTK Akademi | a1098d36-b92d-4f94-9ce9-20712770ab48 |
+| Kas 2026 | Dijital Ortamda Çocukların Hukuken Korunması | BTK Akademi | a9c19fad-ea72-4cc7-a9fa-3534a9c0176f |
+| Kas 2026 | Teknoloji Çağında Ebeveynlik | BTK Akademi | 97012a12-b583-4e83-b36d-cc3ae4fcc738 |
+| Kas 2026 | Aile İçi Teknoloji Okuryazarlığı | BTK Akademi | 28647fbd-b8e5-457b-9e21-93419f676533 |
+| Kas 2026 | Dijital Dünya ve Çocuk | BTK Akademi | 9f2e19ab-5a6b-44d3-8934-191adf94e742 |
+| Kas 2026 | Aile İçi İletişim | BTK Akademi | 168b9060-f1f6-4a8c-bdce-335076470098 |
+| Kas 2026 | Çocuğu Tanıma | BTK Akademi | dc564883-d1db-41fa-b40b-8e1756f506de |
+| Kas 2026 | Medya Okuryazarlığı | BTK Akademi | 2327afa6-942c-4ef9-a607-b053eba0ccbc |
+| Kas 2026 | Milli Yetkinlik Hamlesi | BTK Akademi | 0475d9c9-d40b-4351-853a-bf3c6099ea3e |
+| Kas 2026 | Savunma Sanayiinde Uluslararası İş Geliştirme ve Pazarlama | BTK Akademi | 0f2be976-1f02-4cd2-9047-3135a0ea0cf8 |
+| Kas 2026 | Türk Savunma Sanayii Yapısı ve İşleyişi | BTK Akademi | 7be583f1-b5df-4ddb-acb7-d1257e3fc5b8 |
+| Kas 2026 | Savunma Sistemleri ve Teknolojilerine Genel Bakış | BTK Akademi | 83291f45-764a-4b6b-81ac-dc88e8cfbd2d |
+| Kas 2026 | II. Yenilikçi Yaklaşımlarla Kök Hücre Teknolojileri | Hacettepe Üniversitesi | 023_Bahattin Yunus Çetin |
+| Eki 2026 | Savunma Sanayiinde Proje Yönetimi | BTK Akademi | 0f147408-719b-42c4-b942-4a367e37b379 |
+| Eki 2026 | Türk Savunma Sanayii Ürün ve Platformları | BTK Akademi | 3753a108-84f3-4411-bf71-ad0ed3cf8561 |
+| Eki 2026 | Savunma Sanayii Başkanlığı ve Türk Savunma Sanayii Ekosistemi | BTK Akademi | 17ebfd2a-79fc-4ee6-a5cd-404b16a8a379 |
+| Eki 2026 | Savunma Sanayii ve Ulusal Güvenlik Politikaları | BTK Akademi | c5106c10-4269-4df1-a6a8-6b36bf754656 |
+| Eki 2026 | Türk Savunma Sanayiinin Tarihsel Gelişimi | BTK Akademi | f4dba9d4-5482-4d9e-8017-c37ab4df4051 |
+| Eki 2026 | Savunma Sanayiinde Sözleşme Yönetimi ve Hukuk | BTK Akademi | 199d560e-6855-483e-99a0-9f38d810d1a8 |
+| Tem 2026 | Yapay Zekâ ile İçerik Üretimi Eğitimi - Elazığ | BTK Akademi | N41mhjyk |
+| Tem 2026 | Yapay Zekâ ile İçerik Üretimi Eğitimi - Malatya | BTK Akademi | DV70UrNE |
+| Tem 2026 | İnsansız Hava Araçlarına Giriş Eğitimi - Katılım Sertifikası | BTK Akademi | DVYGTrb0 |
+| Haz 2026 | 6. Dönem Havacılık Motorları Okulu (16 Hafta) | TEI – TUSAŞ Motor Sanayii A.Ş. | TEIHMO263721 |
+| Haz 2026 | DATATHON 2026 | Türkiye Girişimcilik Vakfı | Zj41irnr18v |
+| Haz 2026 | Fotoğrafçılık Teknikleri | Bilgeİş | 49150268-21c9-4344-b367-4e68527b7571 |
 | Haz 2026 | HTML5 & CSS3 – Ders 3 | Bilgeİş | ad616b65-53ef-4c5d-9b8f-00cd6cf1fa43 |
 | Haz 2026 | HTML5 & CSS3 – Ders 2 | Bilgeİş | b100b204-76e2-4968-a82a-8d8e4c9950c9 |
 | Haz 2026 | HTML5 & CSS3 – Ders 1 | Bilgeİş | a3e692f7-e470-47ad-85f6-a1af0bccf3af |
@@ -260,6 +292,7 @@
 | Haz 2026 | Robotik Programlama | Bilgeİş | 9f46b3f5-5dc3-49b6-9435-999214405d89 |
 | Haz 2026 | Temel Elektronik | Bilgeİş | f0bda3dc-c410-4ff7-b699-9c3c9a161ff7 |
 | Haz 2026 | Javascript | Bilgeİş | 00dee6f8-1e4c-44d6-9530-92a397c70bcc |
+| May 2026 | HACKATHON 2026 | Türkiye Girişimcilik Vakfı | yLpkCzE8OjE |
 | May 2026 | KOBİ’ler İçin Fikri Mülkiyet Hakları | Bilgeİş | 6485390c-381b-4e78-aeec-634879114b74 |
 | May 2026 | Teknoloji ve Verimliliğin Anahtarı Yenilikçi Firmalar | Bilgeİş | 05b9ff0f-5bf1-42b4-bd8f-789734134a67 |
 | May 2026 | İnternette Güvenliğinizi Arttırın | Bilgeİş | b68d9857-fae2-4100-800d-a2f99c6b4a00 |

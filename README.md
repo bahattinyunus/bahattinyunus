@@ -1,7 +1,5 @@
 <a id="top"></a>
-<a href="https://www.youtube.com/watch?v=DdChmxqb92c&list=RDDdChmxqb92c&start_radio=1" target="_blank">
-    <img src="https://img.youtube.com/vi/DdChmxqb92c/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
-  </a> 
+
 <br>
 
 <div align="center">
@@ -492,9 +490,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=38BDF8&center=true&vCenter=true&width=560&height=30&lines=Autonomous+Systems+%26+Real-Time+Robotics+Architecture;Edge+AI%2C+Foundation+Models+%26+Aerospace+Avionics;Engineering+Resilient+Software+from+Silicon+to+Orbit;Ankara%2C+T%C3%BCrkiye+%E2%80%A2+METU+(ODT%C3%9C)+%26+Hacettepe" alt="Focus Areas" />
   <br><br>
   
-   <a href="https://www.youtube.com/watch?v=f-tUvDMciJU&list=RDDdChmxqb92c&index=2" target="_blank">
-    <img src="https://img.youtube.com/vi/f-tUvDMciJU/maxresdefault.jpg" width="100%" alt="YouTube Video Banner" />
-  </a>
+ 
   <br><br>
   <small>© 2026 Bahattin Yunus Çetin — Built with Precision & Intent • <a href="#top">⬆ Back to Top</a></small>
 </div>

@@ -7,7 +7,7 @@
 |  |  |
 | :--- | :--- |
 | **İsim Soyisim** | **Bahattin Yunus Çetin** |
-| **Profesyonel Unvan** | **Founder @ Arat & Budak | AI Researcher & Edge-AI Developer** |
+| **Profesyonel Unvan** | **Founder @ Arat & Budak \| AI Researcher & Edge-AI Developer** |
 | **Akademik Disiplin** | **Software Engineering & Autonomous Systems** |
 | **Köken / Memleket** | Şereflikoçhisar, Ankara |
 | **Mevcut Üs / Konum** | Ankara, Türkiye |

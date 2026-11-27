@@ -9,20 +9,17 @@
   <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-200%2B_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Biography-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-    <a href="mailto:bahattinyunusct1@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/bahattinyunus/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/bahattinyunus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://bahattinyunus.github.io/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://medium.com/@archyunus"><img src="https://img.shields.io/badge/Medium-200%2B_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium — 200+ Articles" /></a>
+    <a href="./BIOGRAPHY.md"><img src="https://img.shields.io/badge/Biography-10B981?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Biography" /></a>
+    <a href="mailto:bahattinyunusct1@gmail.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
   </p>
 
 </div>
 
 ---
-
-
-
 
 ## 📊 Engineering Metrics & Activity
 
@@ -52,18 +49,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&background=001f3f&ring=00d4ff&fire=ff4500&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
 
-<br>
-
-
 ---
 
 ## 🎓 Education, Programs & Credentials
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Base-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certifications-300%2B-00e676?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/UAV--1_Pilot-SHGM-orange?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TEI-Aviation_Engines-38BDF8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Base-Ankara%2C_TR-00d4ff?style=for-the-badge&logoColor=white" alt="Base: Ankara, TR" />
+  <img src="https://img.shields.io/badge/Certifications-300%2B-00e676?style=for-the-badge&logoColor=white" alt="Certifications: 300+" />
+  <img src="https://img.shields.io/badge/UAV--1_Pilot-SHGM-orange?style=for-the-badge&logoColor=white" alt="UAV-1 Pilot: SHGM" />
+  <img src="https://img.shields.io/badge/TEI-Aviation_Engines-38BDF8?style=for-the-badge&logoColor=white" alt="TEI Aviation Engines" />
 </div>
 
 <br>
@@ -96,7 +90,7 @@
 
 <details>
 <summary><b>📜 Lisanslar ve Sertifikalar (300+ Tam Arşiv)</b></summary>
-<br />
+<br>
 
 | Date | Certification Name | Institution | Credential ID |
 | :--- | :--- | :--- | :--- |
@@ -248,21 +242,21 @@
 | May 2026 | Türk Kültür Mitolojisinde Türeyiş-Yeniden Doğuş Sembolü:Kurt | Türk Dünyası Gençlik Vakfı | 2026_KTÜ6146132280674 |
 | May 2026 | Üretken Yapay Zekâ ile Sunum Hazırlama | BTK Akademi | BozfxNda6B |
 | May 2026 | Kamp+ Siber Güvenlik Kampı | Bilgi Güvenliği Derneği | — |
-| Apr 2026 | Bilgi Okuryazarlığı | BTK Akademi | m6oqskdgbJJ |
-| Apr 2026 | Dijital Okuryazarlık | BTK Akademi | w92KSm8LyqD |
-| Apr 2026 | Vatandaşlık Okuryazarlığı | BTK Akademi | N28vfnvx6yl |
-| Apr 2026 | Veri Okuryazarlığı | BTK Akademi | qEgjTeL4MVk |
-| Apr 2026 | Kültür Okuryazarlığı | BTK Akademi | YEmkT8mnMwK |
-| Apr 2026 | Sürdürülebilirlik Okuryazarlığı | BTK Akademi | eAxetO6aZeX |
-| Apr 2026 | Karadeniz Bilişim Zirvesi KBZ'26 | KTÜ Yönetim Bilişim Sistemleri Kulübü | — |
-| Apr 2026 | Microsoft 365 Copilot ve Office Uygulamaları | BTK Akademi | MAZUEAVVxy |
-| Apr 2026 | Mobil Güvenlik ve Sızma Teknikleri | BTK Akademi | lK1hwX9ELb |
-| Apr 2026 | Web Tabanlı Coğrafi Bilgi Sistemleri | BTK Akademi | dx1hlM8eWG |
-| Apr 2026 | Ford Otosan Kariyer ve Gelişim Haftası | Ford Otosan | — |
-| Apr 2026 | Nesnelerin İnterneti (IoT) ve Güvenliği | BTK Akademi | XV1hWjGjJn |
-| Apr 2026 | Kamu İhale Kanunu | BTK Akademi | XV1hW1napx |
-| Apr 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
-| Apr 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
+| Nis 2026 | Bilgi Okuryazarlığı | BTK Akademi | m6oqskdgbJJ |
+| Nis 2026 | Dijital Okuryazarlık | BTK Akademi | w92KSm8LyqD |
+| Nis 2026 | Vatandaşlık Okuryazarlığı | BTK Akademi | N28vfnvx6yl |
+| Nis 2026 | Veri Okuryazarlığı | BTK Akademi | qEgjTeL4MVk |
+| Nis 2026 | Kültür Okuryazarlığı | BTK Akademi | YEmkT8mnMwK |
+| Nis 2026 | Sürdürülebilirlik Okuryazarlığı | BTK Akademi | eAxetO6aZeX |
+| Nis 2026 | Karadeniz Bilişim Zirvesi KBZ'26 | KTÜ Yönetim Bilişim Sistemleri Kulübü | — |
+| Nis 2026 | Microsoft 365 Copilot ve Office Uygulamaları | BTK Akademi | MAZUEAVVxy |
+| Nis 2026 | Mobil Güvenlik ve Sızma Teknikleri | BTK Akademi | lK1hwX9ELb |
+| Nis 2026 | Web Tabanlı Coğrafi Bilgi Sistemleri | BTK Akademi | dx1hlM8eWG |
+| Nis 2026 | Ford Otosan Kariyer ve Gelişim Haftası | Ford Otosan | — |
+| Nis 2026 | Nesnelerin İnterneti (IoT) ve Güvenliği | BTK Akademi | XV1hWjGjJn |
+| Nis 2026 | Kamu İhale Kanunu | BTK Akademi | XV1hW1napx |
+| Nis 2026 | TUA ASTRO HACKATHON | Türkiye Uzay Ajansı | — |
+| Nis 2026 | 5-Day White Hat Hacker Bootcamp | Siber Vatan / DOKA | — |
 | Mar 2026 | INTERSTELLAR PROBLEM SOLVER | Türkiye Uzay Ajansı | — |
 | Mar 2026 | Yapay Zekâ ile Görsel Sentez | BTK Akademi | D2xhE1Alml |
 | Mar 2026 | TS EN 50600 Veri Merkezi Tesisleri ve Altyapıları Standardı | BTK Akademi | mKEhkNWJ6X |
@@ -298,7 +292,7 @@
 | Şub 2026 | 5-Malzeme Ocakları Yönetim Süreci | BTK Akademi | GoDfm64AA9 |
 | Şub 2026 | Proje Yönetimi | BTK Akademi | lK1hw74pZw |
 | Şub 2026 | Uluslararası İş Analizi Metodolojisi ve Teknikleri | BTK Akademi | L8dcNeAVPK |
-| Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 | Yirmi Üç | 1774b535-4b29-4c25-b11b-291d57f9b481 |
+| Şub 2026 | Veri Okuryazarlığı Eğitimi | 23 \| Yirmi Üç | 1774b535-4b29-4c25-b11b-291d57f9b481 |
 | Şub 2026 | Sosyal Medyada Yapay Zeka ile Dijital Pazarlama | BTK Akademi | AKkkf7kNJla |
 | Şub 2026 | Sosyal Medya ve İnternet Muhabirliği | BTK Akademi | XlOOsBKZW6Z |
 | Şub 2026 | Sosyal Medya İçerik Üretimi | BTK Akademi | kJMMHbnypXg |
@@ -311,7 +305,7 @@
 | Oca 2026 | Articulate Storyline 360 İleri Seviye | BTK Akademi | nwJltz89 |
 | Oca 2026 | Google Dijital Ebeveynlik | Google | 4qgueLmn07 |
 | Oca 2026 | Markaların Korunması | BTK Akademi | WJ1SMLlqMZ |
-| Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 | Yirmi Üç | 3c44f88d-1944-4919-b750-67f769f6e5ad |
+| Oca 2026 | Finansal Okuryazarlık Eğitimi | 23 \| Yirmi Üç | 3c44f88d-1944-4919-b750-67f769f6e5ad |
 | Oca 2026 | HeyGen | BTK Akademi | WJ1SkN2p9n |
 | Oca 2026 | ElevenLabs | BTK Akademi | 8jmhNjXbP2 |
 | Oca 2026 | Gemini Veo | BTK Akademi | oJpSgnayWO |
@@ -410,7 +404,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fbahattinyunus%2Fbahattinyunus.json&amp;label=PROFILE%20VIEWS&amp;color=38BDF8&amp;style=flat-square" alt="Profile Views" />
-  <br /><br />
+  <br><br>
   <i>"Architecture is about the important stuff. Whatever that is." — Ralph Johnson</i>
   <br><br>
   <b>Bahattin Yunus ÇETİN</b><br>
@@ -418,7 +412,7 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2500&color=38BDF8&center=true&vCenter=true&width=560&height=30&lines=Autonomous+Systems+%26+Real-Time+Robotics+Architecture;Edge+AI%2C+Foundation+Models+%26+Aerospace+Avionics;Engineering+Resilient+Software+from+Silicon+to+Orbit;Ankara%2C+T%C3%BCrkiye+%E2%80%A2+METU+(ODT%C3%9C)+%26+Hacettepe" alt="Focus Areas" />
   <br><br>
-  <a href="https://www.youtube.com/watch?v=8C17pmCLX1M&list=RD8C17pmCLX1M&start_radio=1" target="_blank">
+  <a href="https://www.youtube.com/watch?v=8C17pmCLX1M&list=RD8C17pmCLX1M&start_radio=1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.youtube.com/vi/8C17pmCLX1M/maxresdefault.jpg" width="100%" alt="Kerim Sezer - Enver Paşa Anısına (Murat Karal Bestesi)" />
   </a>
   <br><br>

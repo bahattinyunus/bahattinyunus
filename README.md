@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="./hero-banner.svg" width="100%" alt="Bahattin Yunus Çetin — Systems Architect & Deep-Tech Researcher" />
+  <img src="./assets/hero-banner.png" width="100%" alt="Bahattin Yunus Çetin — Systems Architect & Deep-Tech Researcher" />
 
   <br><br>
 
